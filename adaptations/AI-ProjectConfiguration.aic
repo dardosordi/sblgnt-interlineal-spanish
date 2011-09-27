@@ -1,0 +1,96 @@
+SourceFont
+Height	-18
+Width	0
+Escapement	0
+Orientation	0
+Weight	400
+Italic	0
+Underline	0
+StrikeOut	0
+FontEncoding	41
+CharSet	0
+OutPrecision	1
+ClipPrecision	2
+Quality	2
+PitchAndFamily	32
+FaceName	GentiumAlt
+Color	16711680
+
+TargetFont
+Height	-16
+Width	0
+Escapement	0
+Orientation	0
+Weight	700
+Italic	0
+Underline	0
+StrikeOut	0
+FontEncoding	0
+CharSet	0
+OutPrecision	1
+ClipPrecision	2
+Quality	2
+PitchAndFamily	32
+FaceName	Sans
+Color	0
+
+NavTextFont
+Height	-14
+Width	0
+Escapement	0
+Orientation	0
+Weight	700
+Italic	0
+Underline	0
+StrikeOut	0
+FontEncoding	0
+CharSet	0
+OutPrecision	1
+ClipPrecision	2
+Quality	2
+PitchAndFamily	32
+FaceName	Sans
+Color	65280
+
+ProjectSettings
+SourceLanguageName	SBL GNT
+TargetLanguageName	Español
+DefaultCCTablePath	
+LastExportPath	
+LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
+LastGlossesTextExportPath	
+LastFreeTransExportPath	
+PunctuationPairsSourceSet(stores space for an empty cell)	;.,·:"!()<>{}[]“”‘’⸀⸁⸂⸄⸃⸅
+PunctuationPairsTargetSet(stores space for an empty cell)	?.,::"!()<>{}[]“”‘ ⸀⸁⸂⸄⸃⸅
+PunctuationTwoCharacterPairsSourceSet(ditto)	
+PunctuationTwoCharacterPairsTargetSet(ditto)	
+SpecialTextColor	255
+RetranslationTextColor	20640
+ColorOfNavigationText	65280
+BackupDocumentFlag	0
+RTL_Layout	0
+SFMescapeChar	\
+SFMafterNewlines	0
+SourceIsRTL	0
+TargetIsRTL	0
+NavTextIsRTL	0
+LowerCaseSourceLanguageChars	
+UpperCaseSourceLanguageChars	
+LowerCaseTargetLanguageChars	
+UpperCaseTargetLanguageChars	
+LowerCaseGlossLanguageChars	
+UpperCaseGlossLanguageChars	
+AutoCapitalizationFlag	0
+SourceHasUpperCaseAndLowerCase	1
+FontSizeForDialogs(points)	12
+UseSFMarkerSet	UsfmOnly
+UseFilterMarkers	\pro \ca \_footnote_caller Footnote Caller \ili \_notes_base Notes Base \efm ID or Caller for an extended (study) note. Used within a source project duplicte (target) text when autoring study material. \xot Cross-reference target reference(s), Old Testament only \_unknown_para_style Unknown Paragraph Style Marker \_annotation_text Annotation Text \h1 \__normal Normal \_nav_lang_interlinear Navigation Language Interlinear Text \rem \_table_grid Table Grid \_hdr_ftr_interlinear Header-Footer Interlinear Text \_horiz_rule Horizontal Rule \xt The cross reference target reference(s), protocanon only (basic) \_dft_para_font Default Paragraph Font \xnt Cross-reference target reference(s), New Testament only \_peripherals_base Peripherals Base \xq A cross-reference quotation from the scripture text \note Adapt It note \cp \mr \ef A Study Note text item \_body_text Body Text \ib \_header Header \ide File encoding information \_double_boxed_para Double Boxed Paragraph \h3 \_unknown_char_style Unknown Character Style Marker \fig \vp \_hidden_note Hidden Note \h2 \_tgt_lang_interlinear Target Language Interlinear Text \restore Project restore information \_src_lang_interlinear Source Language Interlinear Text \_list_base List Base \cl \_annotation_ref Annotation Reference \_gls_lang_interlinear Gloss Language Interlinear Text \ie Introduction ending marker \free Free translation \va \xk A cross reference keyword \x \r \_intro_base Intro Base \_small_para_break Small Paragraph Break \_footer Footer \h \xo The cross reference origin reference (basic) \_heading_base Heading Base \_single_boxed_para Single Boxed Paragraph \lit \sts \rq \bt Back-translation (and all t... initial forms) \_vernacular_base Vernacular Base \xdc Cross-reference target reference(s), Deuterocanon only \_normal_table Normal Table 
+ChangeFixedSpaceToRegularSpace	0
+BookModeFlag	0
+BookIndexValue	-1
+SaveAsXML	1
+SilConverterName	
+SilConverterDirectionForward	1
+SilConverterNormalizeOutput	0
+LegacyCopyForPhraseBox	1
+DoAdaptingBeforeGlossing_InVerticalEdit	1
