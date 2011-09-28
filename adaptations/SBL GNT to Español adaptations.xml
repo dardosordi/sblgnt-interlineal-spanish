@@ -26,7 +26,10 @@
 			<RS n="3" a="Boes"/>
 		</TU>
 		<TU f="0" k="Γαλιλαίας">
-			<RS n="1" a="Galilea"/>
+			<RS n="2" a="Galilea"/>
+		</TU>
+		<TU f="0" k="Γεννήματα">
+			<RS n="1" a="Descendencia"/>
 		</TU>
 		<TU f="0" k="Δαυίδ">
 			<RS n="1" a="de David"/>
@@ -75,6 +78,9 @@
 		<TU f="0" k="Μεθ">
 			<RS n="1" a="Con"/>
 		</TU>
+		<TU f="0" k="Μετανοεῖτε">
+			<RS n="1" a="Arrepientanse"/>
+		</TU>
 		<TU f="0" k="Μετὰ">
 			<RS n="1" a="Después"/>
 		</TU>
@@ -93,6 +99,12 @@
 		<TU f="0" k="Οὐρίου">
 			<RS n="1" a="Urías"/>
 		</TU>
+		<TU f="0" k="Οὗτός">
+			<RS n="1" a="este"/>
+		</TU>
+		<TU f="0" k="Πατέρα">
+			<RS n="1" a="Padre"/>
+		</TU>
 		<TU f="0" k="Πορευθέντες">
 			<RS n="1" a="partiendo"/>
 		</TU>
@@ -101,6 +113,9 @@
 		</TU>
 		<TU f="0" k="Πᾶσαι">
 			<RS n="1" a="Todas"/>
+		</TU>
+		<TU f="0" k="Σαδδουκαίων">
+			<RS n="1" a="Saduceos"/>
 		</TU>
 		<TU f="0" k="Σαδώκ">
 			<RS n="1" a="Zadoc"/>
@@ -133,13 +148,16 @@
 			<RS n="2" a="El"/>
 		</TU>
 		<TU f="0" k="Τότε">
-			<RS n="2" a="Entonces"/>
+			<RS n="3" a="Entonces"/>
+		</TU>
+		<TU f="0" k="Φαρισαίων">
+			<RS n="1" a="Fariseos"/>
 		</TU>
 		<TU f="0" k="Φαρὲς">
 			<RS n="2" a="Fares"/>
 		</TU>
 		<TU f="0" k="Φωνὴ">
-			<RS n="1" a="Vóz"/>
+			<RS n="2" a="Vóz"/>
 		</TU>
 		<TU f="0" k="αἱ">
 			<RS n="1" a="las"/>
@@ -153,18 +171,31 @@
 		<TU f="0" k="αὐτοὺς">
 			<RS n="2" a="ellos"/>
 		</TU>
+		<TU f="0" k="αὐτοῖς">
+			<RS n="1" a="a ellos"/>
+		</TU>
 		<TU f="0" k="αὐτοῦ">
-			<RS n="15" a="de él"/>
-			<RS n="2" a="él"/>
+			<RS n="23" a="de él"/>
+			<RS n="4" a="él"/>
 		</TU>
 		<TU f="0" k="αὐτό">
 			<RS n="1" a="a el"/>
 		</TU>
+		<TU f="0" k="αὐτόν">
+			<RS n="2" a="él"/>
+			<RS n="1" a="a él"/>
+		</TU>
 		<TU f="0" k="αὐτὴν">
 			<RS n="2" a="a ella"/>
 		</TU>
+		<TU f="0" k="αὐτὸν">
+			<RS n="1" a="él"/>
+			<RS n="1" a="a él"/>
+		</TU>
 		<TU f="0" k="αὐτὸς">
 			<RS n="1" a="el"/>
+			<RS n="1" a="este"/>
+			<RS n="1" a="Él"/>
 		</TU>
 		<TU f="0" k="αὐτῆς">
 			<RS n="3" a="de ella"/>
@@ -173,14 +204,35 @@
 			<RS n="1" a="ella"/>
 		</TU>
 		<TU f="0" k="αὐτῶν">
-			<RS n="3" a="de ellos"/>
+			<RS n="4" a="de ellos"/>
 			<RS n="3" a="ellos"/>
 		</TU>
 		<TU f="0" k="αὐτῷ">
 			<RS n="7" a="a él"/>
 		</TU>
+		<TU f="0" k="βάλλεται">
+			<RS n="1" a="es arrojado"/>
+		</TU>
+		<TU f="0" k="βάπτισμα">
+			<RS n="1" a="inmersión"/>
+		</TU>
 		<TU f="0" k="βίβλος">
 			<RS n="1" a="libro"/>
+		</TU>
+		<TU f="0" k="βαπτίζω">
+			<RS n="1" a="sumerjo"/>
+		</TU>
+		<TU f="0" k="βαπτίσει">
+			<RS n="1" a="sumergirá"/>
+		</TU>
+		<TU f="0" k="βαπτισθεὶς">
+			<RS n="1" a="habiendo sido sumergido"/>
+		</TU>
+		<TU f="0" k="βαπτισθῆναι">
+			<RS n="2" a="ser bautizado"/>
+		</TU>
+		<TU f="0" k="βαπτιστὴς">
+			<RS n="1" a="Bautista"/>
 		</TU>
 		<TU f="0" k="βασιλέα">
 			<RS n="1" a="rey"/>
@@ -188,11 +240,23 @@
 		<TU f="0" k="βασιλέως">
 			<RS n="2" a="rey"/>
 		</TU>
+		<TU f="0" k="βασιλεία">
+			<RS n="1" a="reino"/>
+		</TU>
 		<TU f="0" k="βασιλεύει">
 			<RS n="1" a="reina"/>
 		</TU>
 		<TU f="0" k="βασιλεὺς">
 			<RS n="2" a="rey"/>
+		</TU>
+		<TU f="0" k="βαστάσαι">
+			<RS n="1" a="llevar"/>
+		</TU>
+		<TU f="0" k="βοῶντος">
+			<RS n="1" a="clamando"/>
+		</TU>
+		<TU f="0" k="γάρ">
+			<RS n="1" a="← porque"/>
 		</TU>
 		<TU f="0" k="γέγονεν">
 			<RS n="1" a="ha ocurrido"/>
@@ -231,13 +295,19 @@
 			<RS n="1" a="mujer"/>
 		</TU>
 		<TU f="0" k="γὰρ">
-			<RS n="7" a="← porque"/>
+			<RS n="10" a="← porque"/>
 		</TU>
 		<TU f="0" k="γῆ">
 			<RS n="1" a="tierra"/>
 		</TU>
 		<TU f="0" k="γῆν">
 			<RS n="2" a="tierra"/>
+		</TU>
+		<TU f="0" k="δένδρον">
+			<RS n="1" a="árbol"/>
+		</TU>
+		<TU f="0" k="δένδρων">
+			<RS n="1" a="árboles"/>
 		</TU>
 		<TU f="0" k="δίκαιος">
 			<RS n="1" a="justo"/>
@@ -248,23 +318,45 @@
 		<TU f="0" k="δεκατέσσαρες">
 			<RS n="3" a="catorce"/>
 		</TU>
+		<TU f="0" k="δερματίνην">
+			<RS n="1" a="de cuero"/>
+		</TU>
 		<TU f="0" k="δι">
 			<RS n="1" a="a través"/>
+		</TU>
+		<TU f="0" k="διακαθαριεῖ">
+			<RS n="1" a="purgará"/>
+		</TU>
+		<TU f="0" k="διεκώλυεν">
+			<RS n="1" a="se oponía"/>
 		</TU>
 		<TU f="0" k="διετοῦς">
 			<RS n="1" a="dos años"/>
 		</TU>
+		<TU f="0" k="δικαιοσύνην">
+			<RS n="1" a="justicia"/>
+		</TU>
 		<TU f="0" k="διὰ">
-			<RS n="5" a="a travéz"/>
+			<RS n="6" a="a travéz"/>
+		</TU>
+		<TU f="0" k="δόξητε">
+			<RS n="1" a="supongan"/>
+		</TU>
+		<TU f="0" k="δύναται">
+			<RS n="1" a="puede"/>
 		</TU>
 		<TU f="0" k="δὲ">
-			<RS n="56" a="← y"/>
+			<RS n="62" a="← y"/>
+			<RS n="4" a="← pero"/>
 		</TU>
 		<TU f="0" k="δῶρα">
 			<RS n="1" a="reagalos"/>
 		</TU>
+		<TU f="0" k="εἰμὶ">
+			<RS n="1" a="soy"/>
+		</TU>
 		<TU f="0" k="εἰς">
-			<RS n="10" a="hacia"/>
+			<RS n="13" a="hacia"/>
 		</TU>
 		<TU f="0" k="εἰσίν">
 			<RS n="1" a="existen"/>
@@ -281,6 +373,9 @@
 		<TU f="0" k="εἶ">
 			<RS n="1" a="eres"/>
 		</TU>
+		<TU f="0" k="εἶδεν">
+			<RS n="1" a="vió"/>
+		</TU>
 		<TU f="0" k="εἶδον">
 			<RS n="2" a="vieron"/>
 		</TU>
@@ -288,7 +383,19 @@
 			<RS n="1" a="dijeron"/>
 		</TU>
 		<TU f="0" k="εἶπεν">
-			<RS n="1" a="dijo"/>
+			<RS n="3" a="dijo"/>
+		</TU>
+		<TU f="0" k="εἶχεν">
+			<RS n="1" a="tenía"/>
+		</TU>
+		<TU f="0" k="εὐδόκησα">
+			<RS n="1" a="soy complacido"/>
+		</TU>
+		<TU f="0" k="εὐθείας">
+			<RS n="1" a="derecho"/>
+		</TU>
+		<TU f="0" k="εὐθὺς">
+			<RS n="1" a="inmediatamente"/>
 		</TU>
 		<TU f="0" k="εὑρέθη">
 			<RS n="1" a="se encontró"/>
@@ -302,8 +409,14 @@
 		<TU f="0" k="ζητοῦντες">
 			<RS n="1" a="los que buscaban"/>
 		</TU>
+		<TU f="0" k="ζώνην">
+			<RS n="1" a="cinturón"/>
+		</TU>
 		<TU f="0" k="θέλων">
 			<RS n="1" a="queriendo"/>
+		</TU>
+		<TU f="0" k="θεοῦ">
+			<RS n="1" a="de Dios"/>
 		</TU>
 		<TU f="0" k="θησαυροὺς">
 			<RS n="1" a="tesoros"/>
@@ -317,8 +430,23 @@
 		<TU f="0" k="καλέσουσιν">
 			<RS n="1" a="llamarán"/>
 		</TU>
+		<TU f="0" k="καλὸν">
+			<RS n="1" a="bueno"/>
+		</TU>
+		<TU f="0" k="καμήλου">
+			<RS n="1" a="de camello"/>
+		</TU>
+		<TU f="0" k="καρπὸν">
+			<RS n="2" a="fruto"/>
+		</TU>
 		<TU f="0" k="κατ">
 			<RS n="5" a="durante"/>
+		</TU>
+		<TU f="0" k="καταβαῖνον">
+			<RS n="1" a="descendiendo"/>
+		</TU>
+		<TU f="0" k="κατακαύσει">
+			<RS n="1" a="quemará"/>
 		</TU>
 		<TU f="0" k="κατωτέρω">
 			<RS n="1" a="abajo"/>
@@ -330,7 +458,13 @@
 			<RS n="1" a="se estableció"/>
 		</TU>
 		<TU f="0" k="καὶ">
-			<RS n="40" a="y"/>
+			<RS n="56" a="y"/>
+		</TU>
+		<TU f="0" k="κεῖται">
+			<RS n="1" a="reposa"/>
+		</TU>
+		<TU f="0" k="κηρύσσων">
+			<RS n="1" a="predicando"/>
 		</TU>
 		<TU f="0" k="κλαίουσα">
 			<RS n="1" a="llorando"/>
@@ -342,7 +476,7 @@
 			<RS n="1" a="será llamado"/>
 		</TU>
 		<TU f="0" k="κυρίου">
-			<RS n="4" a="del Señor"/>
+			<RS n="5" a="del Señor"/>
 			<RS n="2" a="el Señor"/>
 		</TU>
 		<TU f="0" k="κἀγὼ">
@@ -351,20 +485,32 @@
 		<TU f="0" k="λάθρᾳ">
 			<RS n="2" a="secretamente"/>
 		</TU>
+		<TU f="0" k="λέγειν">
+			<RS n="1" a="decir"/>
+		</TU>
 		<TU f="0" k="λέγοντες">
 			<RS n="1" a="diciendo"/>
 		</TU>
 		<TU f="0" k="λέγοντος">
-			<RS n="3" a="diciendo"/>
+			<RS n="4" a="diciendo"/>
+		</TU>
+		<TU f="0" k="λέγουσα">
+			<RS n="1" a="dijo"/>
+		</TU>
+		<TU f="0" k="λέγω">
+			<RS n="1" a="digo"/>
 		</TU>
 		<TU f="0" k="λέγων">
-			<RS n="3" a="diciendo"/>
+			<RS n="5" a="diciendo"/>
 		</TU>
 		<TU f="0" k="λίαν">
 			<RS n="1" a="mucho"/>
 		</TU>
 		<TU f="0" k="λίβανον">
 			<RS n="1" a="incienso"/>
+		</TU>
+		<TU f="0" k="λίθων">
+			<RS n="1" a="piedras"/>
 		</TU>
 		<TU f="0" k="λαοῦ">
 			<RS n="1" a="pueblo"/>
@@ -390,11 +536,17 @@
 		<TU f="0" k="μάγων">
 			<RS n="2" a="magos"/>
 		</TU>
+		<TU f="0" k="μέλι">
+			<RS n="1" a="miel"/>
+		</TU>
 		<TU f="0" k="μέλλει">
 			<RS n="1" a="esta por"/>
 		</TU>
 		<TU f="0" k="μέρη">
 			<RS n="1" a="región"/>
+		</TU>
+		<TU f="0" k="με">
+			<RS n="1" a="mí"/>
 		</TU>
 		<TU f="0" k="μεγάλην">
 			<RS n="1" a="grande"/>
@@ -402,8 +554,17 @@
 		<TU f="0" k="μεθερμηνευόμενον">
 			<RS n="1" a="siendo traducido"/>
 		</TU>
+		<TU f="0" k="μελλούσης">
+			<RS n="1" a="a punto de ser"/>
+		</TU>
 		<TU f="0" k="μετ">
 			<RS n="1" a="con"/>
+		</TU>
+		<TU f="0" k="μετάνοιαν">
+			<RS n="1" a="arrepentimiento"/>
+		</TU>
+		<TU f="0" k="μετανοίας">
+			<RS n="1" a="arrepentimiento"/>
 		</TU>
 		<TU f="0" k="μετοικεσίαν">
 			<RS n="1" a="deportación"/>
@@ -427,10 +588,16 @@
 			<RS n="1" a="a mí"/>
 		</TU>
 		<TU f="0" k="μου">
-			<RS n="2" a="mío"/>
+			<RS n="4" a="mío"/>
+		</TU>
+		<TU f="0" k="μού">
+			<RS n="1" a="que yo"/>
+		</TU>
+		<TU f="0" k="μὲν">
+			<RS n="1" a="pues"/>
 		</TU>
 		<TU f="0" k="μὴ">
-			<RS n="3" a="no"/>
+			<RS n="5" a="no"/>
 		</TU>
 		<TU f="0" k="νυκτὸς">
 			<RS n="1" a="noche"/>
@@ -440,22 +607,33 @@
 		</TU>
 		<TU f="0" k="οἱ">
 			<RS n="3" a="ellos"/>
+			<RS n="1" a="los"/>
 		</TU>
 		<TU f="0" k="οὐδαμῶς">
 			<RS n="1" a="de ninguna manera"/>
 		</TU>
 		<TU f="0" k="οὐκ">
-			<RS n="3" a="no"/>
+			<RS n="4" a="no"/>
+		</TU>
+		<TU f="0" k="οὐρανοί">
+			<RS n="1" a="cielos"/>
+		</TU>
+		<TU f="0" k="οὐρανῶν">
+			<RS n="2" a="cielos"/>
 		</TU>
 		<TU f="0" k="οὕτως">
-			<RS n="2" a="así"/>
+			<RS n="3" a="así"/>
 		</TU>
 		<TU f="0" k="οὖν">
-			<RS n="1" a="por lo tanto"/>
+			<RS n="3" a="por lo tanto"/>
 		</TU>
 		<TU f="0" k="οὗ">
 			<RS n="1" a="no"/>
 			<RS n="1" a="donde"/>
+			<RS n="2" a="quien"/>
+		</TU>
+		<TU f="0" k="οὗτος">
+			<RS n="1" a="esto"/>
 		</TU>
 		<TU f="0" k="πάντας">
 			<RS n="2" a="a todos"/>
@@ -481,6 +659,10 @@
 		<TU f="0" k="παρέλαβεν">
 			<RS n="1" a="recibió"/>
 		</TU>
+		<TU f="0" k="παραγίνεται">
+			<RS n="1" a="aparece"/>
+			<RS n="1" a="llega"/>
+		</TU>
 		<TU f="0" k="παρακληθῆναι">
 			<RS n="1" a="ser consolada"/>
 		</TU>
@@ -502,8 +684,15 @@
 		<TU f="0" k="παῖδας">
 			<RS n="1" a="niños"/>
 		</TU>
+		<TU f="0" k="περίχωρος">
+			<RS n="1" a="alrededor"/>
+		</TU>
+		<TU f="0" k="περιστερὰν">
+			<RS n="1" a="paloma"/>
+		</TU>
 		<TU f="0" k="περὶ">
 			<RS n="1" a="acerca de"/>
+			<RS n="1" a="alrededor"/>
 		</TU>
 		<TU f="0" k="πεσόντες">
 			<RS n="1" a="postrandose"/>
@@ -511,14 +700,35 @@
 		<TU f="0" k="πληρωθῇ">
 			<RS n="3" a="se cumpliera"/>
 		</TU>
+		<TU f="0" k="πληρῶσαι">
+			<RS n="1" a="cumplir"/>
+		</TU>
+		<TU f="0" k="πνεύματι">
+			<RS n="1" a="Espíritu"/>
+		</TU>
 		<TU f="0" k="πνεύματος">
 			<RS n="1" a="espíritu"/>
 		</TU>
 		<TU f="0" k="πνεύματός">
 			<RS n="1" a="Espíritu"/>
 		</TU>
+		<TU f="0" k="πνεῦμα">
+			<RS n="1" a="Espíritu"/>
+		</TU>
+		<TU f="0" k="ποιήσατε">
+			<RS n="1" a="Hagan"/>
+		</TU>
+		<TU f="0" k="ποιεῖτε">
+			<RS n="1" a="hagan"/>
+		</TU>
 		<TU f="0" k="ποιμανεῖ">
 			<RS n="1" a="pastoreará"/>
+		</TU>
+		<TU f="0" k="ποιοῦν">
+			<RS n="1" a="haciendo"/>
+		</TU>
+		<TU f="0" k="πολλοὺς">
+			<RS n="1" a="a muchos"/>
 		</TU>
 		<TU f="0" k="πολύς">
 			<RS n="1" a="grande"/>
@@ -526,8 +736,14 @@
 		<TU f="0" k="πορεύου">
 			<RS n="1" a="ve"/>
 		</TU>
+		<TU f="0" k="ποταμῷ">
+			<RS n="1" a="río"/>
+		</TU>
 		<TU f="0" k="ποῦ">
 			<RS n="1" a="dónde"/>
+		</TU>
+		<TU f="0" k="πρέπον">
+			<RS n="1" a="conveniente"/>
 		</TU>
 		<TU f="0" k="προσέταξεν">
 			<RS n="1" a="ordenó"/>
@@ -545,7 +761,7 @@
 			<RS n="1" a="adorar"/>
 		</TU>
 		<TU f="0" k="προφήτου">
-			<RS n="3" a="profeta"/>
+			<RS n="4" a="profeta"/>
 		</TU>
 		<TU f="0" k="προφητῶν">
 			<RS n="1" a="profetas"/>
@@ -553,20 +769,41 @@
 		<TU f="0" k="προῆγεν">
 			<RS n="1" a="guiaba"/>
 		</TU>
+		<TU f="0" k="πρός">
+			<RS n="1" a="hacia"/>
+		</TU>
 		<TU f="0" k="πρὶν">
 			<RS n="1" a="antes"/>
 		</TU>
 		<TU f="0" k="πρὸς">
-			<RS n="1" a="hacia"/>
+			<RS n="5" a="hacia"/>
+		</TU>
+		<TU f="0" k="πτύον">
+			<RS n="1" a="aventador"/>
+		</TU>
+		<TU f="0" k="πυρί">
+			<RS n="1" a="fuego"/>
+		</TU>
+		<TU f="0" k="πυρὶ">
+			<RS n="1" a="con fuego"/>
 		</TU>
 		<TU f="0" k="πόλιν">
 			<RS n="1" a="ciudad"/>
 		</TU>
+		<TU f="0" k="πᾶν">
+			<RS n="1" a="cada"/>
+		</TU>
 		<TU f="0" k="πᾶσα">
-			<RS n="1" a="todo"/>
+			<RS n="3" a="todo"/>
+		</TU>
+		<TU f="0" k="πᾶσαν">
+			<RS n="1" a="toda"/>
 		</TU>
 		<TU f="0" k="πᾶσι">
 			<RS n="1" a="todos"/>
+		</TU>
+		<TU f="0" k="πῦρ">
+			<RS n="1" a="fuego"/>
 		</TU>
 		<TU f="0" k="σμύρναν">
 			<RS n="1" a="mirra"/>
@@ -578,7 +815,10 @@
 			<RS n="1" a="tuya"/>
 		</TU>
 		<TU f="0" k="σοῦ">
-			<RS n="1" a="tí"/>
+			<RS n="2" a="tí"/>
+		</TU>
+		<TU f="0" k="συνάξει">
+			<RS n="1" a="juntará"/>
 		</TU>
 		<TU f="0" k="συναγαγὼν">
 			<RS n="1" a="habiendo reunido"/>
@@ -595,11 +835,23 @@
 		<TU f="0" k="σώσει">
 			<RS n="1" a="salvará"/>
 		</TU>
+		<TU f="0" k="σὺ">
+			<RS n="1" a="tú"/>
+		</TU>
+		<TU f="0" k="σῖτον">
+			<RS n="1" a="trigo"/>
+		</TU>
 		<TU f="0" k="τέκνα">
-			<RS n="1" a="niños"/>
+			<RS n="2" a="niños"/>
 		</TU>
 		<TU f="0" k="τέξεται">
 			<RS n="2" a="parirá"/>
+		</TU>
+		<TU f="0" k="τίς">
+			<RS n="1" a="¿Quién"/>
+		</TU>
+		<TU f="0" k="ταῖς">
+			<RS n="1" a="los"/>
 		</TU>
 		<TU f="0" k="ταῦτα">
 			<RS n="1" a="estas cosas"/>
@@ -613,6 +865,9 @@
 		<TU f="0" k="τεχθεὶς">
 			<RS n="1" a="nacido"/>
 		</TU>
+		<TU f="0" k="τούτων">
+			<RS n="1" a="estas"/>
+		</TU>
 		<TU f="0" k="τοὺς">
 			<RS n="5" a="a los"/>
 			<RS n="2" a="los"/>
@@ -621,54 +876,78 @@
 			<RS n="2" a="los"/>
 		</TU>
 		<TU f="0" k="τοῦ">
-			<RS n="4" a="de"/>
-			<RS n="7" a="el"/>
+			<RS n="5" a="de"/>
+			<RS n="9" a="el"/>
 			<RS n="5" a="del"/>
+			<RS n="1" a="para"/>
 		</TU>
 		<TU f="0" k="τοῦτο">
 			<RS n="1" a="esto"/>
 		</TU>
+		<TU f="0" k="τρίβους">
+			<RS n="1" a="sendas"/>
+		</TU>
+		<TU f="0" k="τριχῶν">
+			<RS n="1" a="pelo"/>
+		</TU>
+		<TU f="0" k="τροφὴ">
+			<RS n="1" a="comida"/>
+		</TU>
 		<TU f="0" k="τότε">
-			<RS n="1" a="Entonces"/>
+			<RS n="3" a="Entonces"/>
 		</TU>
 		<TU f="0" k="τὰ">
 			<RS n="1" a="los"/>
 			<RS n="1" a="la"/>
+			<RS n="1" a="las"/>
+		</TU>
+		<TU f="0" k="τὰς">
+			<RS n="1" a="las"/>
+			<RS n="1" a="los"/>
 		</TU>
 		<TU f="0" k="τὴν">
-			<RS n="5" a="la"/>
+			<RS n="7" a="la"/>
 			<RS n="5" a="a la"/>
+			<RS n="2" a="el"/>
+			<RS n="1" a="de la"/>
 		</TU>
 		<TU f="0" k="τὸ">
 			<RS n="5" a="lo"/>
-			<RS n="10" a="el"/>
+			<RS n="12" a="el"/>
+			<RS n="2" a="la"/>
 		</TU>
 		<TU f="0" k="τὸν">
 			<RS n="41" a="a"/>
-			<RS n="5" a="el"/>
+			<RS n="9" a="el"/>
 			<RS n="2" a="al"/>
 			<RS n="2" a="la"/>
 		</TU>
 		<TU f="0" k="τῆς">
-			<RS n="11" a="la"/>
-			<RS n="3" a="de"/>
+			<RS n="13" a="la"/>
+			<RS n="5" a="de"/>
 		</TU>
 		<TU f="0" k="τῇ">
-			<RS n="2" a="el"/>
+			<RS n="4" a="el"/>
+			<RS n="1" a="la"/>
 		</TU>
 		<TU f="0" k="τῶν">
-			<RS n="3" a="los"/>
-			<RS n="2" a="de los"/>
+			<RS n="4" a="los"/>
+			<RS n="5" a="de los"/>
+			<RS n="1" a="las"/>
 		</TU>
 		<TU f="0" k="τῷ">
 			<RS n="1" a="con"/>
-			<RS n="2" a="a"/>
+			<RS n="3" a="a"/>
+			<RS n="1" a="el"/>
 		</TU>
 		<TU f="0" k="υἱοῦ">
 			<RS n="2" a="hijo"/>
 		</TU>
 		<TU f="0" k="υἱόν">
 			<RS n="3" a="hijo"/>
+		</TU>
+		<TU f="0" k="υἱός">
+			<RS n="1" a="hijo"/>
 		</TU>
 		<TU f="0" k="υἱὸν">
 			<RS n="1" a="hijo"/>
@@ -688,8 +967,20 @@
 		<TU f="0" k="φοβηθῇς">
 			<RS n="1" a="temas"/>
 		</TU>
+		<TU f="0" k="φυγεῖν">
+			<RS n="1" a="uir"/>
+		</TU>
+		<TU f="0" k="φωνὴ">
+			<RS n="1" a="vóz"/>
+		</TU>
 		<TU f="0" k="χαρὰν">
 			<RS n="1" a="alegría"/>
+		</TU>
+		<TU f="0" k="χειρὶ">
+			<RS n="1" a="mano"/>
+		</TU>
+		<TU f="0" k="χρείαν">
+			<RS n="1" a="necesidad"/>
 		</TU>
 		<TU f="0" k="χρηματισθέντες">
 			<RS n="1" a="χρηματισθέντες"/>
@@ -719,6 +1010,9 @@
 		<TU f="0" k="ψυχὴν">
 			<RS n="1" a="vida"/>
 		</TU>
+		<TU f="0" k="ἀγαπητός">
+			<RS n="1" a="amado"/>
+		</TU>
 		<TU f="0" k="ἀδελφοὺς">
 			<RS n="3" a="hermanos"/>
 		</TU>
@@ -728,8 +1022,14 @@
 		<TU f="0" k="ἀκούσας">
 			<RS n="2" a="habiendo escuchado"/>
 		</TU>
+		<TU f="0" k="ἀκρίδες">
+			<RS n="1" a="langostas"/>
+		</TU>
 		<TU f="0" k="ἀκριβῶς">
 			<RS n="2" a="exactamente"/>
+		</TU>
+		<TU f="0" k="ἀνέβη">
+			<RS n="1" a="subió"/>
 		</TU>
 		<TU f="0" k="ἀνακάμψαι">
 			<RS n="1" a="regresar"/>
@@ -759,11 +1059,20 @@
 		<TU f="0" k="ἀνὴρ">
 			<RS n="1" a="marido"/>
 		</TU>
+		<TU f="0" k="ἀξίνη">
+			<RS n="1" a="hacha"/>
+		</TU>
 		<TU f="0" k="ἀπαγγείλατέ">
 			<RS n="1" a="reporten"/>
 		</TU>
 		<TU f="0" k="ἀπελθεῖν">
 			<RS n="1" a="ir"/>
+		</TU>
+		<TU f="0" k="ἀποθήκην">
+			<RS n="1" a="granero"/>
+		</TU>
+		<TU f="0" k="ἀποκριθεὶς">
+			<RS n="1" a="habiendo respondido"/>
 		</TU>
 		<TU f="0" k="ἀπολέσαι">
 			<RS n="1" a="destruir"/>
@@ -775,11 +1084,14 @@
 			<RS n="1" a="enviando"/>
 		</TU>
 		<TU f="0" k="ἀπὸ">
-			<RS n="5" a="desde"/>
-			<RS n="2" a="de"/>
+			<RS n="6" a="desde"/>
+			<RS n="5" a="de"/>
 		</TU>
 		<TU f="0" k="ἀρχιερεῖς">
 			<RS n="1" a="pricipales sacerdotes"/>
+		</TU>
+		<TU f="0" k="ἀσβέστῳ">
+			<RS n="1" a="inextinguible"/>
 		</TU>
 		<TU f="0" k="ἀστέρα">
 			<RS n="2" a="estrella"/>
@@ -790,9 +1102,18 @@
 		<TU f="0" k="ἀστὴρ">
 			<RS n="2" a="estrella"/>
 		</TU>
+		<TU f="0" k="ἀφίησιν">
+			<RS n="1" a="permite"/>
+		</TU>
 		<TU f="0" k="ἁγίου">
 			<RS n="1" a="santo"/>
 			<RS n="1" a="Santo"/>
+		</TU>
+		<TU f="0" k="ἁγίῳ">
+			<RS n="1" a="Santo"/>
+		</TU>
+		<TU f="0" k="ἁμαρτίας">
+			<RS n="1" a="pecados"/>
 		</TU>
 		<TU f="0" k="ἁμαρτιῶν">
 			<RS n="1" a="pecados"/>
@@ -803,11 +1124,26 @@
 		<TU f="0" k="ἄγγελος">
 			<RS n="4" a="ángel"/>
 		</TU>
+		<TU f="0" k="ἄγριον">
+			<RS n="1" a="silvestre"/>
+		</TU>
 		<TU f="0" k="ἄλλης">
 			<RS n="1" a="otro"/>
 		</TU>
 		<TU f="0" k="ἄνδρα">
 			<RS n="1" a="esposo"/>
+		</TU>
+		<TU f="0" k="ἄξιον">
+			<RS n="1" a="digno"/>
+		</TU>
+		<TU f="0" k="ἄρτι">
+			<RS n="1" a="ahora"/>
+		</TU>
+		<TU f="0" k="ἄχυρον">
+			<RS n="1" a="paja"/>
+		</TU>
+		<TU f="0" k="ἅλωνα">
+			<RS n="1" a="trilla"/>
 		</TU>
 		<TU f="0" k="Ἀβιά">
 			<RS n="1" a="Abías"/>
@@ -823,6 +1159,7 @@
 		</TU>
 		<TU f="0" k="Ἀβραάμ">
 			<RS n="1" a="de Abraham"/>
+			<RS n="2" a="Abraham"/>
 		</TU>
 		<TU f="0" k="Ἀβραὰμ">
 			<RS n="2" a="Abraham"/>
@@ -875,6 +1212,12 @@
 		<TU f="0" k="Ἀχὶμ">
 			<RS n="1" a="Aquim"/>
 		</TU>
+		<TU f="0" k="Ἄφες">
+			<RS n="1" a="Permite"/>
+		</TU>
+		<TU f="0" k="ἐβαπτίζοντο">
+			<RS n="1" a="bautizaba"/>
+		</TU>
 		<TU f="0" k="ἐβουλήθη">
 			<RS n="1" a="resolvió"/>
 		</TU>
@@ -890,11 +1233,14 @@
 		<TU f="0" k="ἐγερθεὶς">
 			<RS n="3" a="siendo levantado"/>
 		</TU>
+		<TU f="0" k="ἐγεῖραι">
+			<RS n="1" a="levantar"/>
+		</TU>
 		<TU f="0" k="ἐθυμώθη">
 			<RS n="1" a="se enfureció"/>
 		</TU>
 		<TU f="0" k="ἐκ">
-			<RS n="7" a="de"/>
+			<RS n="9" a="de"/>
 		</TU>
 		<TU f="0" k="ἐκάλεσα">
 			<RS n="1" a="llamé"/>
@@ -902,8 +1248,15 @@
 		<TU f="0" k="ἐκάλεσεν">
 			<RS n="1" a="llamó"/>
 		</TU>
+		<TU f="0" k="ἐκείναις">
+			<RS n="1" a="ἐκείναις"/>
+			<RS n="1" a="aquellos"/>
+		</TU>
 		<TU f="0" k="ἐκεῖ">
 			<RS n="3" a="allí"/>
+		</TU>
+		<TU f="0" k="ἐκκόπτεται">
+			<RS n="1" a="es cortado"/>
 		</TU>
 		<TU f="0" k="ἐλαχίστη">
 			<RS n="1" a="ἐλαχίστη"/>
@@ -917,7 +1270,7 @@
 			<RS n="2" a="habiendo llegado"/>
 		</TU>
 		<TU f="0" k="ἐν">
-			<RS n="11" a="en"/>
+			<RS n="19" a="en"/>
 			<RS n="1" a="entre"/>
 		</TU>
 		<TU f="0" k="ἐνεπαίχθη">
@@ -932,8 +1285,17 @@
 		<TU f="0" k="ἐξελεύσεται">
 			<RS n="1" a="saldrá"/>
 		</TU>
+		<TU f="0" k="ἐξεπορεύετο">
+			<RS n="1" a="salieron"/>
+		</TU>
 		<TU f="0" k="ἐξετάσατε">
 			<RS n="1" a="busquen"/>
+		</TU>
+		<TU f="0" k="ἐξομολογούμενοι">
+			<RS n="1" a="confesando"/>
+		</TU>
+		<TU f="0" k="ἐπ">
+			<RS n="1" a="sobre"/>
 		</TU>
 		<TU f="0" k="ἐπάνω">
 			<RS n="1" a="sobre"/>
@@ -955,13 +1317,30 @@
 		</TU>
 		<TU f="0" k="ἐπὶ">
 			<RS n="1" a="durante"/>
+			<RS n="1" a="para"/>
+			<RS n="1" a="a"/>
+		</TU>
+		<TU f="0" k="ἐρήμῳ">
+			<RS n="2" a="desierto"/>
+		</TU>
+		<TU f="0" k="ἐρχομένους">
+			<RS n="1" a="viniendo"/>
+		</TU>
+		<TU f="0" k="ἐρχόμενον">
+			<RS n="1" a="viniendo"/>
+		</TU>
+		<TU f="0" k="ἐρχόμενος">
+			<RS n="1" a="viniendo"/>
 		</TU>
 		<TU f="0" k="ἐστάθη">
 			<RS n="1" a="se detuvo"/>
 		</TU>
 		<TU f="0" k="ἐστιν">
-			<RS n="2" a="es"/>
+			<RS n="5" a="es"/>
 			<RS n="1" a="está"/>
+		</TU>
+		<TU f="0" k="ἐστὶν">
+			<RS n="1" a="es"/>
 		</TU>
 		<TU f="0" k="ἐταράχθη">
 			<RS n="1" a="se turbó"/>
@@ -975,11 +1354,29 @@
 		<TU f="0" k="ἐχάρησαν">
 			<RS n="1" a="se regocijaron"/>
 		</TU>
+		<TU f="0" k="ἐχιδνῶν">
+			<RS n="1" a="de vívoras"/>
+		</TU>
+		<TU f="0" k="ἑαυτοῖς">
+			<RS n="1" a="ustedes mismos"/>
+		</TU>
+		<TU f="0" k="ἔνδυμα">
+			<RS n="1" a="vestido"/>
+		</TU>
+		<TU f="0" k="ἔρχῃ">
+			<RS n="1" a="vienes"/>
+		</TU>
 		<TU f="0" k="ἔτεκεν">
 			<RS n="1" a="parió"/>
 		</TU>
+		<TU f="0" k="ἔχομεν">
+			<RS n="1" a="tenemos"/>
+		</TU>
 		<TU f="0" k="ἔχουσα">
 			<RS n="1" a="teniendo"/>
+		</TU>
+		<TU f="0" k="ἔχω">
+			<RS n="1" a="tengo"/>
 		</TU>
 		<TU f="0" k="ἕξει">
 			<RS n="1" a="tendrá"/>
@@ -990,6 +1387,9 @@
 		</TU>
 		<TU f="0" k="Ἐγερθεὶς">
 			<RS n="2" a="habiendote levantado"/>
+		</TU>
+		<TU f="0" k="Ἐγὼ">
+			<RS n="2" a="Yo"/>
 		</TU>
 		<TU f="0" k="Ἐλεάζαρ">
 			<RS n="2" a="Eleazar"/>
@@ -1010,7 +1410,7 @@
 			<RS n="1" a="Emmanuel"/>
 		</TU>
 		<TU f="0" k="Ἐν">
-			<RS n="1" a="En"/>
+			<RS n="2" a="En"/>
 		</TU>
 		<TU f="0" k="Ἐξ">
 			<RS n="1" a="Desde"/>
@@ -1027,15 +1427,22 @@
 		<TU f="0" k="Ἑσρὼμ">
 			<RS n="1" a="Esrom"/>
 		</TU>
+		<TU f="0" k="Ἑτοιμάσατε">
+			<RS n="1" a="preparen"/>
+		</TU>
 		<TU f="0" k="ἠκούσθη">
 			<RS n="1" a="se escuchó"/>
 		</TU>
 		<TU f="0" k="ἠκρίβωσεν">
 			<RS n="2" a="precisó"/>
 		</TU>
+		<TU f="0" k="ἠνεῴχθησαν">
+			<RS n="1" a="ἠνεῴχθησαν"/>
+			<RS n="1" a="fuéron abiertos"/>
+		</TU>
 		<TU f="0" k="ἡ">
-			<RS n="1" a="el"/>
-			<RS n="1" a="la"/>
+			<RS n="4" a="el"/>
+			<RS n="3" a="la"/>
 		</TU>
 		<TU f="0" k="ἡγεμόσιν">
 			<RS n="1" a="gobernantes"/>
@@ -1044,13 +1451,22 @@
 			<RS n="1" a="el que gobierna"/>
 		</TU>
 		<TU f="0" k="ἡμέραις">
-			<RS n="1" a="días"/>
+			<RS n="2" a="días"/>
+		</TU>
+		<TU f="0" k="ἡμῖν">
+			<RS n="1" a="a nosotros"/>
 		</TU>
 		<TU f="0" k="ἡμῶν">
 			<RS n="1" a="nosotros"/>
 		</TU>
 		<TU f="0" k="ἢ">
 			<RS n="1" a="que"/>
+		</TU>
+		<TU f="0" k="ἤγγικεν">
+			<RS n="1" a="se ha acercado"/>
+		</TU>
+		<TU f="0" k="ἤδη">
+			<RS n="1" a="Ya"/>
 		</TU>
 		<TU f="0" k="ἤθελεν">
 			<RS n="1" a="quizo"/>
@@ -1061,9 +1477,13 @@
 		<TU f="0" k="ἦν">
 			<RS n="1" a="fue"/>
 			<RS n="2" a="estaba"/>
+			<RS n="1" a="era"/>
 		</TU>
 		<TU f="0" k="ἧς">
 			<RS n="1" a="la cual"/>
+		</TU>
+		<TU f="0" k="Ἠσαΐου">
+			<RS n="1" a="Isaías"/>
 		</TU>
 		<TU f="0" k="Ἡρῴδην">
 			<RS n="1" a="Herodes"/>
@@ -1075,13 +1495,19 @@
 			<RS n="4" a="de Herodes"/>
 		</TU>
 		<TU f="0" k="ἰδοὺ">
-			<RS n="5" a="mira"/>
+			<RS n="7" a="mira"/>
 		</TU>
 		<TU f="0" k="ἰδόντες">
 			<RS n="1" a="viendo"/>
 		</TU>
 		<TU f="0" k="ἰδὼν">
 			<RS n="1" a="viendo"/>
+		</TU>
+		<TU f="0" k="ἰσχυρότερός">
+			<RS n="1" a="más fuerte"/>
+		</TU>
+		<TU f="0" k="ἱκανὸς">
+			<RS n="1" a="apto"/>
 		</TU>
 		<TU f="0" k="ἴσθι">
 			<RS n="1" a="quédate"/>
@@ -1097,6 +1523,9 @@
 		</TU>
 		<TU f="0" k="Ἰδοὺ">
 			<RS n="1" a="Mira"/>
+		</TU>
+		<TU f="0" k="Ἰδὼν">
+			<RS n="1" a="Viendo"/>
 		</TU>
 		<TU f="0" k="Ἰερεμίου">
 			<RS n="1" a="de Jeremías"/>
@@ -1120,10 +1549,22 @@
 			<RS n="1" a="Jesús"/>
 		</TU>
 		<TU f="0" k="Ἰησοῦς">
-			<RS n="1" a="Jesús"/>
+			<RS n="4" a="Jesús"/>
+		</TU>
+		<TU f="0" k="Ἰορδάνην">
+			<RS n="1" a="Jordán"/>
+		</TU>
+		<TU f="0" k="Ἰορδάνου">
+			<RS n="1" a="Jordán"/>
+		</TU>
+		<TU f="0" k="Ἰορδάνῃ">
+			<RS n="1" a="Jorán"/>
+		</TU>
+		<TU f="0" k="Ἰουδαία">
+			<RS n="1" a="Judea"/>
 		</TU>
 		<TU f="0" k="Ἰουδαίας">
-			<RS n="3" a="Judea"/>
+			<RS n="4" a="Judea"/>
 		</TU>
 		<TU f="0" k="Ἰουδαίων">
 			<RS n="1" a="judíos"/>
@@ -1145,6 +1586,12 @@
 		</TU>
 		<TU f="0" k="Ἰσραήλ">
 			<RS n="3" a="Israél"/>
+		</TU>
+		<TU f="0" k="Ἰωάννην">
+			<RS n="1" a="Juan"/>
+		</TU>
+		<TU f="0" k="Ἰωάννης">
+			<RS n="3" a="Juan"/>
 		</TU>
 		<TU f="0" k="Ἰωαθάμ">
 			<RS n="1" a="Jotam"/>
@@ -1180,15 +1627,27 @@
 			<RS n="6" a="José"/>
 		</TU>
 		<TU f="0" k="Ἱεροσόλυμα">
-			<RS n="2" a="Jerusalén"/>
+			<RS n="3" a="Jerusalén"/>
 		</TU>
 		<TU f="0" k="ὀδυρμὸς">
 			<RS n="1" a="lamentación"/>
 		</TU>
+		<TU f="0" k="ὀπίσω">
+			<RS n="1" a="despues"/>
+		</TU>
+		<TU f="0" k="ὀργῆς">
+			<RS n="1" a="ira"/>
+		</TU>
+		<TU f="0" k="ὀσφὺν">
+			<RS n="1" a="cintura"/>
+		</TU>
 		<TU f="0" k="ὁ">
-			<RS n="10" a="el"/>
+			<RS n="19" a="el"/>
 		</TU>
 		<TU f="0" k="ὁδοῦ">
+			<RS n="1" a="camino"/>
+		</TU>
+		<TU f="0" k="ὁδὸν">
 			<RS n="1" a="camino"/>
 		</TU>
 		<TU f="0" k="ὁρίοις">
@@ -1216,7 +1675,7 @@
 			<RS n="1" a="quien"/>
 		</TU>
 		<TU f="0" k="ὅτι">
-			<RS n="2" a="que"/>
+			<RS n="3" a="que"/>
 			<RS n="2" a="porque"/>
 		</TU>
 		<TU f="0" k="Ὀζίαν">
@@ -1225,8 +1684,29 @@
 		<TU f="0" k="Ὀζίας">
 			<RS n="1" a="Uzías"/>
 		</TU>
+		<TU f="0" k="ὑμᾶς">
+			<RS n="2" a="a ustedes"/>
+		</TU>
+		<TU f="0" k="ὑμῖν">
+			<RS n="2" a="a ustedes"/>
+		</TU>
+		<TU f="0" k="ὑπ">
+			<RS n="2" a="por"/>
+		</TU>
+		<TU f="0" k="ὑπέδειξεν">
+			<RS n="1" a="indicó"/>
+		</TU>
+		<TU f="0" k="ὑποδήματα">
+			<RS n="1" a="sandalias"/>
+		</TU>
 		<TU f="0" k="ὑπὸ">
-			<RS n="3" a="por"/>
+			<RS n="4" a="por"/>
+		</TU>
+		<TU f="0" k="ὕδατι">
+			<RS n="1" a="agua"/>
+		</TU>
+		<TU f="0" k="ὕδατος">
+			<RS n="1" a="agua"/>
 		</TU>
 		<TU f="0" k="ὕπνου">
 			<RS n="1" a="sueño"/>
@@ -1234,8 +1714,20 @@
 		<TU f="0" k="ὡς">
 			<RS n="1" a="como"/>
 		</TU>
+		<TU f="0" k="ὡσεὶ">
+			<RS n="1" a="como"/>
+		</TU>
 		<TU f="0" k="ὢν">
 			<RS n="1" a="siendo"/>
+		</TU>
+		<TU f="0" k="ᾧ">
+			<RS n="1" a="quien"/>
+		</TU>
+		<TU f="0" k="ῥίζαν">
+			<RS n="1" a="raíz"/>
+		</TU>
+		<TU f="0" k="ῥηθεὶς">
+			<RS n="1" a="dicho"/>
 		</TU>
 		<TU f="0" k="ῥηθὲν">
 			<RS n="4" a="dicho"/>
@@ -1261,6 +1753,9 @@
 	</MAP>
 	<MAP mn="2">
 		<TU f="0" k="ὁ θεός">
+			<RS n="1" a="Dios"/>
+		</TU>
+		<TU f="0" k="ὁ θεὸς">
 			<RS n="1" a="Dios"/>
 		</TU>
 	</MAP>
