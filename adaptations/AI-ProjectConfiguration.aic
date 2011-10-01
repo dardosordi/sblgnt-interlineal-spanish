@@ -12,7 +12,7 @@ CharSet	0
 OutPrecision	1
 ClipPrecision	2
 Quality	2
-PitchAndFamily	32
+PitchAndFamily	0
 FaceName	GentiumAlt
 Color	16711680
 
@@ -74,13 +74,13 @@ SFMafterNewlines	0
 SourceIsRTL	0
 TargetIsRTL	0
 NavTextIsRTL	0
-LowerCaseSourceLanguageChars	
-UpperCaseSourceLanguageChars	
-LowerCaseTargetLanguageChars	
-UpperCaseTargetLanguageChars	
-LowerCaseGlossLanguageChars	
-UpperCaseGlossLanguageChars	
-AutoCapitalizationFlag	0
+LowerCaseSourceLanguageChars	αβγδεζηθικλμνξοπρστυφχψω
+UpperCaseSourceLanguageChars	ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+LowerCaseTargetLanguageChars	abcdefghijklmnopqrstuvwxyz
+UpperCaseTargetLanguageChars	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+LowerCaseGlossLanguageChars	abcdefghijklmnopqrstuvwxyz
+UpperCaseGlossLanguageChars	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+AutoCapitalizationFlag	1
 SourceHasUpperCaseAndLowerCase	1
 FontSizeForDialogs(points)	12
 UseSFMarkerSet	UsfmOnly
