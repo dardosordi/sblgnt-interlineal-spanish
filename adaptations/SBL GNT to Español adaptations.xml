@@ -14,7 +14,7 @@
 			<RS n="2" a="Egipto"/>
 		</TU>
 		<TU f="0" k="Βίβλος">
-			<RS n="1" a="Libro"/>
+			<RS n="2" a="Libro"/>
 		</TU>
 		<TU f="0" k="Βαβυλῶνος">
 			<RS n="4" a="de Babilonia"/>
@@ -280,9 +280,6 @@
 		<TU f="0" k="βάπτισμα">
 			<RS n="1" a="inmersión"/>
 		</TU>
-		<TU f="0" k="βίβλος">
-			<RS n="1" a="libro"/>
-		</TU>
 		<TU f="0" k="βαπτίζω">
 			<RS n="1" a="sumerjo"/>
 		</TU>
@@ -458,6 +455,7 @@
 		<TU f="0" k="δὲ">
 			<RS n="64" a="← y"/>
 			<RS n="7" a="← pero"/>
+			<RS n="2" a="δὲ"/>
 		</TU>
 		<TU f="0" k="δῶρα">
 			<RS n="1" a="reagalos"/>
@@ -558,6 +556,12 @@
 		</TU>
 		<TU f="0" k="θεόν">
 			<RS n="2" a="Dios"/>
+		</TU>
+		<TU f="0" k="θεός">
+			<RS n="1" a="Dios"/>
+		</TU>
+		<TU f="0" k="θεὸς">
+			<RS n="1" a="Dios"/>
 		</TU>
 		<TU f="0" k="θησαυροὺς">
 			<RS n="1" a="tesoros"/>
@@ -1992,7 +1996,7 @@
 			<RS n="1" a="Mira"/>
 		</TU>
 		<TU f="0" k="Ἰδὼν">
-			<RS n="1" a="Viendo"/>
+			<RS n="2" a="Viendo"/>
 		</TU>
 		<TU f="0" k="Ἰερεμίου">
 			<RS n="1" a="de Jeremías"/>
@@ -2022,7 +2026,7 @@
 			<RS n="1" a="Jordán"/>
 		</TU>
 		<TU f="0" k="Ἰορδάνου">
-			<RS n="3" a="Jordán"/>
+			<RS n="5" a="Jordán"/>
 		</TU>
 		<TU f="0" k="Ἰορδάνῃ">
 			<RS n="1" a="Jorán"/>
@@ -2112,7 +2116,7 @@
 			<RS n="1" a="cintura"/>
 		</TU>
 		<TU f="0" k="ὁ">
-			<RS n="31" a="el"/>
+			<RS n="35" a="el"/>
 		</TU>
 		<TU f="0" k="ὁδοῦ">
 			<RS n="1" a="camino"/>
@@ -2243,14 +2247,6 @@
 		</TU>
 		<TU f="0" k="Ῥούθ">
 			<RS n="1" a="Rut"/>
-		</TU>
-	</MAP>
-	<MAP mn="2">
-		<TU f="0" k="ὁ θεός">
-			<RS n="1" a="Dios"/>
-		</TU>
-		<TU f="0" k="ὁ θεὸς">
-			<RS n="1" a="Dios"/>
 		</TU>
 	</MAP>
 </KB>
