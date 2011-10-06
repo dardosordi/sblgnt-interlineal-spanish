@@ -719,6 +719,9 @@
 		<TU f="0" k="θυσιαστηρίου">
 			<RS n="1" a="altar"/>
 		</TU>
+		<TU f="0" k="κΑΤΑ">
+			<RS n="1" a="según"/>
+		</TU>
 		<TU f="0" k="κάτω">
 			<RS n="1" a="abajo"/>
 		</TU>
@@ -2462,7 +2465,7 @@
 			<RS n="2" a="desierto"/>
 		</TU>
 		<TU f="0" k="ἐρρέθη">
-			<RS n="4" a="se ordenó"/>
+			<RS n="5" a="se ordenó"/>
 		</TU>
 		<TU f="0" k="ἐρχομένους">
 			<RS n="1" a="viniendo"/>
@@ -2480,7 +2483,7 @@
 			<RS n="3" a="son"/>
 		</TU>
 		<TU f="0" k="ἐστιν">
-			<RS n="10" a="es"/>
+			<RS n="8" a="es"/>
 			<RS n="1" a="está"/>
 		</TU>
 		<TU f="0" k="ἐστὶν">
