@@ -1,0 +1,156 @@
+html {
+	font-family: Arial,Helvetica,Sans-serif;
+	font-size: 14px;
+}
+
+h1 {
+	font-family: serif;
+	margin: 1em 0 2em;
+	text-align: center;
+}
+
+#content {
+	margin: 0 auto;
+}
+
+#nav {
+
+}
+
+#nav ul {
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#nav li {
+	display: inline;
+	padding: 0 5px;
+}
+
+#nav a {
+	color: #000;
+	font-weight: bold;
+	font-family: serif;
+	text-decoration: none;
+}
+
+#nav .icon {
+	font-size: 14px;
+	font-family: Arial Narrow,Helvetica,Sans-serif;
+	bottom: 2px;
+	position: relative;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.interlineal {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.interlineal p {
+	margin-bottom: 4em;
+	text-align: justify;
+}
+
+.block {
+	display: inline-block;
+	margin: 0 0 2em 0;
+	position: relative;
+}
+
+.block span {
+	display:block;
+	text-align: left;
+}
+
+.word {
+	margin-right: 1em;
+}
+
+.strongs {
+	color: #0092F2;
+	color: #00c;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.morph {
+	color: #0092F2;
+	font-size: .8em;
+	text-decoration: none;
+}
+
+.greek {
+	color: #001320;
+	font-family: Cardo,GentiumAlt,Galilee Unicode Gk,Galatia SIL,Palatino Linotype,Arial,Helvetica,Sans-serif;
+	font-size: 1.5em;
+	line-height: 2;
+}
+
+.translit {
+	color: #0066AA;
+	font-size: 1em;
+	text-decoration: none;
+}
+
+.spa {
+	color: #D55500;
+	font-size: 1em;
+	text-decoration: none;
+}
+
+.verse {
+	color: #552200;
+	font-size: 1em;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.chapter {
+	color: #000;
+	font-family: Times New Roman, serif;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+.title {
+	clear: both;
+	margin-bottom: 2em;
+	overflow: auto;
+	text-align: center;
+}
+
+.aling-verse {
+	position: relative;
+	bottom: 3.2em;
+	margin-right: .5em;
+}
+
+.aling-chapter {
+	position: relative;
+	bottom: 1.5em;
+	margin-right: 1em;
+	clear:left;
+}
+
+
+
+/* Print */
+
+@media print {
+
+#nav {
+	display: none;
+}
+
+
+}
