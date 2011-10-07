@@ -3,6 +3,8 @@
 error_reporting(E_ALL);
 
 include 'rmac.php';
+include 'strongs.php';
+
 include 'books.php';
 include 'breaks.php';
 
@@ -110,7 +112,8 @@ $content .= sprintf('<span class="block aling-chapter"><span class="chapter">%s<
 foreach($interlineal as $S) {
 
 	$morph = '';
-	$strongs = '';
+	$strongs_number = '';
+	$strongs_def = '';
 
 	if ($S['v'] > 0) {
 		if ($S['v'] != $current_verse) {
@@ -132,7 +135,7 @@ foreach($interlineal as $S) {
 		$morph = '---';
 		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word])) {
 			$morph = $morphdb[$book][$current_chapter][$current_verse][$current_word]['morph'];
-			$strongs = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
+			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
 		}
 	}
 
@@ -146,6 +149,13 @@ foreach($interlineal as $S) {
 		$content .= $breaks[$book][$current_chapter]["$current_verse.$current_word"];
 	}
 
+	if ($strongs_number) {
+		$strongs_def = sprintf('<a href="/strongs/G%d.html" title="%s">%d</a>',
+			$strongs_number,
+			h($strongs['greek'][$strongs_number]['strongs_def']),
+			$strongs_number
+		);
+	}
 
 	$content .= sprintf('<span class="block word">
 		<span class="strongs">%s</span>
@@ -153,7 +163,7 @@ foreach($interlineal as $S) {
 		<span class="greek">%s</span>
 		<span class="translit">%s</span>
 		<span class="spa">%s</span>
-	</span> ', $strongs, label_rmac($morph, $rmac), $morph, $greek, $translit, $spa);
+	</span> ', $strongs_def, label_rmac($morph, $rmac), $morph, $greek, $translit, $spa);
 
 
 }
