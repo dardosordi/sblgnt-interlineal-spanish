@@ -37,9 +37,9 @@ h1 {
 }
 
 #nav .icon {
-	font-size: 14px;
+	font-size: 20px;
+	font-weight: bold;
 	font-family: Arial Narrow,Helvetica,Sans-serif;
-	bottom: 2px;
 	position: relative;
 }
 

@@ -168,26 +168,25 @@ if ($chapter > 1) {
 	$prev = url_for($books[$book]['dir'], $chapter - 1);
 	$nav[] = array(
 		'url' => $prev,
-		'text' => sprintf('<span class="icon">←</span> %s %d', $books[$book]['title'], $chapter - 1),
+		'text' => sprintf('<span class="icon">&laquo;</span>'),
 		'class' => 'prev',
 	);
 }
 
-/*
 $currtent = url_for($books[$book]['dir'], $chapter - 1);
 $nav[] = array(
 //	'url' => $currtent,
-	'text' => sprintf('%s %d', $books[$book]['title'], $chapter),
+	'text' => sprintf('%s %d', $book_title, $chapter),
 	'class' => 'current',
 );
-*/
+
 
 
 if ($chapter < $books[$book]['chapters']) {
 	$next = url_for($books[$book]['dir'], $chapter + 1);
 	$nav[] = array(
 		'url' => $next,
-		'text' => sprintf('%s %d <span class="icon">→</span>', $books[$book]['title'], $chapter + 1),
+		'text' => sprintf('<span class="icon">&raquo;</span>'),
 		'class' => 'next',
 	);
 }
