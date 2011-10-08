@@ -14,6 +14,8 @@ include 'helpers.php';
 
 $book = isset($_GET['book']) ? $_GET['book'] : null;
 $chapter = isset($_GET['chapter']) ? $_GET['chapter'] : null;
+$end_chapter = isset($_GET['endchapter']) ? $_GET['endchapter'] : $chapter;
+
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
 $moprhgnt_path = dirname(dirname(__FILE__)) . '/morphgnt/';
@@ -72,7 +74,7 @@ foreach($xml->xpath('//S') as $S) {
 
 	++$current_word;
 
-	if ($current_chapter > $chapter) {
+	if ($current_chapter > $end_chapter) {
 		break;
 	}
 
@@ -95,19 +97,19 @@ foreach($xml->xpath('//S') as $S) {
 
 //$book_title = $books[$book]['title'];
 $book_title = implode(' ', $text_title);
-$page_title = "$book_title $chapter - Interlineal Español";
+$chapter_range = $chapter == $end_chapter ? $chapter : "$chapter-$end_chapter";
+$page_title = "$book_title $chapter_range - Interlineal Español";
 $content = '';
 
 
 $current_verse = 0;
-$current_chapter = $chapter;
+$current_chapter = 0;
 
 if (isset($breaks[$book][$current_chapter]['s'])) {
 	$content .= $breaks[$book][$current_chapter]['s'];
 }
 
 
-$content .= sprintf('<span class="block aling-chapter"><span class="chapter">%s</span></span> ', $current_chapter);
 
 foreach($interlineal as $S) {
 
@@ -116,6 +118,15 @@ foreach($interlineal as $S) {
 	$strongs_def = '';
 
 	if ($S['v'] > 0) {
+
+		if ($S['c'] != $current_chapter) {
+			$current_chapter = $S['c'];
+			if (isset($breaks[$book][$current_chapter]['s'])) {
+				$content .= $breaks[$book][$current_chapter]['s'];
+			}
+			$content .= sprintf('<span class="block aling-chapter"><span class="chapter">%s</span></span> ', $current_chapter);
+		}
+
 		if ($S['v'] != $current_verse) {
 			$current_verse = $S['v'];
 			if (isset($breaks[$book][$current_chapter][$current_verse])) {
@@ -186,14 +197,14 @@ if ($chapter > 1) {
 $currtent = url_for($books[$book]['dir'], $chapter - 1);
 $nav[] = array(
 //	'url' => $currtent,
-	'text' => sprintf('%s %d', $book_title, $chapter),
+	'text' => sprintf('%s %s', $book_title, $chapter == $end_chapter ? $chapter : "$chapter-$end_chapter"),
 	'class' => 'current',
 );
 
 
 
-if ($chapter < $books[$book]['chapters']) {
-	$next = url_for($books[$book]['dir'], $chapter + 1);
+if ($end_chapter < $books[$book]['chapters']) {
+	$next = url_for($books[$book]['dir'], $end_chapter + 1);
 	$nav[] = array(
 		'url' => $next,
 		'text' => sprintf('<span class="icon">&raquo;</span>'),
@@ -218,7 +229,7 @@ $nav = get_menu($nav);
 <div id="content">
 <div id="nav"><ul><?= $nav ?></ul></div>
 
-<h1><?= "$book_title $chapter" ?></h1>
+<h1><?= "$book_title" ?></h1>
 <div class="interlineal">
 <? echo $content; ?>
 </div>
