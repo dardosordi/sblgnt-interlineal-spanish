@@ -1,6 +1,6 @@
 RewriteEngine On
 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-
+RewriteRule strongs/([GH].*)\.html$ strongs_number.php?id=$1 [L]
 RewriteRule matthew/(.*)\.html$ interlineal.php?book=mt&chapter=$1 [L]
+
+

@@ -27,6 +27,11 @@ function label_rmac($morph, $rmac) {
 	return ucwords($out);
 }
 
+function format_strongs($text) {
+	$url = url_for('strongs', '$1');
+	return preg_replace('/([GH][1-9][0-9]*)/', '<a class="strongs" href="'.$url.'">$1</a>', $text);
+}
+
 function get_menu($menu, $here = null) {
 	if (empty($menu)) {
 		return;

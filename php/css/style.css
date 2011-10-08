@@ -142,6 +142,28 @@ a:hover {
 	clear:left;
 }
 
+.strongs-entry dt {
+	color: #0066AA;
+	font-family: Arial,Helvetica,Sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 18px;
+	text-decoration: none;
+	float: left;
+	clear: left;
+	margin-bottom: 1em;
+}
+
+.strongs-entry dd {
+	float: left;
+	margin-left: 5px;
+	line-height: 18px;
+}
+
+.strongs-entry .greek {
+	font-size: 19px;
+	line-height: 18px;
+}
 
 
 /* Print */
