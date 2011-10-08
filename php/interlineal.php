@@ -3,7 +3,7 @@
 error_reporting(E_ALL);
 
 include 'rmac.php';
-include 'strongs.php';
+include 'strongs_greek.php';
 
 include 'books.php';
 include 'breaks.php';
