@@ -120,6 +120,10 @@ foreach($interlineal as $S) {
 	if ($S['v'] > 0) {
 
 		if ($S['c'] != $current_chapter) {
+			if (isset($breaks[$book][$current_chapter]['e'])) {
+				$content .= $breaks[$book][$current_chapter]['e'];
+			}
+
 			$current_chapter = $S['c'];
 			if (isset($breaks[$book][$current_chapter]['s'])) {
 				$content .= $breaks[$book][$current_chapter]['s'];
@@ -177,6 +181,10 @@ foreach($interlineal as $S) {
 	</span> ', $strongs_def, label_rmac($morph, $rmac), $morph, $greek, $translit, $spa);
 
 
+}
+
+if (isset($breaks[$book][$current_chapter]['e'])) {
+	$content .= $breaks[$book][$current_chapter]['e'];
 }
 
 if (isset($breaks[$book][$current_chapter]['e'])) {
