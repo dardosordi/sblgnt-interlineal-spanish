@@ -32,6 +32,14 @@ function format_strongs($text) {
 	return preg_replace('/([GH][1-9][0-9]*)/', '<a class="strongs" href="'.$url.'">$1</a>', $text);
 }
 
+function parse_ref($ref) {
+	$matches = array();
+	if (preg_match('/([123]?[a-z]+) ([0-9]+):([0-9]+)/i', $ref, $matches)) {
+		return array($matches[1], $matches[2], $matches[3]);
+	}
+	return array(false, false, false);
+}
+
 function get_menu($menu, $here = null) {
 	if (empty($menu)) {
 		return;

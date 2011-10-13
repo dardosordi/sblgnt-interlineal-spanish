@@ -166,6 +166,22 @@ a:hover {
 }
 
 
+.concordance {
+	clear: both;
+	_border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+.concordance th {
+	border-bottom: 1px solid #000;
+}
+
+.concordance th,
+.concordance td {
+	padding: 2px 15px;
+}
+
+
 /* Print */
 
 @media print {
