@@ -136,7 +136,7 @@ foreach($interlineal as $S) {
 			if (isset($breaks[$book][$current_chapter][$current_verse])) {
 				$content .= $breaks[$book][$current_chapter][$current_verse];
 			}
-			$content .= sprintf('<span class="block aling-verse"><span class="verse">%s</span></span> ', $current_verse);
+			$content .= sprintf('<span class="block aling-verse"><span id="v%d" class="verse">%s</span></span> ', $current_verse, $current_verse);
 		}
 	}
 
