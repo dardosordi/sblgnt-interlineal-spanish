@@ -180,16 +180,12 @@ foreach($interlineal as $S) {
 		<span class="spa">%s</span>
 	</span> ', $strongs_def, label_rmac($morph, $rmac), $morph, $greek, $translit, $spa);
 
-
 }
 
 if (isset($breaks[$book][$current_chapter]['e'])) {
 	$content .= $breaks[$book][$current_chapter]['e'];
 }
 
-if (isset($breaks[$book][$current_chapter]['e'])) {
-	$content .= $breaks[$book][$current_chapter]['e'];
-}
 
 
 $nav = array();
