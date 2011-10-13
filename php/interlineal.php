@@ -91,7 +91,7 @@ foreach($xml->xpath('//S') as $S) {
 		's' => (string)$S['s'],
 		'k' => (string)$S['k'],
 		't' => (string)$S['t'],
-		'a' => (string)$S['t'],
+		'a' => (string)$S['a'],
 	);
 }
 
