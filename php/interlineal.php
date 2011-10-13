@@ -142,7 +142,7 @@ foreach($interlineal as $S) {
 
 	$greek = $S['s'];
 	$clean = $S['k'];
-	$translit = translit($S['k']);
+	$translit = translit($S['k'], true);
 	$spa = $S['t'];
 
 	$current_word = $S['w'];
