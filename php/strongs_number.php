@@ -32,8 +32,8 @@ if (isset($strongs[$lang][$number])) {
 
 	$content .= '<dl class="strongs-entry">';
 	$content .= sprintf('	<dt>Lema:</dt><dd><span class="greek">%s</span> (%s)</dd>', $data['lemma'], $translit);
-	$content .= sprintf('	<dt>Definición corta:</dt><dd>%s</dd>', $data['kjv_def']);
-	$content .= sprintf('	<dt>Definición:</dt><dd>%s</dd>', $data['strongs_def']);
+	$content .= sprintf('	<dt>Definición corta:</dt><dd>%s</dd>', format_strongs($data['kjv_def']));
+	$content .= sprintf('	<dt>Definición:</dt><dd>%s</dd>', format_strongs($data['strongs_def']));
 	$content .= sprintf('	<dt>Derivación:</dt><dd>%s</dd>', isset($data['derivation']) ? format_strongs($data['derivation']) : 'Palabra raíz');
 
 	$content .= '</dl>';
