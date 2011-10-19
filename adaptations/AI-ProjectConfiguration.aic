@@ -55,21 +55,36 @@ Color	65280
 ProjectSettings
 SourceLanguageName	SBL GNT
 TargetLanguageName	Español
-DefaultCCTablePath	
-LastExportPath	
+SourceLanguageCode	
+TargetLanguageCode	
+LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/61-Mt.xml
 LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
+LastInterlinearRTFOutputPath	
+LastSourceTextExportPath	
+LastSourceTextRTFExportPath	
+LastTargetExportPath	
+LastTargetRTFExportPath	
 LastGlossesTextExportPath	
+LastGlossesTextRTFExportPath	
 LastFreeTransExportPath	
+LastFreeTransRTFExportPath	
+FoldersProtectedFromNavigation	
 PunctuationPairsSourceSet(stores space for an empty cell)	;.,·:"!()<>{}[]“”‘’⸀⸁⸂⸄⸃⸅
 PunctuationPairsTargetSet(stores space for an empty cell)	?.,::"!()<>{}[]“”‘ ⸀⸁⸂⸄⸃⸅
 PunctuationTwoCharacterPairsSourceSet(ditto)	
 PunctuationTwoCharacterPairsTargetSet(ditto)	
 SpecialTextColor	255
 RetranslationTextColor	20640
+TargetDifferencesTextColor	2647107
 ColorOfNavigationText	65280
+AutoInsertionsHighlightColor	16750539
+GuessHighlightColor	8434943
 BackupDocumentFlag	0
+WorkflowProfile	0
+UseAdaptationsGuesser	1
+GuessingLevel	50
+AllowCConUnchangedGuesserOutput	0
 RTL_Layout	0
-SFMescapeChar	\
 SFMafterNewlines	0
 SourceIsRTL	0
 TargetIsRTL	0
@@ -88,7 +103,6 @@ UseFilterMarkers	\pro \ca \_footnote_caller Footnote Caller \ili \_notes_base No
 ChangeFixedSpaceToRegularSpace	0
 BookModeFlag	0
 BookIndexValue	-1
-SaveAsXML	1
 SilConverterName	
 SilConverterDirectionForward	1
 SilConverterNormalizeOutput	0
