@@ -116,6 +116,20 @@ $concordance = array (
         'morph' => 'A-APN',
         'ref' => 'mt 7:11',
       ),
+      2 => 
+      array (
+        'word' => 'ἀγαθὰ',
+        'spa' => 'buenos',
+        'morph' => 'A-APN',
+        'ref' => 'mt 12:34',
+      ),
+      3 => 
+      array (
+        'word' => 'ἀγαθά',
+        'spa' => 'buenas',
+        'morph' => 'A-APN',
+        'ref' => 'mt 12:35',
+      ),
     ),
     'agathon' => 
     array (
@@ -132,6 +146,26 @@ $concordance = array (
         'spa' => 'bueno',
         'morph' => 'A-NSN',
         'ref' => 'mt 7:18',
+      ),
+    ),
+    'agathos' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀγαθὸς',
+        'spa' => 'buen',
+        'morph' => 'A-NSM',
+        'ref' => 'mt 12:35',
+      ),
+    ),
+    'agathou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀγαθοῦ',
+        'spa' => 'buen',
+        'morph' => 'A-GSM',
+        'ref' => 'mt 12:35',
       ),
     ),
   ),
@@ -211,6 +245,13 @@ $concordance = array (
         'spa' => 'amado',
         'morph' => 'A-NSM',
         'ref' => 'mt 3:17',
+      ),
+      1 => 
+      array (
+        'word' => 'ἀγαπητός',
+        'spa' => 'amado',
+        'morph' => 'A-NSM',
+        'ref' => 'mt 12:18',
       ),
     ),
   ),
@@ -352,6 +393,13 @@ $concordance = array (
         'morph' => 'A-GSN',
         'ref' => 'mt 1:20',
       ),
+      2 => 
+      array (
+        'word' => 'ἁγίου',
+        'spa' => 'Santo',
+        'morph' => 'A-GSN',
+        'ref' => 'mt 12:32',
+      ),
     ),
     'hagiōi' => 
     array (
@@ -453,6 +501,19 @@ $concordance = array (
         'spa' => 'serán llevados',
         'morph' => 'V-FPI-2P',
         'ref' => 'mt 10:18',
+      ),
+    ),
+  ),
+  79 => 
+  array (
+    'adelphē' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀδελφὴ',
+        'spa' => 'hermana',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:50',
       ),
     ),
   ),
@@ -581,6 +642,13 @@ $concordance = array (
         'morph' => 'N-NSM',
         'ref' => 'mt 10:21',
       ),
+      4 => 
+      array (
+        'word' => 'ἀδελφὸς',
+        'spa' => 'hermano',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:50',
+      ),
     ),
     'adelphou' => 
     array (
@@ -597,6 +665,37 @@ $concordance = array (
         'spa' => 'hermano',
         'morph' => 'N-GSM',
         'ref' => 'mt 7:5',
+      ),
+    ),
+    'adelphoi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀδελφοὶ',
+        'spa' => 'hermanos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:46',
+      ),
+      1 => 
+      array (
+        'word' => 'ἀδελφοί',
+        'spa' => 'hermanos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:47',
+      ),
+      2 => 
+      array (
+        'word' => 'ἀδελφοί',
+        'spa' => 'hermanos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:48',
+      ),
+      3 => 
+      array (
+        'word' => 'ἀδελφοί',
+        'spa' => 'hermanos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:49',
       ),
     ),
   ),
@@ -696,6 +795,19 @@ $concordance = array (
         'spa' => 'con flujo de sangre',
         'morph' => 'V-PAP-NSF',
         'ref' => 'mt 9:20',
+      ),
+    ),
+  ),
+  140 => 
+  array (
+    'hēiretisa' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ᾑρέτισα',
+        'spa' => 'escogí',
+        'morph' => 'V-AAI-1S',
+        'ref' => 'mt 12:18',
       ),
     ),
   ),
@@ -812,6 +924,19 @@ $concordance = array (
       ),
     ),
   ),
+  165 => 
+  array (
+    'aiōni' => 
+    array (
+      0 => 
+      array (
+        'word' => 'αἰῶνι',
+        'spa' => 'hora',
+        'morph' => 'N-DSM',
+        'ref' => 'mt 12:32',
+      ),
+    ),
+  ),
   169 => 
   array (
     'akathartōn' => 
@@ -822,6 +947,16 @@ $concordance = array (
         'spa' => 'impuros',
         'morph' => 'A-GPN',
         'ref' => 'mt 10:1',
+      ),
+    ),
+    'akatharton' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀκάθαρτον',
+        'spa' => 'impuro',
+        'morph' => 'A-NSN',
+        'ref' => 'mt 12:43',
       ),
     ),
   ),
@@ -909,6 +1044,13 @@ $concordance = array (
         'spa' => 'siguieron',
         'morph' => 'V-AAI-3P',
         'ref' => 'mt 9:27',
+      ),
+      6 => 
+      array (
+        'word' => 'ἠκολούθησαν',
+        'spa' => 'siguieron',
+        'morph' => 'V-AAI-3P',
+        'ref' => 'mt 12:15',
       ),
     ),
     'akolouthousin' => 
@@ -1032,6 +1174,13 @@ $concordance = array (
         'morph' => 'V-AAP-NPM',
         'ref' => 'mt 2:9',
       ),
+      1 => 
+      array (
+        'word' => 'ἀκούσαντες',
+        'spa' => 'habiendo escuchado',
+        'morph' => 'V-AAP-NPM',
+        'ref' => 'mt 12:24',
+      ),
     ),
     'ēkousthē' => 
     array (
@@ -1146,6 +1295,26 @@ $concordance = array (
         'spa' => 'escuche',
         'morph' => 'V-PAM-3S',
         'ref' => 'mt 11:15',
+      ),
+    ),
+    'akousei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀκούσει',
+        'spa' => 'escuchará',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:19',
+      ),
+    ),
+    'akousai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀκοῦσαι',
+        'spa' => 'escuchar',
+        'morph' => 'V-AAN',
+        'ref' => 'mt 12:42',
       ),
     ),
   ),
@@ -1438,6 +1607,16 @@ $concordance = array (
         'ref' => 'mt 8:9',
       ),
     ),
+    'allē' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἄλλη',
+        'spa' => 'otra',
+        'morph' => 'A-NSF',
+        'ref' => 'mt 12:13',
+      ),
+    ),
   ),
   256 => 
   array (
@@ -1522,6 +1701,16 @@ $concordance = array (
         'spa' => 'pecados',
         'morph' => 'N-NPF',
         'ref' => 'mt 9:5',
+      ),
+    ),
+    'hamartia' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἁμαρτία',
+        'spa' => 'pecado',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:31',
       ),
     ),
   ),
@@ -1866,6 +2055,34 @@ $concordance = array (
         'morph' => 'PRT',
         'ref' => 'mt 11:23',
       ),
+      17 => 
+      array (
+        'word' => 'ἂν',
+        'spa' => '-',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:7',
+      ),
+      18 => 
+      array (
+        'word' => 'ἂν',
+        'spa' => '-',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:20',
+      ),
+      19 => 
+      array (
+        'word' => 'ἂν',
+        'spa' => '-',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:32',
+      ),
+      20 => 
+      array (
+        'word' => 'ἂν',
+        'spa' => '-',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:50',
+      ),
     ),
   ),
   305 => 
@@ -1901,6 +2118,26 @@ $concordance = array (
       ),
     ),
   ),
+  314 => 
+  array (
+    'anegnōte' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀνέγνωτε',
+        'spa' => 'leyeron',
+        'morph' => 'V-2AAI-2P',
+        'ref' => 'mt 12:3',
+      ),
+      1 => 
+      array (
+        'word' => 'ἀνέγνωτε',
+        'spa' => 'leyeron',
+        'morph' => 'V-2AAI-2P',
+        'ref' => 'mt 12:5',
+      ),
+    ),
+  ),
   321 => 
   array (
     'anēchthē' => 
@@ -1924,6 +2161,29 @@ $concordance = array (
         'spa' => 'asesinó',
         'morph' => 'V-2AAI-3S',
         'ref' => 'mt 2:16',
+      ),
+    ),
+  ),
+  338 => 
+  array (
+    'anaitioi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀναίτιοί',
+        'spa' => 'inocentes',
+        'morph' => 'A-NPM',
+        'ref' => 'mt 12:5',
+      ),
+    ),
+    'anaitious' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀναιτίους',
+        'spa' => 'inocentes',
+        'morph' => 'A-APM',
+        'ref' => 'mt 12:7',
       ),
     ),
   ),
@@ -1976,6 +2236,13 @@ $concordance = array (
         'spa' => 'descanso',
         'morph' => 'N-ASF',
         'ref' => 'mt 11:29',
+      ),
+      1 => 
+      array (
+        'word' => 'ἀνάπαυσιν',
+        'spa' => 'descanso',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:43',
       ),
     ),
   ),
@@ -2096,6 +2363,13 @@ $concordance = array (
         'spa' => 'partió',
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 4:12',
+      ),
+      3 => 
+      array (
+        'word' => 'ἀνεχώρησεν',
+        'spa' => 'partió',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:15',
       ),
     ),
     'anachōreite' => 
@@ -2258,6 +2532,16 @@ $concordance = array (
         'ref' => 'mt 7:26',
       ),
     ),
+    'andres' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἄνδρες',
+        'spa' => 'varones',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:41',
+      ),
+    ),
   ),
   436 => 
   array (
@@ -2303,6 +2587,41 @@ $concordance = array (
         'spa' => 'hombre',
         'morph' => 'N-NSM',
         'ref' => 'mt 11:19',
+      ),
+      4 => 
+      array (
+        'word' => 'ἄνθρωπος',
+        'spa' => 'hombre',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:10',
+      ),
+      5 => 
+      array (
+        'word' => 'ἄνθρωπος',
+        'spa' => 'hombre',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:11',
+      ),
+      6 => 
+      array (
+        'word' => 'ἄνθρωπος',
+        'spa' => 'hombre',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:12',
+      ),
+      7 => 
+      array (
+        'word' => 'ἄνθρωπος',
+        'spa' => 'hombre',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:35',
+      ),
+      8 => 
+      array (
+        'word' => 'ἄνθρωπος',
+        'spa' => 'hombre',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:35',
       ),
     ),
     'anthrōpōn' => 
@@ -2418,6 +2737,13 @@ $concordance = array (
         'morph' => 'N-DPM',
         'ref' => 'mt 9:8',
       ),
+      6 => 
+      array (
+        'word' => 'ἀνθρώποις',
+        'spa' => 'hombres',
+        'morph' => 'N-DPM',
+        'ref' => 'mt 12:31',
+      ),
     ),
     'anthrōpoi' => 
     array (
@@ -2434,6 +2760,13 @@ $concordance = array (
         'spa' => 'hombres',
         'morph' => 'N-NPM',
         'ref' => 'mt 8:27',
+      ),
+      2 => 
+      array (
+        'word' => 'ἄνθρωποι',
+        'spa' => 'hombres',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:36',
       ),
     ),
     'anthrōpou' => 
@@ -2473,6 +2806,41 @@ $concordance = array (
         'morph' => 'N-GSM',
         'ref' => 'mt 11:19',
       ),
+      5 => 
+      array (
+        'word' => 'ἀνθρώπου',
+        'spa' => 'hombre',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:8',
+      ),
+      6 => 
+      array (
+        'word' => 'ἀνθρώπου',
+        'spa' => 'hombre',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:32',
+      ),
+      7 => 
+      array (
+        'word' => 'ἀνθρώπου',
+        'spa' => 'hombre',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:40',
+      ),
+      8 => 
+      array (
+        'word' => 'ἀνθρώπου',
+        'spa' => 'hombre',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:43',
+      ),
+      9 => 
+      array (
+        'word' => 'ἀνθρώπου',
+        'spa' => 'hombre',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:45',
+      ),
     ),
     'anthrōpon' => 
     array (
@@ -2505,6 +2873,16 @@ $concordance = array (
         'ref' => 'mt 11:8',
       ),
     ),
+    'anthrōpōi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀνθρώπῳ',
+        'spa' => 'hombre',
+        'morph' => 'N-DSM',
+        'ref' => 'mt 12:13',
+      ),
+    ),
   ),
   450 => 
   array (
@@ -2516,6 +2894,16 @@ $concordance = array (
         'spa' => 'levantado',
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 9:9',
+      ),
+    ),
+    'anastēsontai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀναστήσονται',
+        'spa' => 'se levantarán',
+        'morph' => 'V-FMI-3P',
+        'ref' => 'mt 12:41',
       ),
     ),
   ),
@@ -2652,6 +3040,19 @@ $concordance = array (
       ),
     ),
   ),
+  504 => 
+  array (
+    'anudrōn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀνύδρων',
+        'spa' => 'de sín agua',
+        'morph' => 'A-GPM',
+        'ref' => 'mt 12:43',
+      ),
+    ),
+  ),
   513 => 
   array (
     'axinē' => 
@@ -2760,6 +3161,16 @@ $concordance = array (
         'spa' => 'reportaron',
         'morph' => 'V-AAI-3P',
         'ref' => 'mt 8:33',
+      ),
+    ),
+    'apaggelei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀπαγγελεῖ',
+        'spa' => 'anunciará',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:18',
       ),
     ),
   ),
@@ -3181,6 +3592,20 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 11:25',
       ),
+      33 => 
+      array (
+        'word' => 'ἀπὸ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:38',
+      ),
+      34 => 
+      array (
+        'word' => 'ἀπὸ',
+        'spa' => 'desde',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:43',
+      ),
     ),
     'ap' => 
     array (
@@ -3260,6 +3685,16 @@ $concordance = array (
         'ref' => 'mt 6:18',
       ),
     ),
+    'apodōsousin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀποδώσουσιν',
+        'spa' => 'darán',
+        'morph' => 'V-FAI-3P',
+        'ref' => 'mt 12:36',
+      ),
+    ),
   ),
   596 => 
   array (
@@ -3304,6 +3739,19 @@ $concordance = array (
         'spa' => 'murió',
         'morph' => 'V-2AAI-3S',
         'ref' => 'mt 9:24',
+      ),
+    ),
+  ),
+  600 => 
+  array (
+    'apekatestathē' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀπεκατεστάθη',
+        'spa' => 'fue restaurada',
+        'morph' => 'V-API-3S',
+        'ref' => 'mt 12:13',
       ),
     ),
   ),
@@ -3378,6 +3826,30 @@ $concordance = array (
         'spa' => 'habiendo respondido',
         'morph' => 'V-APP-NSM',
         'ref' => 'mt 11:25',
+      ),
+      5 => 
+      array (
+        'word' => 'ἀποκριθεὶς',
+        'spa' => 'habiendo respondido',
+        'morph' => 'V-APP-NSM',
+        'ref' => 'mt 12:39',
+      ),
+      6 => 
+      array (
+        'word' => 'ἀποκριθεὶς',
+        'spa' => 'habiendo respondido',
+        'morph' => 'V-APP-NSM',
+        'ref' => 'mt 12:48',
+      ),
+    ),
+    'apekrithēsan' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀπεκρίθησαν',
+        'spa' => 'respondieron',
+        'morph' => 'V-ADI-3P',
+        'ref' => 'mt 12:38',
       ),
     ),
   ),
@@ -3498,6 +3970,16 @@ $concordance = array (
         'spa' => 'perderá',
         'morph' => 'V-AAS-3S',
         'ref' => 'mt 10:42',
+      ),
+    ),
+    'apolesōsin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀπολέσωσιν',
+        'spa' => 'destruyeran',
+        'morph' => 'V-AAS-3P',
+        'ref' => 'mt 12:14',
       ),
     ),
   ),
@@ -3724,6 +4206,13 @@ $concordance = array (
         'morph' => 'PRT',
         'ref' => 'mt 7:20',
       ),
+      1 => 
+      array (
+        'word' => 'ἄρα',
+        'spa' => 'por lo tanto',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:28',
+      ),
     ),
   ),
   689 => 
@@ -3743,6 +4232,19 @@ $concordance = array (
         'spa' => 'Aram',
         'morph' => 'N-PRI',
         'ref' => 'mt 1:4',
+      ),
+    ),
+  ),
+  692 => 
+  array (
+    'argon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀργὸν',
+        'spa' => 'inútil',
+        'morph' => 'A-NSN',
+        'ref' => 'mt 12:36',
       ),
     ),
   ),
@@ -3840,6 +4342,16 @@ $concordance = array (
         'ref' => 'mt 11:12',
       ),
     ),
+    'harpasai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἁρπάσαι',
+        'spa' => 'tomar por la fuerza',
+        'morph' => 'V-AAN',
+        'ref' => 'mt 12:29',
+      ),
+    ),
   ),
   727 => 
   array (
@@ -3920,6 +4432,16 @@ $concordance = array (
         'ref' => 'mt 7:9',
       ),
     ),
+    'artous' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἄρτους',
+        'spa' => 'panes',
+        'morph' => 'N-APM',
+        'ref' => 'mt 12:4',
+      ),
+    ),
   ),
   744 => 
   array (
@@ -3993,6 +4515,16 @@ $concordance = array (
         'ref' => 'mt 11:20',
       ),
     ),
+    'ērxanto' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἤρξαντο',
+        'spa' => 'comenzaron',
+        'morph' => 'V-ADI-3P',
+        'ref' => 'mt 12:1',
+      ),
+    ),
   ),
   758 => 
   array (
@@ -4024,6 +4556,13 @@ $concordance = array (
         'spa' => 'principal',
         'morph' => 'N-DSM',
         'ref' => 'mt 9:34',
+      ),
+      1 => 
+      array (
+        'word' => 'ἄρχοντι',
+        'spa' => 'principal',
+        'morph' => 'N-DSM',
+        'ref' => 'mt 12:24',
       ),
     ),
   ),
@@ -4878,6 +5417,125 @@ $concordance = array (
         'morph' => 'P-GSM',
         'ref' => 'mt 11:20',
       ),
+      87 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:1',
+      ),
+      88 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:3',
+      ),
+      89 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:4',
+      ),
+      90 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'a él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:10',
+      ),
+      91 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:14',
+      ),
+      92 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:19',
+      ),
+      93 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:21',
+      ),
+      94 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:26',
+      ),
+      95 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:29',
+      ),
+      96 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:29',
+      ),
+      97 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSN',
+        'ref' => 'mt 12:33',
+      ),
+      98 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSN',
+        'ref' => 'mt 12:33',
+      ),
+      99 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'ella',
+        'morph' => 'P-GSN',
+        'ref' => 'mt 12:36',
+      ),
+      100 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:46',
+      ),
+      101 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:46',
+      ),
+      102 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:49',
+      ),
+      103 => 
+      array (
+        'word' => 'αὐτοῦ',
+        'spa' => 'de él',
+        'morph' => 'P-GSM',
+        'ref' => 'mt 12:49',
+      ),
     ),
     'autous' => 
     array (
@@ -4978,6 +5636,13 @@ $concordance = array (
         'spa' => 'a ellos',
         'morph' => 'P-APM',
         'ref' => 'mt 10:26',
+      ),
+      14 => 
+      array (
+        'word' => 'αὐτοὺς',
+        'spa' => 'a ellos',
+        'morph' => 'P-APM',
+        'ref' => 'mt 12:15',
       ),
     ),
     'autēs' => 
@@ -5173,6 +5838,20 @@ $concordance = array (
         'spa' => 'a él',
         'morph' => 'P-ASF',
         'ref' => 'mt 11:12',
+      ),
+      16 => 
+      array (
+        'word' => 'αὐτήν',
+        'spa' => 'a ella',
+        'morph' => 'P-ASF',
+        'ref' => 'mt 12:41',
+      ),
+      17 => 
+      array (
+        'word' => 'αὐτήν',
+        'spa' => 'a ella',
+        'morph' => 'P-ASF',
+        'ref' => 'mt 12:42',
       ),
     ),
     'autōi' => 
@@ -5534,6 +6213,76 @@ $concordance = array (
         'morph' => 'P-DSM',
         'ref' => 'mt 11:3',
       ),
+      51 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:2',
+      ),
+      52 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:4',
+      ),
+      53 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:15',
+      ),
+      54 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:22',
+      ),
+      55 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:32',
+      ),
+      56 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:32',
+      ),
+      57 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:38',
+      ),
+      58 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:46',
+      ),
+      59 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:47',
+      ),
+      60 => 
+      array (
+        'word' => 'αὐτῷ',
+        'spa' => 'a él',
+        'morph' => 'P-DSM',
+        'ref' => 'mt 12:48',
+      ),
     ),
     'autēi' => 
     array (
@@ -5557,6 +6306,13 @@ $concordance = array (
         'spa' => 'ella',
         'morph' => 'P-DSF',
         'ref' => 'mt 10:11',
+      ),
+      3 => 
+      array (
+        'word' => 'αὐτῇ',
+        'spa' => 'a ella',
+        'morph' => 'P-DSF',
+        'ref' => 'mt 12:39',
       ),
     ),
     'autos' => 
@@ -5602,6 +6358,13 @@ $concordance = array (
         'spa' => 'él',
         'morph' => 'P-NSM',
         'ref' => 'mt 11:14',
+      ),
+      6 => 
+      array (
+        'word' => 'αὐτός',
+        'spa' => 'él',
+        'morph' => 'P-NSM',
+        'ref' => 'mt 12:50',
       ),
     ),
     'autōn' => 
@@ -5879,6 +6642,20 @@ $concordance = array (
         'morph' => 'P-GPM',
         'ref' => 'mt 11:1',
       ),
+      39 => 
+      array (
+        'word' => 'αὐτῶν',
+        'spa' => 'de ellos',
+        'morph' => 'P-GPM',
+        'ref' => 'mt 12:9',
+      ),
+      40 => 
+      array (
+        'word' => 'αὐτῶν',
+        'spa' => 'de ellos',
+        'morph' => 'P-GPM',
+        'ref' => 'mt 12:25',
+      ),
     ),
     'auto' => 
     array (
@@ -5902,6 +6679,13 @@ $concordance = array (
         'spa' => 'mismo',
         'morph' => 'P-ASN',
         'ref' => 'mt 5:47',
+      ),
+      3 => 
+      array (
+        'word' => 'αὐτὸ',
+        'spa' => 'a ella',
+        'morph' => 'P-ASN',
+        'ref' => 'mt 12:11',
       ),
     ),
     'auton' => 
@@ -6060,6 +6844,41 @@ $concordance = array (
         'morph' => 'P-ASM',
         'ref' => 'mt 10:33',
       ),
+      22 => 
+      array (
+        'word' => 'αὐτὸν',
+        'spa' => 'a él',
+        'morph' => 'P-ASM',
+        'ref' => 'mt 12:10',
+      ),
+      23 => 
+      array (
+        'word' => 'αὐτὸν',
+        'spa' => 'a él',
+        'morph' => 'P-ASM',
+        'ref' => 'mt 12:14',
+      ),
+      24 => 
+      array (
+        'word' => 'αὐτὸν',
+        'spa' => 'a él',
+        'morph' => 'P-ASM',
+        'ref' => 'mt 12:16',
+      ),
+      25 => 
+      array (
+        'word' => 'αὐτόν',
+        'spa' => 'él',
+        'morph' => 'P-ASM',
+        'ref' => 'mt 12:18',
+      ),
+      26 => 
+      array (
+        'word' => 'αὐτόν',
+        'spa' => 'a él',
+        'morph' => 'P-ASM',
+        'ref' => 'mt 12:22',
+      ),
     ),
     'autois' => 
     array (
@@ -6189,6 +7008,41 @@ $concordance = array (
         'morph' => 'P-DPM',
         'ref' => 'mt 11:4',
       ),
+      18 => 
+      array (
+        'word' => 'αὐτοῖς',
+        'spa' => 'a ellos',
+        'morph' => 'P-DPM',
+        'ref' => 'mt 12:3',
+      ),
+      19 => 
+      array (
+        'word' => 'αὐτοῖς',
+        'spa' => 'a ellos',
+        'morph' => 'P-DPM',
+        'ref' => 'mt 12:11',
+      ),
+      20 => 
+      array (
+        'word' => 'αὐτοῖς',
+        'spa' => 'a ellos',
+        'morph' => 'P-DPM',
+        'ref' => 'mt 12:16',
+      ),
+      21 => 
+      array (
+        'word' => 'αὐτοῖς',
+        'spa' => 'a ellos',
+        'morph' => 'P-DPM',
+        'ref' => 'mt 12:25',
+      ),
+      22 => 
+      array (
+        'word' => 'αὐτοῖς',
+        'spa' => 'a ellos',
+        'morph' => 'P-DPM',
+        'ref' => 'mt 12:39',
+      ),
     ),
     'autoi' => 
     array (
@@ -6233,6 +7087,13 @@ $concordance = array (
         'spa' => 'ellos',
         'morph' => 'P-NPM',
         'ref' => 'mt 5:9',
+      ),
+      6 => 
+      array (
+        'word' => 'αὐτοὶ',
+        'spa' => 'ellos',
+        'morph' => 'P-NPM',
+        'ref' => 'mt 12:27',
       ),
     ),
     'auta' => 
@@ -6463,6 +7324,37 @@ $concordance = array (
         'spa' => 'perdonar',
         'morph' => 'V-PAN',
         'ref' => 'mt 9:6',
+      ),
+    ),
+    'aphethēsetai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἀφεθήσεται',
+        'spa' => 'será perdonado',
+        'morph' => 'V-FPI-3S',
+        'ref' => 'mt 12:31',
+      ),
+      1 => 
+      array (
+        'word' => 'ἀφεθήσεται',
+        'spa' => 'será perdonado',
+        'morph' => 'V-FPI-3S',
+        'ref' => 'mt 12:31',
+      ),
+      2 => 
+      array (
+        'word' => 'ἀφεθήσεται',
+        'spa' => 'será perdonado',
+        'morph' => 'V-FPI-3S',
+        'ref' => 'mt 12:32',
+      ),
+      3 => 
+      array (
+        'word' => 'ἀφεθήσεται',
+        'spa' => 'será perdonado',
+        'morph' => 'V-FPI-3S',
+        'ref' => 'mt 12:32',
       ),
     ),
   ),
@@ -6926,6 +7818,27 @@ $concordance = array (
         'morph' => 'N-NSF',
         'ref' => 'mt 11:12',
       ),
+      7 => 
+      array (
+        'word' => 'βασιλεία',
+        'spa' => 'reino',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:25',
+      ),
+      8 => 
+      array (
+        'word' => 'βασιλεία',
+        'spa' => 'reino',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:26',
+      ),
+      9 => 
+      array (
+        'word' => 'βασιλεία',
+        'spa' => 'reino',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:28',
+      ),
     ),
     'basileias' => 
     array (
@@ -7101,6 +8014,19 @@ $concordance = array (
       ),
     ),
   ),
+  938 => 
+  array (
+    'basilissa' => 
+    array (
+      0 => 
+      array (
+        'word' => 'βασίλισσα',
+        'spa' => 'reina',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:42',
+      ),
+    ),
+  ),
   941 => 
   array (
     'bastasai' => 
@@ -7137,6 +8063,19 @@ $concordance = array (
       ),
     ),
   ),
+  953 => 
+  array (
+    'bebēlousin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'βεβηλοῦσιν',
+        'spa' => 'profanan',
+        'morph' => 'V-PAI-3P',
+        'ref' => 'mt 12:5',
+      ),
+    ),
+  ),
   954 => 
   array (
     'beelzeboul' => 
@@ -7147,6 +8086,20 @@ $concordance = array (
         'spa' => 'Beelzebu',
         'morph' => 'N-PRI',
         'ref' => 'mt 10:25',
+      ),
+      1 => 
+      array (
+        'word' => 'Βεελζεβοὺλ',
+        'spa' => 'Beelzebu',
+        'morph' => 'N-PRI',
+        'ref' => 'mt 12:24',
+      ),
+      2 => 
+      array (
+        'word' => 'Βεελζεβοὺλ',
+        'spa' => 'Beelzebu',
+        'morph' => 'N-PRI',
+        'ref' => 'mt 12:27',
       ),
     ),
   ),
@@ -7256,6 +8209,26 @@ $concordance = array (
       ),
     ),
   ),
+  988 => 
+  array (
+    'blasphēmia' => 
+    array (
+      0 => 
+      array (
+        'word' => 'βλασφημία',
+        'spa' => 'blasfemia',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:31',
+      ),
+      1 => 
+      array (
+        'word' => 'βλασφημία',
+        'spa' => 'blasfemia',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:31',
+      ),
+    ),
+  ),
   991 => 
   array (
     'blepōn' => 
@@ -7309,6 +8282,16 @@ $concordance = array (
         'ref' => 'mt 11:4',
       ),
     ),
+    'blepein' => 
+    array (
+      0 => 
+      array (
+        'word' => 'βλέπειν',
+        'spa' => 'ver',
+        'morph' => 'V-PAN',
+        'ref' => 'mt 12:22',
+      ),
+    ),
   ),
   994 => 
   array (
@@ -7320,6 +8303,19 @@ $concordance = array (
         'spa' => 'clamando',
         'morph' => 'V-PAP-GSM',
         'ref' => 'mt 3:3',
+      ),
+    ),
+  ),
+  999 => 
+  array (
+    'bothunon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'βόθυνον',
+        'spa' => 'hoyo',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:11',
       ),
     ),
   ),
@@ -7919,6 +8915,48 @@ $concordance = array (
         'morph' => 'CONJ',
         'ref' => 'mt 11:30',
       ),
+      51 => 
+      array (
+        'word' => 'γάρ',
+        'spa' => '← porque',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:8',
+      ),
+      52 => 
+      array (
+        'word' => 'γὰρ',
+        'spa' => '← porque',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:33',
+      ),
+      53 => 
+      array (
+        'word' => 'γὰρ',
+        'spa' => '← porque',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:34',
+      ),
+      54 => 
+      array (
+        'word' => 'γὰρ',
+        'spa' => '← porque',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:37',
+      ),
+      55 => 
+      array (
+        'word' => 'γὰρ',
+        'spa' => '← porque',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:40',
+      ),
+      56 => 
+      array (
+        'word' => 'γὰρ',
+        'spa' => '← porque',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:50',
+      ),
     ),
   ),
   1064 => 
@@ -8037,6 +9075,13 @@ $concordance = array (
         'morph' => 'N-NPF',
         'ref' => 'mt 1:17',
       ),
+      4 => 
+      array (
+        'word' => 'γενεᾷ',
+        'spa' => 'generación',
+        'morph' => 'N-DSF',
+        'ref' => 'mt 12:45',
+      ),
     ),
     'genean' => 
     array (
@@ -8046,6 +9091,33 @@ $concordance = array (
         'spa' => 'generación',
         'morph' => 'N-ASF',
         'ref' => 'mt 11:16',
+      ),
+    ),
+    'genea' => 
+    array (
+      0 => 
+      array (
+        'word' => 'Γενεὰ',
+        'spa' => 'Generación',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:39',
+      ),
+    ),
+    'geneas' => 
+    array (
+      0 => 
+      array (
+        'word' => 'γενεᾶς',
+        'spa' => 'generación',
+        'morph' => 'N-GSF',
+        'ref' => 'mt 12:41',
+      ),
+      1 => 
+      array (
+        'word' => 'γενεᾶς',
+        'spa' => 'generación',
+        'morph' => 'N-GSF',
+        'ref' => 'mt 12:42',
       ),
     ),
   ),
@@ -8402,6 +9474,13 @@ $concordance = array (
         'morph' => 'N-VPN',
         'ref' => 'mt 3:7',
       ),
+      1 => 
+      array (
+        'word' => 'γεννήματα',
+        'spa' => 'descendencia',
+        'morph' => 'N-VPN',
+        'ref' => 'mt 12:34',
+      ),
     ),
   ),
   1084 => 
@@ -8531,6 +9610,20 @@ $concordance = array (
         'spa' => 'tierra',
         'morph' => 'N-GSF',
         'ref' => 'mt 11:25',
+      ),
+      5 => 
+      array (
+        'word' => 'γῆς',
+        'spa' => 'tierra',
+        'morph' => 'N-GSF',
+        'ref' => 'mt 12:40',
+      ),
+      6 => 
+      array (
+        'word' => 'γῆς',
+        'spa' => 'tierra',
+        'morph' => 'N-GSF',
+        'ref' => 'mt 12:42',
       ),
     ),
     'gēi' => 
@@ -8719,6 +9812,13 @@ $concordance = array (
         'morph' => 'V-PMI-3S',
         'ref' => 'mt 9:16',
       ),
+      1 => 
+      array (
+        'word' => 'γίνεται',
+        'spa' => 'se hace',
+        'morph' => 'V-PMI-3S',
+        'ref' => 'mt 12:45',
+      ),
     ),
     'egenonto' => 
     array (
@@ -8817,6 +9917,36 @@ $concordance = array (
         'ref' => 'mt 10:26',
       ),
     ),
+    'egnōkeite' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐγνώκειτε',
+        'spa' => 'han conocido',
+        'morph' => 'V-LAI-2P',
+        'ref' => 'mt 12:7',
+      ),
+    ),
+    'gnous' => 
+    array (
+      0 => 
+      array (
+        'word' => 'γνοὺς',
+        'spa' => 'conociendo',
+        'morph' => 'V-2AAP-NSM',
+        'ref' => 'mt 12:15',
+      ),
+    ),
+    'ginōsketai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'γινώσκεται',
+        'spa' => 'es conocido',
+        'morph' => 'V-PPI-3S',
+        'ref' => 'mt 12:33',
+      ),
+    ),
   ),
   1116 => 
   array (
@@ -8878,6 +10008,13 @@ $concordance = array (
         'spa' => 'escribas',
         'morph' => 'N-GPM',
         'ref' => 'mt 9:3',
+      ),
+      2 => 
+      array (
+        'word' => 'γραμματέων',
+        'spa' => 'escribas',
+        'morph' => 'N-GPM',
+        'ref' => 'mt 12:38',
       ),
     ),
     'grammateus' => 
@@ -9073,6 +10210,20 @@ $concordance = array (
         'morph' => 'N-PRI',
         'ref' => 'mt 9:27',
       ),
+      7 => 
+      array (
+        'word' => 'Δαυὶδ',
+        'spa' => 'David',
+        'morph' => 'N-PRI',
+        'ref' => 'mt 12:3',
+      ),
+      8 => 
+      array (
+        'word' => 'Δαυίδ',
+        'spa' => 'De David',
+        'morph' => 'N-PRI',
+        'ref' => 'mt 12:23',
+      ),
     ),
   ),
   1139 => 
@@ -9124,6 +10275,16 @@ $concordance = array (
         'ref' => 'mt 9:32',
       ),
     ),
+    'daimonizomenos' => 
+    array (
+      0 => 
+      array (
+        'word' => 'δαιμονιζόμενος',
+        'spa' => 'endemoniado',
+        'morph' => 'V-PMP-NSM',
+        'ref' => 'mt 12:22',
+      ),
+    ),
   ),
   1140 => 
   array (
@@ -9150,6 +10311,27 @@ $concordance = array (
         'morph' => 'N-APN',
         'ref' => 'mt 10:8',
       ),
+      3 => 
+      array (
+        'word' => 'δαιμόνια',
+        'spa' => 'demonios',
+        'morph' => 'N-APN',
+        'ref' => 'mt 12:24',
+      ),
+      4 => 
+      array (
+        'word' => 'δαιμόνια',
+        'spa' => 'demonios',
+        'morph' => 'N-APN',
+        'ref' => 'mt 12:27',
+      ),
+      5 => 
+      array (
+        'word' => 'δαιμόνια',
+        'spa' => 'demonios',
+        'morph' => 'N-APN',
+        'ref' => 'mt 12:28',
+      ),
     ),
     'daimoniou' => 
     array (
@@ -9169,6 +10351,13 @@ $concordance = array (
         'spa' => 'demonios',
         'morph' => 'N-GPN',
         'ref' => 'mt 9:34',
+      ),
+      1 => 
+      array (
+        'word' => 'δαιμονίων',
+        'spa' => 'demonios',
+        'morph' => 'N-GPN',
+        'ref' => 'mt 12:24',
       ),
     ),
     'daimonion' => 
@@ -10283,6 +11472,132 @@ $concordance = array (
         'morph' => 'CONJ',
         'ref' => 'mt 11:16',
       ),
+      153 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:1',
+      ),
+      154 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:2',
+      ),
+      155 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:3',
+      ),
+      156 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:6',
+      ),
+      157 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:7',
+      ),
+      158 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:11',
+      ),
+      159 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:14',
+      ),
+      160 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:15',
+      ),
+      161 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:24',
+      ),
+      162 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:25',
+      ),
+      163 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:28',
+      ),
+      164 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:31',
+      ),
+      165 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:36',
+      ),
+      166 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:39',
+      ),
+      167 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:43',
+      ),
+      168 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:46',
+      ),
+      169 => 
+      array (
+        'word' => 'δέ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:47',
+      ),
+      170 => 
+      array (
+        'word' => 'δὲ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:48',
+      ),
     ),
     'd' => 
     array (
@@ -10327,6 +11642,13 @@ $concordance = array (
         'spa' => '← pero',
         'morph' => 'CONJ',
         'ref' => 'mt 10:33',
+      ),
+      6 => 
+      array (
+        'word' => 'δ',
+        'spa' => '← pero',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:32',
       ),
     ),
   ),
@@ -10487,6 +11809,27 @@ $concordance = array (
         'spa' => 'árbol',
         'morph' => 'N-NSN',
         'ref' => 'mt 7:19',
+      ),
+      6 => 
+      array (
+        'word' => 'δένδρον',
+        'spa' => 'árbol',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:33',
+      ),
+      7 => 
+      array (
+        'word' => 'δένδρον',
+        'spa' => 'árbol',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:33',
+      ),
+      8 => 
+      array (
+        'word' => 'δένδρον',
+        'spa' => 'árbol',
+        'morph' => 'N-NSN',
+        'ref' => 'mt 12:33',
       ),
     ),
   ),
@@ -10660,6 +12003,19 @@ $concordance = array (
       ),
     ),
   ),
+  1210 => 
+  array (
+    'dēsēi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'δήσῃ',
+        'spa' => 'atare',
+        'morph' => 'V-AAS-3S',
+        'ref' => 'mt 12:29',
+      ),
+    ),
+  ),
   1223 => 
   array (
     'dia' => 
@@ -10776,6 +12132,34 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 11:2',
       ),
+      16 => 
+      array (
+        'word' => 'διὰ',
+        'spa' => 'a travéz',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:1',
+      ),
+      17 => 
+      array (
+        'word' => 'διὰ',
+        'spa' => 'a travéz',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:17',
+      ),
+      18 => 
+      array (
+        'word' => 'διὰ',
+        'spa' => 'por',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:27',
+      ),
+      19 => 
+      array (
+        'word' => 'διὰ',
+        'spa' => 'por',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:31',
+      ),
     ),
     'di' => 
     array (
@@ -10792,6 +12176,13 @@ $concordance = array (
         'spa' => 'a través',
         'morph' => 'PREP',
         'ref' => 'mt 7:13',
+      ),
+      2 => 
+      array (
+        'word' => 'δι',
+        'spa' => 'a través',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:43',
       ),
     ),
   ),
@@ -10920,6 +12311,19 @@ $concordance = array (
       ),
     ),
   ),
+  1283 => 
+  array (
+    'diarpasei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'διαρπάσει',
+        'spa' => 'saqueará',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:29',
+      ),
+    ),
+  ),
   1299 => 
   array (
     'diatassōn' => 
@@ -10952,6 +12356,16 @@ $concordance = array (
         'ref' => 'mt 10:31',
       ),
     ),
+    'diapherei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'διαφέρει',
+        'spa' => 'vale',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:12',
+      ),
+    ),
   ),
   1310 => 
   array (
@@ -10976,6 +12390,13 @@ $concordance = array (
         'spa' => 'Maestro',
         'morph' => 'N-VSM',
         'ref' => 'mt 8:19',
+      ),
+      1 => 
+      array (
+        'word' => 'Διδάσκαλε',
+        'spa' => 'Maestro',
+        'morph' => 'N-VSM',
+        'ref' => 'mt 12:38',
       ),
     ),
     'didaskalos' => 
@@ -11148,6 +12569,13 @@ $concordance = array (
         'morph' => 'V-FPI-3S',
         'ref' => 'mt 10:19',
       ),
+      2 => 
+      array (
+        'word' => 'δοθήσεται',
+        'spa' => 'será dado',
+        'morph' => 'V-FPI-3S',
+        'ref' => 'mt 12:39',
+      ),
     ),
     'didonai' => 
     array (
@@ -11197,6 +12625,19 @@ $concordance = array (
         'spa' => 'den',
         'morph' => 'V-2AAM-2P',
         'ref' => 'mt 10:8',
+      ),
+    ),
+  ),
+  1330 => 
+  array (
+    'dierchetai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'διέρχεται',
+        'spa' => 'atravieza',
+        'morph' => 'V-PMI-3S',
+        'ref' => 'mt 12:43',
       ),
     ),
   ),
@@ -11334,6 +12775,16 @@ $concordance = array (
         'spa' => 'fue justificada',
         'morph' => 'V-API-3S',
         'ref' => 'mt 11:19',
+      ),
+    ),
+    'dikaiōthēsēi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'δικαιωθήσῃ',
+        'spa' => 'serás justificado',
+        'morph' => 'V-FPI-2S',
+        'ref' => 'mt 12:37',
       ),
     ),
   ),
@@ -11667,6 +13118,13 @@ $concordance = array (
         'morph' => 'V-PMI-3S',
         'ref' => 'mt 7:18',
       ),
+      5 => 
+      array (
+        'word' => 'δύναταί',
+        'spa' => 'puede',
+        'morph' => 'V-PMI-3S',
+        'ref' => 'mt 12:29',
+      ),
     ),
     'dunasai' => 
     array (
@@ -11693,6 +13151,13 @@ $concordance = array (
         'spa' => 'pueden',
         'morph' => 'V-PMI-2P',
         'ref' => 'mt 6:24',
+      ),
+      1 => 
+      array (
+        'word' => 'δύνασθε',
+        'spa' => 'pueden',
+        'morph' => 'V-PMI-2P',
+        'ref' => 'mt 12:34',
       ),
     ),
     'dunantai' => 
@@ -12110,6 +13575,27 @@ $concordance = array (
         'morph' => 'COND',
         'ref' => 'mt 11:27',
       ),
+      20 => 
+      array (
+        'word' => 'ἐὰν',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:11',
+      ),
+      21 => 
+      array (
+        'word' => 'ἐὰν',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:29',
+      ),
+      22 => 
+      array (
+        'word' => 'ἐὰν',
+        'spa' => 'sea',
+        'morph' => 'COND',
+        'ref' => 'mt 12:32',
+      ),
     ),
   ),
   1438 => 
@@ -12149,6 +13635,50 @@ $concordance = array (
         'spa' => 'sí misma',
         'morph' => 'F-3DSF',
         'ref' => 'mt 9:21',
+      ),
+    ),
+    'heautēs' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἑαυτῆς',
+        'spa' => 'sí mismo',
+        'morph' => 'F-3GSF',
+        'ref' => 'mt 12:25',
+      ),
+      1 => 
+      array (
+        'word' => 'ἑαυτῆς',
+        'spa' => 'sí misma',
+        'morph' => 'F-3GSF',
+        'ref' => 'mt 12:25',
+      ),
+    ),
+    'heauton' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἑαυτὸν',
+        'spa' => 'sí mismo',
+        'morph' => 'F-3ASM',
+        'ref' => 'mt 12:26',
+      ),
+    ),
+    'heautou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἑαυτοῦ',
+        'spa' => 'él mismo',
+        'morph' => 'F-3GSM',
+        'ref' => 'mt 12:45',
+      ),
+      1 => 
+      array (
+        'word' => 'ἑαυτοῦ',
+        'spa' => 'que él mismo',
+        'morph' => 'F-3GSM',
+        'ref' => 'mt 12:45',
       ),
     ),
   ),
@@ -12324,6 +13854,26 @@ $concordance = array (
         'ref' => 'mt 11:11',
       ),
     ),
+    'egerei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐγερεῖ',
+        'spa' => 'levantará',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:11',
+      ),
+    ),
+    'egerthēsetai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐγερθήσεται',
+        'spa' => 'será levantada',
+        'morph' => 'V-FPI-3S',
+        'ref' => 'mt 12:42',
+      ),
+    ),
   ),
   1473 => 
   array (
@@ -12413,6 +13963,20 @@ $concordance = array (
         'morph' => 'P-1NS',
         'ref' => 'mt 11:10',
       ),
+      12 => 
+      array (
+        'word' => 'ἐγὼ',
+        'spa' => 'yo',
+        'morph' => 'P-1NS',
+        'ref' => 'mt 12:27',
+      ),
+      13 => 
+      array (
+        'word' => 'ἐγὼ',
+        'spa' => 'yo',
+        'morph' => 'P-1NS',
+        'ref' => 'mt 12:28',
+      ),
     ),
   ),
   1478 => 
@@ -12486,6 +14050,13 @@ $concordance = array (
         'morph' => 'N-NPN',
         'ref' => 'mt 6:32',
       ),
+      1 => 
+      array (
+        'word' => 'ἔθνη',
+        'spa' => 'naciones',
+        'morph' => 'N-NPN',
+        'ref' => 'mt 12:21',
+      ),
     ),
     'ethnesin' => 
     array (
@@ -12495,6 +14066,13 @@ $concordance = array (
         'spa' => 'naciones',
         'morph' => 'N-DPN',
         'ref' => 'mt 10:18',
+      ),
+      1 => 
+      array (
+        'word' => 'ἔθνεσιν',
+        'spa' => 'naciones',
+        'morph' => 'N-DPN',
+        'ref' => 'mt 12:18',
       ),
     ),
   ),
@@ -12628,6 +14206,62 @@ $concordance = array (
         'morph' => 'COND',
         'ref' => 'mt 11:27',
       ),
+      18 => 
+      array (
+        'word' => 'εἰ',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:4',
+      ),
+      19 => 
+      array (
+        'word' => 'εἰ',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:7',
+      ),
+      20 => 
+      array (
+        'word' => 'Εἰ',
+        'spa' => 'Si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:10',
+      ),
+      21 => 
+      array (
+        'word' => 'εἰ',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:24',
+      ),
+      22 => 
+      array (
+        'word' => 'εἰ',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:26',
+      ),
+      23 => 
+      array (
+        'word' => 'εἰ',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:27',
+      ),
+      24 => 
+      array (
+        'word' => 'εἰ',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:28',
+      ),
+      25 => 
+      array (
+        'word' => 'εἰ',
+        'spa' => 'si',
+        'morph' => 'COND',
+        'ref' => 'mt 12:39',
+      ),
     ),
   ),
   1488 => 
@@ -12715,6 +14349,13 @@ $concordance = array (
         'spa' => 'viendo',
         'morph' => 'V-2AAP-NPM',
         'ref' => 'mt 9:11',
+      ),
+      4 => 
+      array (
+        'word' => 'ἰδόντες',
+        'spa' => 'viendo',
+        'morph' => 'V-2AAP-NPM',
+        'ref' => 'mt 12:2',
       ),
     ),
     'idōn' => 
@@ -12860,6 +14501,13 @@ $concordance = array (
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 9:4',
       ),
+      1 => 
+      array (
+        'word' => 'εἰδὼς',
+        'spa' => 'habiendo visto',
+        'morph' => 'V-RAP-NSM',
+        'ref' => 'mt 12:25',
+      ),
     ),
     'eidēte' => 
     array (
@@ -12886,6 +14534,13 @@ $concordance = array (
         'spa' => 'ver',
         'morph' => 'V-2AAN',
         'ref' => 'mt 11:9',
+      ),
+      2 => 
+      array (
+        'word' => 'ἰδεῖν',
+        'spa' => 'ver',
+        'morph' => 'V-2AAN',
+        'ref' => 'mt 12:38',
       ),
     ),
   ),
@@ -13533,6 +15188,62 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 11:7',
       ),
+      78 => 
+      array (
+        'word' => 'εἰς',
+        'spa' => 'hacia',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:4',
+      ),
+      79 => 
+      array (
+        'word' => 'εἰς',
+        'spa' => 'hacia',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:9',
+      ),
+      80 => 
+      array (
+        'word' => 'εἰς',
+        'spa' => 'hacia',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:11',
+      ),
+      81 => 
+      array (
+        'word' => 'εἰς',
+        'spa' => 'hacia',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:18',
+      ),
+      82 => 
+      array (
+        'word' => 'εἰς',
+        'spa' => 'hacia',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:20',
+      ),
+      83 => 
+      array (
+        'word' => 'εἰς',
+        'spa' => 'hacia',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:29',
+      ),
+      84 => 
+      array (
+        'word' => 'εἰς',
+        'spa' => 'por',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:41',
+      ),
+      85 => 
+      array (
+        'word' => 'Εἰς',
+        'spa' => 'Hacia',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:44',
+      ),
     ),
   ),
   1520 => 
@@ -13580,6 +15291,13 @@ $concordance = array (
         'spa' => 'uno',
         'morph' => 'A-NSN',
         'ref' => 'mt 10:29',
+      ),
+      6 => 
+      array (
+        'word' => 'ἕν',
+        'spa' => 'una',
+        'morph' => 'A-ASN',
+        'ref' => 'mt 12:11',
       ),
     ),
     'mia' => 
@@ -13685,6 +15403,13 @@ $concordance = array (
         'morph' => 'V-2AAI-3S',
         'ref' => 'mt 2:21',
       ),
+      1 => 
+      array (
+        'word' => 'εἰσῆλθεν',
+        'spa' => 'entró',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:4',
+      ),
     ),
     'eiselthēte' => 
     array (
@@ -13787,6 +15512,26 @@ $concordance = array (
         'ref' => 'mt 9:25',
       ),
     ),
+    'eiselthein' => 
+    array (
+      0 => 
+      array (
+        'word' => 'εἰσελθεῖν',
+        'spa' => 'entrar',
+        'morph' => 'V-2AAN',
+        'ref' => 'mt 12:29',
+      ),
+    ),
+    'eiselthonta' => 
+    array (
+      0 => 
+      array (
+        'word' => 'εἰσελθόντα',
+        'spa' => 'habiendo entrado',
+        'morph' => 'V-2AAP-NPN',
+        'ref' => 'mt 12:45',
+      ),
+    ),
   ),
   1526 => 
   array (
@@ -13833,6 +15578,20 @@ $concordance = array (
         'spa' => 'están',
         'morph' => 'V-PAI-3P',
         'ref' => 'mt 11:8',
+      ),
+      6 => 
+      array (
+        'word' => 'εἰσιν',
+        'spa' => 'son',
+        'morph' => 'V-PAI-3P',
+        'ref' => 'mt 12:5',
+      ),
+      7 => 
+      array (
+        'word' => 'εἰσὶν',
+        'spa' => 'son',
+        'morph' => 'V-PAI-3P',
+        'ref' => 'mt 12:48',
       ),
     ),
   ),
@@ -13951,6 +15710,55 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 8:28',
       ),
+      14 => 
+      array (
+        'word' => 'ἐκ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:33',
+      ),
+      15 => 
+      array (
+        'word' => 'ἐκ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:34',
+      ),
+      16 => 
+      array (
+        'word' => 'ἐκ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:35',
+      ),
+      17 => 
+      array (
+        'word' => 'ἐκ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:35',
+      ),
+      18 => 
+      array (
+        'word' => 'ἐκ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:37',
+      ),
+      19 => 
+      array (
+        'word' => 'ἐκ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:37',
+      ),
+      20 => 
+      array (
+        'word' => 'ἐκ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:42',
+      ),
     ),
     'ex' => 
     array (
@@ -13988,6 +15796,13 @@ $concordance = array (
         'spa' => 'de',
         'morph' => 'PREP',
         'ref' => 'mt 10:29',
+      ),
+      5 => 
+      array (
+        'word' => 'ἐξ',
+        'spa' => 'de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:11',
       ),
     ),
   ),
@@ -14122,6 +15937,34 @@ $concordance = array (
         'morph' => 'V-PAI-3S',
         'ref' => 'mt 9:34',
       ),
+      1 => 
+      array (
+        'word' => 'ἐκβάλλει',
+        'spa' => 'expulsa',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:24',
+      ),
+      2 => 
+      array (
+        'word' => 'ἐκβάλλει',
+        'spa' => 'expulsa',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:26',
+      ),
+      3 => 
+      array (
+        'word' => 'ἐκβάλλει',
+        'spa' => 'saca',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:35',
+      ),
+      4 => 
+      array (
+        'word' => 'ἐκβάλλει',
+        'spa' => 'saca',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:35',
+      ),
     ),
     'ekbalēi' => 
     array (
@@ -14131,6 +15974,13 @@ $concordance = array (
         'spa' => 'saque',
         'morph' => 'V-2AAS-3S',
         'ref' => 'mt 9:38',
+      ),
+      1 => 
+      array (
+        'word' => 'ἐκβάλῃ',
+        'spa' => 'saque',
+        'morph' => 'V-2AAS-3S',
+        'ref' => 'mt 12:20',
       ),
     ),
     'ekballein' => 
@@ -14151,6 +16001,33 @@ $concordance = array (
         'spa' => 'expulsen',
         'morph' => 'V-PAM-2P',
         'ref' => 'mt 10:8',
+      ),
+    ),
+    'ekballō' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐκβάλλω',
+        'spa' => 'expulso',
+        'morph' => 'V-PAI-1S',
+        'ref' => 'mt 12:27',
+      ),
+      1 => 
+      array (
+        'word' => 'ἐκβάλλω',
+        'spa' => 'expulso',
+        'morph' => 'V-PAI-1S',
+        'ref' => 'mt 12:28',
+      ),
+    ),
+    'ekballousin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐκβάλλουσιν',
+        'spa' => 'expulsan',
+        'morph' => 'V-PAI-3P',
+        'ref' => 'mt 12:27',
       ),
     ),
   ),
@@ -14200,6 +16077,13 @@ $concordance = array (
         'morph' => 'ADV',
         'ref' => 'mt 8:12',
       ),
+      6 => 
+      array (
+        'word' => 'ἐκεῖ',
+        'spa' => 'allí',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:45',
+      ),
     ),
   ),
   1564 => 
@@ -14240,6 +16124,20 @@ $concordance = array (
         'spa' => 'de alli',
         'morph' => 'ADV',
         'ref' => 'mt 11:1',
+      ),
+      5 => 
+      array (
+        'word' => 'ἐκεῖθεν',
+        'spa' => 'de alli',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:9',
+      ),
+      6 => 
+      array (
+        'word' => 'ἐκεῖθεν',
+        'spa' => 'de alli',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:15',
       ),
     ),
   ),
@@ -14350,6 +16248,23 @@ $concordance = array (
         'morph' => 'D-DSM',
         'ref' => 'mt 11:25',
       ),
+      1 => 
+      array (
+        'word' => 'ἐκείνῳ',
+        'spa' => 'aquel',
+        'morph' => 'D-DSM',
+        'ref' => 'mt 12:1',
+      ),
+    ),
+    'ekeinou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐκείνου',
+        'spa' => 'aquel',
+        'morph' => 'D-GSM',
+        'ref' => 'mt 12:45',
+      ),
     ),
   ),
   1581 => 
@@ -14441,6 +16356,33 @@ $concordance = array (
         'spa' => 'habiendo extendido',
         'morph' => 'V-AAP-NSF',
         'ref' => 'mt 8:3',
+      ),
+      1 => 
+      array (
+        'word' => 'ἐκτείνας',
+        'spa' => 'habiendo extendido',
+        'morph' => 'V-AAP-NSF',
+        'ref' => 'mt 12:49',
+      ),
+    ),
+    'ekteinon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'Ἔκτεινόν',
+        'spa' => 'Extiende',
+        'morph' => 'V-AAM-2S',
+        'ref' => 'mt 12:13',
+      ),
+    ),
+    'exeteinen' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐξέτεινεν',
+        'spa' => 'extendio',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:13',
       ),
     ),
   ),
@@ -14613,6 +16555,13 @@ $concordance = array (
         'morph' => 'N-ASN',
         'ref' => 'mt 9:13',
       ),
+      1 => 
+      array (
+        'word' => 'Ἔλεος',
+        'spa' => 'Misericordia',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:7',
+      ),
     ),
   ),
   1662 => 
@@ -14652,6 +16601,19 @@ $concordance = array (
         'spa' => 'Eliud',
         'morph' => 'N-PRI',
         'ref' => 'mt 1:15',
+      ),
+    ),
+  ),
+  1679 => 
+  array (
+    'elpiousin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐλπιοῦσιν',
+        'spa' => 'esperarán',
+        'morph' => 'V-FAI-3P-ATT',
+        'ref' => 'mt 12:21',
       ),
     ),
   ),
@@ -14823,6 +16785,27 @@ $concordance = array (
         'morph' => 'P-1GS',
         'ref' => 'mt 11:29',
       ),
+      5 => 
+      array (
+        'word' => 'ἐμοῦ',
+        'spa' => 'mí',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:30',
+      ),
+      6 => 
+      array (
+        'word' => 'ἐμοῦ',
+        'spa' => 'mí',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:30',
+      ),
+      7 => 
+      array (
+        'word' => 'ἐμοῦ',
+        'spa' => 'mí',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:30',
+      ),
     ),
   ),
   1702 => 
@@ -14835,6 +16818,19 @@ $concordance = array (
         'spa' => 'fue burlado',
         'morph' => 'V-API-3S',
         'ref' => 'mt 2:16',
+      ),
+    ),
+  ),
+  1706 => 
+  array (
+    'empesēi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐμπέσῃ',
+        'spa' => 'cayera',
+        'morph' => 'V-2AAS-3S',
+        'ref' => 'mt 12:11',
       ),
     ),
   ),
@@ -15719,9 +17715,128 @@ $concordance = array (
       113 => 
       array (
         'word' => 'Ἐν',
-        'spa' => '-',
+        'spa' => 'En',
         'morph' => 'PREP',
         'ref' => 'mt 12:1',
+      ),
+      114 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:2',
+      ),
+      115 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:5',
+      ),
+      116 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:5',
+      ),
+      117 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:19',
+      ),
+      118 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:24',
+      ),
+      119 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:27',
+      ),
+      120 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:27',
+      ),
+      121 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:28',
+      ),
+      122 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:32',
+      ),
+      123 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:32',
+      ),
+      124 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:36',
+      ),
+      125 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:40',
+      ),
+      126 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:40',
+      ),
+      127 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:41',
+      ),
+      128 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:42',
+      ),
+      129 => 
+      array (
+        'word' => 'ἐν',
+        'spa' => 'en',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:50',
+      ),
+      130 => 
+      array (
+        'word' => 'Ἐν',
+        'spa' => 'En',
+        'morph' => 'PREP',
+        'ref' => 'mt 13:1',
       ),
     ),
   ),
@@ -15845,6 +17960,13 @@ $concordance = array (
         'spa' => 'pensamientos',
         'morph' => 'N-APF',
         'ref' => 'mt 9:4',
+      ),
+      1 => 
+      array (
+        'word' => 'ἐνθυμήσεις',
+        'spa' => 'pensamientos',
+        'morph' => 'N-APF',
+        'ref' => 'mt 12:25',
       ),
     ),
   ),
@@ -15976,6 +18098,13 @@ $concordance = array (
         'morph' => 'V-2AAP-NPM',
         'ref' => 'mt 9:31',
       ),
+      2 => 
+      array (
+        'word' => 'ἐξελθόντες',
+        'spa' => 'habiendo salido',
+        'morph' => 'V-2AAP-NPM',
+        'ref' => 'mt 12:14',
+      ),
     ),
     'exēlthen' => 
     array (
@@ -16038,6 +18167,66 @@ $concordance = array (
         'ref' => 'mt 11:9',
       ),
     ),
+    'exelthēi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐξέλθῃ',
+        'spa' => 'salió',
+        'morph' => 'V-2AAS-3S',
+        'ref' => 'mt 12:43',
+      ),
+    ),
+    'exēlthon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐξῆλθον',
+        'spa' => 'salí',
+        'morph' => 'V-2AAI-1S',
+        'ref' => 'mt 12:44',
+      ),
+    ),
+  ),
+  1832 => 
+  array (
+    'exestin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἔξεστιν',
+        'spa' => 'es lícito',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:2',
+      ),
+      1 => 
+      array (
+        'word' => 'ἔξεστιν',
+        'spa' => 'es lícito',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:12',
+      ),
+    ),
+    'exon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐξὸν',
+        'spa' => 'siendo lícito',
+        'morph' => 'V-PAP-NSN',
+        'ref' => 'mt 12:4',
+      ),
+    ),
+    'exesti' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἔξεστι',
+        'spa' => 'es lícito',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:10',
+      ),
+    ),
   ),
   1833 => 
   array (
@@ -16056,6 +18245,19 @@ $concordance = array (
         'spa' => 'busquen',
         'morph' => 'V-AAM-2P',
         'ref' => 'mt 10:11',
+      ),
+    ),
+  ),
+  1839 => 
+  array (
+    'existanto' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐξίσταντο',
+        'spa' => 'estaban atónitas',
+        'morph' => 'V-IMI-3P',
+        'ref' => 'mt 12:23',
       ),
     ),
   ),
@@ -16141,6 +18343,20 @@ $concordance = array (
         'morph' => 'ADV',
         'ref' => 'mt 10:14',
       ),
+      2 => 
+      array (
+        'word' => 'ἔξω',
+        'spa' => 'fuera',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:46',
+      ),
+      3 => 
+      array (
+        'word' => 'ἔξω',
+        'spa' => 'fuera',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:47',
+      ),
     ),
   ),
   1857 => 
@@ -16199,6 +18415,19 @@ $concordance = array (
         'spa' => 'sobre',
         'morph' => 'ADV',
         'ref' => 'mt 5:14',
+      ),
+    ),
+  ),
+  1905 => 
+  array (
+    'epērōtēsan' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐπηρώτησαν',
+        'spa' => 'preguntaron',
+        'morph' => 'V-AAI-3P',
+        'ref' => 'mt 12:10',
       ),
     ),
   ),
@@ -16388,6 +18617,13 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 10:34',
       ),
+      26 => 
+      array (
+        'word' => 'ἐπὶ',
+        'spa' => 'sobre',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:49',
+      ),
     ),
     'ep' => 
     array (
@@ -16419,6 +18655,13 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 10:13',
       ),
+      4 => 
+      array (
+        'word' => 'ἐπ',
+        'spa' => 'sobre',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:18',
+      ),
     ),
     'eph' => 
     array (
@@ -16435,6 +18678,20 @@ $concordance = array (
         'spa' => 'sobre',
         'morph' => 'PREP',
         'ref' => 'mt 11:29',
+      ),
+      2 => 
+      array (
+        'word' => 'ἐφ',
+        'spa' => 'contra',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:26',
+      ),
+      3 => 
+      array (
+        'word' => 'ἐφ',
+        'spa' => 'sobre',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:28',
       ),
     ),
   ),
@@ -16533,6 +18790,16 @@ $concordance = array (
         'ref' => 'mt 6:32',
       ),
     ),
+    'epizētei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐπιζητεῖ',
+        'spa' => 'busca',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:39',
+      ),
+    ),
   ),
   1937 => 
   array (
@@ -16598,6 +18865,16 @@ $concordance = array (
         'ref' => 'mt 10:13',
       ),
     ),
+    'epistrepsō' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐπιστρέψω',
+        'spa' => 'volveré',
+        'morph' => 'V-FAI-1S',
+        'ref' => 'mt 12:44',
+      ),
+    ),
   ),
   2007 => 
   array (
@@ -16623,6 +18900,13 @@ $concordance = array (
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 8:26',
       ),
+      1 => 
+      array (
+        'word' => 'ἐπετίμησεν',
+        'spa' => 'reprendió',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:16',
+      ),
     ),
   ),
   2010 => 
@@ -16635,6 +18919,19 @@ $concordance = array (
         'spa' => 'permite',
         'morph' => 'V-AAM-2S',
         'ref' => 'mt 8:21',
+      ),
+    ),
+  ),
+  2033 => 
+  array (
+    'hepta' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἑπτὰ',
+        'spa' => 'siete',
+        'morph' => 'A-APN',
+        'ref' => 'mt 12:45',
       ),
     ),
   ),
@@ -16768,6 +19065,55 @@ $concordance = array (
         'morph' => 'V-2AAI-3S',
         'ref' => 'mt 11:25',
       ),
+      18 => 
+      array (
+        'word' => 'εἶπεν',
+        'spa' => 'dijo',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:3',
+      ),
+      19 => 
+      array (
+        'word' => 'εἶπεν',
+        'spa' => 'dijo',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:11',
+      ),
+      20 => 
+      array (
+        'word' => 'εἶπεν',
+        'spa' => 'dijo',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:25',
+      ),
+      21 => 
+      array (
+        'word' => 'εἶπεν',
+        'spa' => 'dijo',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:39',
+      ),
+      22 => 
+      array (
+        'word' => 'εἶπεν',
+        'spa' => 'dijo',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:47',
+      ),
+      23 => 
+      array (
+        'word' => 'εἶπεν',
+        'spa' => 'dijo',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:48',
+      ),
+      24 => 
+      array (
+        'word' => 'εἶπεν',
+        'spa' => 'dijo',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:49',
+      ),
     ),
     'eipō' => 
     array (
@@ -16858,6 +19204,16 @@ $concordance = array (
         'spa' => 'digan',
         'morph' => 'V-2AAM-2P',
         'ref' => 'mt 10:27',
+      ),
+    ),
+    'eipon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'εἶπον',
+        'spa' => 'dijeron',
+        'morph' => 'V-2AAI-3P',
+        'ref' => 'mt 12:24',
       ),
     ),
   ),
@@ -16994,6 +19350,32 @@ $concordance = array (
         'spa' => 'desierto',
         'morph' => 'A-ASF',
         'ref' => 'mt 11:7',
+      ),
+    ),
+  ),
+  2049 => 
+  array (
+    'erēmoutai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐρημοῦται',
+        'spa' => 'es desolado',
+        'morph' => 'V-PPI-3S',
+        'ref' => 'mt 12:25',
+      ),
+    ),
+  ),
+  2051 => 
+  array (
+    'erisei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐρίσει',
+        'spa' => 'contenderá',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:19',
       ),
     ),
   ),
@@ -17288,6 +19670,20 @@ $concordance = array (
         'morph' => 'V-2AAI-3S',
         'ref' => 'mt 11:19',
       ),
+      3 => 
+      array (
+        'word' => 'ἦλθεν',
+        'spa' => 'vino',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:9',
+      ),
+      4 => 
+      array (
+        'word' => 'ἦλθεν',
+        'spa' => 'vino',
+        'morph' => 'V-2AAI-3S',
+        'ref' => 'mt 12:42',
+      ),
     ),
     'eleusontai' => 
     array (
@@ -17339,6 +19735,16 @@ $concordance = array (
         'ref' => 'mt 11:14',
       ),
     ),
+    'elthon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐλθὸν',
+        'spa' => 'habiendo venido',
+        'morph' => 'V-2AAP-NSN',
+        'ref' => 'mt 12:44',
+      ),
+    ),
   ),
   2068 => 
   array (
@@ -17367,6 +19773,26 @@ $concordance = array (
         'spa' => 'comiendo',
         'morph' => 'V-PAP-NSM',
         'ref' => 'mt 11:19',
+      ),
+    ),
+    'esthiein' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐσθίειν',
+        'spa' => 'comer',
+        'morph' => 'V-PAN',
+        'ref' => 'mt 12:1',
+      ),
+    ),
+    'ephagon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἔφαγον',
+        'spa' => 'comieron',
+        'morph' => 'V-2AAI-3P',
+        'ref' => 'mt 12:4',
       ),
     ),
   ),
@@ -17451,6 +19877,27 @@ $concordance = array (
         'morph' => 'V-FXI-3S',
         'ref' => 'mt 11:24',
       ),
+      11 => 
+      array (
+        'word' => 'ἔσται',
+        'spa' => 'será',
+        'morph' => 'V-FXI-3S',
+        'ref' => 'mt 12:11',
+      ),
+      12 => 
+      array (
+        'word' => 'ἔσται',
+        'spa' => 'estará',
+        'morph' => 'V-FXI-3S',
+        'ref' => 'mt 12:40',
+      ),
+      13 => 
+      array (
+        'word' => 'ἔσται',
+        'spa' => 'será',
+        'morph' => 'V-FXI-3S',
+        'ref' => 'mt 12:45',
+      ),
     ),
     'esesthe' => 
     array (
@@ -17474,6 +19921,16 @@ $concordance = array (
         'spa' => 'serán',
         'morph' => 'V-FXI-2P',
         'ref' => 'mt 10:22',
+      ),
+    ),
+    'esontai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἔσονται',
+        'spa' => 'serán',
+        'morph' => 'V-FXI-3P',
+        'ref' => 'mt 12:27',
       ),
     ),
   ),
@@ -17794,6 +20251,55 @@ $concordance = array (
         'morph' => 'V-PAI-3S',
         'ref' => 'mt 11:30',
       ),
+      36 => 
+      array (
+        'word' => 'ἐστιν',
+        'spa' => 'hay',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:6',
+      ),
+      37 => 
+      array (
+        'word' => 'ἐστιν',
+        'spa' => 'es',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:7',
+      ),
+      38 => 
+      array (
+        'word' => 'ἐστιν',
+        'spa' => 'es',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:8',
+      ),
+      39 => 
+      array (
+        'word' => 'ἐστιν',
+        'spa' => 'es',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:23',
+      ),
+      40 => 
+      array (
+        'word' => 'ἐστιν',
+        'spa' => 'es',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:30',
+      ),
+      41 => 
+      array (
+        'word' => 'ἐστιν',
+        'spa' => 'es',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:48',
+      ),
+      42 => 
+      array (
+        'word' => 'ἐστίν',
+        'spa' => 'es',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:50',
+      ),
     ),
     'esti' => 
     array (
@@ -17829,6 +20335,16 @@ $concordance = array (
         'spa' => 'último',
         'morph' => 'A-ASM',
         'ref' => 'mt 5:26',
+      ),
+    ),
+    'eschata' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἔσχατα',
+        'spa' => 'últimos',
+        'morph' => 'A-NPN',
+        'ref' => 'mt 12:45',
       ),
     ),
   ),
@@ -17904,6 +20420,16 @@ $concordance = array (
         'ref' => 'mt 11:16',
       ),
     ),
+    'hetera' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἕτερα',
+        'spa' => 'otros',
+        'morph' => 'A-APN',
+        'ref' => 'mt 12:45',
+      ),
+    ),
   ),
   2089 => 
   array (
@@ -17915,6 +20441,13 @@ $concordance = array (
         'spa' => 'ya',
         'morph' => 'ADV',
         'ref' => 'mt 5:13',
+      ),
+      1 => 
+      array (
+        'word' => 'Ἔτι',
+        'spa' => 'aún',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:46',
       ),
     ),
   ),
@@ -17987,6 +20520,16 @@ $concordance = array (
         'spa' => 'soy complacido',
         'morph' => 'V-AAI-1S',
         'ref' => 'mt 3:17',
+      ),
+    ),
+    'eudokēsen' => 
+    array (
+      0 => 
+      array (
+        'word' => 'εὐδόκησεν',
+        'spa' => 'se complació',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:18',
       ),
     ),
   ),
@@ -18127,6 +20670,20 @@ $concordance = array (
         'morph' => 'V-PAI-3S',
         'ref' => 'mt 7:8',
       ),
+      1 => 
+      array (
+        'word' => 'εὑρίσκει',
+        'spa' => 'encuentra',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:43',
+      ),
+      2 => 
+      array (
+        'word' => 'εὑρίσκει',
+        'spa' => 'encuentra',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:44',
+      ),
     ),
     'heuriskontes' => 
     array (
@@ -18226,6 +20783,13 @@ $concordance = array (
         'morph' => 'N-GPF',
         'ref' => 'mt 3:7',
       ),
+      1 => 
+      array (
+        'word' => 'ἐχιδνῶν',
+        'spa' => 'de víboras',
+        'morph' => 'N-GPF',
+        'ref' => 'mt 12:34',
+      ),
     ),
   ),
   2192 => 
@@ -18248,6 +20812,13 @@ $concordance = array (
         'spa' => 'tendrá',
         'morph' => 'V-FAI-3S',
         'ref' => 'mt 1:23',
+      ),
+      1 => 
+      array (
+        'word' => 'ἕξει',
+        'spa' => 'tendrá',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:11',
       ),
     ),
     'eichen' => 
@@ -18374,6 +20945,13 @@ $concordance = array (
         'spa' => 'teniendo',
         'morph' => 'V-PAP-NSM',
         'ref' => 'mt 11:15',
+      ),
+      3 => 
+      array (
+        'word' => 'ἔχων',
+        'spa' => 'teniendo',
+        'morph' => 'V-PAP-NSM',
+        'ref' => 'mt 12:10',
       ),
     ),
     'echousin' => 
@@ -18537,6 +21115,13 @@ $concordance = array (
         'morph' => 'CONJ',
         'ref' => 'mt 11:23',
       ),
+      17 => 
+      array (
+        'word' => 'ἕως',
+        'spa' => 'hasta que',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:20',
+      ),
     ),
   ),
   2194 => 
@@ -18640,6 +21225,20 @@ $concordance = array (
         'morph' => 'V-PAP-NPM',
         'ref' => 'mt 2:20',
       ),
+      1 => 
+      array (
+        'word' => 'ζητοῦντες',
+        'spa' => 'buscando',
+        'morph' => 'V-PAP-NPM',
+        'ref' => 'mt 12:46',
+      ),
+      2 => 
+      array (
+        'word' => 'ζητοῦντές',
+        'spa' => 'buscando',
+        'morph' => 'V-PAP-NPM',
+        'ref' => 'mt 12:47',
+      ),
     ),
     'zēteite' => 
     array (
@@ -18666,6 +21265,16 @@ $concordance = array (
         'spa' => 'que busca',
         'morph' => 'V-PAP-NSM',
         'ref' => 'mt 7:8',
+      ),
+    ),
+    'zētoun' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ζητοῦν',
+        'spa' => 'buscando',
+        'morph' => 'V-PAP-NSN',
+        'ref' => 'mt 12:43',
       ),
     ),
   ),
@@ -18906,6 +21515,41 @@ $concordance = array (
         'morph' => 'PRT',
         'ref' => 'mt 11:24',
       ),
+      22 => 
+      array (
+        'word' => 'ἢ',
+        'spa' => 'o',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:5',
+      ),
+      23 => 
+      array (
+        'word' => 'ἢ',
+        'spa' => 'que',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:25',
+      ),
+      24 => 
+      array (
+        'word' => 'ἢ',
+        'spa' => 'o',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:29',
+      ),
+      25 => 
+      array (
+        'word' => 'Ἢ',
+        'spa' => 'O',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:33',
+      ),
+      26 => 
+      array (
+        'word' => 'ἢ',
+        'spa' => 'o',
+        'morph' => 'PRT',
+        'ref' => 'mt 12:33',
+      ),
     ),
   ),
   2232 => 
@@ -19112,6 +21756,20 @@ $concordance = array (
         'morph' => 'N-APF',
         'ref' => 'mt 4:2',
       ),
+      1 => 
+      array (
+        'word' => 'ἡμέρας',
+        'spa' => 'días',
+        'morph' => 'N-APF',
+        'ref' => 'mt 12:40',
+      ),
+      2 => 
+      array (
+        'word' => 'ἡμέρας',
+        'spa' => 'días',
+        'morph' => 'N-APF',
+        'ref' => 'mt 12:40',
+      ),
     ),
     'hēmerai' => 
     array (
@@ -19156,6 +21814,13 @@ $concordance = array (
         'spa' => 'día',
         'morph' => 'N-DSF',
         'ref' => 'mt 11:24',
+      ),
+      6 => 
+      array (
+        'word' => 'ἡμέρᾳ',
+        'spa' => 'día',
+        'morph' => 'N-DSF',
+        'ref' => 'mt 12:36',
       ),
     ),
     'hēmerōn' => 
@@ -19304,6 +21969,20 @@ $concordance = array (
         'morph' => 'V-IAI-3S',
         'ref' => 'mt 8:30',
       ),
+      7 => 
+      array (
+        'word' => 'ἦν',
+        'spa' => 'era',
+        'morph' => 'V-IAI-3S',
+        'ref' => 'mt 12:4',
+      ),
+      8 => 
+      array (
+        'word' => 'ἦν',
+        'spa' => 'estaba',
+        'morph' => 'V-IAI-3S',
+        'ref' => 'mt 12:40',
+      ),
     ),
     'ēsan' => 
     array (
@@ -19422,6 +22101,13 @@ $concordance = array (
         'spa' => 'Isaías',
         'morph' => 'N-GSM',
         'ref' => 'mt 8:17',
+      ),
+      3 => 
+      array (
+        'word' => 'Ἠσαΐου',
+        'spa' => 'Isaías',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:17',
       ),
     ),
   ),
@@ -19662,6 +22348,13 @@ $concordance = array (
         'morph' => 'N-ASN',
         'ref' => 'mt 7:21',
       ),
+      2 => 
+      array (
+        'word' => 'θέλημα',
+        'spa' => 'voluntad',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:50',
+      ),
     ),
   ),
   2309 => 
@@ -19742,6 +22435,13 @@ $concordance = array (
         'morph' => 'V-PAI-1S',
         'ref' => 'mt 9:13',
       ),
+      2 => 
+      array (
+        'word' => 'θέλω',
+        'spa' => 'quiero',
+        'morph' => 'V-PAI-1S',
+        'ref' => 'mt 12:7',
+      ),
     ),
     'thelete' => 
     array (
@@ -19751,6 +22451,16 @@ $concordance = array (
         'spa' => 'quieren',
         'morph' => 'V-PAI-2P',
         'ref' => 'mt 11:14',
+      ),
+    ),
+    'thelomen' => 
+    array (
+      0 => 
+      array (
+        'word' => 'θέλομεν',
+        'spa' => 'queremos',
+        'morph' => 'V-PAI-1P',
+        'ref' => 'mt 12:38',
       ),
     ),
   ),
@@ -19844,6 +22554,27 @@ $concordance = array (
         'morph' => 'N-GSM',
         'ref' => 'mt 8:29',
       ),
+      7 => 
+      array (
+        'word' => 'θεοῦ',
+        'spa' => 'Dios',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:4',
+      ),
+      8 => 
+      array (
+        'word' => 'θεοῦ',
+        'spa' => 'de Dios',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:28',
+      ),
+      9 => 
+      array (
+        'word' => 'θεοῦ',
+        'spa' => 'Dios',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:28',
+      ),
     ),
     'theon' => 
     array (
@@ -19922,6 +22653,20 @@ $concordance = array (
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 8:16',
       ),
+      2 => 
+      array (
+        'word' => 'ἐθεράπευσεν',
+        'spa' => 'sanó',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:15',
+      ),
+      3 => 
+      array (
+        'word' => 'ἐθεράπευσεν',
+        'spa' => 'sanó',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:22',
+      ),
     ),
     'therapeusō' => 
     array (
@@ -19941,6 +22686,13 @@ $concordance = array (
         'spa' => 'sanar',
         'morph' => 'V-PAN',
         'ref' => 'mt 10:1',
+      ),
+      1 => 
+      array (
+        'word' => 'θεραπεύειν',
+        'spa' => 'sanar',
+        'morph' => 'V-AAN',
+        'ref' => 'mt 12:10',
       ),
     ),
     'therapeuete' => 
@@ -20054,6 +22806,23 @@ $concordance = array (
         'spa' => 'tesoro',
         'morph' => 'N-NSM',
         'ref' => 'mt 6:21',
+      ),
+    ),
+    'thēsaurou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'θησαυροῦ',
+        'spa' => 'tesoro',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:35',
+      ),
+      1 => 
+      array (
+        'word' => 'θησαυροῦ',
+        'spa' => 'tesoro',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:35',
       ),
     ),
   ),
@@ -20231,6 +23000,13 @@ $concordance = array (
         'spa' => 'sacrificio',
         'morph' => 'N-ASF',
         'ref' => 'mt 9:13',
+      ),
+      1 => 
+      array (
+        'word' => 'θυσίαν',
+        'spa' => 'sacrificio',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:7',
       ),
     ),
   ),
@@ -20569,6 +23345,62 @@ $concordance = array (
         'morph' => 'V-2AAM-2S',
         'ref' => 'mt 11:19',
       ),
+      25 => 
+      array (
+        'word' => 'Ἰδοὺ',
+        'spa' => 'Mira',
+        'morph' => 'V-2AAM-2S',
+        'ref' => 'mt 12:2',
+      ),
+      26 => 
+      array (
+        'word' => 'ἰδοὺ',
+        'spa' => 'mira',
+        'morph' => 'V-2AAM-2S',
+        'ref' => 'mt 12:10',
+      ),
+      27 => 
+      array (
+        'word' => 'Ἰδοὺ',
+        'spa' => 'Mira',
+        'morph' => 'V-2AAM-2S',
+        'ref' => 'mt 12:18',
+      ),
+      28 => 
+      array (
+        'word' => 'ἰδοὺ',
+        'spa' => 'mira',
+        'morph' => 'V-2AAM-2S',
+        'ref' => 'mt 12:41',
+      ),
+      29 => 
+      array (
+        'word' => 'ἰδοὺ',
+        'spa' => 'mira',
+        'morph' => 'V-2AAM-2S',
+        'ref' => 'mt 12:42',
+      ),
+      30 => 
+      array (
+        'word' => 'ἰδοὺ',
+        'spa' => 'mira',
+        'morph' => 'V-2AAM-2S',
+        'ref' => 'mt 12:46',
+      ),
+      31 => 
+      array (
+        'word' => 'Ἰδοὺ',
+        'spa' => 'Mira',
+        'morph' => 'V-2AAM-2S',
+        'ref' => 'mt 12:47',
+      ),
+      32 => 
+      array (
+        'word' => 'Ἰδοὺ',
+        'spa' => 'Mira',
+        'morph' => 'V-2AAM-2S',
+        'ref' => 'mt 12:49',
+      ),
     ),
   ),
   2408 => 
@@ -20596,6 +23428,26 @@ $concordance = array (
         'ref' => 'mt 8:4',
       ),
     ),
+    'hiereusin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἱερεῦσιν',
+        'spa' => 'sacerdotes',
+        'morph' => 'N-DPM',
+        'ref' => 'mt 12:4',
+      ),
+    ),
+    'hiereis' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἱερεῖς',
+        'spa' => 'sacerdotes',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:5',
+      ),
+    ),
   ),
   2411 => 
   array (
@@ -20607,6 +23459,23 @@ $concordance = array (
         'spa' => 'templo',
         'morph' => 'N-GSN',
         'ref' => 'mt 4:5',
+      ),
+      1 => 
+      array (
+        'word' => 'ἱεροῦ',
+        'spa' => 'templo',
+        'morph' => 'N-GSN',
+        'ref' => 'mt 12:6',
+      ),
+    ),
+    'hierōi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἱερῷ',
+        'spa' => 'templo',
+        'morph' => 'N-DSN',
+        'ref' => 'mt 12:5',
       ),
     ),
   ),
@@ -20963,6 +23832,20 @@ $concordance = array (
         'morph' => 'N-NSM',
         'ref' => 'mt 11:25',
       ),
+      31 => 
+      array (
+        'word' => 'Ἰησοῦς',
+        'spa' => 'Jesús',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:1',
+      ),
+      32 => 
+      array (
+        'word' => 'Ἰησοῦς',
+        'spa' => 'Jesús',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:15',
+      ),
     ),
     'iēsoun' => 
     array (
@@ -21129,6 +24012,27 @@ $concordance = array (
         'spa' => 'para que',
         'morph' => 'CONJ',
         'ref' => 'mt 10:25',
+      ),
+      11 => 
+      array (
+        'word' => 'ἵνα',
+        'spa' => 'para',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:10',
+      ),
+      12 => 
+      array (
+        'word' => 'ἵνα',
+        'spa' => 'para que',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:16',
+      ),
+      13 => 
+      array (
+        'word' => 'ἵνα',
+        'spa' => 'para que',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:17',
       ),
     ),
   ),
@@ -21453,6 +24357,43 @@ $concordance = array (
         'ref' => 'mt 6:5',
       ),
     ),
+    'stathēsetai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σταθήσεται',
+        'spa' => 'permanecerá en pie',
+        'morph' => 'V-FPI-3S',
+        'ref' => 'mt 12:25',
+      ),
+      1 => 
+      array (
+        'word' => 'σταθήσεται',
+        'spa' => 'permanecerá en pie',
+        'morph' => 'V-FPI-3S',
+        'ref' => 'mt 12:26',
+      ),
+    ),
+    'heistēkeisan' => 
+    array (
+      0 => 
+      array (
+        'word' => 'εἱστήκεισαν',
+        'spa' => 'estaban parados',
+        'morph' => 'V-LAI-3P',
+        'ref' => 'mt 12:46',
+      ),
+    ),
+    'hestēkasin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἑστήκασιν',
+        'spa' => 'están parados',
+        'morph' => 'V-RAI-3P',
+        'ref' => 'mt 12:47',
+      ),
+    ),
   ),
   2478 => 
   array (
@@ -21464,6 +24405,26 @@ $concordance = array (
         'spa' => 'más fuerte',
         'morph' => 'A-NSM-C',
         'ref' => 'mt 3:11',
+      ),
+    ),
+    'ischurou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἰσχυροῦ',
+        'spa' => 'fuerte',
+        'morph' => 'A-GSM',
+        'ref' => 'mt 12:29',
+      ),
+    ),
+    'ischuron' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἰσχυρόν',
+        'spa' => 'fuerte',
+        'morph' => 'A-ASM',
+        'ref' => 'mt 12:29',
       ),
     ),
   ),
@@ -21650,6 +24611,43 @@ $concordance = array (
         'spa' => 'a Juan',
         'morph' => 'N-DSM',
         'ref' => 'mt 11:4',
+      ),
+    ),
+  ),
+  2495 => 
+  array (
+    'iōna' => 
+    array (
+      0 => 
+      array (
+        'word' => 'Ἰωνᾶ',
+        'spa' => 'de Jonás',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:39',
+      ),
+      1 => 
+      array (
+        'word' => 'Ἰωνᾶ',
+        'spa' => 'de Jonás',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:41',
+      ),
+      2 => 
+      array (
+        'word' => 'Ἰωνᾶ',
+        'spa' => 'de Jonás',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:41',
+      ),
+    ),
+    'iōnas' => 
+    array (
+      0 => 
+      array (
+        'word' => 'Ἰωνᾶς',
+        'spa' => 'Jonás',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:40',
       ),
     ),
   ),
@@ -24638,6 +27636,419 @@ $concordance = array (
         'morph' => 'CONJ',
         'ref' => 'mt 11:30',
       ),
+      382 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:1',
+      ),
+      383 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:1',
+      ),
+      384 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:3',
+      ),
+      385 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:4',
+      ),
+      386 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'e',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:5',
+      ),
+      387 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:7',
+      ),
+      388 => 
+      array (
+        'word' => 'Καὶ',
+        'spa' => 'Y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:9',
+      ),
+      389 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:10',
+      ),
+      390 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:10',
+      ),
+      391 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:11',
+      ),
+      392 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:11',
+      ),
+      393 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:13',
+      ),
+      394 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:13',
+      ),
+      395 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:15',
+      ),
+      396 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:15',
+      ),
+      397 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:16',
+      ),
+      398 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:18',
+      ),
+      399 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:20',
+      ),
+      400 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:21',
+      ),
+      401 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:22',
+      ),
+      402 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:22',
+      ),
+      403 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:22',
+      ),
+      404 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:23',
+      ),
+      405 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:23',
+      ),
+      406 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:25',
+      ),
+      407 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:26',
+      ),
+      408 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:27',
+      ),
+      409 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:29',
+      ),
+      410 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:29',
+      ),
+      411 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:30',
+      ),
+      412 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:31',
+      ),
+      413 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:32',
+      ),
+      414 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:33',
+      ),
+      415 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:33',
+      ),
+      416 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:35',
+      ),
+      417 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:37',
+      ),
+      418 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:38',
+      ),
+      419 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:39',
+      ),
+      420 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:39',
+      ),
+      421 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:40',
+      ),
+      422 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:40',
+      ),
+      423 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:41',
+      ),
+      424 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:41',
+      ),
+      425 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:42',
+      ),
+      426 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:42',
+      ),
+      427 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:43',
+      ),
+      428 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:44',
+      ),
+      429 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:44',
+      ),
+      430 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:45',
+      ),
+      431 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:45',
+      ),
+      432 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:45',
+      ),
+      433 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'también',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:45',
+      ),
+      434 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:46',
+      ),
+      435 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:47',
+      ),
+      436 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:48',
+      ),
+      437 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:49',
+      ),
+      438 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:49',
+      ),
+      439 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:50',
+      ),
+      440 => 
+      array (
+        'word' => 'καὶ',
+        'spa' => 'y',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:50',
+      ),
     ),
   ),
   2537 => 
@@ -24673,6 +28084,13 @@ $concordance = array (
         'spa' => 'tiempo',
         'morph' => 'N-DSM',
         'ref' => 'mt 11:25',
+      ),
+      1 => 
+      array (
+        'word' => 'καιρῷ',
+        'spa' => 'tiempo',
+        'morph' => 'N-DSM',
+        'ref' => 'mt 12:1',
       ),
     ),
   ),
@@ -24759,6 +28177,13 @@ $concordance = array (
         'spa' => 'caña',
         'morph' => 'N-ASM',
         'ref' => 'mt 11:7',
+      ),
+      1 => 
+      array (
+        'word' => 'κάλαμον',
+        'spa' => 'caña',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:20',
       ),
     ),
   ),
@@ -24884,6 +28309,20 @@ $concordance = array (
         'morph' => 'A-ASM',
         'ref' => 'mt 7:19',
       ),
+      2 => 
+      array (
+        'word' => 'καλὸν',
+        'spa' => 'bueno',
+        'morph' => 'A-ASN',
+        'ref' => 'mt 12:33',
+      ),
+      3 => 
+      array (
+        'word' => 'καλόν',
+        'spa' => 'bueno',
+        'morph' => 'A-ASM',
+        'ref' => 'mt 12:33',
+      ),
     ),
     'kala' => 
     array (
@@ -24933,6 +28372,19 @@ $concordance = array (
         'spa' => 'que ha sido encubierto',
         'morph' => 'V-RPP-NSN',
         'ref' => 'mt 10:26',
+      ),
+    ),
+  ),
+  2573 => 
+  array (
+    'kalōs' => 
+    array (
+      0 => 
+      array (
+        'word' => 'καλῶς',
+        'spa' => 'bien',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:12',
       ),
     ),
   ),
@@ -25014,6 +28466,13 @@ $concordance = array (
         'morph' => 'N-DSF',
         'ref' => 'mt 11:29',
       ),
+      3 => 
+      array (
+        'word' => 'καρδίᾳ',
+        'spa' => 'corazón',
+        'morph' => 'N-DSF',
+        'ref' => 'mt 12:40',
+      ),
     ),
     'kardia' => 
     array (
@@ -25033,6 +28492,16 @@ $concordance = array (
         'spa' => 'corazones',
         'morph' => 'N-DPF',
         'ref' => 'mt 9:4',
+      ),
+    ),
+    'kardias' => 
+    array (
+      0 => 
+      array (
+        'word' => 'καρδίας',
+        'spa' => 'corazón',
+        'morph' => 'N-GSF',
+        'ref' => 'mt 12:34',
       ),
     ),
   ),
@@ -25060,6 +28529,20 @@ $concordance = array (
         'spa' => 'fruto',
         'morph' => 'N-ASM',
         'ref' => 'mt 7:19',
+      ),
+      3 => 
+      array (
+        'word' => 'καρπὸν',
+        'spa' => 'fruto',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:33',
+      ),
+      4 => 
+      array (
+        'word' => 'καρπὸν',
+        'spa' => 'fruto',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:33',
       ),
     ),
     'karpōn' => 
@@ -25108,6 +28591,16 @@ $concordance = array (
         'spa' => 'frutos',
         'morph' => 'N-APM',
         'ref' => 'mt 7:18',
+      ),
+    ),
+    'karpou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'καρποῦ',
+        'spa' => 'fruto',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:33',
       ),
     ),
   ),
@@ -25177,6 +28670,20 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 2:22',
       ),
+      5 => 
+      array (
+        'word' => 'κατ',
+        'spa' => 'contra',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:14',
+      ),
+      6 => 
+      array (
+        'word' => 'κατ',
+        'spa' => 'contra',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:30',
+      ),
     ),
     'kata' => 
     array (
@@ -25229,6 +28736,20 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 10:35',
       ),
+      7 => 
+      array (
+        'word' => 'κατὰ',
+        'spa' => 'contra',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:32',
+      ),
+      8 => 
+      array (
+        'word' => 'κατὰ',
+        'spa' => 'contra',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:32',
+      ),
     ),
     'kath' => 
     array (
@@ -25238,6 +28759,20 @@ $concordance = array (
         'spa' => 'contra',
         'morph' => 'PREP',
         'ref' => 'mt 5:11',
+      ),
+      1 => 
+      array (
+        'word' => 'καθ',
+        'spa' => 'contra',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:25',
+      ),
+      2 => 
+      array (
+        'word' => 'καθ',
+        'spa' => 'contra',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:25',
       ),
     ),
   ),
@@ -25304,6 +28839,42 @@ $concordance = array (
       ),
     ),
   ),
+  2608 => 
+  array (
+    'kateaxei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κατεάξει',
+        'spa' => 'pisará',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:20',
+      ),
+    ),
+  ),
+  2613 => 
+  array (
+    'katedikasate' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κατεδικάσατε',
+        'spa' => 'condenarian',
+        'morph' => 'V-AAI-2P',
+        'ref' => 'mt 12:7',
+      ),
+    ),
+    'katadikasthēsēi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'καταδικασθήσῃ',
+        'spa' => 'serás condenado',
+        'morph' => 'V-FPI-2S',
+        'ref' => 'mt 12:37',
+      ),
+    ),
+  ),
   2618 => 
   array (
     'katakausei' => 
@@ -25314,6 +28885,29 @@ $concordance = array (
         'spa' => 'quemará',
         'morph' => 'V-FAI-3S',
         'ref' => 'mt 3:12',
+      ),
+    ),
+  ),
+  2632 => 
+  array (
+    'katakrinousin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κατακρινοῦσιν',
+        'spa' => 'condenarán',
+        'morph' => 'V-FAI-3P',
+        'ref' => 'mt 12:41',
+      ),
+    ),
+    'katakrinei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κατακρινεῖ',
+        'spa' => 'condenará',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:42',
       ),
     ),
   ),
@@ -25451,6 +29045,19 @@ $concordance = array (
       ),
     ),
   ),
+  2723 => 
+  array (
+    'katēgorēsōsin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κατηγορήσωσιν',
+        'spa' => 'acusar',
+        'morph' => 'V-AAS-3P',
+        'ref' => 'mt 12:10',
+      ),
+    ),
+  ),
   2730 => 
   array (
     'katōikēsen' => 
@@ -25468,6 +29075,16 @@ $concordance = array (
         'spa' => 'se estableció',
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 4:13',
+      ),
+    ),
+    'katoikei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κατοικεῖ',
+        'spa' => 'se establece',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:45',
       ),
     ),
   ),
@@ -25583,6 +29200,19 @@ $concordance = array (
       ),
     ),
   ),
+  2782 => 
+  array (
+    'kērugma' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κήρυγμα',
+        'spa' => 'proclamación',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:41',
+      ),
+    ),
+  ),
   2784 => 
   array (
     'kērussōn' => 
@@ -25644,6 +29274,19 @@ $concordance = array (
         'spa' => 'proclamen',
         'morph' => 'V-AAM-2P',
         'ref' => 'mt 10:27',
+      ),
+    ),
+  ),
+  2785 => 
+  array (
+    'kētous' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κήτους',
+        'spa' => 'monstruo marino',
+        'morph' => 'N-GSN',
+        'ref' => 'mt 12:40',
       ),
     ),
   ),
@@ -25808,6 +29451,19 @@ $concordance = array (
       ),
     ),
   ),
+  2836 => 
+  array (
+    'koiliai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κοιλίᾳ',
+        'spa' => 'vientre',
+        'morph' => 'N-DSF',
+        'ref' => 'mt 12:40',
+      ),
+    ),
+  ),
   2868 => 
   array (
     'koniorton' => 
@@ -25877,6 +29533,19 @@ $concordance = array (
       ),
     ),
   ),
+  2885 => 
+  array (
+    'kekosmēmenon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κεκοσμημένον',
+        'spa' => 'estando ordenada',
+        'morph' => 'V-RPP-ASM',
+        'ref' => 'mt 12:44',
+      ),
+    ),
+  ),
   2889 => 
   array (
     'kosmou' => 
@@ -25943,6 +29612,29 @@ $concordance = array (
         'spa' => 'sujetó',
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 9:25',
+      ),
+    ),
+    'kratēsei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κρατήσει',
+        'spa' => 'sujetará',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:11',
+      ),
+    ),
+  ),
+  2905 => 
+  array (
+    'kraugasei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κραυγάσει',
+        'spa' => 'gritará',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:19',
       ),
     ),
   ),
@@ -26053,6 +29745,20 @@ $concordance = array (
         'morph' => 'N-DSF',
         'ref' => 'mt 5:22',
       ),
+      2 => 
+      array (
+        'word' => 'κρίσει',
+        'spa' => 'jucio',
+        'morph' => 'N-DSF',
+        'ref' => 'mt 12:41',
+      ),
+      3 => 
+      array (
+        'word' => 'κρίσει',
+        'spa' => 'jucio',
+        'morph' => 'N-DSF',
+        'ref' => 'mt 12:42',
+      ),
     ),
     'kriseōs' => 
     array (
@@ -26077,6 +29783,30 @@ $concordance = array (
         'morph' => 'N-GSF',
         'ref' => 'mt 11:24',
       ),
+      3 => 
+      array (
+        'word' => 'κρίσεως',
+        'spa' => 'de juicio',
+        'morph' => 'N-GSF',
+        'ref' => 'mt 12:36',
+      ),
+    ),
+    'krisin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κρίσιν',
+        'spa' => 'jucio',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:18',
+      ),
+      1 => 
+      array (
+        'word' => 'κρίσιν',
+        'spa' => 'jucio',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:20',
+      ),
     ),
   ),
   2923 => 
@@ -26099,6 +29829,16 @@ $concordance = array (
         'spa' => 'juez',
         'morph' => 'N-NSM',
         'ref' => 'mt 5:25',
+      ),
+    ),
+    'kritai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'κριταὶ',
+        'spa' => 'jueces',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:27',
       ),
     ),
   ),
@@ -26429,6 +30169,13 @@ $concordance = array (
         'morph' => 'N-NSM',
         'ref' => 'mt 10:25',
       ),
+      1 => 
+      array (
+        'word' => 'κύριος',
+        'spa' => 'serñor',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:8',
+      ),
     ),
   ),
   2965 => 
@@ -26478,6 +30225,13 @@ $concordance = array (
         'morph' => 'A-ASM',
         'ref' => 'mt 9:32',
       ),
+      1 => 
+      array (
+        'word' => 'κωφὸν',
+        'spa' => 'mudo',
+        'morph' => 'A-ASM',
+        'ref' => 'mt 12:22',
+      ),
     ),
     'kōphos' => 
     array (
@@ -26487,6 +30241,13 @@ $concordance = array (
         'spa' => 'mudo',
         'morph' => 'A-NSM',
         'ref' => 'mt 9:33',
+      ),
+      1 => 
+      array (
+        'word' => 'κωφός',
+        'spa' => 'mudo',
+        'morph' => 'A-NSM',
+        'ref' => 'mt 12:22',
       ),
     ),
     'kōphoi' => 
@@ -26530,6 +30291,13 @@ $concordance = array (
         'spa' => 'hablando',
         'morph' => 'V-PAP-GSM',
         'ref' => 'mt 9:18',
+      ),
+      1 => 
+      array (
+        'word' => 'λαλοῦντος',
+        'spa' => 'hablando',
+        'morph' => 'V-PAP-GSM',
+        'ref' => 'mt 12:46',
       ),
     ),
     'elalēsen' => 
@@ -26577,6 +30345,60 @@ $concordance = array (
         'spa' => 'que habla',
         'morph' => 'V-PAP-NSN',
         'ref' => 'mt 10:20',
+      ),
+    ),
+    'lalein' => 
+    array (
+      0 => 
+      array (
+        'word' => 'λαλεῖν',
+        'spa' => 'hablar',
+        'morph' => 'V-PAN',
+        'ref' => 'mt 12:22',
+      ),
+      1 => 
+      array (
+        'word' => 'λαλεῖν',
+        'spa' => 'hablar',
+        'morph' => 'V-PAN',
+        'ref' => 'mt 12:34',
+      ),
+    ),
+    'lalei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'λαλεῖ',
+        'spa' => 'habla',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:34',
+      ),
+    ),
+    'lalēsousin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'λαλήσουσιν',
+        'spa' => 'hablen',
+        'morph' => 'V-FAI-3P',
+        'ref' => 'mt 12:36',
+      ),
+    ),
+    'lalēsai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'λαλῆσαι',
+        'spa' => 'hablar',
+        'morph' => 'V-AAN',
+        'ref' => 'mt 12:46',
+      ),
+      1 => 
+      array (
+        'word' => 'λαλῆσαι',
+        'spa' => 'hablar',
+        'morph' => 'V-AAN',
+        'ref' => 'mt 12:47',
       ),
     ),
   ),
@@ -26644,6 +30466,16 @@ $concordance = array (
         'spa' => 'recibirá',
         'morph' => 'V-FDI-3S',
         'ref' => 'mt 10:41',
+      ),
+    ),
+    'elabon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἔλαβον',
+        'spa' => 'tomaron',
+        'morph' => 'V-2AAI-3P',
+        'ref' => 'mt 12:14',
       ),
     ),
   ),
@@ -26897,6 +30729,13 @@ $concordance = array (
         'morph' => 'V-PAP-GSN',
         'ref' => 'mt 8:17',
       ),
+      6 => 
+      array (
+        'word' => 'λέγοντος',
+        'spa' => 'diciendo',
+        'morph' => 'V-PAP-GSN',
+        'ref' => 'mt 12:17',
+      ),
     ),
     'legontes' => 
     array (
@@ -26970,6 +30809,20 @@ $concordance = array (
         'morph' => 'V-PAP-NPM',
         'ref' => 'mt 10:7',
       ),
+      10 => 
+      array (
+        'word' => 'λέγοντες',
+        'spa' => 'diciendo',
+        'morph' => 'V-PAP-NPM',
+        'ref' => 'mt 12:10',
+      ),
+      11 => 
+      array (
+        'word' => 'λέγοντες',
+        'spa' => 'diciendo',
+        'morph' => 'V-PAP-NPM',
+        'ref' => 'mt 12:38',
+      ),
     ),
     'eipan' => 
     array (
@@ -26986,6 +30839,13 @@ $concordance = array (
         'spa' => 'dijeron',
         'morph' => 'V-2AAI-3P',
         'ref' => 'mt 9:3',
+      ),
+      2 => 
+      array (
+        'word' => 'εἶπαν',
+        'spa' => 'dijeron',
+        'morph' => 'V-2AAI-3P',
+        'ref' => 'mt 12:2',
       ),
     ),
     'legomenēn' => 
@@ -27206,6 +31066,27 @@ $concordance = array (
         'morph' => 'V-PAI-1S',
         'ref' => 'mt 11:24',
       ),
+      26 => 
+      array (
+        'word' => 'λέγω',
+        'spa' => 'digo',
+        'morph' => 'V-PAI-1S',
+        'ref' => 'mt 12:6',
+      ),
+      27 => 
+      array (
+        'word' => 'λέγω',
+        'spa' => 'digo',
+        'morph' => 'V-PAI-1S',
+        'ref' => 'mt 12:31',
+      ),
+      28 => 
+      array (
+        'word' => 'λέγω',
+        'spa' => 'digo',
+        'morph' => 'V-PAI-1S',
+        'ref' => 'mt 12:36',
+      ),
     ),
     'legousa' => 
     array (
@@ -27303,6 +31184,20 @@ $concordance = array (
         'morph' => 'V-PAI-3S',
         'ref' => 'mt 9:37',
       ),
+      12 => 
+      array (
+        'word' => 'λέγει',
+        'spa' => 'dijo',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:13',
+      ),
+      13 => 
+      array (
+        'word' => 'λέγει',
+        'spa' => 'dijo',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:44',
+      ),
     ),
     'eipen' => 
     array (
@@ -27346,6 +31241,13 @@ $concordance = array (
         'spa' => 'decian',
         'morph' => 'V-IAI-3P',
         'ref' => 'mt 9:34',
+      ),
+      2 => 
+      array (
+        'word' => 'ἔλεγον',
+        'spa' => 'decian',
+        'morph' => 'V-IAI-3P',
+        'ref' => 'mt 12:23',
       ),
     ),
     'elegen' => 
@@ -27394,6 +31296,33 @@ $concordance = array (
         'spa' => 'dicen',
         'morph' => 'V-PAI-3P',
         'ref' => 'mt 11:19',
+      ),
+    ),
+    'eipēi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'εἴπῃ',
+        'spa' => 'dice',
+        'morph' => 'V-2AAS-3S',
+        'ref' => 'mt 12:32',
+      ),
+      1 => 
+      array (
+        'word' => 'εἴπῃ',
+        'spa' => 'dice',
+        'morph' => 'V-2AAS-3S',
+        'ref' => 'mt 12:32',
+      ),
+    ),
+    'legonti' => 
+    array (
+      0 => 
+      array (
+        'word' => 'λέγοντι',
+        'spa' => 'hablando',
+        'morph' => 'V-PAP-DSM',
+        'ref' => 'mt 12:48',
       ),
     ),
   ),
@@ -27536,6 +31465,19 @@ $concordance = array (
       ),
     ),
   ),
+  3043 => 
+  array (
+    'linon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'λίνον',
+        'spa' => 'pábilo',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:20',
+      ),
+    ),
+  ),
   3056 => 
   array (
     'logou' => 
@@ -27604,6 +31546,40 @@ $concordance = array (
         'spa' => 'por palabra',
         'morph' => 'N-DSM',
         'ref' => 'mt 8:16',
+      ),
+    ),
+    'logon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'λόγον',
+        'spa' => 'palabra',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:32',
+      ),
+      1 => 
+      array (
+        'word' => 'λόγον',
+        'spa' => 'razón',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:36',
+      ),
+    ),
+    'logōn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'λόγων',
+        'spa' => 'palabras',
+        'morph' => 'N-GPM',
+        'ref' => 'mt 12:37',
+      ),
+      1 => 
+      array (
+        'word' => 'λόγων',
+        'spa' => 'palabras',
+        'morph' => 'N-GPM',
+        'ref' => 'mt 12:37',
       ),
     ),
   ),
@@ -27758,6 +31734,20 @@ $concordance = array (
         'morph' => 'N-NPM',
         'ref' => 'mt 9:19',
       ),
+      5 => 
+      array (
+        'word' => 'μαθηταὶ',
+        'spa' => 'discípulos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:1',
+      ),
+      6 => 
+      array (
+        'word' => 'μαθηταί',
+        'spa' => 'discípulos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:2',
+      ),
     ),
     'mathētōn' => 
     array (
@@ -27815,6 +31805,13 @@ $concordance = array (
         'spa' => 'discípulos',
         'morph' => 'N-APM',
         'ref' => 'mt 10:1',
+      ),
+      1 => 
+      array (
+        'word' => 'μαθητὰς',
+        'spa' => 'discípulos',
+        'morph' => 'N-APM',
+        'ref' => 'mt 12:49',
       ),
     ),
     'mathētēs' => 
@@ -28340,6 +32337,16 @@ $concordance = array (
         'ref' => 'mt 8:26',
       ),
     ),
+    'meizon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'μεῖζόν',
+        'spa' => 'mayor',
+        'morph' => 'A-NSN-C',
+        'ref' => 'mt 12:6',
+      ),
+    ),
   ),
   3177 => 
   array (
@@ -28432,6 +32439,16 @@ $concordance = array (
         'ref' => 'mt 11:14',
       ),
     ),
+    'mellonti' => 
+    array (
+      0 => 
+      array (
+        'word' => 'μέλλοντι',
+        'spa' => 'que está por ser',
+        'morph' => 'V-PAP-DSM',
+        'ref' => 'mt 12:32',
+      ),
+    ),
   ),
   3196 => 
   array (
@@ -28500,6 +32517,36 @@ $concordance = array (
         'spa' => 'permaneció',
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 11:23',
+      ),
+    ),
+  ),
+  3307 => 
+  array (
+    'meristheisa' => 
+    array (
+      0 => 
+      array (
+        'word' => 'μερισθεῖσα',
+        'spa' => 'dividido',
+        'morph' => 'V-APP-NSF',
+        'ref' => 'mt 12:25',
+      ),
+      1 => 
+      array (
+        'word' => 'μερισθεῖσα',
+        'spa' => 'dividida',
+        'morph' => 'V-APP-NSF',
+        'ref' => 'mt 12:25',
+      ),
+    ),
+    'emeristhē' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐμερίσθη',
+        'spa' => 'es dividido',
+        'morph' => 'V-API-3S',
+        'ref' => 'mt 12:26',
       ),
     ),
   ),
@@ -28632,6 +32679,20 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 9:11',
       ),
+      5 => 
+      array (
+        'word' => 'μετὰ',
+        'spa' => 'con',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:41',
+      ),
+      6 => 
+      array (
+        'word' => 'μετὰ',
+        'spa' => 'con',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:42',
+      ),
     ),
     'meth' => 
     array (
@@ -28641,6 +32702,13 @@ $concordance = array (
         'spa' => 'Con',
         'morph' => 'PREP',
         'ref' => 'mt 1:23',
+      ),
+      1 => 
+      array (
+        'word' => 'μεθ',
+        'spa' => 'con',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:45',
       ),
     ),
     'met' => 
@@ -28673,6 +32741,34 @@ $concordance = array (
         'morph' => 'PREP',
         'ref' => 'mt 9:15',
       ),
+      4 => 
+      array (
+        'word' => 'μετ',
+        'spa' => 'con',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:3',
+      ),
+      5 => 
+      array (
+        'word' => 'μετ',
+        'spa' => 'con',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:4',
+      ),
+      6 => 
+      array (
+        'word' => 'μετ',
+        'spa' => 'con',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:30',
+      ),
+      7 => 
+      array (
+        'word' => 'μετ',
+        'spa' => 'con',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:30',
+      ),
     ),
   ),
   3327 => 
@@ -28695,6 +32791,16 @@ $concordance = array (
         'spa' => 'se marchó',
         'morph' => 'V-2AAI-3S',
         'ref' => 'mt 11:1',
+      ),
+    ),
+    'metabas' => 
+    array (
+      0 => 
+      array (
+        'word' => 'μεταβὰς',
+        'spa' => 'habiendo partido',
+        'morph' => 'V-2AAP-NSM',
+        'ref' => 'mt 12:9',
       ),
     ),
   ),
@@ -28732,6 +32838,13 @@ $concordance = array (
         'spa' => 'se arrepintieron',
         'morph' => 'V-AAI-3P',
         'ref' => 'mt 11:21',
+      ),
+      2 => 
+      array (
+        'word' => 'μετενόησαν',
+        'spa' => 'se arrepintieron',
+        'morph' => 'V-AAI-3P',
+        'ref' => 'mt 12:41',
       ),
     ),
   ),
@@ -29261,6 +33374,55 @@ $concordance = array (
         'morph' => 'PRT-N',
         'ref' => 'mt 11:27',
       ),
+      59 => 
+      array (
+        'word' => 'μὴ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:4',
+      ),
+      60 => 
+      array (
+        'word' => 'μὴ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:16',
+      ),
+      61 => 
+      array (
+        'word' => 'μὴ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:24',
+      ),
+      62 => 
+      array (
+        'word' => 'μὴ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:29',
+      ),
+      63 => 
+      array (
+        'word' => 'μὴ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:30',
+      ),
+      64 => 
+      array (
+        'word' => 'μὴ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:30',
+      ),
+      65 => 
+      array (
+        'word' => 'μὴ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:39',
+      ),
     ),
   ),
   3366 => 
@@ -29487,6 +33649,44 @@ $concordance = array (
         'ref' => 'mt 10:37',
       ),
     ),
+    'mētēr' => 
+    array (
+      0 => 
+      array (
+        'word' => 'μήτηρ',
+        'spa' => 'madre',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:46',
+      ),
+      1 => 
+      array (
+        'word' => 'μήτηρ',
+        'spa' => 'madre',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:47',
+      ),
+      2 => 
+      array (
+        'word' => 'μήτηρ',
+        'spa' => 'madre',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:48',
+      ),
+      3 => 
+      array (
+        'word' => 'μήτηρ',
+        'spa' => 'madre',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:49',
+      ),
+      4 => 
+      array (
+        'word' => 'μήτηρ',
+        'spa' => 'madre',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:50',
+      ),
+    ),
   ),
   3385 => 
   array (
@@ -29498,6 +33698,13 @@ $concordance = array (
         'spa' => 'Acaso',
         'morph' => 'PRT-I',
         'ref' => 'mt 7:16',
+      ),
+      1 => 
+      array (
+        'word' => 'Μήτι',
+        'spa' => 'Acaso',
+        'morph' => 'PRT-I',
+        'ref' => 'mt 12:23',
       ),
     ),
   ),
@@ -29756,6 +33963,19 @@ $concordance = array (
       ),
     ),
   ),
+  3428 => 
+  array (
+    'moichalis' => 
+    array (
+      0 => 
+      array (
+        'word' => 'μοιχαλὶς',
+        'spa' => 'adultera',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:39',
+      ),
+    ),
+  ),
   3429 => 
   array (
     'moichatai' => 
@@ -29853,6 +34073,16 @@ $concordance = array (
         'spa' => 'solo',
         'morph' => 'A-DSM',
         'ref' => 'mt 4:10',
+      ),
+    ),
+    'monois' => 
+    array (
+      0 => 
+      array (
+        'word' => 'μόνοις',
+        'spa' => 'solos',
+        'morph' => 'A-DPM',
+        'ref' => 'mt 12:4',
       ),
     ),
   ),
@@ -30048,6 +34278,83 @@ $concordance = array (
         'spa' => 'mía',
         'morph' => 'P-1GS',
         'ref' => 'mt 11:30',
+      ),
+      27 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mío',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:18',
+      ),
+      28 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mío',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:18',
+      ),
+      29 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mía',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:18',
+      ),
+      30 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mío',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:18',
+      ),
+      31 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mía',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:44',
+      ),
+      32 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mía',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:48',
+      ),
+      33 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'míos',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:48',
+      ),
+      34 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mía',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:49',
+      ),
+      35 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'míos',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:49',
+      ),
+      36 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mío',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:50',
+      ),
+      37 => 
+      array (
+        'word' => 'μου',
+        'spa' => 'mí',
+        'morph' => 'P-1GS',
+        'ref' => 'mt 12:50',
       ),
     ),
   ),
@@ -30380,6 +34687,32 @@ $concordance = array (
       ),
     ),
   ),
+  3534 => 
+  array (
+    'nikos' => 
+    array (
+      0 => 
+      array (
+        'word' => 'νῖκος',
+        'spa' => 'victoria',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:20',
+      ),
+    ),
+  ),
+  3536 => 
+  array (
+    'nineuitai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'Νινευῖται',
+        'spa' => 'Ninivitas',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:41',
+      ),
+    ),
+  ),
   3538 => 
   array (
     'nipsai' => 
@@ -30452,6 +34785,16 @@ $concordance = array (
         'ref' => 'mt 11:13',
       ),
     ),
+    'nomōi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'νόμῳ',
+        'spa' => 'ley',
+        'morph' => 'N-DSM',
+        'ref' => 'mt 12:5',
+      ),
+    ),
   ),
   3554 => 
   array (
@@ -30497,6 +34840,19 @@ $concordance = array (
         'spa' => 'enfermedades',
         'morph' => 'N-APF',
         'ref' => 'mt 8:17',
+      ),
+    ),
+  ),
+  3558 => 
+  array (
+    'notou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'νότου',
+        'spa' => 'de sur',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:42',
       ),
     ),
   ),
@@ -30566,6 +34922,33 @@ $concordance = array (
         'spa' => 'noches',
         'morph' => 'N-APF',
         'ref' => 'mt 4:2',
+      ),
+      1 => 
+      array (
+        'word' => 'νύκτας',
+        'spa' => 'noches',
+        'morph' => 'N-APF',
+        'ref' => 'mt 12:40',
+      ),
+      2 => 
+      array (
+        'word' => 'νύκτας',
+        'spa' => 'noches',
+        'morph' => 'N-APF',
+        'ref' => 'mt 12:40',
+      ),
+    ),
+  ),
+  3584 => 
+  array (
+    'xēran' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ξηράν',
+        'spa' => 'seca',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:10',
       ),
     ),
   ),
@@ -31273,6 +35656,55 @@ $concordance = array (
         'morph' => 'T-ASM',
         'ref' => 'mt 11:29',
       ),
+      100 => 
+      array (
+        'word' => 'τὸν',
+        'spa' => 'la',
+        'morph' => 'T-ASM',
+        'ref' => 'mt 12:4',
+      ),
+      101 => 
+      array (
+        'word' => 'τὸν',
+        'spa' => 'el',
+        'morph' => 'T-ASM',
+        'ref' => 'mt 12:22',
+      ),
+      102 => 
+      array (
+        'word' => 'τὸν',
+        'spa' => 'a',
+        'morph' => 'T-ASM',
+        'ref' => 'mt 12:26',
+      ),
+      103 => 
+      array (
+        'word' => 'τὸν',
+        'spa' => 'al',
+        'morph' => 'T-ASM',
+        'ref' => 'mt 12:29',
+      ),
+      104 => 
+      array (
+        'word' => 'τὸν',
+        'spa' => 'el',
+        'morph' => 'T-ASM',
+        'ref' => 'mt 12:33',
+      ),
+      105 => 
+      array (
+        'word' => 'τὸν',
+        'spa' => 'el',
+        'morph' => 'T-ASM',
+        'ref' => 'mt 12:33',
+      ),
+      106 => 
+      array (
+        'word' => 'τὸν',
+        'spa' => 'la',
+        'morph' => 'T-ASM',
+        'ref' => 'mt 12:44',
+      ),
     ),
     'tous' => 
     array (
@@ -31492,6 +35924,27 @@ $concordance = array (
         'spa' => 'a los',
         'morph' => 'T-APM',
         'ref' => 'mt 10:25',
+      ),
+      31 => 
+      array (
+        'word' => 'τοὺς',
+        'spa' => 'los',
+        'morph' => 'T-APM',
+        'ref' => 'mt 12:4',
+      ),
+      32 => 
+      array (
+        'word' => 'τοὺς',
+        'spa' => 'a los',
+        'morph' => 'T-APM',
+        'ref' => 'mt 12:7',
+      ),
+      33 => 
+      array (
+        'word' => 'τοὺς',
+        'spa' => 'los',
+        'morph' => 'T-APM',
+        'ref' => 'mt 12:49',
       ),
     ),
     'tēs' => 
@@ -31775,6 +36228,48 @@ $concordance = array (
         'spa' => 'de la',
         'morph' => 'T-GSF',
         'ref' => 'mt 11:25',
+      ),
+      40 => 
+      array (
+        'word' => 'τῆς',
+        'spa' => 'de',
+        'morph' => 'T-GSF',
+        'ref' => 'mt 12:4',
+      ),
+      41 => 
+      array (
+        'word' => 'τῆς',
+        'spa' => 'del',
+        'morph' => 'T-GSF',
+        'ref' => 'mt 12:34',
+      ),
+      42 => 
+      array (
+        'word' => 'τῆς',
+        'spa' => 'de la',
+        'morph' => 'T-GSF',
+        'ref' => 'mt 12:40',
+      ),
+      43 => 
+      array (
+        'word' => 'τῆς',
+        'spa' => 'la',
+        'morph' => 'T-GSF',
+        'ref' => 'mt 12:41',
+      ),
+      44 => 
+      array (
+        'word' => 'τῆς',
+        'spa' => 'la',
+        'morph' => 'T-GSF',
+        'ref' => 'mt 12:42',
+      ),
+      45 => 
+      array (
+        'word' => 'τῆς',
+        'spa' => 'de la',
+        'morph' => 'T-GSF',
+        'ref' => 'mt 12:42',
       ),
     ),
     'tou' => 
@@ -32423,6 +36918,167 @@ $concordance = array (
         'morph' => 'T-GSM',
         'ref' => 'mt 11:27',
       ),
+      92 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'de',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:4',
+      ),
+      93 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSN',
+        'ref' => 'mt 12:6',
+      ),
+      94 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSN',
+        'ref' => 'mt 12:8',
+      ),
+      95 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:8',
+      ),
+      96 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:17',
+      ),
+      97 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'de',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:28',
+      ),
+      98 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:29',
+      ),
+      99 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'al',
+        'morph' => 'T-GSN',
+        'ref' => 'mt 12:31',
+      ),
+      100 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:32',
+      ),
+      101 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:32',
+      ),
+      102 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSN',
+        'ref' => 'mt 12:32',
+      ),
+      103 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSN',
+        'ref' => 'mt 12:32',
+      ),
+      104 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:33',
+      ),
+      105 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'la',
+        'morph' => 'T-GSN',
+        'ref' => 'mt 12:34',
+      ),
+      106 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:35',
+      ),
+      107 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:35',
+      ),
+      108 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:39',
+      ),
+      109 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSN',
+        'ref' => 'mt 12:40',
+      ),
+      110 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:40',
+      ),
+      111 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:43',
+      ),
+      112 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:45',
+      ),
+      113 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'del',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:50',
+      ),
+      114 => 
+      array (
+        'word' => 'τοῦ',
+        'spa' => 'el',
+        'morph' => 'T-GSM',
+        'ref' => 'mt 12:50',
+      ),
     ),
     'tēn' => 
     array (
@@ -32971,6 +37627,62 @@ $concordance = array (
         'spa' => 'la',
         'morph' => 'T-ASF',
         'ref' => 'mt 11:16',
+      ),
+      78 => 
+      array (
+        'word' => 'τὴν',
+        'spa' => 'la',
+        'morph' => 'T-ASF',
+        'ref' => 'mt 12:9',
+      ),
+      79 => 
+      array (
+        'word' => 'τὴν',
+        'spa' => 'la',
+        'morph' => 'T-ASF',
+        'ref' => 'mt 12:13',
+      ),
+      80 => 
+      array (
+        'word' => 'τὴν',
+        'spa' => 'la',
+        'morph' => 'T-ASF',
+        'ref' => 'mt 12:19',
+      ),
+      81 => 
+      array (
+        'word' => 'τὴν',
+        'spa' => 'el',
+        'morph' => 'T-ASF',
+        'ref' => 'mt 12:20',
+      ),
+      82 => 
+      array (
+        'word' => 'τὴν',
+        'spa' => 'la',
+        'morph' => 'T-ASF',
+        'ref' => 'mt 12:29',
+      ),
+      83 => 
+      array (
+        'word' => 'τὴν',
+        'spa' => 'la',
+        'morph' => 'T-ASF',
+        'ref' => 'mt 12:29',
+      ),
+      84 => 
+      array (
+        'word' => 'τὴν',
+        'spa' => 'la',
+        'morph' => 'T-ASF',
+        'ref' => 'mt 12:42',
+      ),
+      85 => 
+      array (
+        'word' => 'τὴν',
+        'spa' => 'la',
+        'morph' => 'T-ASF',
+        'ref' => 'mt 12:49',
       ),
     ),
     'ho' => 
@@ -34046,6 +38758,118 @@ $concordance = array (
         'morph' => 'T-NSM',
         'ref' => 'mt 11:30',
       ),
+      153 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:1',
+      ),
+      154 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:3',
+      ),
+      155 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:8',
+      ),
+      156 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:11',
+      ),
+      157 => 
+      array (
+        'word' => 'Ὁ',
+        'spa' => 'El',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:15',
+      ),
+      158 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:18',
+      ),
+      159 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:18',
+      ),
+      160 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:23',
+      ),
+      161 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:26',
+      ),
+      162 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:30',
+      ),
+      163 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:30',
+      ),
+      164 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:35',
+      ),
+      165 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:35',
+      ),
+      166 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:39',
+      ),
+      167 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:40',
+      ),
+      168 => 
+      array (
+        'word' => 'ὁ',
+        'spa' => 'el',
+        'morph' => 'T-NSM',
+        'ref' => 'mt 12:48',
+      ),
     ),
     'hai' => 
     array (
@@ -34451,6 +39275,69 @@ $concordance = array (
         'morph' => 'T-NSF',
         'ref' => 'mt 11:19',
       ),
+      46 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'la',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:13',
+      ),
+      47 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'el',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:18',
+      ),
+      48 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'el',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:26',
+      ),
+      49 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'el',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:28',
+      ),
+      50 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'la',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:31',
+      ),
+      51 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'la',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:46',
+      ),
+      52 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'la',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:47',
+      ),
+      53 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'la',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:48',
+      ),
+      54 => 
+      array (
+        'word' => 'ἡ',
+        'spa' => 'la',
+        'morph' => 'T-NSF',
+        'ref' => 'mt 12:49',
+      ),
     ),
     'tōi' => 
     array (
@@ -34845,6 +39732,69 @@ $concordance = array (
         'spa' => 'el',
         'morph' => 'T-DSM',
         'ref' => 'mt 11:25',
+      ),
+      56 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'el',
+        'morph' => 'T-DSM',
+        'ref' => 'mt 12:1',
+      ),
+      57 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'la',
+        'morph' => 'T-DSM',
+        'ref' => 'mt 12:5',
+      ),
+      58 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'el',
+        'morph' => 'T-DSN',
+        'ref' => 'mt 12:5',
+      ),
+      59 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'al',
+        'morph' => 'T-DSM',
+        'ref' => 'mt 12:13',
+      ),
+      60 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'en',
+        'morph' => 'T-DSN',
+        'ref' => 'mt 12:21',
+      ),
+      61 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'el',
+        'morph' => 'T-DSM',
+        'ref' => 'mt 12:24',
+      ),
+      62 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'la',
+        'morph' => 'T-DSM',
+        'ref' => 'mt 12:32',
+      ),
+      63 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'la',
+        'morph' => 'T-DSM',
+        'ref' => 'mt 12:32',
+      ),
+      64 => 
+      array (
+        'word' => 'τῷ',
+        'spa' => 'al',
+        'morph' => 'T-DSM',
+        'ref' => 'mt 12:48',
       ),
     ),
     'to' => 
@@ -35381,6 +40331,83 @@ $concordance = array (
         'morph' => 'T-NSN',
         'ref' => 'mt 11:30',
       ),
+      76 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'el',
+        'morph' => 'T-ASN',
+        'ref' => 'mt 12:5',
+      ),
+      77 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'lo',
+        'morph' => 'T-NSN',
+        'ref' => 'mt 12:17',
+      ),
+      78 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'el',
+        'morph' => 'T-ASN',
+        'ref' => 'mt 12:18',
+      ),
+      79 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'el',
+        'morph' => 'T-ASN',
+        'ref' => 'mt 12:33',
+      ),
+      80 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'el',
+        'morph' => 'T-ASN',
+        'ref' => 'mt 12:33',
+      ),
+      81 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'el',
+        'morph' => 'T-NSN',
+        'ref' => 'mt 12:33',
+      ),
+      82 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'la',
+        'morph' => 'T-NSN',
+        'ref' => 'mt 12:34',
+      ),
+      83 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'la',
+        'morph' => 'T-ASN',
+        'ref' => 'mt 12:39',
+      ),
+      84 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'la',
+        'morph' => 'T-ASN',
+        'ref' => 'mt 12:41',
+      ),
+      85 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'el',
+        'morph' => 'T-NSN',
+        'ref' => 'mt 12:43',
+      ),
+      86 => 
+      array (
+        'word' => 'τὸ',
+        'spa' => 'la',
+        'morph' => 'T-ASN',
+        'ref' => 'mt 12:50',
+      ),
     ),
     'tōn' => 
     array (
@@ -35818,6 +40845,55 @@ $concordance = array (
         'morph' => 'T-GPN',
         'ref' => 'mt 11:19',
       ),
+      62 => 
+      array (
+        'word' => 'τῶν',
+        'spa' => 'de los',
+        'morph' => 'T-GPM',
+        'ref' => 'mt 12:1',
+      ),
+      63 => 
+      array (
+        'word' => 'τῶν',
+        'spa' => 'de los',
+        'morph' => 'T-GPN',
+        'ref' => 'mt 12:24',
+      ),
+      64 => 
+      array (
+        'word' => 'τῶν',
+        'spa' => 'de las',
+        'morph' => 'T-GPM',
+        'ref' => 'mt 12:37',
+      ),
+      65 => 
+      array (
+        'word' => 'τῶν',
+        'spa' => 'las',
+        'morph' => 'T-GPM',
+        'ref' => 'mt 12:37',
+      ),
+      66 => 
+      array (
+        'word' => 'τῶν',
+        'spa' => 'de los',
+        'morph' => 'T-GPM',
+        'ref' => 'mt 12:38',
+      ),
+      67 => 
+      array (
+        'word' => 'τῶν',
+        'spa' => 'de los',
+        'morph' => 'T-GPN',
+        'ref' => 'mt 12:42',
+      ),
+      68 => 
+      array (
+        'word' => 'τῶν',
+        'spa' => 'de los',
+        'morph' => 'T-GPN',
+        'ref' => 'mt 12:45',
+      ),
     ),
     'tēi' => 
     array (
@@ -36079,6 +41155,48 @@ $concordance = array (
         'spa' => 'de',
         'morph' => 'T-DSF',
         'ref' => 'mt 11:29',
+      ),
+      37 => 
+      array (
+        'word' => 'τῇ',
+        'spa' => 'el',
+        'morph' => 'T-DSF',
+        'ref' => 'mt 12:40',
+      ),
+      38 => 
+      array (
+        'word' => 'τῇ',
+        'spa' => 'el',
+        'morph' => 'T-DSF',
+        'ref' => 'mt 12:40',
+      ),
+      39 => 
+      array (
+        'word' => 'τῇ',
+        'spa' => 'el',
+        'morph' => 'T-DSF',
+        'ref' => 'mt 12:41',
+      ),
+      40 => 
+      array (
+        'word' => 'τῇ',
+        'spa' => 'el',
+        'morph' => 'T-DSF',
+        'ref' => 'mt 12:42',
+      ),
+      41 => 
+      array (
+        'word' => 'τῇ',
+        'spa' => 'a la',
+        'morph' => 'T-DSF',
+        'ref' => 'mt 12:45',
+      ),
+      42 => 
+      array (
+        'word' => 'τῇ',
+        'spa' => 'la',
+        'morph' => 'T-DSF',
+        'ref' => 'mt 12:45',
       ),
     ),
     'hoi' => 
@@ -36524,6 +41642,104 @@ $concordance = array (
         'morph' => 'T-NPM',
         'ref' => 'mt 11:28',
       ),
+      63 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:1',
+      ),
+      64 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:2',
+      ),
+      65 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:2',
+      ),
+      66 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:3',
+      ),
+      67 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:5',
+      ),
+      68 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:14',
+      ),
+      69 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'las',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:23',
+      ),
+      70 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:24',
+      ),
+      71 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:27',
+      ),
+      72 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:36',
+      ),
+      73 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:46',
+      ),
+      74 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:47',
+      ),
+      75 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:48',
+      ),
+      76 => 
+      array (
+        'word' => 'οἱ',
+        'spa' => 'los',
+        'morph' => 'T-NPM',
+        'ref' => 'mt 12:49',
+      ),
     ),
     'tois' => 
     array (
@@ -36772,6 +41988,76 @@ $concordance = array (
         'morph' => 'T-DPN',
         'ref' => 'mt 11:16',
       ),
+      35 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'en los',
+        'morph' => 'T-DPN',
+        'ref' => 'mt 12:1',
+      ),
+      36 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'a los',
+        'morph' => 'T-DPM',
+        'ref' => 'mt 12:4',
+      ),
+      37 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'a los',
+        'morph' => 'T-DPM',
+        'ref' => 'mt 12:4',
+      ),
+      38 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'los',
+        'morph' => 'T-DPN',
+        'ref' => 'mt 12:5',
+      ),
+      39 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'en los',
+        'morph' => 'T-DPN',
+        'ref' => 'mt 12:10',
+      ),
+      40 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'en los',
+        'morph' => 'T-DPN',
+        'ref' => 'mt 12:11',
+      ),
+      41 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'en los',
+        'morph' => 'T-DPN',
+        'ref' => 'mt 12:12',
+      ),
+      42 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'a las',
+        'morph' => 'T-DPN',
+        'ref' => 'mt 12:18',
+      ),
+      43 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'a los',
+        'morph' => 'T-DPM',
+        'ref' => 'mt 12:31',
+      ),
+      44 => 
+      array (
+        'word' => 'τοῖς',
+        'spa' => 'a las',
+        'morph' => 'T-DPM',
+        'ref' => 'mt 12:46',
+      ),
     ),
     'ta' => 
     array (
@@ -36929,6 +42215,41 @@ $concordance = array (
         'morph' => 'T-APN',
         'ref' => 'mt 11:8',
       ),
+      22 => 
+      array (
+        'word' => 'τὰ',
+        'spa' => 'los',
+        'morph' => 'T-APN',
+        'ref' => 'mt 12:24',
+      ),
+      23 => 
+      array (
+        'word' => 'τὰ',
+        'spa' => 'los',
+        'morph' => 'T-APN',
+        'ref' => 'mt 12:27',
+      ),
+      24 => 
+      array (
+        'word' => 'τὰ',
+        'spa' => 'los',
+        'morph' => 'T-APN',
+        'ref' => 'mt 12:28',
+      ),
+      25 => 
+      array (
+        'word' => 'τὰ',
+        'spa' => 'las',
+        'morph' => 'T-APN',
+        'ref' => 'mt 12:29',
+      ),
+      26 => 
+      array (
+        'word' => 'τὰ',
+        'spa' => 'los',
+        'morph' => 'T-NPN',
+        'ref' => 'mt 12:45',
+      ),
     ),
     'tais' => 
     array (
@@ -37016,6 +42337,13 @@ $concordance = array (
         'morph' => 'T-DPF',
         'ref' => 'mt 11:29',
       ),
+      12 => 
+      array (
+        'word' => 'ταῖς',
+        'spa' => 'las',
+        'morph' => 'T-DPF',
+        'ref' => 'mt 12:19',
+      ),
     ),
     'tas' => 
     array (
@@ -37095,6 +42423,13 @@ $concordance = array (
         'spa' => 'las',
         'morph' => 'T-APF',
         'ref' => 'mt 11:20',
+      ),
+      11 => 
+      array (
+        'word' => 'τὰς',
+        'spa' => 'los',
+        'morph' => 'T-APF',
+        'ref' => 'mt 12:25',
       ),
     ),
   ),
@@ -37252,6 +42587,19 @@ $concordance = array (
       ),
     ),
   ),
+  3606 => 
+  array (
+    'hothen' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ὅθεν',
+        'spa' => 'de donde',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:44',
+      ),
+    ),
+  ),
   3614 => 
   array (
     'oikian' => 
@@ -37305,6 +42653,20 @@ $concordance = array (
         'morph' => 'N-ASF',
         'ref' => 'mt 10:12',
       ),
+      7 => 
+      array (
+        'word' => 'οἰκίαν',
+        'spa' => 'casa',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:29',
+      ),
+      8 => 
+      array (
+        'word' => 'οἰκίαν',
+        'spa' => 'casa',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:29',
+      ),
     ),
     'oikiai' => 
     array (
@@ -37352,6 +42714,13 @@ $concordance = array (
         'spa' => 'casa',
         'morph' => 'N-NSF',
         'ref' => 'mt 10:13',
+      ),
+      1 => 
+      array (
+        'word' => 'οἰκία',
+        'spa' => 'casa',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:25',
       ),
     ),
     'oikias' => 
@@ -37438,6 +42807,20 @@ $concordance = array (
         'spa' => 'casa',
         'morph' => 'N-ASM',
         'ref' => 'mt 9:7',
+      ),
+      2 => 
+      array (
+        'word' => 'οἶκον',
+        'spa' => 'casa',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:4',
+      ),
+      3 => 
+      array (
+        'word' => 'οἶκόν',
+        'spa' => 'casa',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:44',
       ),
     ),
     'oikou' => 
@@ -37886,6 +43269,13 @@ $concordance = array (
         'morph' => 'N-DSN',
         'ref' => 'mt 7:22',
       ),
+      3 => 
+      array (
+        'word' => 'ὀνόματι',
+        'spa' => 'nombre',
+        'morph' => 'N-DSN',
+        'ref' => 'mt 12:21',
+      ),
     ),
     'onomata' => 
     array (
@@ -38086,6 +43476,13 @@ $concordance = array (
         'spa' => 'para que',
         'morph' => 'ADV',
         'ref' => 'mt 9:38',
+      ),
+      12 => 
+      array (
+        'word' => 'ὅπως',
+        'spa' => 'para que',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:14',
       ),
     ),
   ),
@@ -38313,6 +43710,27 @@ $concordance = array (
         'morph' => 'R-ASN',
         'ref' => 'mt 10:27',
       ),
+      5 => 
+      array (
+        'word' => 'ὃ',
+        'spa' => 'que',
+        'morph' => 'R-ASN',
+        'ref' => 'mt 12:2',
+      ),
+      6 => 
+      array (
+        'word' => 'ὃ',
+        'spa' => 'que',
+        'morph' => 'R-NSN',
+        'ref' => 'mt 12:4',
+      ),
+      7 => 
+      array (
+        'word' => 'ὃ',
+        'spa' => 'que',
+        'morph' => 'R-ASN',
+        'ref' => 'mt 12:36',
+      ),
     ),
     'hou' => 
     array (
@@ -38367,6 +43785,20 @@ $concordance = array (
         'spa' => 'quien',
         'morph' => 'R-ASM',
         'ref' => 'mt 7:9',
+      ),
+      3 => 
+      array (
+        'word' => 'ὃν',
+        'spa' => 'quien',
+        'morph' => 'R-ASM',
+        'ref' => 'mt 12:18',
+      ),
+      4 => 
+      array (
+        'word' => 'ὃν',
+        'spa' => 'quien',
+        'morph' => 'R-ASM',
+        'ref' => 'mt 12:18',
       ),
     ),
     'hōi' => 
@@ -38485,6 +43917,27 @@ $concordance = array (
         'spa' => 'quien',
         'morph' => 'R-NSM',
         'ref' => 'mt 11:10',
+      ),
+      12 => 
+      array (
+        'word' => 'ὃς',
+        'spa' => 'quien',
+        'morph' => 'R-NSM',
+        'ref' => 'mt 12:11',
+      ),
+      13 => 
+      array (
+        'word' => 'ὃς',
+        'spa' => 'quien',
+        'morph' => 'R-NSM',
+        'ref' => 'mt 12:32',
+      ),
+      14 => 
+      array (
+        'word' => 'ὃς',
+        'spa' => 'quien',
+        'morph' => 'R-NSM',
+        'ref' => 'mt 12:32',
       ),
     ),
     'hōn' => 
@@ -38618,6 +44071,13 @@ $concordance = array (
         'morph' => 'R-NSM',
         'ref' => 'mt 10:33',
       ),
+      8 => 
+      array (
+        'word' => 'ὅστις',
+        'spa' => 'quien',
+        'morph' => 'R-NSM',
+        'ref' => 'mt 12:50',
+      ),
     ),
     'hoitines' => 
     array (
@@ -38703,6 +44163,13 @@ $concordance = array (
         'morph' => 'CONJ',
         'ref' => 'mt 10:23',
       ),
+      8 => 
+      array (
+        'word' => 'Ὅταν',
+        'spa' => 'Cuando',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:43',
+      ),
     ),
   ),
   3753 => 
@@ -38729,6 +44196,13 @@ $concordance = array (
         'spa' => 'cuando',
         'morph' => 'ADV',
         'ref' => 'mt 11:1',
+      ),
+      3 => 
+      array (
+        'word' => 'ὅτε',
+        'spa' => 'cuando',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:3',
       ),
     ),
   ),
@@ -39114,6 +44588,41 @@ $concordance = array (
         'morph' => 'CONJ',
         'ref' => 'mt 11:29',
       ),
+      54 => 
+      array (
+        'word' => 'ὅτι',
+        'spa' => 'que',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:5',
+      ),
+      55 => 
+      array (
+        'word' => 'ὅτι',
+        'spa' => 'que',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:6',
+      ),
+      56 => 
+      array (
+        'word' => 'ὅτι',
+        'spa' => 'que',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:36',
+      ),
+      57 => 
+      array (
+        'word' => 'ὅτι',
+        'spa' => 'porque',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:41',
+      ),
+      58 => 
+      array (
+        'word' => 'ὅτι',
+        'spa' => 'porque',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:42',
+      ),
     ),
   ),
   3755 => 
@@ -39286,6 +44795,69 @@ $concordance = array (
         'spa' => 'no',
         'morph' => 'PRT-N',
         'ref' => 'mt 11:17',
+      ),
+      22 => 
+      array (
+        'word' => 'οὐκ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:2',
+      ),
+      23 => 
+      array (
+        'word' => 'Οὐκ',
+        'spa' => 'No',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:3',
+      ),
+      24 => 
+      array (
+        'word' => 'οὐκ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:4',
+      ),
+      25 => 
+      array (
+        'word' => 'οὐκ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:5',
+      ),
+      26 => 
+      array (
+        'word' => 'οὐκ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:7',
+      ),
+      27 => 
+      array (
+        'word' => 'οὐκ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:19',
+      ),
+      28 => 
+      array (
+        'word' => 'οὐκ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:24',
+      ),
+      29 => 
+      array (
+        'word' => 'οὐκ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:31',
+      ),
+      30 => 
+      array (
+        'word' => 'οὐκ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:32',
       ),
     ),
     'ou' => 
@@ -39500,6 +45072,41 @@ $concordance = array (
         'morph' => 'PRT-N',
         'ref' => 'mt 11:20',
       ),
+      30 => 
+      array (
+        'word' => 'οὐ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:7',
+      ),
+      31 => 
+      array (
+        'word' => 'οὐ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:20',
+      ),
+      32 => 
+      array (
+        'word' => 'οὐ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:20',
+      ),
+      33 => 
+      array (
+        'word' => 'οὐ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:25',
+      ),
+      34 => 
+      array (
+        'word' => 'οὐ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:39',
+      ),
     ),
     'ouch' => 
     array (
@@ -39516,6 +45123,13 @@ $concordance = array (
         'spa' => 'no',
         'morph' => 'PRT-N',
         'ref' => 'mt 7:29',
+      ),
+      2 => 
+      array (
+        'word' => 'οὐχ',
+        'spa' => 'no',
+        'morph' => 'PRT-N',
+        'ref' => 'mt 12:43',
       ),
     ),
   ),
@@ -39645,6 +45259,27 @@ $concordance = array (
         'spa' => 'ni',
         'morph' => 'ADV',
         'ref' => 'mt 11:27',
+      ),
+      11 => 
+      array (
+        'word' => 'οὐδὲ',
+        'spa' => 'ni',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:4',
+      ),
+      12 => 
+      array (
+        'word' => 'οὐδὲ',
+        'spa' => 'ni',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:19',
+      ),
+      13 => 
+      array (
+        'word' => 'οὐδὲ',
+        'spa' => 'ni',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:19',
       ),
     ),
   ),
@@ -39873,6 +45508,20 @@ $concordance = array (
         'morph' => 'CONJ',
         'ref' => 'mt 10:32',
       ),
+      21 => 
+      array (
+        'word' => 'οὖν',
+        'spa' => 'pues',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:12',
+      ),
+      22 => 
+      array (
+        'word' => 'οὖν',
+        'spa' => 'pues',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:26',
+      ),
     ),
   ),
   3770 => 
@@ -40080,6 +45729,13 @@ $concordance = array (
         'morph' => 'N-DPM',
         'ref' => 'mt 10:33',
       ),
+      9 => 
+      array (
+        'word' => 'οὐρανοῖς',
+        'spa' => 'cielos',
+        'morph' => 'N-DPM',
+        'ref' => 'mt 12:50',
+      ),
     ),
     'ouranos' => 
     array (
@@ -40201,6 +45857,20 @@ $concordance = array (
         'morph' => 'CONJ',
         'ref' => 'mt 6:20',
       ),
+      2 => 
+      array (
+        'word' => 'οὔτε',
+        'spa' => 'ni',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:32',
+      ),
+      3 => 
+      array (
+        'word' => 'οὔτε',
+        'spa' => 'ni',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:32',
+      ),
     ),
   ),
   3778 => 
@@ -40263,6 +45933,20 @@ $concordance = array (
         'morph' => 'D-NSM',
         'ref' => 'mt 11:10',
       ),
+      8 => 
+      array (
+        'word' => 'οὗτός',
+        'spa' => 'este',
+        'morph' => 'D-NSM',
+        'ref' => 'mt 12:23',
+      ),
+      9 => 
+      array (
+        'word' => 'Οὗτος',
+        'spa' => 'Este',
+        'morph' => 'D-NSM',
+        'ref' => 'mt 12:24',
+      ),
     ),
     'houtoi' => 
     array (
@@ -40293,6 +45977,13 @@ $concordance = array (
         'morph' => 'D-DSF',
         'ref' => 'mt 10:23',
       ),
+      1 => 
+      array (
+        'word' => 'ταύτῃ',
+        'spa' => 'esta',
+        'morph' => 'D-DSF',
+        'ref' => 'mt 12:45',
+      ),
     ),
     'tautēn' => 
     array (
@@ -40302,6 +45993,23 @@ $concordance = array (
         'spa' => 'esta',
         'morph' => 'D-ASF',
         'ref' => 'mt 11:16',
+      ),
+    ),
+    'tautēs' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ταύτης',
+        'spa' => 'esta',
+        'morph' => 'D-GSF',
+        'ref' => 'mt 12:41',
+      ),
+      1 => 
+      array (
+        'word' => 'ταύτης',
+        'spa' => 'esta',
+        'morph' => 'D-GSF',
+        'ref' => 'mt 12:42',
       ),
     ),
   ),
@@ -40393,6 +46101,20 @@ $concordance = array (
         'morph' => 'ADV',
         'ref' => 'mt 11:26',
       ),
+      12 => 
+      array (
+        'word' => 'οὕτως',
+        'spa' => 'así',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:40',
+      ),
+      13 => 
+      array (
+        'word' => 'οὕτως',
+        'spa' => 'así',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:45',
+      ),
     ),
   ),
   3780 => 
@@ -40426,6 +46148,13 @@ $concordance = array (
         'spa' => 'no',
         'morph' => 'PRT-I',
         'ref' => 'mt 10:29',
+      ),
+      4 => 
+      array (
+        'word' => 'οὐχὶ',
+        'spa' => 'no',
+        'morph' => 'PRT-I',
+        'ref' => 'mt 12:11',
       ),
     ),
   ),
@@ -40636,6 +46365,13 @@ $concordance = array (
         'morph' => 'N-NPM',
         'ref' => 'mt 9:33',
       ),
+      5 => 
+      array (
+        'word' => 'ὄχλοι',
+        'spa' => 'multitudes',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:23',
+      ),
     ),
     'ochlous' => 
     array (
@@ -40689,6 +46425,13 @@ $concordance = array (
         'spa' => 'multitudes',
         'morph' => 'N-DPM',
         'ref' => 'mt 11:7',
+      ),
+      1 => 
+      array (
+        'word' => 'ὄχλοις',
+        'spa' => 'multitudes',
+        'morph' => 'N-DPM',
+        'ref' => 'mt 12:46',
       ),
     ),
   ),
@@ -40821,6 +46564,13 @@ $concordance = array (
         'spa' => 'siervo',
         'morph' => 'N-NSM',
         'ref' => 'mt 8:13',
+      ),
+      3 => 
+      array (
+        'word' => 'παῖς',
+        'spa' => 'siervo',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:18',
       ),
     ),
   ),
@@ -41201,16 +46951,23 @@ $concordance = array (
       0 => 
       array (
         'word' => 'παραλαμβάνει',
-        'spa' => 'tomó',
+        'spa' => 'toma',
         'morph' => 'V-PAI-3S',
         'ref' => 'mt 4:5',
       ),
       1 => 
       array (
         'word' => 'παραλαμβάνει',
-        'spa' => 'tomó',
+        'spa' => 'toma',
         'morph' => 'V-PAI-3S',
         'ref' => 'mt 4:8',
+      ),
+      2 => 
+      array (
+        'word' => 'παραλαμβάνει',
+        'spa' => 'toma',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:45',
       ),
     ),
   ),
@@ -41396,6 +47153,27 @@ $concordance = array (
         'morph' => 'A-NSF',
         'ref' => 'mt 8:34',
       ),
+      5 => 
+      array (
+        'word' => 'Πᾶσα',
+        'spa' => 'Todo',
+        'morph' => 'A-NSF',
+        'ref' => 'mt 12:25',
+      ),
+      6 => 
+      array (
+        'word' => 'πᾶσα',
+        'spa' => 'todo',
+        'morph' => 'A-NSF',
+        'ref' => 'mt 12:25',
+      ),
+      7 => 
+      array (
+        'word' => 'πᾶσα',
+        'spa' => 'todo',
+        'morph' => 'A-NSF',
+        'ref' => 'mt 12:31',
+      ),
     ),
     'pantas' => 
     array (
@@ -41426,6 +47204,13 @@ $concordance = array (
         'spa' => 'a todos',
         'morph' => 'A-APM',
         'ref' => 'mt 8:16',
+      ),
+      4 => 
+      array (
+        'word' => 'πάντας',
+        'spa' => 'a todos',
+        'morph' => 'A-APM',
+        'ref' => 'mt 12:15',
       ),
     ),
     'pasi' => 
@@ -41467,6 +47252,13 @@ $concordance = array (
         'spa' => 'todo',
         'morph' => 'A-NSN',
         'ref' => 'mt 7:19',
+      ),
+      4 => 
+      array (
+        'word' => 'πᾶν',
+        'spa' => 'cada',
+        'morph' => 'A-NSN',
+        'ref' => 'mt 12:36',
       ),
     ),
     'pasan' => 
@@ -41705,6 +47497,13 @@ $concordance = array (
         'morph' => 'A-NPM',
         'ref' => 'mt 11:28',
       ),
+      2 => 
+      array (
+        'word' => 'πάντες',
+        'spa' => 'todas',
+        'morph' => 'A-NPM',
+        'ref' => 'mt 12:23',
+      ),
     ),
   ),
   3962 => 
@@ -41780,6 +47579,13 @@ $concordance = array (
         'spa' => 'padre',
         'morph' => 'N-GSM',
         'ref' => 'mt 11:27',
+      ),
+      10 => 
+      array (
+        'word' => 'πατρός',
+        'spa' => 'padre',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:50',
       ),
     ),
     'patera' => 
@@ -41974,6 +47780,13 @@ $concordance = array (
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 4:2',
       ),
+      1 => 
+      array (
+        'word' => 'ἐπείνασεν',
+        'spa' => 'tuvo hambre',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:3',
+      ),
     ),
     'peinōntes' => 
     array (
@@ -41983,6 +47796,16 @@ $concordance = array (
         'spa' => 'que tienen hambre',
         'morph' => 'V-PAP-NPM',
         'ref' => 'mt 5:6',
+      ),
+    ),
+    'epeinasan' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐπείνασαν',
+        'spa' => 'tuvieron hambre',
+        'morph' => 'V-AAI-3P',
+        'ref' => 'mt 12:1',
       ),
     ),
   ),
@@ -42122,6 +47945,19 @@ $concordance = array (
       ),
     ),
   ),
+  4009 => 
+  array (
+    'peratōn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'περάτων',
+        'spa' => 'confines',
+        'morph' => 'N-GPN',
+        'ref' => 'mt 12:42',
+      ),
+    ),
+  ),
   4012 => 
   array (
     'peri' => 
@@ -42181,6 +48017,13 @@ $concordance = array (
         'spa' => 'acerca de',
         'morph' => 'PREP',
         'ref' => 'mt 11:10',
+      ),
+      8 => 
+      array (
+        'word' => 'περὶ',
+        'spa' => 'acerca de',
+        'morph' => 'PREP',
+        'ref' => 'mt 12:36',
       ),
     ),
   ),
@@ -42257,6 +48100,19 @@ $concordance = array (
         'spa' => 'caminan',
         'morph' => 'V-PAI-3P',
         'ref' => 'mt 11:5',
+      ),
+    ),
+  ),
+  4051 => 
+  array (
+    'perisseumatos' => 
+    array (
+      0 => 
+      array (
+        'word' => 'περισσεύματος',
+        'spa' => 'abundancia',
+        'morph' => 'N-GSN',
+        'ref' => 'mt 12:34',
       ),
     ),
   ),
@@ -42590,6 +48446,16 @@ $concordance = array (
         'ref' => 'mt 6:5',
       ),
     ),
+    'plateiais' => 
+    array (
+      0 => 
+      array (
+        'word' => 'πλατείαις',
+        'spa' => 'calles',
+        'morph' => 'N-DPF',
+        'ref' => 'mt 12:19',
+      ),
+    ),
   ),
   4116 => 
   array (
@@ -42634,6 +48500,20 @@ $concordance = array (
         'spa' => 'más que',
         'morph' => 'A-NSN-C',
         'ref' => 'mt 6:25',
+      ),
+      2 => 
+      array (
+        'word' => 'πλεῖον',
+        'spa' => 'mas que',
+        'morph' => 'A-NSN-C',
+        'ref' => 'mt 12:41',
+      ),
+      3 => 
+      array (
+        'word' => 'πλεῖον',
+        'spa' => 'mas que',
+        'morph' => 'A-NSN-C',
+        'ref' => 'mt 12:42',
       ),
     ),
   ),
@@ -42695,6 +48575,13 @@ $concordance = array (
         'spa' => 'se cumpliera',
         'morph' => 'V-APS-3S',
         'ref' => 'mt 8:17',
+      ),
+      5 => 
+      array (
+        'word' => 'πληρωθῇ',
+        'spa' => 'se cumpliera',
+        'morph' => 'V-APS-3S',
+        'ref' => 'mt 12:17',
       ),
     ),
     'eplērōthē' => 
@@ -42820,6 +48707,20 @@ $concordance = array (
         'morph' => 'N-GSN',
         'ref' => 'mt 4:1',
       ),
+      3 => 
+      array (
+        'word' => 'πνεύματος',
+        'spa' => 'Espíritu',
+        'morph' => 'N-GSN',
+        'ref' => 'mt 12:31',
+      ),
+      4 => 
+      array (
+        'word' => 'πνεύματος',
+        'spa' => 'Espíritu',
+        'morph' => 'N-GSN',
+        'ref' => 'mt 12:32',
+      ),
     ),
     'pneumati' => 
     array (
@@ -42836,6 +48737,13 @@ $concordance = array (
         'spa' => 'espíritu',
         'morph' => 'N-DSN',
         'ref' => 'mt 5:3',
+      ),
+      2 => 
+      array (
+        'word' => 'πνεύματι',
+        'spa' => 'Espíritu',
+        'morph' => 'N-DSN',
+        'ref' => 'mt 12:28',
       ),
     ),
     'pneuma' => 
@@ -42854,6 +48762,20 @@ $concordance = array (
         'morph' => 'N-NSN',
         'ref' => 'mt 10:20',
       ),
+      2 => 
+      array (
+        'word' => 'πνεῦμά',
+        'spa' => 'Espíritu',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:18',
+      ),
+      3 => 
+      array (
+        'word' => 'πνεῦμα',
+        'spa' => 'espíritu',
+        'morph' => 'N-NSN',
+        'ref' => 'mt 12:43',
+      ),
     ),
     'pneumata' => 
     array (
@@ -42863,6 +48785,13 @@ $concordance = array (
         'spa' => 'espíritus',
         'morph' => 'N-APN',
         'ref' => 'mt 8:16',
+      ),
+      1 => 
+      array (
+        'word' => 'πνεύματα',
+        'spa' => 'espíritus',
+        'morph' => 'N-APN',
+        'ref' => 'mt 12:45',
       ),
     ),
     'pneumatōn' => 
@@ -42907,6 +48836,13 @@ $concordance = array (
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 1:24',
       ),
+      1 => 
+      array (
+        'word' => 'ἐποίησεν',
+        'spa' => 'hizo',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:3',
+      ),
     ),
     'poieite' => 
     array (
@@ -42940,6 +48876,20 @@ $concordance = array (
         'spa' => 'Hagan',
         'morph' => 'V-AAM-2P',
         'ref' => 'mt 3:8',
+      ),
+      1 => 
+      array (
+        'word' => 'ποιήσατε',
+        'spa' => 'Hagan',
+        'morph' => 'V-AAM-2P',
+        'ref' => 'mt 12:33',
+      ),
+      2 => 
+      array (
+        'word' => 'ποιήσατε',
+        'spa' => 'Hagan',
+        'morph' => 'V-AAM-2P',
+        'ref' => 'mt 12:33',
       ),
     ),
     'poioun' => 
@@ -42977,6 +48927,13 @@ $concordance = array (
         'spa' => 'hace',
         'morph' => 'V-AAS-3S',
         'ref' => 'mt 5:19',
+      ),
+      1 => 
+      array (
+        'word' => 'ποιήσῃ',
+        'spa' => 'hace',
+        'morph' => 'V-AAS-3S',
+        'ref' => 'mt 12:50',
       ),
     ),
     'poiei' => 
@@ -43064,6 +49021,13 @@ $concordance = array (
         'morph' => 'V-PAI-3P',
         'ref' => 'mt 6:2',
       ),
+      3 => 
+      array (
+        'word' => 'ποιοῦσιν',
+        'spa' => 'hacen',
+        'morph' => 'V-PAI-3P',
+        'ref' => 'mt 12:2',
+      ),
     ),
     'poiein' => 
     array (
@@ -43087,6 +49051,20 @@ $concordance = array (
         'spa' => 'hacer',
         'morph' => 'V-PAN',
         'ref' => 'mt 7:18',
+      ),
+      3 => 
+      array (
+        'word' => 'ποιεῖν',
+        'spa' => 'hacer',
+        'morph' => 'V-PAN',
+        'ref' => 'mt 12:2',
+      ),
+      4 => 
+      array (
+        'word' => 'ποιεῖν',
+        'spa' => 'hacer',
+        'morph' => 'V-PAN',
+        'ref' => 'mt 12:12',
       ),
     ),
     'poiēis' => 
@@ -43154,6 +49132,16 @@ $concordance = array (
         'spa' => 'Haz',
         'morph' => 'V-AAM-2S',
         'ref' => 'mt 8:9',
+      ),
+    ),
+    'poiēsōsin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ποιήσωσιν',
+        'spa' => 'hicieran',
+        'morph' => 'V-AAS-3P',
+        'ref' => 'mt 12:16',
       ),
     ),
   ),
@@ -43265,6 +49253,13 @@ $concordance = array (
         'spa' => 'ciudad',
         'morph' => 'N-NSF',
         'ref' => 'mt 8:34',
+      ),
+      3 => 
+      array (
+        'word' => 'πόλις',
+        'spa' => 'ciudad',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:25',
       ),
     ),
     'poleis' => 
@@ -43436,6 +49431,13 @@ $concordance = array (
         'morph' => 'A-NPM',
         'ref' => 'mt 9:10',
       ),
+      6 => 
+      array (
+        'word' => 'πολλοί',
+        'spa' => 'muchos',
+        'morph' => 'A-NPM',
+        'ref' => 'mt 12:15',
+      ),
     ),
     'pollōi' => 
     array (
@@ -43513,6 +49515,13 @@ $concordance = array (
         'morph' => 'A-GSM',
         'ref' => 'mt 6:13',
       ),
+      2 => 
+      array (
+        'word' => 'πονηροῦ',
+        'spa' => 'malo',
+        'morph' => 'A-GSM',
+        'ref' => 'mt 12:35',
+      ),
     ),
     'ponērōi' => 
     array (
@@ -43557,6 +49566,13 @@ $concordance = array (
         'morph' => 'A-NSM',
         'ref' => 'mt 6:23',
       ),
+      1 => 
+      array (
+        'word' => 'πονηρὸς',
+        'spa' => 'malo',
+        'morph' => 'A-NSM',
+        'ref' => 'mt 12:35',
+      ),
     ),
     'ponēroi' => 
     array (
@@ -43567,6 +49583,13 @@ $concordance = array (
         'morph' => 'A-NPM',
         'ref' => 'mt 7:11',
       ),
+      1 => 
+      array (
+        'word' => 'πονηροὶ',
+        'spa' => 'malos',
+        'morph' => 'A-NPM',
+        'ref' => 'mt 12:34',
+      ),
     ),
     'ponēra' => 
     array (
@@ -43576,6 +49599,43 @@ $concordance = array (
         'spa' => 'mal',
         'morph' => 'A-APN',
         'ref' => 'mt 9:4',
+      ),
+      1 => 
+      array (
+        'word' => 'πονηρά',
+        'spa' => 'malas',
+        'morph' => 'A-APN',
+        'ref' => 'mt 12:35',
+      ),
+      2 => 
+      array (
+        'word' => 'πονηρὰ',
+        'spa' => 'mala',
+        'morph' => 'A-NSF',
+        'ref' => 'mt 12:39',
+      ),
+    ),
+    'ponērai' => 
+    array (
+      0 => 
+      array (
+        'word' => 'πονηρᾷ',
+        'spa' => 'mala',
+        'morph' => 'A-DSF',
+        'ref' => 'mt 12:45',
+      ),
+    ),
+  ),
+  4191 => 
+  array (
+    'ponērotera' => 
+    array (
+      0 => 
+      array (
+        'word' => 'πονηρότερα',
+        'spa' => 'más malvados',
+        'morph' => 'A-APN-C',
+        'ref' => 'mt 12:45',
       ),
     ),
   ),
@@ -43644,6 +49704,13 @@ $concordance = array (
         'morph' => 'V-PMI-3S',
         'ref' => 'mt 8:9',
       ),
+      1 => 
+      array (
+        'word' => 'πορεύεται',
+        'spa' => 'va',
+        'morph' => 'V-PMI-3S',
+        'ref' => 'mt 12:45',
+      ),
     ),
     'poreuesthe' => 
     array (
@@ -43673,6 +49740,16 @@ $concordance = array (
         'spa' => 'partiendo',
         'morph' => 'V-PMP-GPM',
         'ref' => 'mt 11:7',
+      ),
+    ),
+    'eporeuthē' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἐπορεύθη',
+        'spa' => 'parti\'o',
+        'morph' => 'V-API-3S',
+        'ref' => 'mt 12:1',
       ),
     ),
   ),
@@ -43716,6 +49793,13 @@ $concordance = array (
         'spa' => 'cuánto',
         'morph' => 'Q-DSN',
         'ref' => 'mt 10:25',
+      ),
+      2 => 
+      array (
+        'word' => 'πόσῳ',
+        'spa' => 'cuánto',
+        'morph' => 'Q-DSN',
+        'ref' => 'mt 12:12',
       ),
     ),
   ),
@@ -43998,6 +50082,39 @@ $concordance = array (
         'spa' => 'ovejas',
         'morph' => 'N-NPN',
         'ref' => 'mt 10:16',
+      ),
+    ),
+    'probaton' => 
+    array (
+      0 => 
+      array (
+        'word' => 'πρόβατον',
+        'spa' => 'oveja',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:11',
+      ),
+    ),
+    'probatou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'προβάτου',
+        'spa' => 'de oveja',
+        'morph' => 'N-GSN',
+        'ref' => 'mt 12:12',
+      ),
+    ),
+  ),
+  4286 => 
+  array (
+    'protheseōs' => 
+    array (
+      0 => 
+      array (
+        'word' => 'προθέσεως',
+        'spa' => 'proposición',
+        'morph' => 'N-GSF',
+        'ref' => 'mt 12:4',
       ),
     ),
   ),
@@ -44537,6 +50654,16 @@ $concordance = array (
         'ref' => 'mt 9:2',
       ),
     ),
+    'prosēnechthē' => 
+    array (
+      0 => 
+      array (
+        'word' => 'προσηνέχθη',
+        'spa' => 'fue traído',
+        'morph' => 'V-API-3S',
+        'ref' => 'mt 12:22',
+      ),
+    ),
   ),
   4377 => 
   array (
@@ -44681,6 +50808,20 @@ $concordance = array (
         'morph' => 'N-GSM',
         'ref' => 'mt 11:9',
       ),
+      10 => 
+      array (
+        'word' => 'προφήτου',
+        'spa' => 'profeta',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:17',
+      ),
+      11 => 
+      array (
+        'word' => 'προφήτου',
+        'spa' => 'profeta',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:39',
+      ),
     ),
     'prophētōn' => 
     array (
@@ -44776,6 +50917,13 @@ $concordance = array (
         'morph' => 'ADV',
         'ref' => 'mt 8:21',
       ),
+      4 => 
+      array (
+        'word' => 'πρῶτον',
+        'spa' => 'primero',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:29',
+      ),
     ),
   ),
   4413 => 
@@ -44788,6 +50936,16 @@ $concordance = array (
         'spa' => 'primero',
         'morph' => 'A-NSM',
         'ref' => 'mt 10:2',
+      ),
+    ),
+    'prōtōn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'πρώτων',
+        'spa' => 'primeros',
+        'morph' => 'A-GPN',
+        'ref' => 'mt 12:45',
       ),
     ),
   ),
@@ -45004,6 +51162,34 @@ $concordance = array (
         'morph' => 'ADV-I',
         'ref' => 'mt 10:19',
       ),
+      3 => 
+      array (
+        'word' => 'πῶς',
+        'spa' => 'como',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:4',
+      ),
+      4 => 
+      array (
+        'word' => 'πῶς',
+        'spa' => 'como',
+        'morph' => 'ADV-I',
+        'ref' => 'mt 12:26',
+      ),
+      5 => 
+      array (
+        'word' => 'πῶς',
+        'spa' => 'como',
+        'morph' => 'ADV-I',
+        'ref' => 'mt 12:29',
+      ),
+      6 => 
+      array (
+        'word' => 'πῶς',
+        'spa' => 'como',
+        'morph' => 'ADV-I',
+        'ref' => 'mt 12:34',
+      ),
     ),
   ),
   4464 => 
@@ -45143,6 +51329,13 @@ $concordance = array (
         'morph' => 'V-APP-NSN',
         'ref' => 'mt 8:17',
       ),
+      6 => 
+      array (
+        'word' => 'ῥηθὲν',
+        'spa' => 'dicho',
+        'morph' => 'V-APP-NSN',
+        'ref' => 'mt 12:17',
+      ),
     ),
     'rhētheis' => 
     array (
@@ -45235,6 +51428,16 @@ $concordance = array (
         'ref' => 'mt 4:4',
       ),
     ),
+    'rhēma' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ῥῆμα',
+        'spa' => 'palabra',
+        'morph' => 'N-NSN',
+        'ref' => 'mt 12:36',
+      ),
+    ),
   ),
   4491 => 
   array (
@@ -45318,6 +51521,77 @@ $concordance = array (
         'spa' => 'libra',
         'morph' => 'V-ADM-2S',
         'ref' => 'mt 6:13',
+      ),
+    ),
+  ),
+  4521 => 
+  array (
+    'sabbasin' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σάββασιν',
+        'spa' => 'sábados',
+        'morph' => 'N-DPN',
+        'ref' => 'mt 12:1',
+      ),
+      1 => 
+      array (
+        'word' => 'σάββασιν',
+        'spa' => 'sábados',
+        'morph' => 'N-DPN',
+        'ref' => 'mt 12:5',
+      ),
+      2 => 
+      array (
+        'word' => 'σάββασιν',
+        'spa' => 'sábados',
+        'morph' => 'N-DPN',
+        'ref' => 'mt 12:10',
+      ),
+      3 => 
+      array (
+        'word' => 'σάββασιν',
+        'spa' => 'sábados',
+        'morph' => 'N-DPN',
+        'ref' => 'mt 12:11',
+      ),
+      4 => 
+      array (
+        'word' => 'σάββασιν',
+        'spa' => 'sábados',
+        'morph' => 'N-DPN',
+        'ref' => 'mt 12:12',
+      ),
+    ),
+    'sabbatōi' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σαββάτῳ',
+        'spa' => 'sábado',
+        'morph' => 'N-DSN',
+        'ref' => 'mt 12:2',
+      ),
+    ),
+    'sabbaton' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σάββατον',
+        'spa' => 'sábado',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:5',
+      ),
+    ),
+    'sabbatou' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σαββάτου',
+        'spa' => 'sábado',
+        'morph' => 'N-GSN',
+        'ref' => 'mt 12:8',
       ),
     ),
   ),
@@ -45464,6 +51738,33 @@ $concordance = array (
         'morph' => 'A-NSN',
         'ref' => 'mt 7:18',
       ),
+      2 => 
+      array (
+        'word' => 'σαπρὸν',
+        'spa' => 'podrido',
+        'morph' => 'A-ASN',
+        'ref' => 'mt 12:33',
+      ),
+      3 => 
+      array (
+        'word' => 'σαπρόν',
+        'spa' => 'podrido',
+        'morph' => 'A-ASM',
+        'ref' => 'mt 12:33',
+      ),
+    ),
+  ),
+  4563 => 
+  array (
+    'sesarōmenon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σεσαρωμένον',
+        'spa' => 'estando barrida',
+        'morph' => 'V-RPP-ASM',
+        'ref' => 'mt 12:44',
+      ),
     ),
   ),
   4567 => 
@@ -45476,6 +51777,39 @@ $concordance = array (
         'spa' => 'Satanás',
         'morph' => 'N-VSM',
         'ref' => 'mt 4:10',
+      ),
+    ),
+    'satanas' => 
+    array (
+      0 => 
+      array (
+        'word' => 'Σατανᾶς',
+        'spa' => 'Satanás',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:26',
+      ),
+    ),
+    'satanan' => 
+    array (
+      0 => 
+      array (
+        'word' => 'Σατανᾶν',
+        'spa' => 'Satanás',
+        'morph' => 'N-ASM',
+        'ref' => 'mt 12:26',
+      ),
+    ),
+  ),
+  4570 => 
+  array (
+    'sbesei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σβέσει',
+        'spa' => 'apagará',
+        'morph' => 'V-FAI-3S',
+        'ref' => 'mt 12:20',
       ),
     ),
   ),
@@ -45584,6 +51918,40 @@ $concordance = array (
         'spa' => 'lunáticos',
         'morph' => 'V-PMP-APM',
         'ref' => 'mt 4:24',
+      ),
+    ),
+  ),
+  4592 => 
+  array (
+    'sēmeion' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σημεῖον',
+        'spa' => 'señal',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:38',
+      ),
+      1 => 
+      array (
+        'word' => 'σημεῖον',
+        'spa' => 'señal',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:39',
+      ),
+      2 => 
+      array (
+        'word' => 'σημεῖον',
+        'spa' => 'señal',
+        'morph' => 'N-NSN',
+        'ref' => 'mt 12:39',
+      ),
+      3 => 
+      array (
+        'word' => 'σημεῖον',
+        'spa' => 'señal',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:39',
       ),
     ),
   ),
@@ -45740,6 +52108,19 @@ $concordance = array (
       ),
     ),
   ),
+  4632 => 
+  array (
+    'skeuē' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σκεύη',
+        'spa' => 'cosas',
+        'morph' => 'N-APN',
+        'ref' => 'mt 12:29',
+      ),
+    ),
+  ),
   4639 => 
   array (
     'skiai' => 
@@ -45750,6 +52131,19 @@ $concordance = array (
         'spa' => 'sombra',
         'morph' => 'N-DSF',
         'ref' => 'mt 4:16',
+      ),
+    ),
+  ),
+  4650 => 
+  array (
+    'skorpizei' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σκορπίζει',
+        'spa' => 'desparrama',
+        'morph' => 'V-PAI-3S',
+        'ref' => 'mt 12:30',
       ),
     ),
   ),
@@ -46015,6 +52409,13 @@ $concordance = array (
         'morph' => 'P-2DS',
         'ref' => 'mt 11:25',
       ),
+      18 => 
+      array (
+        'word' => 'σοι',
+        'spa' => 'a tí',
+        'morph' => 'P-2DS',
+        'ref' => 'mt 12:47',
+      ),
     ),
   ),
   4672 => 
@@ -46044,6 +52445,23 @@ $concordance = array (
         'spa' => 'Salomón',
         'morph' => 'N-NSM',
         'ref' => 'mt 6:29',
+      ),
+    ),
+    'solomōnos' => 
+    array (
+      0 => 
+      array (
+        'word' => 'Σολομῶνος',
+        'spa' => 'De Salomón',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:42',
+      ),
+      1 => 
+      array (
+        'word' => 'Σολομῶνος',
+        'spa' => 'Salomón',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:42',
       ),
     ),
   ),
@@ -46561,6 +52979,55 @@ $concordance = array (
         'morph' => 'P-2GS',
         'ref' => 'mt 11:26',
       ),
+      68 => 
+      array (
+        'word' => 'σου',
+        'spa' => 'tuyos',
+        'morph' => 'P-2GS',
+        'ref' => 'mt 12:2',
+      ),
+      69 => 
+      array (
+        'word' => 'σου',
+        'spa' => 'tuya',
+        'morph' => 'P-2GS',
+        'ref' => 'mt 12:13',
+      ),
+      70 => 
+      array (
+        'word' => 'σου',
+        'spa' => 'tuyas',
+        'morph' => 'P-2GS',
+        'ref' => 'mt 12:37',
+      ),
+      71 => 
+      array (
+        'word' => 'σου',
+        'spa' => 'tuyas',
+        'morph' => 'P-2GS',
+        'ref' => 'mt 12:37',
+      ),
+      72 => 
+      array (
+        'word' => 'σοῦ',
+        'spa' => 'tí',
+        'morph' => 'P-2GS',
+        'ref' => 'mt 12:38',
+      ),
+      73 => 
+      array (
+        'word' => 'σου',
+        'spa' => 'tuya',
+        'morph' => 'P-2GS',
+        'ref' => 'mt 12:47',
+      ),
+      74 => 
+      array (
+        'word' => 'σου',
+        'spa' => 'tuyos',
+        'morph' => 'P-2GS',
+        'ref' => 'mt 12:47',
+      ),
     ),
   ),
   4678 => 
@@ -46573,6 +53040,16 @@ $concordance = array (
         'spa' => 'sabiduría',
         'morph' => 'N-NSF',
         'ref' => 'mt 11:19',
+      ),
+    ),
+    'sophian' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σοφίαν',
+        'spa' => 'sabiduría',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:42',
       ),
     ),
   ),
@@ -46628,6 +53105,19 @@ $concordance = array (
       ),
     ),
   ),
+  4702 => 
+  array (
+    'sporimōn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σπορίμων',
+        'spa' => 'sembrados',
+        'morph' => 'A-GPM',
+        'ref' => 'mt 12:1',
+      ),
+    ),
+  ),
   4716 => 
   array (
     'stauron' => 
@@ -46651,6 +53141,19 @@ $concordance = array (
         'spa' => 'racimos de uvas',
         'morph' => 'N-APF',
         'ref' => 'mt 7:16',
+      ),
+    ),
+  ),
+  4719 => 
+  array (
+    'stachuas' => 
+    array (
+      0 => 
+      array (
+        'word' => 'στάχυας',
+        'spa' => 'esigas',
+        'morph' => 'N-APM',
+        'ref' => 'mt 12:1',
       ),
     ),
   ),
@@ -46710,6 +53213,13 @@ $concordance = array (
         'spa' => 'boca',
         'morph' => 'N-ASN',
         'ref' => 'mt 5:2',
+      ),
+      1 => 
+      array (
+        'word' => 'στόμα',
+        'spa' => 'boca',
+        'morph' => 'N-NSN',
+        'ref' => 'mt 12:34',
       ),
     ),
   ),
@@ -46856,6 +53366,19 @@ $concordance = array (
       ),
     ),
   ),
+  4824 => 
+  array (
+    'sumboulion' => 
+    array (
+      0 => 
+      array (
+        'word' => 'συμβούλιον',
+        'spa' => 'consejo',
+        'morph' => 'N-ASN',
+        'ref' => 'mt 12:14',
+      ),
+    ),
+  ),
   4851 => 
   array (
     'sumpherei' => 
@@ -46908,6 +53431,16 @@ $concordance = array (
         'ref' => 'mt 6:26',
       ),
     ),
+    'sunagōn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'συνάγων',
+        'spa' => 'juntando',
+        'morph' => 'V-PAP-NSM',
+        'ref' => 'mt 12:30',
+      ),
+    ),
   ),
   4864 => 
   array (
@@ -46947,6 +53480,16 @@ $concordance = array (
         'spa' => 'asambleas',
         'morph' => 'N-DPF',
         'ref' => 'mt 10:17',
+      ),
+    ),
+    'sunagōgēn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'συναγωγὴν',
+        'spa' => 'asamblea',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:9',
       ),
     ),
   ),
@@ -47038,6 +53581,19 @@ $concordance = array (
       ),
     ),
   ),
+  4937 => 
+  array (
+    'suntetrimmenon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'συντετριμμένον',
+        'spa' => 'cascada',
+        'morph' => 'V-RPP-ASM',
+        'ref' => 'mt 12:20',
+      ),
+    ),
+  ),
   4947 => 
   array (
     'surian' => 
@@ -47074,6 +53630,19 @@ $concordance = array (
         'spa' => 'desgarro',
         'morph' => 'N-NSN',
         'ref' => 'mt 9:16',
+      ),
+    ),
+  ),
+  4980 => 
+  array (
+    'scholazonta' => 
+    array (
+      0 => 
+      array (
+        'word' => 'σχολάζοντα',
+        'spa' => 'desocupada',
+        'morph' => 'V-PAP-ASM',
+        'ref' => 'mt 12:44',
       ),
     ),
   ),
@@ -47576,6 +54145,16 @@ $concordance = array (
         'ref' => 'mt 5:15',
       ),
     ),
+    'thēsō' => 
+    array (
+      0 => 
+      array (
+        'word' => 'θήσω',
+        'spa' => 'pondré',
+        'morph' => 'V-FAI-1S',
+        'ref' => 'mt 12:18',
+      ),
+    ),
   ),
   5088 => 
   array (
@@ -47617,6 +54196,19 @@ $concordance = array (
       ),
     ),
   ),
+  5089 => 
+  array (
+    'tillein' => 
+    array (
+      0 => 
+      array (
+        'word' => 'τίλλειν',
+        'spa' => 'arrancar',
+        'morph' => 'V-PAN',
+        'ref' => 'mt 12:1',
+      ),
+    ),
+  ),
   5100 => 
   array (
     'ti' => 
@@ -47648,6 +54240,13 @@ $concordance = array (
         'morph' => 'X-NPM',
         'ref' => 'mt 9:3',
       ),
+      1 => 
+      array (
+        'word' => 'τινες',
+        'spa' => 'algunos',
+        'morph' => 'X-NPM',
+        'ref' => 'mt 12:38',
+      ),
     ),
     'tis' => 
     array (
@@ -47657,6 +54256,27 @@ $concordance = array (
         'spa' => 'alguien',
         'morph' => 'X-NSM',
         'ref' => 'mt 11:27',
+      ),
+      1 => 
+      array (
+        'word' => 'τις',
+        'spa' => 'alguien',
+        'morph' => 'X-NSM',
+        'ref' => 'mt 12:19',
+      ),
+      2 => 
+      array (
+        'word' => 'τις',
+        'spa' => 'alguien',
+        'morph' => 'X-NSM',
+        'ref' => 'mt 12:29',
+      ),
+      3 => 
+      array (
+        'word' => 'τις',
+        'spa' => 'alguien',
+        'morph' => 'X-NSM',
+        'ref' => 'mt 12:47',
       ),
     ),
   ),
@@ -47692,6 +54312,20 @@ $concordance = array (
         'morph' => 'I-NSM',
         'ref' => 'mt 10:11',
       ),
+      4 => 
+      array (
+        'word' => 'Τίς',
+        'spa' => '¿Quién',
+        'morph' => 'I-NSM',
+        'ref' => 'mt 12:11',
+      ),
+      5 => 
+      array (
+        'word' => 'Τίς',
+        'spa' => '¿Quién',
+        'morph' => 'I-NSM',
+        'ref' => 'mt 12:48',
+      ),
     ),
     'tini' => 
     array (
@@ -47708,6 +54342,13 @@ $concordance = array (
         'spa' => 'Qué',
         'morph' => 'I-DSN',
         'ref' => 'mt 11:16',
+      ),
+      2 => 
+      array (
+        'word' => 'τίνι',
+        'spa' => 'quién',
+        'morph' => 'I-DSM',
+        'ref' => 'mt 12:27',
       ),
     ),
     'tina' => 
@@ -47862,6 +54503,20 @@ $concordance = array (
         'morph' => 'I-ASN',
         'ref' => 'mt 11:9',
       ),
+      20 => 
+      array (
+        'word' => 'τί',
+        'spa' => 'qué',
+        'morph' => 'I-ASN',
+        'ref' => 'mt 12:3',
+      ),
+      21 => 
+      array (
+        'word' => 'τί',
+        'spa' => 'qué',
+        'morph' => 'I-NSN',
+        'ref' => 'mt 12:7',
+      ),
     ),
     'hoti' => 
     array (
@@ -47871,6 +54526,16 @@ $concordance = array (
         'spa' => 'porque',
         'morph' => 'I-NSN',
         'ref' => 'mt 7:14',
+      ),
+    ),
+    'tines' => 
+    array (
+      0 => 
+      array (
+        'word' => 'τίνες',
+        'spa' => 'quenes',
+        'morph' => 'I-NPM',
+        'ref' => 'mt 12:48',
       ),
     ),
   ),
@@ -47884,6 +54549,19 @@ $concordance = array (
         'spa' => 'tal',
         'morph' => 'D-ASF',
         'ref' => 'mt 9:8',
+      ),
+    ),
+  ),
+  5117 => 
+  array (
+    'topōn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'τόπων',
+        'spa' => 'lugares',
+        'morph' => 'N-GPM',
+        'ref' => 'mt 12:43',
       ),
     ),
   ),
@@ -48051,6 +54729,48 @@ $concordance = array (
         'morph' => 'ADV',
         'ref' => 'mt 11:20',
       ),
+      21 => 
+      array (
+        'word' => 'τότε',
+        'spa' => 'entonces',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:13',
+      ),
+      22 => 
+      array (
+        'word' => 'Τότε',
+        'spa' => 'Entonces',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:22',
+      ),
+      23 => 
+      array (
+        'word' => 'τότε',
+        'spa' => 'entonces',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:29',
+      ),
+      24 => 
+      array (
+        'word' => 'Τότε',
+        'spa' => 'Entonces',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:38',
+      ),
+      25 => 
+      array (
+        'word' => 'τότε',
+        'spa' => 'entonces',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:44',
+      ),
+      26 => 
+      array (
+        'word' => 'τότε',
+        'spa' => 'entonces',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:45',
+      ),
     ),
   ),
   5124 => 
@@ -48084,6 +54804,27 @@ $concordance = array (
         'spa' => 'esto',
         'morph' => 'D-ASN',
         'ref' => 'mt 9:28',
+      ),
+      4 => 
+      array (
+        'word' => 'τοῦτο',
+        'spa' => 'esta',
+        'morph' => 'D-NSN',
+        'ref' => 'mt 12:11',
+      ),
+      5 => 
+      array (
+        'word' => 'τοῦτο',
+        'spa' => 'esto',
+        'morph' => 'D-ASN',
+        'ref' => 'mt 12:27',
+      ),
+      6 => 
+      array (
+        'word' => 'τοῦτο',
+        'spa' => 'esto',
+        'morph' => 'D-ASN',
+        'ref' => 'mt 12:31',
       ),
     ),
   ),
@@ -48131,6 +54872,13 @@ $concordance = array (
         'spa' => 'a éste',
         'morph' => 'D-DSM',
         'ref' => 'mt 8:9',
+      ),
+      1 => 
+      array (
+        'word' => 'τούτῳ',
+        'spa' => 'ésta',
+        'morph' => 'D-DSM',
+        'ref' => 'mt 12:32',
       ),
     ),
   ),
@@ -48186,6 +54934,40 @@ $concordance = array (
         'spa' => 'Estos',
         'morph' => 'D-GPM',
         'ref' => 'mt 11:7',
+      ),
+    ),
+  ),
+  5140 => 
+  array (
+    'treis' => 
+    array (
+      0 => 
+      array (
+        'word' => 'τρεῖς',
+        'spa' => 'tres',
+        'morph' => 'A-APF',
+        'ref' => 'mt 12:40',
+      ),
+      1 => 
+      array (
+        'word' => 'τρεῖς',
+        'spa' => 'tres',
+        'morph' => 'A-APF',
+        'ref' => 'mt 12:40',
+      ),
+      2 => 
+      array (
+        'word' => 'τρεῖς',
+        'spa' => 'tres',
+        'morph' => 'A-APF',
+        'ref' => 'mt 12:40',
+      ),
+      3 => 
+      array (
+        'word' => 'τρεῖς',
+        'spa' => 'tres',
+        'morph' => 'A-APF',
+        'ref' => 'mt 12:40',
       ),
     ),
   ),
@@ -48304,6 +55086,42 @@ $concordance = array (
         'ref' => 'mt 11:5',
       ),
     ),
+    'tuphlos' => 
+    array (
+      0 => 
+      array (
+        'word' => 'τυφλὸς',
+        'spa' => 'ciego',
+        'morph' => 'A-NSM',
+        'ref' => 'mt 12:22',
+      ),
+    ),
+  ),
+  5188 => 
+  array (
+    'tuphomenon' => 
+    array (
+      0 => 
+      array (
+        'word' => 'τυφόμενον',
+        'spa' => 'humenando',
+        'morph' => 'V-PPP-ASN',
+        'ref' => 'mt 12:20',
+      ),
+    ),
+  ),
+  5199 => 
+  array (
+    'hugiēs' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ὑγιὴς',
+        'spa' => 'sana',
+        'morph' => 'A-NSF',
+        'ref' => 'mt 12:13',
+      ),
+    ),
   ),
   5204 => 
   array (
@@ -48355,6 +55173,13 @@ $concordance = array (
         'spa' => 'hijo',
         'morph' => 'N-GSM',
         'ref' => 'mt 1:1',
+      ),
+      2 => 
+      array (
+        'word' => 'υἱοῦ',
+        'spa' => 'hijo',
+        'morph' => 'N-GSM',
+        'ref' => 'mt 12:32',
       ),
     ),
     'huios' => 
@@ -48436,6 +55261,27 @@ $concordance = array (
         'morph' => 'N-NSM',
         'ref' => 'mt 11:27',
       ),
+      11 => 
+      array (
+        'word' => 'υἱὸς',
+        'spa' => 'hijo',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:8',
+      ),
+      12 => 
+      array (
+        'word' => 'υἱὸς',
+        'spa' => 'hijo',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:23',
+      ),
+      13 => 
+      array (
+        'word' => 'υἱὸς',
+        'spa' => 'hijo',
+        'morph' => 'N-NSM',
+        'ref' => 'mt 12:40',
+      ),
     ),
     'huion' => 
     array (
@@ -48511,6 +55357,13 @@ $concordance = array (
         'spa' => 'hijos',
         'morph' => 'N-NPM',
         'ref' => 'mt 9:15',
+      ),
+      4 => 
+      array (
+        'word' => 'υἱοὶ',
+        'spa' => 'hijos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:27',
       ),
     ),
     'huie' => 
@@ -48681,6 +55534,13 @@ $concordance = array (
         'spa' => 'ustedes',
         'morph' => 'P-2AP',
         'ref' => 'mt 11:29',
+      ),
+      21 => 
+      array (
+        'word' => 'ὑμᾶς',
+        'spa' => 'ustedes',
+        'morph' => 'P-2AP',
+        'ref' => 'mt 12:28',
       ),
     ),
   ),
@@ -49030,6 +55890,27 @@ $concordance = array (
         'morph' => 'P-2DP',
         'ref' => 'mt 11:24',
       ),
+      39 => 
+      array (
+        'word' => 'ὑμῖν',
+        'spa' => 'a ustedes',
+        'morph' => 'P-2DP',
+        'ref' => 'mt 12:6',
+      ),
+      40 => 
+      array (
+        'word' => 'ὑμῖν',
+        'spa' => 'a ustedes',
+        'morph' => 'P-2DP',
+        'ref' => 'mt 12:31',
+      ),
+      41 => 
+      array (
+        'word' => 'ὑμῖν',
+        'spa' => 'a ustedes',
+        'morph' => 'P-2DP',
+        'ref' => 'mt 12:36',
+      ),
     ),
   ),
   5216 => 
@@ -49308,6 +56189,27 @@ $concordance = array (
         'spa' => 'de ustedes',
         'morph' => 'P-2GP',
         'ref' => 'mt 11:29',
+      ),
+      39 => 
+      array (
+        'word' => 'ὑμῶν',
+        'spa' => 'ustedes',
+        'morph' => 'P-2GP',
+        'ref' => 'mt 12:11',
+      ),
+      40 => 
+      array (
+        'word' => 'ὑμῶν',
+        'spa' => 'de ustedes',
+        'morph' => 'P-2GP',
+        'ref' => 'mt 12:27',
+      ),
+      41 => 
+      array (
+        'word' => 'ὑμῶν',
+        'spa' => 'de ustedes',
+        'morph' => 'P-2GP',
+        'ref' => 'mt 12:27',
       ),
     ),
   ),
@@ -49780,6 +56682,16 @@ $concordance = array (
         'ref' => 'mt 6:31',
       ),
     ),
+    'phagein' => 
+    array (
+      0 => 
+      array (
+        'word' => 'φαγεῖν',
+        'spa' => 'comer',
+        'morph' => 'V-2AAN',
+        'ref' => 'mt 12:4',
+      ),
+    ),
   ),
   5316 => 
   array (
@@ -49855,6 +56767,19 @@ $concordance = array (
       ),
     ),
   ),
+  5318 => 
+  array (
+    'phaneron' => 
+    array (
+      0 => 
+      array (
+        'word' => 'φανερὸν',
+        'spa' => 'mainifiesto',
+        'morph' => 'A-ASM',
+        'ref' => 'mt 12:16',
+      ),
+    ),
+  ),
   5329 => 
   array (
     'phares' => 
@@ -49893,6 +56818,13 @@ $concordance = array (
         'morph' => 'N-GPM',
         'ref' => 'mt 5:20',
       ),
+      2 => 
+      array (
+        'word' => 'Φαρισαίων',
+        'spa' => 'Fariseos',
+        'morph' => 'N-GPM',
+        'ref' => 'mt 12:38',
+      ),
     ),
     'pharisaioi' => 
     array (
@@ -49916,6 +56848,27 @@ $concordance = array (
         'spa' => 'Fariseos',
         'morph' => 'N-NPM',
         'ref' => 'mt 9:34',
+      ),
+      3 => 
+      array (
+        'word' => 'Φαρισαῖοι',
+        'spa' => 'Fariseos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:2',
+      ),
+      4 => 
+      array (
+        'word' => 'Φαρισαῖοι',
+        'spa' => 'Fariseos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:14',
+      ),
+      5 => 
+      array (
+        'word' => 'Φαρισαῖοι',
+        'spa' => 'Fariseos',
+        'morph' => 'N-NPM',
+        'ref' => 'mt 12:24',
       ),
     ),
   ),
@@ -49992,6 +56945,19 @@ $concordance = array (
         'spa' => 'Dijo',
         'morph' => 'V-IAI-3S',
         'ref' => 'mt 8:8',
+      ),
+    ),
+  ),
+  5348 => 
+  array (
+    'ephthasen' => 
+    array (
+      0 => 
+      array (
+        'word' => 'ἔφθασεν',
+        'spa' => 'vino',
+        'morph' => 'V-AAI-3S',
+        'ref' => 'mt 12:28',
       ),
     ),
   ),
@@ -50255,6 +57221,16 @@ $concordance = array (
         'ref' => 'mt 3:17',
       ),
     ),
+    'phōnēn' => 
+    array (
+      0 => 
+      array (
+        'word' => 'φωνὴν',
+        'spa' => 'voz',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:19',
+      ),
+    ),
   ),
   5457 => 
   array (
@@ -50430,6 +57406,27 @@ $concordance = array (
         'morph' => 'N-ASF',
         'ref' => 'mt 9:18',
       ),
+      2 => 
+      array (
+        'word' => 'χεῖρα',
+        'spa' => 'mano',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:10',
+      ),
+      3 => 
+      array (
+        'word' => 'χεῖρα',
+        'spa' => 'mano',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:13',
+      ),
+      4 => 
+      array (
+        'word' => 'χεῖρα',
+        'spa' => 'mano',
+        'morph' => 'N-ASF',
+        'ref' => 'mt 12:49',
+      ),
     ),
     'cheiros' => 
     array (
@@ -50459,6 +57456,16 @@ $concordance = array (
         'spa' => 'peor',
         'morph' => 'A-NSN',
         'ref' => 'mt 9:16',
+      ),
+    ),
+    'cheirona' => 
+    array (
+      0 => 
+      array (
+        'word' => 'χείρονα',
+        'spa' => 'peores',
+        'morph' => 'A-NPN',
+        'ref' => 'mt 12:45',
       ),
     ),
   ),
@@ -50856,6 +57863,13 @@ $concordance = array (
         'morph' => 'N-NSF',
         'ref' => 'mt 6:25',
       ),
+      1 => 
+      array (
+        'word' => 'ψυχή',
+        'spa' => 'alma',
+        'morph' => 'N-NSF',
+        'ref' => 'mt 12:18',
+      ),
     ),
     'psuchais' => 
     array (
@@ -50946,6 +57960,27 @@ $concordance = array (
         'morph' => 'ADV',
         'ref' => 'mt 8:29',
       ),
+      1 => 
+      array (
+        'word' => 'ὧδε',
+        'spa' => 'aquí',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:6',
+      ),
+      2 => 
+      array (
+        'word' => 'ὧδε',
+        'spa' => 'aquí',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:41',
+      ),
+      3 => 
+      array (
+        'word' => 'ὧδε',
+        'spa' => 'aquí',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:42',
+      ),
     ),
   ),
   5607 => 
@@ -50958,6 +57993,13 @@ $concordance = array (
         'spa' => 'siendo',
         'morph' => 'V-PAP-NSM',
         'ref' => 'mt 1:19',
+      ),
+      1 => 
+      array (
+        'word' => 'ὢν',
+        'spa' => 'siendo',
+        'morph' => 'V-PAP-NSM',
+        'ref' => 'mt 12:30',
       ),
     ),
     'onta' => 
@@ -50978,6 +58020,13 @@ $concordance = array (
         'spa' => 'siendo',
         'morph' => 'V-PAP-NPM',
         'ref' => 'mt 7:11',
+      ),
+      1 => 
+      array (
+        'word' => 'ὄντες',
+        'spa' => 'siendo',
+        'morph' => 'V-PAP-NPM',
+        'ref' => 'mt 12:34',
       ),
     ),
   ),
@@ -51120,6 +58169,13 @@ $concordance = array (
         'morph' => 'ADV',
         'ref' => 'mt 10:25',
       ),
+      15 => 
+      array (
+        'word' => 'ὡς',
+        'spa' => 'como',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:13',
+      ),
     ),
   ),
   5616 => 
@@ -51160,6 +58216,13 @@ $concordance = array (
         'morph' => 'ADV',
         'ref' => 'mt 6:7',
       ),
+      2 => 
+      array (
+        'word' => 'ὥσπερ',
+        'spa' => 'como',
+        'morph' => 'ADV',
+        'ref' => 'mt 12:40',
+      ),
     ),
   ),
   5620 => 
@@ -51186,6 +58249,20 @@ $concordance = array (
         'spa' => 'de manera que',
         'morph' => 'CONJ',
         'ref' => 'mt 10:1',
+      ),
+      3 => 
+      array (
+        'word' => 'ὥστε',
+        'spa' => 'de manera que',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:12',
+      ),
+      4 => 
+      array (
+        'word' => 'ὥστε',
+        'spa' => 'de manera que',
+        'morph' => 'CONJ',
+        'ref' => 'mt 12:22',
       ),
     ),
   ),
