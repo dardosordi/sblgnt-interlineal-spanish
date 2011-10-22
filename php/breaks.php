@@ -86,6 +86,7 @@ $breaks['mt'][5][43] = '<br/>';
 $breaks['mt'][5][48] = '</p><p>';
 $breaks['mt'][5]['e'] = '</p>';
 
+
 /* MT 6 */
 $breaks['mt'][6]['s'] = '<p>';
 $breaks['mt'][6][2] = '<br/>';
@@ -126,5 +127,126 @@ $breaks['mt'][7][27] = '</p><p>';
 $breaks['mt'][7][28] = '<br/>';
 $breaks['mt'][7][29] = '</p><p>';
 $breaks['mt'][7]['e'] = '</p>';
+
+
+/* MT 8 */
+$breaks['mt'][8]['s'] = '<p>';
+$breaks['mt'][8][4] = '</p><p>';
+$breaks['mt'][8][5] = '<br/>';
+$breaks['mt'][8][13] = '</p><p>';
+$breaks['mt'][8][14] = '<br/>';
+$breaks['mt'][8][17] = '</p><p>';
+$breaks['mt'][8][18] = '<br/>';
+$breaks['mt'][8][22] = '</p><p>';
+$breaks['mt'][8][23] = '<br/>';
+$breaks['mt'][8][27] = '</p><p>';
+$breaks['mt'][8][28] = '<br/>';
+$breaks['mt'][8][34] = '</p><p>';
+$breaks['mt'][8]['e'] = '</p>';
+
+
+/* MT 9 */
+$breaks['mt'][9]['s'] = '<p>';
+$breaks['mt'][9][2] = '<br/>';
+$breaks['mt'][9][8] = '</p><p>';
+$breaks['mt'][9][9] = '</p><p>';
+$breaks['mt'][9][10] = '<br/>';
+$breaks['mt'][9][13] = '</p><p>';
+$breaks['mt'][9][14] = '<br/>';
+$breaks['mt'][9][17] = '</p><p>';
+$breaks['mt'][9][18] = '<br/>';
+$breaks['mt'][9][26] = '</p><p>';
+$breaks['mt'][9][27] = '<br/>';
+$breaks['mt'][9][31] = '</p><p>';
+$breaks['mt'][9][32] = '<br/>';
+$breaks['mt'][9][34] = '</p><p>';
+$breaks['mt'][9][35] = '<br/>';
+$breaks['mt'][9][38] = '</p><p>';
+$breaks['mt'][9]['e'] = '</p>';
+
+
+/* MT 10 */
+$breaks['mt'][10]['s'] = '<p>';
+$breaks['mt'][10][4] = '</p><p>';
+$breaks['mt'][10][5] = '<br/>';
+$breaks['mt'][10][15] = '</p><p>';
+$breaks['mt'][10][16] = '<br/>';
+$breaks['mt'][10][23] = '</p><p>';
+$breaks['mt'][10][24] = '<br/>';
+$breaks['mt'][10][25] = '</p><p>';
+$breaks['mt'][10][26] = '<br/>';
+$breaks['mt'][10][31] = '</p><p>';
+$breaks['mt'][10][32] = '<br/>';
+$breaks['mt'][10][33] = '</p><p>';
+$breaks['mt'][10][34] = '<br/>';
+$breaks['mt'][10][39] = '</p><p>';
+$breaks['mt'][10][40] = '<br/>';
+$breaks['mt'][10][42] = '</p><p>';
+$breaks['mt'][10]['e'] = '</p>';
+
+
+/* MT 11 */
+$breaks['mt'][11]['s'] = '<p>';
+$breaks['mt'][11][2] = '<br/>';
+$breaks['mt'][11][6] = '</p><p>';
+$breaks['mt'][11][7] = '<br/>';
+$breaks['mt'][11][15] = '</p><p>';
+$breaks['mt'][11][16] = '<br/>';
+$breaks['mt'][11][19] = '</p><p>';
+$breaks['mt'][11][20] = '<br/>';
+$breaks['mt'][11][24] = '</p><p>';
+$breaks['mt'][11][25] = '<br/>';
+$breaks['mt'][11][27] = '</p><p>';
+$breaks['mt'][11][28] = '<br/>';
+$breaks['mt'][11][30] = '</p><p>';
+$breaks['mt'][11]['e'] = '</p>';
+
+
+/* MT 12 */
+$breaks['mt'][12]['s'] = '<p>';
+$breaks['mt'][12][8] = '</p><p>';
+$breaks['mt'][12][9] = '<br/>';
+$breaks['mt'][12][14] = '</p><p>';
+$breaks['mt'][12][15] = '<br/>';
+$breaks['mt'][12][21] = '</p><p>';
+$breaks['mt'][12][22] = '<br/>';
+$breaks['mt'][12][32] = '</p><p>';
+$breaks['mt'][12][33] = '<br/>';
+$breaks['mt'][12][37] = '</p><p>';
+$breaks['mt'][12][38] = '<br/>';
+$breaks['mt'][12][42] = '</p><p>';
+$breaks['mt'][12][43] = '<br/>';
+$breaks['mt'][12][45] = '</p><p>';
+$breaks['mt'][12][46] = '<br/>';
+$breaks['mt'][12][50] = '</p><p>';
+$breaks['mt'][12]['e'] = '</p>';
+
+
+/* MT 13 */
+$breaks['mt'][13]['s'] = '<p>';
+$breaks['mt'][13][9] = '</p><p>';
+$breaks['mt'][13][10] = '<br/>';
+$breaks['mt'][13][17] = '</p><p>';
+$breaks['mt'][13][18] = '<br/>';
+$breaks['mt'][13][23] = '</p><p>';
+$breaks['mt'][13][24] = '<br/>';
+$breaks['mt'][13][30] = '</p><p>';
+$breaks['mt'][13][31] = '<br/>';
+$breaks['mt'][13][32] = '</p><p>';
+$breaks['mt'][13][33] = '</p><p>';
+$breaks['mt'][13][34] = '<br/>';
+$breaks['mt'][13][35] = '</p><p>';
+$breaks['mt'][13][36] = '<br/>';
+$breaks['mt'][13][43] = '</p><p>';
+$breaks['mt'][13][44] = '</p><p>';
+$breaks['mt'][13][45] = '<br/>';
+$breaks['mt'][13][46] = '</p><p>';
+$breaks['mt'][13][47] = '<br/>';
+$breaks['mt'][13][50] = '</p><p>';
+$breaks['mt'][13][51] = '<br/>';
+$breaks['mt'][13][53] = '</p><p>';
+$breaks['mt'][13][54] = '<br/>';
+$breaks['mt'][13][58] = '</p><p>';
+$breaks['mt'][13]['e'] = '</p>';
 
 
