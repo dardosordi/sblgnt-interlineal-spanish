@@ -892,7 +892,7 @@
       cDT="2011-10-19T03:34:47Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="γενομένης">
-      <RS n="1" a="habiendose hecho" df="0"
+      <RS n="1" a="habiéndose hecho" df="0"
       cDT="2011-10-19T03:43:30Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="γενόμεναι">
@@ -2103,7 +2103,7 @@
       cDT="2011-10-19T03:39:30Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="καθίσαντος">
-      <RS n="1" a="habiendose sentado" df="0"
+      <RS n="1" a="habiéndose sentado" df="0"
       cDT="2011-10-19T03:39:57Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="καθαρίζετε">
@@ -4666,6 +4666,7 @@
       <RS n="1" a="habiendo llamado" df="0"
       cDT="2011-10-19T03:45:54Z" wC="dardo:sophie"/>
     </TU>
+
     <TU f="0" k="προσκυνήσεις">
       <RS n="1" a="adorarás" df="0"
       cDT="2011-10-19T03:39:27Z" wC="dardo:sophie"/>
@@ -5822,6 +5823,7 @@
     </TU>
     <TU f="0" k="υἱοὶ">
       <RS n="5" a="hijos" df="0"
+
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
       <RS n="1" a="h" df="1"
       cDT="2011-10-19T03:40:01Z" wC="dardo:sophie"
@@ -6484,7 +6486,7 @@
       cDT="2011-10-19T03:40:38Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀνατείλαντος">
-      <RS n="1" a="habiendose levantado" df="0"
+      <RS n="1" a="habiéndose levantado" df="0"
       cDT="2011-10-22T22:49:00Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀνατολῇ">
