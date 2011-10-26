@@ -4,7 +4,7 @@ $books = array(
 	'mt' => array(
 		'xml' =>'61-Mt.xml',
 		'title' => 'Mateo',
-		'chapters' => 24,
+		'chapters' => 28,
 		'dir' => 'matthew',
 	),
 	'mk' => array(
