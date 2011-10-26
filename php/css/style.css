@@ -52,8 +52,7 @@ a:hover {
 }
 
 .interlineal {
-	width: 800px;
-	margin: 0 auto;
+	margin: 0 50px;
 }
 
 .interlineal p {
@@ -63,7 +62,6 @@ a:hover {
 
 .block {
 	display: inline-block;
-	margin: 0 0 2em 0;
 	position: relative;
 }
 
@@ -74,6 +72,7 @@ a:hover {
 
 .word {
 	margin-right: 1em;
+	margin-bottom: 2em;
 }
 
 .strongs {
@@ -109,8 +108,9 @@ a:hover {
 }
 
 .verse {
-	color: #552200;
-	font-size: 1em;
+	color: #000;
+	font-size: 1.5em;
+	line-height: 2;
 	font-weight: 700;
 	text-decoration: none;
 }
@@ -130,14 +130,10 @@ a:hover {
 }
 
 .aling-verse {
-	position: relative;
-	bottom: 3.2em;
 	margin-right: .5em;
 }
 
 .aling-chapter {
-	position: relative;
-	bottom: 1.5em;
 	margin-right: 1em;
 	clear:left;
 }

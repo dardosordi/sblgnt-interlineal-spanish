@@ -16,6 +16,18 @@ $book = isset($_GET['book']) ? $_GET['book'] : null;
 $chapter = isset($_GET['chapter']) ? $_GET['chapter'] : null;
 $end_chapter = isset($_GET['endchapter']) ? $_GET['endchapter'] : $chapter;
 
+$show_morph = isset($_GET['morph']) ? $_GET['morph'] : true;
+$show_translit = isset($_GET['translit']) ? $_GET['translit'] : true;
+$show_strongs = isset($_GET['strongs']) ? $_GET['strongs'] : true;
+$show_spa = isset($_GET['spa']) ? $_GET['spa'] : true;
+$show_greek = isset($_GET['greek']) ? $_GET['greek'] : true;
+
+$params = $_GET;
+unset($params['book']);
+unset($params['chapter']);
+unset($params['endchapter']);
+$query_string = (!empty($params) ? '?' : '') . http_build_query($params);
+
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
 $moprhgnt_path = dirname(dirname(__FILE__)) . '/morphgnt/';
@@ -128,7 +140,17 @@ foreach($interlineal as $S) {
 			if (isset($breaks[$book][$current_chapter]['s'])) {
 				$content .= $breaks[$book][$current_chapter]['s'];
 			}
-			$content .= sprintf('<span class="block aling-chapter"><span class="chapter">%s</span></span> ', $current_chapter);
+
+			$content .= '<span class="block">';
+			if ($show_greek) {
+				$content .= sprintf('<span id="c%d" class="chapter">%s</span>', $current_chapter, $current_chapter);
+			}
+			if ($show_translit && $show_spa) {
+				$content .= '<span>&nbsp;</span>';
+			}
+			$content .= '</span> ';
+
+
 		}
 
 		if ($S['v'] != $current_verse) {
@@ -136,7 +158,26 @@ foreach($interlineal as $S) {
 			if (isset($breaks[$book][$current_chapter][$current_verse])) {
 				$content .= $breaks[$book][$current_chapter][$current_verse];
 			}
-			$content .= sprintf('<span class="block aling-verse"><span id="v%d" class="verse">%s</span></span> ', $current_verse, $current_verse);
+
+			$content .= '<span class="block">';
+			if ($show_strongs) {
+				$content .= '<span>&nbsp;</span>';
+			}
+			if ($show_morph) {
+				$content .= '<span>&nbsp;</span>';
+			}
+			if ($show_greek) {
+				$content .= sprintf('<span id="v%d" class="verse">%s</span>', $current_verse, $current_verse);
+			}
+			if ($show_translit) {
+				$content .= '<span>&nbsp;</span>';
+			}
+			if ($show_spa) {
+				$content .= '<span>&nbsp;</span>';
+			}
+			$content .= '</span> ';
+
+
 		}
 	}
 
@@ -172,14 +213,23 @@ foreach($interlineal as $S) {
 		);
 	}
 
-	$content .= sprintf('<span class="block word">
-		<span class="strongs">%s</span>
-		<span class="morph" title="%s">%s</span>
-		<span class="greek">%s</span>
-		<span class="translit">%s</span>
-		<span class="spa">%s</span>
-	</span> ', $strongs_def, label_rmac($morph, $rmac), $morph, $greek, $translit, $spa);
-
+	$content .= '<span class="block word">';
+	if ($show_strongs) {
+		$content .= sprintf('<span class="strongs">%s</span>', $strongs_def);
+	}
+	if ($show_morph) {
+		$content .= sprintf('<span class="morph" title="%s">%s</span>', label_rmac($morph, $rmac), $morph);
+	}
+	if ($show_greek) {
+		$content .= sprintf('<span class="greek">%s</span>', $greek);
+	}
+	if ($show_translit) {
+		$content .= sprintf('<span class="translit">%s</span>', $translit);
+	}
+	if ($show_spa) {
+		$content .= sprintf('<span class="spa">%s</span>', $spa);
+	}
+	$content .= '</span> ';
 }
 
 if (isset($breaks[$book][$current_chapter]['e'])) {
@@ -190,7 +240,7 @@ if (isset($breaks[$book][$current_chapter]['e'])) {
 
 $nav = array();
 if ($chapter > 1) {
-	$prev = url_for($books[$book]['dir'], $chapter - 1);
+	$prev = url_for($books[$book]['dir'], $chapter - 1) . $query_string;
 	$nav[] = array(
 		'url' => $prev,
 		'text' => sprintf('<span class="icon">&laquo;</span>'),
@@ -208,7 +258,7 @@ $nav[] = array(
 
 
 if ($end_chapter < $books[$book]['chapters']) {
-	$next = url_for($books[$book]['dir'], $end_chapter + 1);
+	$next = url_for($books[$book]['dir'], $end_chapter + 1) . $query_string;
 	$nav[] = array(
 		'url' => $next,
 		'text' => sprintf('<span class="icon">&raquo;</span>'),
