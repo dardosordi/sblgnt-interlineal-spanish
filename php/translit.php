@@ -46,6 +46,7 @@ function translit($greek, $upsilon = false) {
 		$out = str_replace('u', 'y', $out);
 		$out = preg_replace('/([aieēoō])y/', '\1u', $out);
 		$out = preg_replace('/y([aieēoō])/', 'u\1', $out);
+		$out = str_replace(array('gg', 'gk', 'gx', 'gch'), array('ng', 'nk', 'nx', 'nch'), $out);
 	}
 
 	return $out;
