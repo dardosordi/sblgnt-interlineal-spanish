@@ -3,11 +3,11 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="5" sizex="1290" sizey="0" specialcolor="255"
+	<Settings docVersion="5" sizex="1290" sizey="2465" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="28:" srcname="SBL GNT" tgtname="Español"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
-  f="0000000000000000011001" sn="0" w="1" ty="10"
+  f="0000000000000000011000" sn="0" w="1" ty="10"
   i="hdr"
   m="\h ">
   </S>
@@ -1792,7 +1792,7 @@
   f="0000000000000000100001" sn="542" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="543" w="1" ty="1"
   c="2:7"
   m="\v 7 ">
@@ -2422,7 +2422,7 @@
   f="0000000000000000100001" sn="735" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="736" w="1" ty="1"
   c="2:16"
   m="\v 16 ">
@@ -3707,7 +3707,7 @@
   f="0000000000000000100001" sn="1130" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="1131" w="1" ty="1"
   c="3:13"
   m="\v 13 ">
@@ -4026,7 +4026,7 @@
   f="0000000000000000100001" sn="1225" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000011000000000000001" sn="1226" w="1" ty="1"
   c="4:1"
   m="\c 4  \v 1 ">
@@ -4232,7 +4232,7 @@
   f="0000000000000000100001" sn="1286" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="1287" w="1" ty="1"
   c="4:5"
   m="\v 5 ">
@@ -8114,7 +8114,7 @@
   <S s="οὖν" k="οὖν" t="por lo tanto" a="por lo tanto"
   f="0000000000000000000001" sn="2464" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="2465" w="1" ty="1">
   </S>
   <S s="τέλειοι" k="τέλειοι" t="perfectos" a="perfectos"
@@ -8775,7 +8775,7 @@
   <S s="προσεύχεσθε" k="προσεύχεσθε" t="oren" a="oren"
   f="0000000000000000000001" sn="2667" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς·" k="ὑμεῖς" t="uestedes:" a="uestedes"
+  <S s="ὑμεῖς·" k="ὑμεῖς" t="ustedes:" a="ustedes"
   f="0000000000000000100001" sn="2668" w="1" ty="1"
   fp="·">
   </S>
@@ -9837,7 +9837,7 @@
   <S s="οὐχ" k="οὐχ" t="no" a="no"
   f="0000000000000000000001" sn="2992" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="2993" w="1" ty="1">
   </S>
   <S s="μᾶλλον" k="μᾶλλον" t="más" a="más"
@@ -10795,7 +10795,7 @@
   <S s="οὖν" k="οὖν" t="por lo tanto" a="por lo tanto"
   f="0000000000000000000001" sn="3281" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="3282" w="1" ty="1">
   </S>
   <S s="πονηροὶ" k="πονηροὶ" t="malos" a="malos"
@@ -10909,7 +10909,7 @@
   <S s="καὶ" k="καὶ" t="también" a="también"
   f="0000000000000000000001" sn="3317" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="3318" w="1" ty="1">
   </S>
   <S s="ποιεῖτε" k="ποιεῖτε" t="hagan" a="hagan"
@@ -14641,7 +14641,7 @@
   f="0000000000000000100001" sn="4443" w="1" ty="1"
   pp="⸀" fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="4444" w="1" ty="1"
   c="9:14"
   m="\v 14 ">
@@ -17095,7 +17095,7 @@
   <S s="γὰρ" k="γὰρ" t="← porque" a="← porque"
   f="0000000000000000000001" sn="5189" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="5190" w="1" ty="1">
   </S>
   <S s="ἐστε" k="ἐστε" t="son" a="son"
@@ -17783,7 +17783,7 @@
   <S s="διαφέρετε" k="διαφέρετε" t="valen" a="valen"
   f="0000000000000000000001" sn="5400" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς." k="ὑμεῖς" t="uestedes." a="uestedes"
+  <S s="ὑμεῖς." k="ὑμεῖς" t="ustedes." a="ustedes"
   f="0000000000000000100001" sn="5401" w="1" ty="1"
   fp=".">
   </S>
@@ -19357,7 +19357,7 @@
   f="0000000000000000100001" sn="5877" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="5878" w="1" ty="1"
   c="11:20"
   m="\v 20 ">
@@ -21096,7 +21096,7 @@
   f="0000000000000000100001" sn="6402" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="6403" w="1" ty="1"
   c="12:22"
   m="\v 22 ">
@@ -22112,7 +22112,7 @@
   f="0000000000000000100001" sn="6711" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="6712" w="1" ty="1"
   c="12:38"
   m="\v 38 ">
@@ -25170,7 +25170,7 @@
   f="0000000000000000100001" sn="7648" w="1" ty="1"
   pp="⸀" fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="7649" w="1" ty="1"
   c="13:36"
   m="\v 36 ">
@@ -25609,7 +25609,7 @@
   f="0000000000000000100001" sn="7783" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="7784" w="1" ty="1"
   c="13:43"
   m="\v 43 ">
@@ -27354,7 +27354,7 @@
   <S s="αὐτοῖς" k="αὐτοῖς" t="a ellos" a="a ellos"
   f="0000000000000000000001" sn="8314" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="8315" w="1" ty="1">
   </S>
   <S s="φαγεῖν." k="φαγεῖν" t="comer." a="comer"
@@ -28399,7 +28399,7 @@
   f="0000000000000000100001" sn="8625" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000011000000000000001" sn="8626" w="1" ty="1"
   c="15:1"
   m="\c 15  \v 1 ">
@@ -28523,7 +28523,7 @@
   <S s="καὶ" k="καὶ" t="también" a="también"
   f="0000000000000000000001" sn="8662" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="8663" w="1" ty="1">
   </S>
   <S s="παραβαίνετε" k="παραβαίνετε" t="transgreden" a="transgreden"
@@ -28614,7 +28614,7 @@
   f="0000000000000000100001" sn="8690" w="1" ty="1"
   fp="·">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000010000000000000001" sn="8691" w="1" ty="1"
   c="15:5"
   m="\v 5 ">
@@ -28920,7 +28920,7 @@
   f="0000000000000000100001" sn="8781" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="8782" w="1" ty="1"
   c="15:12"
   m="\v 12 ">
@@ -29125,7 +29125,7 @@
   <S s="καὶ" k="καὶ" t="también" a="también"
   f="0000000000000000000001" sn="8841" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="8842" w="1" ty="1">
   </S>
   <S s="ἀσύνετοί" k="ἀσύνετοί" t="sín inteligencia" a="sín inteligencia"
@@ -31789,7 +31789,7 @@
   f="0000000000000000100001" sn="9643" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="9644" w="1" ty="1"
   c="16:24"
   m="\v 24 ">
@@ -33221,7 +33221,7 @@
   f="0000000000000000100001" sn="10078" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="10079" w="1" ty="1"
   c="17:19"
   m="\v 19 ">
@@ -35191,7 +35191,7 @@
   f="0000000000000000100001" sn="10679" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="10680" w="1" ty="1"
   c="18:21"
   m="\v 21 ">
@@ -36728,7 +36728,7 @@
   f="0000000000000000100001" sn="11145" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="11146" w="1" ty="1"
   c="19:13"
   m="\v 13 ">
@@ -37488,7 +37488,7 @@
   f="0000000000000000100001" sn="11369" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="11370" w="1" ty="1"
   c="19:27"
   m="\v 27 ">
@@ -37574,7 +37574,7 @@
   <S s="ὅτι" k="ὅτι" t="que" a="que"
   f="0000000000000000000001" sn="11395" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="11396" w="1" ty="1">
   </S>
   <S s="οἱ" k="οἱ" t="los" a="los"
@@ -37634,7 +37634,7 @@
   <S s="καὶ" k="καὶ" t="también" a="también"
   f="0000000000000000000001" sn="11414" w="1" ty="1">
   </S>
-  <S s="⸀ὑμεῖς" k="ὑμεῖς" t="⸀uestedes" a="uestedes"
+  <S s="⸀ὑμεῖς" k="ὑμεῖς" t="⸀ustedes" a="ustedes"
   f="0000000000000000000001" sn="11415" w="1" ty="1"
   pp="⸀">
   </S>
@@ -37958,7 +37958,7 @@
   <S s="καὶ" k="καὶ" t="también" a="también"
   f="0000000000000000000001" sn="11512" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="11513" w="1" ty="1">
   </S>
   <S s="εἰς" k="εἰς" t="hacia" a="hacia"
@@ -38129,7 +38129,7 @@
   <S s="καὶ" k="καὶ" t="también" a="también"
   f="0000000000000000000001" sn="11563" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="11564" w="1" ty="1">
   </S>
   <S s="εἰς" k="εἰς" t="hacia" a="hacia"
@@ -38766,7 +38766,7 @@
   f="0000000000000000100001" sn="11754" w="1" ty="1"
   pp="⸀" fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="11755" w="1" ty="1"
   c="20:20"
   m="\v 20 ">
@@ -40349,7 +40349,7 @@
   f="0000000000000000000001" sn="12229" w="1" ty="1"
   fp=",">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="12230" w="1" ty="1">
   </S>
   <S s="δὲ" k="δὲ" t="← pero" a="← pero"
@@ -41641,7 +41641,7 @@
   f="0000000000000000100001" sn="12617" w="1" ty="1"
   fp="·">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="12618" w="1" ty="1">
   </S>
   <S s="δὲ" k="δὲ" t="← pero" a="← pero"
@@ -43197,7 +43197,7 @@
   f="0000000000000000100001" sn="13087" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="13088" w="1" ty="1"
   c="22:15"
   m="\v 15 ">
@@ -44666,7 +44666,7 @@
   f="0000000000000000100001" sn="13526" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000011000000000000001" sn="13527" w="1" ty="1"
   c="23:1"
   m="\c 23  \v 1 ">
@@ -45019,7 +45019,7 @@
   f="0000000000000000100001" sn="13633" w="1" ty="1"
   pp="⸀" fp=".">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000010000000000000001" sn="13634" w="1" ty="1"
   c="23:8"
   m="\v 8 ">
@@ -45063,7 +45063,7 @@
   <S s="δὲ" k="δὲ" t="← y" a="← y"
   f="0000000000000000000001" sn="13646" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="13647" w="1" ty="1">
   </S>
   <S s="ἀδελφοί" k="ἀδελφοί" t="hermanos" a="hermanos"
@@ -45275,7 +45275,7 @@
   f="0000000000000000100001" sn="13708" w="1" ty="1"
   fp="·">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="13709" w="1" ty="1">
   </S>
   <S s="γὰρ" k="γὰρ" t="← porque" a="← porque"
@@ -46151,7 +46151,7 @@
   <S s="καὶ" k="καὶ" t="también" a="también"
   f="0000000000000000000001" sn="13973" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="13974" w="1" ty="1">
   </S>
   <S s="ἔξωθεν" k="ἔξωθεν" t="exteriormente" a="exteriormente"
@@ -46363,7 +46363,7 @@
   c="23:32"
   m="\v 32 ">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="14037" w="1" ty="1">
   </S>
   <S s="πληρώσατε" k="πληρώσατε" t="llenen" a="llenen"
@@ -47300,7 +47300,7 @@
   f="0000000000000000100001" sn="14319" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000010000000000000001" sn="14320" w="1" ty="1"
   c="24:9"
   m="\v 9 ">
@@ -48571,7 +48571,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="14706" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς," k="ὑμεῖς" t="uestedes," a="uestedes"
+  <S s="ὑμεῖς," k="ὑμεῖς" t="ustedes," a="ustedes"
   f="0000000000000000000001" sn="14707" w="1" ty="1"
   fp=",">
   </S>
@@ -49158,7 +49158,7 @@
   <S s="καὶ" k="καὶ" t="también" a="también"
   f="0000000000000000000001" sn="14882" w="1" ty="1">
   </S>
-  <S s="ὑμεῖς" k="ὑμεῖς" t="uestedes" a="uestedes"
+  <S s="ὑμεῖς" k="ὑμεῖς" t="ustedes" a="ustedes"
   f="0000000000000000000001" sn="14883" w="1" ty="1">
   </S>
   <S s="γίνεσθε" k="γίνεσθε" t="sean" a="sean"
@@ -49564,7 +49564,7 @@
   f="0000000000000000100001" sn="15006" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
+  <S s="Τότε" k="Τότε" t="entonces" a="Entonces"
   f="0000011000000000000001" sn="15007" w="1" ty="1"
   c="25:1"
   m="\c 25  \v 1 ">
@@ -49587,7 +49587,7 @@
   <S s="δέκα" k="δέκα" t="diez" a="diez"
   f="0000000000000000000001" sn="15013" w="1" ty="1">
   </S>
-  <S s="παρθένοις," k="παρθένοις"
+  <S s="παρθένοις," k="παρθένοις" t=","
   f="0000000000000000000000" sn="15014" w="1" ty="1"
   fp=",">
   </S>

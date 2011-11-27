@@ -114553,49 +114553,49 @@ $concordance = array (
       2 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 5:48',
       ),
       3 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 6:9',
       ),
       4 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 6:26',
       ),
       5 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 7:11',
       ),
       6 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 7:12',
       ),
       7 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 10:20',
       ),
       8 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 10:31',
       ),
@@ -114609,28 +114609,28 @@ $concordance = array (
       10 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 14:16',
       ),
       11 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 15:3',
       ),
       12 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 15:5',
       ),
       13 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 15:16',
       ),
@@ -114644,91 +114644,91 @@ $concordance = array (
       15 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 19:28',
       ),
       16 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 19:28',
       ),
       17 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 20:4',
       ),
       18 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 20:7',
       ),
       19 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 21:13',
       ),
       20 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 21:32',
       ),
       21 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 23:8',
       ),
       22 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 23:8',
       ),
       23 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 23:13',
       ),
       24 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 23:28',
       ),
       25 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 23:32',
       ),
       26 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 24:33',
       ),
       27 => 
       array (
         'word' => 'ὑμεῖς',
-        'spa' => 'uestedes',
+        'spa' => 'ustedes',
         'morph' => 'P-2NP',
         'ref' => 'mt 24:44',
       ),

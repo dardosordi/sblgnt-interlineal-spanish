@@ -1463,7 +1463,7 @@
       cDT="2011-10-22T23:48:33Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="δέκα">
-      <RS n="2" a="diez" df="0"
+      <RS n="3" a="diez" df="0"
       cDT="2011-11-13T03:35:32Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="δένδρον">
@@ -3252,8 +3252,9 @@
       cDT="2011-11-19T17:47:23Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κΑΤΑ">
-      <RS n="1" a="según" df="0"
-      cDT="2011-11-26T19:26:14Z" wC="dardo:sophie"/>
+      <RS n="1" a="según" df="1"
+      cDT="2011-11-27T13:56:16Z" wC="dardo:sophie"
+      dDT="2011-11-27T13:57:59Z"/>
     </TU>
     <TU f="0" k="κάθου">
       <RS n="1" a="sientate" df="0"
@@ -3660,7 +3661,7 @@
     </TU>
     <TU f="0" k="καταβάντος">
       <RS n="1" a="habiendo descendido" df="0"
-      cDT="2011-11-26T15:29:08Z" wC="dardo:sophie"/>
+      cDT="2011-11-27T13:50:25Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="καταβάτω">
       <RS n="1" a="descienda" df="0"
@@ -6145,7 +6146,7 @@
       cDT="2011-10-19T03:40:10Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="οὐρανῶν">
-      <RS n="35" a="cielos" df="0"
+      <RS n="36" a="cielos" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
       <RS n="1" a="de los cielos" df="0"
       cDT="2011-11-26T18:33:11Z" wC="dardo:sophie"/>
@@ -6693,6 +6694,11 @@
     <TU f="0" k="παρελθεῖν">
       <RS n="1" a="pasar" df="0"
       cDT="2011-10-19T03:43:41Z" wC="dardo:sophie"/>
+    </TU>
+    <TU f="0" k="παρθένοις">
+      <RS n="1" a="παρθένοις" df="1"
+      cDT="2011-11-27T13:50:17Z" wC="dardo:sophie"
+      dDT="2011-11-27T13:54:21Z"/>
     </TU>
     <TU f="0" k="παρθένος">
       <RS n="1" a="virgen" df="0"
@@ -9786,7 +9792,7 @@
       <RS n="0" a="Entonces" df="1"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"
       dDT="2011-10-19T04:23:58Z"/>
-      <RS n="329" a="entonces" df="0"
+      <RS n="421" a="entonces" df="0"
       cDT="2011-10-22T23:06:34Z" wC="dardo:sophie"/>
       <RS n="1" a="dfssdffds" df="1"
       cDT="2011-10-22T23:00:36Z" wC="dardo:sophie"
@@ -16530,8 +16536,12 @@
       cDT="2011-10-20T04:08:02Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ὑμεῖς">
-      <RS n="25" a="uestedes" df="0"
-      cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
+      <RS n="27" a="ustedes" df="0"
+      cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"
+      mDT="2011-11-27T13:52:18Z"/>
+      <RS n="1" a="uestedes" df="1"
+      cDT="2011-11-27T13:53:29Z" wC="dardo:sophie"
+      dDT="2011-11-27T13:56:26Z"/>
     </TU>
     <TU f="0" k="ὑμᾶς">
       <RS n="21" a="a ustedes" df="0"
