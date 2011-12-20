@@ -53,6 +53,7 @@ $rmac['A-GPN'] = array ('part' => 'adjetivo','case' => 'genitivo','number' => 'p
 $rmac['A-GPN-C'] = array ('degree' => 'comparativo','part' => 'adjetivo','case' => 'genitivo','number' => 'plural','gender' => 'neutro',);
 $rmac['A-GSF'] = array ('part' => 'adjetivo','case' => 'genitivo','number' => 'singular','gender' => 'femenino',);
 $rmac['A-GSF-C'] = array ('degree' => 'comparativo','part' => 'adjetivo','case' => 'genitivo','number' => 'singular','gender' => 'femenino',);
+$rmac['A-GSF-S'] = array ('degree' => 'superlativo','part' => 'adjetivo','case' => 'genitivo','number' => 'singular','gender' => 'femenino',);
 $rmac['A-GSM'] = array ('part' => 'adjetivo','case' => 'genitivo','number' => 'singular','gender' => 'masculino',);
 $rmac['A-GSM-C'] = array ('degree' => 'comparativo','part' => 'adjetivo','case' => 'genitivo','number' => 'singular','gender' => 'masculino',);
 $rmac['A-GSN'] = array ('part' => 'adjetivo','case' => 'genitivo','number' => 'singular','gender' => 'neutro',);
