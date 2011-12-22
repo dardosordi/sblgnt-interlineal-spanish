@@ -677,6 +677,7 @@ $rmac['V-APP-GPN'] = array ('part' => 'verbo','tense' => 'aoristo','voice' => 'p
 $rmac['V-APP-GSF'] = array ('part' => 'verbo','tense' => 'aoristo','voice' => 'pasivo','mood' => 'participio','case' => 'genitivo','number' => 'singular','gender' => 'femenino',);
 $rmac['V-APP-GSM'] = array ('part' => 'verbo','tense' => 'aoristo','voice' => 'pasivo','mood' => 'participio','case' => 'genitivo','number' => 'singular','gender' => 'masculino',);
 $rmac['V-APP-GSN'] = array ('part' => 'verbo','tense' => 'aoristo','voice' => 'pasivo','mood' => 'participio','case' => 'genitivo','number' => 'singular','gender' => 'neutro',);
+$rmac['V-APP-NPF'] = array ('part' => 'verbo','tense' => 'aoristo','voice' => 'pasivo','mood' => 'participio','case' => 'nominativo','number' => 'plural','gender' => 'femenino',);
 $rmac['V-APP-NPM'] = array ('part' => 'verbo','tense' => 'aoristo','voice' => 'pasivo','mood' => 'participio','case' => 'nominativo','number' => 'plural','gender' => 'masculino',);
 $rmac['V-APP-NPN'] = array ('part' => 'verbo','tense' => 'aoristo','voice' => 'pasivo','mood' => 'participio','case' => 'nominativo','number' => 'plural','gender' => 'neutro',);
 $rmac['V-APP-NSF'] = array ('part' => 'verbo','tense' => 'aoristo','voice' => 'pasivo','mood' => 'participio','case' => 'nominativo','number' => 'singular','gender' => 'femenino',);
@@ -1135,5 +1136,3 @@ $rmac['V-RPP-NSN-ATT'] = array ('form' => 'griego ático','part' => 'verbo','ten
 $rmac['V-RPP-VSM'] = array ('part' => 'verbo','tense' => 'perfecto','voice' => 'pasivo','mood' => 'participio','case' => 'vocativo','number' => 'singular','gender' => 'masculino',);
 $rmac['V-XXM-2P'] = array ('part' => 'verbo','person' => 'segunda persona','number' => 'plural','tense' => 'sín timepo (adverbio imperativo)','voice' => 'sín voz','mood' => 'imperativo',);
 $rmac['V-XXM-2S'] = array ('part' => 'verbo','person' => 'segunda persona','number' => 'singular','tense' => 'sín timepo (adverbio imperativo)','voice' => 'sín voz','mood' => 'imperativo',);
-$rmac[''] = array ('' => NULL,);
-;
