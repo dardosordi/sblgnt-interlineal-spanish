@@ -92122,7 +92122,7 @@ $concordance = array (
       291 => 
       array (
         'word' => 'τοῦ',
-        'spa' => 'del',
+        'spa' => 'de la',
         'morph' => 'T-GSM',
         'ref' => 'mt 28:20',
       ),
