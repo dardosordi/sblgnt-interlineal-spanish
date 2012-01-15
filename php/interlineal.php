@@ -274,6 +274,8 @@ $nav = get_menu($nav);
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <title><? echo $page_title; ?></title>
 <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/interlineal.js"></script>
 <? if (!empty($prev)): ?><link rel="prev" href="<?= h($prev) ?>">
 <? endif ?>
 <? if (!empty($next)): ?><link rel="next" href="<?= h($next) ?>">

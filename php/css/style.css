@@ -82,6 +82,10 @@ a:hover {
 	text-decoration: none;
 }
 
+a:visited {
+	color: #00c;
+}
+
 .morph {
 	color: #0092F2;
 	font-size: .8em;
@@ -176,11 +180,41 @@ a:hover {
 	border-bottom: 1px solid #000;
 }
 
+.concordance td {
+	border-bottom: 1px solid #eee;
+}
+
 .concordance th,
 .concordance td {
 	padding: 2px 15px;
+	vertical-align: top;
 }
 
+.player {
+	border-color: transparent transparent transparent #999;
+	border-style:solid;
+	border-width:5px 0 5px 10px;
+	width:0;
+	height:0;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.highlight {
+	background: #ff6;
+}
+.marked {
+	background: #eef;
+}
+
+#panel {
+	position: fixed;
+	top: 5px;
+	right: 5px;
+	background: #eee;
+	padding: 5px;
+	border: 1px solid #ccc;
+}
 
 /* Print */
 
@@ -196,8 +230,11 @@ h1 {
 }
 
 .interlineal {
-	margin: 0 auto;
+/*	margin: 0 auto;
 	width: 800px;
+*/
+	font-size: 10px;
 }
+
 
 }
