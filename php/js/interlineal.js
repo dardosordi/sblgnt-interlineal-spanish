@@ -31,10 +31,12 @@ $(function() {
 		}
 	});
 
-	$('.greek').click(function () {
-		window.open($(this).parent().find('.strongs a').attr('href'));
-		var strongs = $(this).parent().find('.strongs a').text();
+	$('.greek').click(function (e) {
+		if (!e.ctrlKey) {
+			window.open($(this).parent().find('.strongs a').attr('href'));
+		}
 
+		var strongs = $(this).parent().find('.strongs a').text();
 		$('.strongs a').each(function (i, e) {
 			if ($(e).text() == strongs) {
 				$(e).parent().parent().addClass('marked');
