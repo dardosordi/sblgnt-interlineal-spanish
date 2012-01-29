@@ -1,9 +1,9 @@
 <?php
 $rmac['XXX'] = array ('part' => 'morfologia no disponible',);
 $rmac['ADV'] = array ('part' => 'adverbio',);
-$rmac['ADV-C'] = array ('part' => 'adverbio',);
-$rmac['ADV-I'] = array ('part' => 'adverbio',);
-$rmac['ADV-S'] = array ('part' => 'adverbio',);
+$rmac['ADV-C'] = array ('part' => 'adverbio','degree' => 'comparativo',);
+$rmac['ADV-I'] = array ('part' => 'adverbio','degree' => 'interrogativo',);
+$rmac['ADV-S'] = array ('part' => 'adverbio','degree' => 'superlativo',);
 $rmac['ARAM'] = array ('part' => 'arameo',);
 $rmac['HEB'] = array ('part' => 'hebreo',);
 $rmac['COND'] = array ('part' => 'condicional',);
@@ -1136,3 +1136,5 @@ $rmac['V-RPP-NSN-ATT'] = array ('form' => 'griego ático','part' => 'verbo','ten
 $rmac['V-RPP-VSM'] = array ('part' => 'verbo','tense' => 'perfecto','voice' => 'pasivo','mood' => 'participio','case' => 'vocativo','number' => 'singular','gender' => 'masculino',);
 $rmac['V-XXM-2P'] = array ('part' => 'verbo','person' => 'segunda persona','number' => 'plural','tense' => 'sín timepo (adverbio imperativo)','voice' => 'sín voz','mood' => 'imperativo',);
 $rmac['V-XXM-2S'] = array ('part' => 'verbo','person' => 'segunda persona','number' => 'singular','tense' => 'sín timepo (adverbio imperativo)','voice' => 'sín voz','mood' => 'imperativo',);
+$rmac[''] = array ('' => NULL,);
+;
