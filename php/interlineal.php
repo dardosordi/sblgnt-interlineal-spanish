@@ -161,19 +161,19 @@ foreach($interlineal as $S) {
 
 			$content .= '<span class="block">';
 			if ($show_strongs) {
-				$content .= '<span>&nbsp;</span>';
+				$content .= '<span class="strongs">&nbsp;</span>';
 			}
 			if ($show_morph) {
-				$content .= '<span>&nbsp;</span>';
+				$content .= '<span class="morph">&nbsp;</span>';
 			}
 			if ($show_greek) {
 				$content .= sprintf('<span id="v%d" class="verse">%s</span>', $current_verse, $current_verse);
 			}
 			if ($show_translit) {
-				$content .= '<span>&nbsp;</span>';
+				$content .= '<span class="translit">&nbsp;</span>';
 			}
 			if ($show_spa) {
-				$content .= '<span>&nbsp;</span>';
+				$content .= '<span class="spa">&nbsp;</span>';
 			}
 			$content .= '</span> ';
 
