@@ -761,7 +761,7 @@ $morphdb['mt'][2][16][24] = array('word' => 'αὐτῆς', 'translit' => 'autē
 $morphdb['mt'][2][16][25] = array('word' => 'ἀπὸ', 'translit' => 'apo', 'morph' => 'PREP', 'strongs' => '575',);
 $morphdb['mt'][2][16][26] = array('word' => 'διετοῦς', 'translit' => 'dietous', 'morph' => 'A-GSM', 'strongs' => '1332',);
 $morphdb['mt'][2][16][27] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CONJ', 'strongs' => '2532',);
-$morphdb['mt'][2][16][28] = array('word' => 'κατωτέρω', 'translit' => 'katōterō', 'morph' => 'ADV', 'strongs' => '2736',);
+$morphdb['mt'][2][16][28] = array('word' => 'κατωτέρω', 'translit' => 'katōterō', 'morph' => 'ADV-C', 'strongs' => '2736',);
 $morphdb['mt'][2][16][29] = array('word' => 'κατὰ', 'translit' => 'kata', 'morph' => 'PREP', 'strongs' => '2596',);
 $morphdb['mt'][2][16][30] = array('word' => 'τὸν', 'translit' => 'ton', 'morph' => 'T-ASM', 'strongs' => '3588',);
 $morphdb['mt'][2][16][31] = array('word' => 'χρόνον', 'translit' => 'chronon', 'morph' => 'N-ASM', 'strongs' => '5550',);
@@ -1311,7 +1311,7 @@ $morphdb['mt'][4][6][6] = array('word' => 'τοῦ', 'translit' => 'tou', 'morph
 $morphdb['mt'][4][6][7] = array('word' => 'θεοῦ', 'translit' => 'theou', 'morph' => 'N-GSM', 'strongs' => '2316',);
 $morphdb['mt'][4][6][8] = array('word' => 'βάλε', 'translit' => 'bale', 'morph' => 'V-2AAM-2S', 'strongs' => '906',);
 $morphdb['mt'][4][6][9] = array('word' => 'σεαυτὸν', 'translit' => 'seauton', 'morph' => 'F-2ASM', 'strongs' => '4572',);
-$morphdb['mt'][4][6][10] = array('word' => 'κάτω', 'translit' => 'katō', 'morph' => 'PREP', 'strongs' => '2736',);
+$morphdb['mt'][4][6][10] = array('word' => 'κάτω', 'translit' => 'katō', 'morph' => 'ADV', 'strongs' => '2736',);
 $morphdb['mt'][4][6][11] = array('word' => 'γέγραπται', 'translit' => 'gegraptai', 'morph' => 'V-RPI-3S', 'strongs' => '1125',);
 $morphdb['mt'][4][6][12] = array('word' => 'γὰρ', 'translit' => 'gar', 'morph' => 'CONJ', 'strongs' => '1063',);
 $morphdb['mt'][4][6][13] = array('word' => 'ὅτι', 'translit' => 'hoti', 'morph' => 'CONJ', 'strongs' => '3754',);
