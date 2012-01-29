@@ -36,19 +36,38 @@ if (isset($strongs[$lang][$number])) {
 	$content .= sprintf('	<dt>Definición corta:</dt><dd>%s</dd>', format_strongs($data['kjv_def']));
 	$content .= sprintf('	<dt>Definición:</dt><dd>%s</dd>', format_strongs($data['strongs_def']));
 	$content .= sprintf('	<dt>Derivación:</dt><dd>%s</dd>', isset($data['derivation']) ? format_strongs($data['derivation']) : 'Palabra raíz');
+
+	$lexicon['perseus'] = sprintf('http://www.perseus.tufts.edu/hopper/morph?l=%s&la=greek', urlencode($data['lemma']));
+	$lexicon['studybible'] = sprintf('http://studybible.info/strongs/%s%s', strtoupper($langKey), $number);
+	$lexicon['blueletterbible'] = sprintf('http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=%s%s', strtoupper($langKey), $number);
+	$lexicon['biblos'] = sprintf('http://concordances.org/%s/%s.htm', $lang, $number);
+	$lexicon['katabiblon'] = sprintf('http://lexicon.katabiblon.com/inflect.php?lemma=%s', urlencode($data['lemma']));
+	$lexicon['greek-dictionary'] = sprintf('http://www.greek-dictionary.net/%s', urlencode($translit));
+	$lexicon['studylight'] = sprintf('http://new.studylight.org/lex/grk/gwview.cgi?n=%s', $number);
+	$lexicon['biblestudytools'] = sprintf('http://www.biblestudytools.net/Lexicons/Greek/grk.cgi?search=%s&version=nas', $number);
+	$lexicon['logeion'] = sprintf('http://logeion.uchicago.edu/index.html#%s', urlencode($data['lemma']));
+
+	$content .= sprintf('	<dt>Lexicos:</dt><dd><a href="%s" target="_blank">perseus</a>, <a href="%s" target="_blank">studybible.info</a>, <a href="%s" target="_blank">blueletterbible.org</a>, <a href="%s" target="_blank">katabiblon.com</a>, <a href="%s" target="_blank">biblos.com</a>, <a href="%s" target="_blank">greek-dictionary.net</a>, <a href="%s" target="_blank">studylight.org</a>, <a href="%s" target="_blank">biblestudytools.net</a>, <a href="%s" target="_blank">logeion</a></dd>', 
+		h($lexicon['perseus']), h($lexicon['studybible']), h($lexicon['blueletterbible']), h($lexicon['katabiblon']), h($lexicon['biblos']), h($lexicon['greek-dictionary']), h($lexicon['studylight']), h($lexicon['biblestudytools']), h($lexicon['logeion']));
+
 	$content .= sprintf('	<dt>Audio:</dt><dd><audio src="/ogg/grk/%04dg.ogg" class="player" onclick="this.play();"></audio></dd>', $number);
+
 
 	$content .= '</dl>';
 
 
 	if (!empty($concordance[$number])) {
 		$content .= '<table class="concordance">
+<thead>
 <tr>
 	<th>Palabra</th>
 	<th>Morfología</th>
 	<th width="200">Traducción</th>
 	<th>Referencias</th>
-</tr>';
+</tr>
+</thead>
+<tbody>
+';
 
 
 		$refs = array();
@@ -80,7 +99,8 @@ if (isset($strongs[$lang][$number])) {
 			);
 		}
 
-$content .= '</table>';
+$content .= '<tbody>
+</table>';
 
 	}
 
@@ -138,6 +158,9 @@ $nav = get_menu($nav);
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <title><? echo $page_title; ?></title>
 <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/js/strongs.js"></script>
 <? if (!empty($prev)): ?><link rel="prev" href="<?= h($prev) ?>">
 <? endif ?>
 <? if (!empty($next)): ?><link rel="next" href="<?= h($next) ?>">
