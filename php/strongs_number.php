@@ -11,6 +11,7 @@ include 'helpers.php';
 
 
 include 'concordance.php';
+include 'lexicon_index.php';
 
 
 $id = isset($_GET['id']) ? $_GET['id'] : null;
@@ -47,8 +48,13 @@ if (isset($strongs[$lang][$number])) {
 	$lexicon['biblestudytools'] = sprintf('http://www.biblestudytools.net/Lexicons/Greek/grk.cgi?search=%s&version=nas', $number);
 	$lexicon['logeion'] = sprintf('http://logeion.uchicago.edu/index.html#%s', urlencode($data['lemma']));
 
-	$content .= sprintf('	<dt>Lexicos:</dt><dd><a href="%s" target="_blank">perseus</a>, <a href="%s" target="_blank">studybible.info</a>, <a href="%s" target="_blank">blueletterbible.org</a>, <a href="%s" target="_blank">katabiblon.com</a>, <a href="%s" target="_blank">biblos.com</a>, <a href="%s" target="_blank">greek-dictionary.net</a>, <a href="%s" target="_blank">studylight.org</a>, <a href="%s" target="_blank">biblestudytools.net</a>, <a href="%s" target="_blank">logeion</a></dd>', 
-		h($lexicon['perseus']), h($lexicon['studybible']), h($lexicon['blueletterbible']), h($lexicon['katabiblon']), h($lexicon['biblos']), h($lexicon['greek-dictionary']), h($lexicon['studylight']), h($lexicon['biblestudytools']), h($lexicon['logeion']));
+
+	$lex_url = 'http://biblestudyaids.net/nt/a&g/';
+	$lexicon['DAG'] = $lex_url . $lexicon_index[$number];
+
+
+	$content .= sprintf('	<dt>Lexicos:</dt><dd><a href="%s" target="_blank">perseus</a>, <a href="%s" target="_blank">studybible.info</a>, <a href="%s" target="_blank">blueletterbible.org</a>, <a href="%s" target="_blank">katabiblon.com</a>, <a href="%s" target="_blank">biblos.com</a>, <a href="%s" target="_blank">greek-dictionary.net</a>, <a href="%s" target="_blank">studylight.org</a>, <a href="%s" target="_blank">biblestudytools.net</a>, <a href="%s" target="_blank">logeion</a>, <a href="%s" target="_blank">DAG</a></dd>', 
+		h($lexicon['perseus']), h($lexicon['studybible']), h($lexicon['blueletterbible']), h($lexicon['katabiblon']), h($lexicon['biblos']), h($lexicon['greek-dictionary']), h($lexicon['studylight']), h($lexicon['biblestudytools']), h($lexicon['logeion']), h($lexicon['DAG']));
 
 	$content .= sprintf('	<dt>Audio:</dt><dd><audio src="/ogg/grk/%04dg.ogg" class="player" onclick="this.play();"></audio></dd>', $number);
 
