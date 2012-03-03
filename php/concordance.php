@@ -59506,14 +59506,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἱκανὸς',
-        'spa' => 'apto',
+        'spa' => 'digno',
         'morph' => 'A-NSM',
         'ref' => 'mt 3:11',
       ),
       1 => 
       array (
         'word' => 'ἱκανὸς',
-        'spa' => 'apto',
+        'spa' => 'digno',
         'morph' => 'A-NSM',
         'ref' => 'mt 8:8',
       ),

@@ -6816,8 +6816,9 @@
       cDT="2011-10-20T03:45:18Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="νόσοις">
-      <RS n="1" a="enfermedades" df="0"
-      cDT="2012-02-18T22:54:47Z" wC="dardo:sophie"/>
+      <RS n="1" a="enfermedades" df="1"
+      cDT="2012-02-18T22:54:47Z" wC="dardo:sophie"
+      dDT="2012-02-18T22:54:49Z"/>
     </TU>
     <TU f="0" k="νόσον">
       <RS n="3" a="enfermedad" df="0"
@@ -18673,8 +18674,11 @@
       cDT="2011-12-22T03:08:05Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἱκανὸς">
-      <RS n="2" a="apto" df="0"
-      cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
+      <RS n="1" a="apto" df="1"
+      cDT="2012-03-03T01:12:00Z" wC="dardo:sophie"
+      dDT="2012-03-03T01:12:01Z"/>
+      <RS n="2" a="digno" df="0"
+      cDT="2012-03-03T01:11:34Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἱμάτια">
       <RS n="6" a="mantos" df="0"
