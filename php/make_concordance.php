@@ -64,7 +64,8 @@ foreach($xml->xpath('//S') as $S) {
 	++$current_word;
 
 	if (isset($S['f']) && !intval($S['f'])) {
-		break;
+		echo "//MISSING NUMBRER: $book $current_chapter:$current_verse";
+		continue;
 	}
 
 	$strongs_number = null;
