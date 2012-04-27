@@ -2,7 +2,6 @@
 
 error_reporting(E_ALL);
 
-include 'rmac.php';
 include 'strongs_greek.php';
 
 include 'books.php';
@@ -234,11 +233,11 @@ function format_greek(SimpleXmlElement $word) {
 				break;
 
 			case 'greek':
-				$greek = $entry[0];
-				$number =  $entry['number'];
+				$greek = (string) $entry[0];
+				$number = (string) $entry['number'];
 				$strongs_number = (int)$entry['strongs'];
-				$morph = $entry['morph'];
-				$translit = $entry['translit'];
+				$morph = (string) $entry['morph'];
+				$translit = (string) $entry['translit'];
 
 				if (isset($strongs['greek'][$strongs_number])) {
 					$strongs_def = sprintf('<a href="/strongs/G%d.html" title="%s">%d</a>',
@@ -257,7 +256,8 @@ function format_greek(SimpleXmlElement $word) {
 				$content .= '<sub>' . $number . '</sub>' ;
 
 				$content .= '<span class="translit">' . $translit . '</span>';
-				$content .= '<span class="morph" title="">' . $morph . '</span>';
+				//$content .= '<span class="morph" title="">' . $morph . '</span>';
+				$content .= sprintf('<span class="morph" title="%s">%s</span>', label_lmac($morph), $morph);
 				$content .= '<span class="strongs">' . $strongs_def . '</span>';
 				$content .= '</span>';
 				break;
