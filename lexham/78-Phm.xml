@@ -1,0 +1,587 @@
+<book>
+<book_title>THE LETTER OF PAUL TO PHILEMON</book_title>
+<title>Greeting</title>
+<line>
+	<chapter>1</chapter>
+	<verse>1</verse>
+	<word>Paul, <greek strongs="3972" morph="NNSM" translit="Paulos" number="1">Παῦλος</greek></word>
+	<word>a <right/></word>
+	<word>prisoner <greek strongs="1198" morph="NNSM" translit="desmios" number="2">δέσμιος</greek></word>
+	<word>of <right/></word>
+	<word>Christ <greek strongs="5547" morph="NGSM" translit="Christou" number="3">Χριστοῦ</greek></word>
+	<word>Jesus, <greek strongs="2424" morph="NGSM" translit="Iēsou" number="4">Ἰησοῦ</greek></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="5">καὶ</greek></word>
+	<word>Timothy <greek strongs="5095" morph="NNSM" translit="Timotheos" number="6">Τιμόθεος</greek></word>
+	<word>our <greek strongs="3588" morph="DNSM" translit="ho" number="7">ὁ</greek></word>
+	<word>brother, <greek strongs="80" morph="NNSM" translit="adelphos" number="8">ἀδελφὸς</greek></word>
+	<word>to <right/></word>
+	<word>Philemon, <greek strongs="5371" morph="NDSM" translit="Philēmoni" number="9">Φιλήμονι</greek></word>
+</line>
+<line>
+	<word>our <greek strongs="2257" morph="RP1GP" translit="hēmōn" number="14">ἡμῶν</greek></word>
+	<word>dear <greek strongs="3588" morph="DDSM" translit="tō" number="10">τῷ</greek> <greek strongs="27" morph="JDSM" translit="agapētō" number="11">ἀγαπητῷ</greek></word>
+	<word>friend <left/></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="12">καὶ</greek></word>
+	<word>fellow <greek strongs="4904" morph="JDSM" translit="synergō" number="13">συνεργῷ</greek></word>
+	<word>worker, <left/></word>
+	<verse>2</verse>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="1">καὶ</greek></word>
+	<word>to <right/></word>
+	<word>Apphia <greek strongs="682" morph="NDSF" translit="Apphia" number="2">Ἀπφίᾳ</greek></word>
+	<word>our <greek strongs="3588" morph="DDSF" translit="tē" number="3">τῇ</greek></word>
+	<word>sister, <greek strongs="79" morph="NDSF" translit="adelphē" number="4">ἀδελφῇ</greek></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="5">καὶ</greek></word>
+</line>
+<line>
+	<word>to <right/></word>
+	<word>Archippus <greek strongs="751" morph="NDSM" translit="Archippō" number="6">Ἀρχίππῳ</greek></word>
+	<word>our <greek strongs="2257" morph="RP1GP" translit="hēmōn" number="9">ἡμῶν</greek></word>
+	<word>fellow <greek strongs="3588" morph="DDSM" translit="tō" number="7">τῷ</greek> <greek strongs="4961" morph="NDSM" translit="systratiōtē" number="8">συστρατιώτῃ</greek></word>
+	<word>soldier, <left/></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="10">καὶ</greek></word>
+	<word>to <pointer direction="right" number="15"/></word>
+	<word>the <greek strongs="3588" morph="DDSF" translit="tē" number="11">τῇ</greek></word>
+	<word>church <greek strongs="1577" morph="NDSF" translit="ekklēsia" number="15">ἐκκλησίᾳ</greek></word>
+	<word>in <greek strongs="2596" morph="P" translit="kat'" number="12">κατ'</greek></word>
+	<word>your <greek strongs="4675" morph="RP2GS" translit="sou" number="14">σου</greek></word>
+</line>
+<line>
+	<word>house. <greek strongs="3624" morph="NASM" translit="oikon" number="13">οἶκόν</greek></word>
+	<verse>3</verse>
+	<word>Grace <greek strongs="5485" morph="NNSF" translit="charis" number="1">χάρις</greek></word>
+	<word>to <right/></word>
+	<word>you <greek strongs="5213" morph="RP2DP" translit="hymin" number="2">ὑμῖν</greek></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="3">καὶ</greek></word>
+	<word>peace <greek strongs="1515" morph="NNSF" translit="eirēnē" number="4">εἰρήνη</greek></word>
+	<word>from <greek strongs="575" morph="P" translit="apo" number="5">ἀπὸ</greek></word>
+	<word>God <greek strongs="2316" morph="NGSM" translit="theou" number="6">θεοῦ</greek></word>
+	<word>our <greek strongs="2257" morph="RP1GP" translit="hēmōn" number="8">ἡμῶν</greek></word>
+	<word>Father <greek strongs="3962" morph="NGSM" translit="patros" number="7">πατρὸς</greek></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="9">καὶ</greek></word>
+	<word>the <right/></word>
+	<word>Lord <greek strongs="2962" morph="NGSM" translit="kyriou" number="10">κυρίου</greek></word>
+	<word>Jesus <greek strongs="2424" morph="NGSM" translit="Iēsou" number="11">Ἰησοῦ</greek></word>
+</line>
+<line>
+	<word>Christ. <greek strongs="5547" morph="NGSM" translit="Christou" number="12">Χριστοῦ</greek></word>
+</line>
+<title>Thanksgiving and Prayer for Philemon</title>
+<line>
+	<verse>4</verse>
+	<word>I <right/></word>
+	<word>thank <greek strongs="2168" morph="VPAI1S" translit="Eucharistō" number="1">Εὐχαριστῶ</greek></word>
+	<word>my <greek strongs="3450" morph="RP1GS" translit="mou" number="4">μου</greek></word>
+	<word>God, <greek strongs="3588" morph="DDSM" translit="tō" number="2">τῷ</greek> <greek strongs="2316" morph="NDSM" translit="theō" number="3">θεῷ</greek></word>
+	<word>always <greek strongs="3842" morph="B" translit="pantote" number="5">πάντοτε</greek></word>
+	<word>making <greek strongs="4160" morph="VPMP-SNM" translit="poioumenos" number="8">ποιούμενος</greek></word>
+	<word>mention <greek strongs="3417" morph="NASF" translit="mneian" number="6">μνείαν</greek></word>
+	<word>of <right/></word>
+	<word>you <greek strongs="4675" morph="RP2GS" translit="sou" number="7">σου</greek></word>
+	<word>in <greek strongs="1909" morph="P" translit="epi" number="9">ἐπὶ</greek></word>
+	<word>my <greek strongs="3450" morph="RP1GS" translit="mou" number="12">μου</greek></word>
+</line>
+<line>
+	<word>prayers, <greek strongs="3588" morph="DGPF" translit="tōn" number="10">τῶν</greek> <greek strongs="4335" morph="NGPF" translit="proseuchōn" number="11">προσευχῶν</greek></word>
+	<verse>5</verse>
+	<word>because <right/></word>
+	<word>I <right/></word>
+	<word>hear <greek strongs="191" morph="VPAP-SNM" translit="akouōn" number="1">ἀκούων</greek></word>
+	<word>about <left/></word>
+	<word>your <greek strongs="4675" morph="RP2GS" translit="sou" number="2">σου</greek></word>
+	<word>love <greek strongs="3588" morph="DASF" translit="tēn" number="3">τὴν</greek> <greek strongs="26" morph="NASF" translit="agapēn" number="4">ἀγάπην</greek></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="5">καὶ</greek></word>
+	<word>faith <greek strongs="3588" morph="DASF" translit="tēn" number="6">τὴν</greek> <greek strongs="4102" morph="NASF" translit="pistin" number="7">πίστιν</greek></word>
+</line>
+<line>
+	<word>which <greek strongs="3739" morph="RR-ASF" translit="hēn" number="8">ἣν</greek></word>
+	<word>you <right/></word>
+	<word>have <greek strongs="2192" morph="VPAI2S" translit="echeis" number="9">ἔχεις</greek></word>
+	<word>toward <greek strongs="4314" morph="P" translit="pros" number="10">πρὸς</greek></word>
+	<word>the <greek strongs="3588" morph="DASM" translit="ton" number="11">τὸν</greek></word>
+	<word>Lord <greek strongs="2962" morph="NASM" translit="kyrion" number="12">κύριον</greek></word>
+	<word>Jesus <greek strongs="2424" morph="NASM" translit="Iēsoun" number="13">Ἰησοῦν</greek></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="14">καὶ</greek></word>
+	<word>for <greek strongs="1519" morph="P" translit="eis" number="15">εἰς</greek></word>
+	<word>all <greek strongs="3956" morph="JAPM" translit="pantas" number="16">πάντας</greek></word>
+	<word>the <greek strongs="3588" morph="DAPM" translit="tous" number="17">τοὺς</greek></word>
+	<word>saints. <greek strongs="40" morph="JAPM" translit="hagious" number="18">ἁγίους</greek></word>
+	<verse>6</verse>
+	<word>I<skip/></word>
+	<word>pray<skip/></word>
+</line>
+<line>
+	<word>that <greek strongs="3704" morph="CAP" translit="hopōs" number="1">ὅπως</greek></word>
+	<word>the <greek strongs="3588" morph="DNSF" translit="hē" number="2">ἡ</greek></word>
+	<word>fellowship <greek strongs="2842" morph="NNSF" translit="koinōnia" number="3">κοινωνία</greek></word>
+	<word>of <pointer direction="right" number="5"/></word>
+	<word>your <greek strongs="4675" morph="RP2GS" translit="sou" number="6">σου</greek></word>
+	<word>faith <greek strongs="3588" morph="DGSF" translit="tēs" number="4">τῆς</greek> <greek strongs="4102" morph="NGSF" translit="pisteōs" number="5">πίστεώς</greek></word>
+	<word>may <right/></word>
+	<word>become <greek strongs="1096" morph="VAMS3S" translit="genētai" number="8">γένηται</greek></word>
+	<word>effective <greek strongs="1756" morph="JNSF" translit="energēs" number="7">ἐνεργὴς</greek></word>
+	<word>in <greek strongs="1722" morph="P" translit="en" number="9">ἐν</greek></word>
+	<word>the <right/></word>
+	<word>knowledge <greek strongs="1922" morph="NDSF" translit="epignōsei" number="10">ἐπιγνώσει</greek></word>
+</line>
+<line>
+	<word>of <pointer direction="right" number="12"/></word>
+	<word>every <greek strongs="3956" morph="JGSN" translit="pantos" number="11">παντὸς</greek></word>
+	<word>good <greek strongs="18" morph="JGSN" translit="agathou" number="12">ἀγαθοῦ</greek></word>
+	<word>thing <left/></word>
+	<word>that <greek strongs="3588" morph="DGSN" translit="tou" number="13">τοῦ</greek></word>
+	<word>is <left/></word>
+	<word>in <greek strongs="1722" morph="P" translit="en" number="14">ἐν</greek></word>
+	<word>us <greek strongs="2254" morph="RP1DP" translit="hēmin" number="15">ἡμῖν</greek></word>
+	<word>for <greek strongs="1519" morph="P" translit="eis" number="16">εἰς</greek></word>
+	<word>Christ. <greek strongs="5547" morph="NASM" translit="Christon" number="17">Χριστόν</greek></word>
+	<verse>7</verse>
+	<word>For <greek strongs="1063" morph="CLX" translit="gar" number="2">γὰρ</greek></word>
+	<word>I <right/></word>
+	<word>have <greek strongs="2192" morph="VAAI1S" translit="eschon" number="4">ἔσχον</greek></word>
+	<word>great <greek strongs="4183" morph="JASF" translit="pollēn" number="3">πολλὴν</greek></word>
+</line>
+<line>
+	<word>joy <greek strongs="5479" morph="NASF" translit="charan" number="1">χαρὰν</greek></word>
+	<word>and <greek strongs="2532" morph="CLN" translit="kai" number="5">καὶ</greek></word>
+	<word>encouragement <greek strongs="3874" morph="NASF" translit="paraklēsin" number="6">παράκλησιν</greek></word>
+	<word>from <greek strongs="1909" morph="P" translit="epi" number="7">ἐπὶ</greek></word>
+	<word>your <greek strongs="4675" morph="RP2GS" translit="sou" number="10">σου</greek></word>
+	<word>love, <greek strongs="3588" morph="DDSF" translit="tē" number="8">τῇ</greek> <greek strongs="26" morph="NDSF" translit="agapē" number="9">ἀγάπῃ</greek></word>
+	<word>because <greek strongs="3754" morph="CAZ" translit="hoti" number="11">ὅτι</greek></word>
+	<word>the <greek strongs="3588" morph="DNPN" translit="ta" number="12">τὰ</greek></word>
+	<word>hearts <greek strongs="4698" morph="NNPN" translit="splanchna" number="13">σπλάγχνα</greek></word>
+	<word>of <pointer direction="right" number="15"/></word>
+	<word>the <greek strongs="3588" morph="DGPM" translit="tōn" number="14">τῶν</greek></word>
+</line>
+<line>
+	<word>saints <greek strongs="40" morph="JGPM" translit="hagiōn" number="15">ἁγίων</greek></word>
+	<word>have <right/></word>
+	<word>been <right/></word>
+	<word>refreshed <greek strongs="373" morph="VRPI3S" translit="anapepautai" number="16">ἀναπέπαυται</greek></word>
+	<word>through <greek strongs="1223" morph="P" translit="dia" number="17">διὰ</greek></word>
+	<word>you, <greek strongs="4675" morph="RP2GS" translit="sou" number="18">σοῦ</greek></word>
+	<word>brother. <greek strongs="80" morph="NVSM" translit="adelphe" number="19">ἀδελφέ</greek></word>
+</line>
+<title>Paul's Appeal for Onesimus</title>
+<line>
+	<verse>8</verse>
+	<word>Therefore, <greek strongs="1352" morph="CLI" translit="Dio" number="1">Διό</greek></word>
+	<word>although <right/></word>
+	<word>I <right/></word>
+	<word>have <greek strongs="2192" morph="VPAP-SNM" translit="echōn" number="6">ἔχων</greek></word>
+	<word>great <greek strongs="4183" morph="JASF" translit="pollēn" number="2">πολλὴν</greek></word>
+	<word>confidence <greek strongs="3954" morph="NASF" translit="parrēsian" number="5">παρρησίαν</greek></word>
+	<word>in <greek strongs="1722" morph="P" translit="en" number="3">ἐν</greek></word>
+	<word>Christ <greek strongs="5547" morph="NDSM" translit="Christō" number="4">Χριστῷ</greek></word>
+	<word>to <right/></word>
+	<word>order <greek strongs="2004" morph="VPAN" translit="epitassein" number="7">ἐπιτάσσειν</greek></word>
+	<word>you <greek strongs="4671" morph="RP2DS" translit="soi" number="8">σοι</greek></word>
+	<word>to<skip/></word>
+	<word>do<skip/></word>
+</line>
+<line>
+	<word>what <greek strongs="3588" morph="DASN" translit="to" number="9">τὸ</greek></word>
+	<word>is <right/></word>
+	<word>proper, <greek strongs="433" morph="VPAP-SAN" translit="anēkon" number="10">ἀνῆκον</greek></word>
+	<verse>9</verse>
+	<word>instead <greek strongs="3123" morph="B" translit="mallon" number="4">μᾶλλον</greek></word>
+	<word>I <right/></word>
+	<word>appeal <greek strongs="3870" morph="VPAI1S" translit="parakalō" number="5">παρακαλῶ</greek></word>
+	<word>to <left/></word>
+	<word>you <left/></word>
+	<word>because <greek strongs="1223" morph="P" translit="dia" number="1">διὰ</greek></word>
+	<word>of <left/></word>
+	<word>love, <greek strongs="3588" morph="DASF" translit="tēn" number="2">τὴν</greek> <greek strongs="26" morph="NASF" translit="agapēn" number="3">ἀγάπην</greek></word>
+	<word>since <right/></word>
+	<word>I <right/></word>
+	<word>am <greek strongs="5607" morph="VPAP-SNM" translit="ōn" number="7">ὢν</greek></word>
+</line>
+<line>
+	<word>such <greek strongs="5108" morph="RD-NSM" translit="toioutos" number="6">τοιοῦτος</greek></word>
+	<word>a <left/></word>
+	<word>one <left/></word>
+	<word>as <greek strongs="5613" morph="P" translit="hōs" number="8">ὡς</greek></word>
+	<word>Paul, <greek strongs="3972" morph="NNSM" translit="Paulos" number="9">Παῦλος</greek></word>
+	<word>now <greek strongs="3570" morph="B" translit="nyni" number="11">νυνὶ</greek></word>
+	<word>an <right/></word>
+	<word>old <greek strongs="4246" morph="NNSM" translit="presbytēs" number="10">πρεσβύτης</greek></word>
+	<word>man <left/></word>
+	<word>and <greek strongs="1161" morph="CLC" translit="de" number="12">δὲ</greek></word>
+	<word>also <greek strongs="2532" morph="BE" translit="kai" number="13">καὶ</greek></word>
+	<word>a <right/></word>
+	<word>prisoner <greek strongs="1198" morph="NNSM" translit="desmios" number="14">δέσμιος</greek></word>
+	<word>of <right/></word>
+	<word>Christ <greek strongs="5547" morph="NGSM" translit="Christou" number="15">Χριστοῦ</greek></word>
+</line>
+<line>
+	<word>Jesus. <greek strongs="2424" morph="NGSM" translit="Iēsou" number="16">Ἰησοῦ</greek></word>
+	<verse>10</verse>
+	<word>I <right/></word>
+	<word>am <right/></word>
+	<word>appealing <greek strongs="3870" morph="VPAI1S" translit="parakalō" number="1">παρακαλῶ</greek></word>
+	<word>to <right/></word>
+	<word>you <greek strongs="4571" morph="RP2AS" translit="se" number="2">σε</greek></word>
+	<word>concerning <greek strongs="4012" morph="P" translit="peri" number="3">περὶ</greek></word>
+	<word>my <greek strongs="1700" morph="JGSN" translit="emou" number="5">ἐμοῦ</greek></word>
+	<word>child <greek strongs="3588" morph="DGSN" translit="tou" number="4">τοῦ</greek> <greek strongs="5043" morph="NGSN" translit="teknou" number="6">τέκνου</greek></word>
+	<word>whom <greek strongs="3739" morph="RR-ASM" translit="hon" number="7">ὃν</greek></word>
+	<word>I <right/></word>
+	<word>became <greek strongs="1080" morph="VAAI1S" translit="egennēsa" number="8">ἐγέννησα</greek></word>
+	<word>the <left/></word>
+</line>
+<line>
+	<word>father <left/></word>
+	<word>of <left/></word>
+	<word>during <greek strongs="1722" morph="P" translit="en" number="9">ἐν</greek></word>
+	<word>my <greek strongs="3588" morph="DDPM" translit="tois" number="10">τοῖς</greek></word>
+	<word>imprisonment, <greek strongs="1199" morph="NDPM" translit="desmois" number="11">δεσμοῖς</greek></word>
+	<word>Onesimus. <greek strongs="3682" morph="NASM" translit="Onēsimon" number="12">Ὀνήσιμον</greek></word>
+	<verse>11</verse>
+	<word>Once <greek strongs="4218" morph="BX" translit="pote" number="2">ποτέ</greek></word>
+	<word>he <greek strongs="3588" morph="DASM" translit="ton" number="1">τόν</greek></word>
+	<word>was <right/></word>
+	<word>useless <greek strongs="890" morph="JASM" translit="achrēston" number="4">ἄχρηστον</greek></word>
+	<word>to <right/></word>
+	<word>you, <greek strongs="4671" morph="RP2DS" translit="soi" number="3">σοι</greek></word>
+	<word>but <greek strongs="1161" morph="CLC" translit="de" number="6">δὲ</greek></word>
+</line>
+<line>
+	<word>now <greek strongs="3570" morph="BK" translit="nyni" number="5">νυνὶ</greek></word>
+	<word>he <right/></word>
+	<word>is <right/></word>
+	<word>useful <greek strongs="2173" morph="JASM" translit="euchrēston" number="10">εὔχρηστον</greek></word>
+	<word>to <right/></word>
+	<word>you<sup>1</sup> <greek strongs="4671" morph="RP2DS" translit="soi" number="7">σοὶ</greek></word>
+	<word>and <greek strongs="2532" morph="CLK" translit="kai" number="8">καὶ</greek></word>
+	<word>to <right/></word>
+	<word>me, <greek strongs="1698" morph="RP1DS" translit="emoi" number="9">ἐμοὶ</greek></word>
+	<verse>12</verse>
+	<word>whom <greek strongs="3739" morph="RR-ASM" translit="hon" number="1">ὃν</greek></word>
+	<word>I <right/></word>
+	<word>have <right/></word>
+	<word>sent <greek strongs="375" morph="VAAI1S" translit="anepempsa" number="2">ἀνέπεμψά</greek></word>
+	<word>back <left/></word>
+	<word>to <right/></word>
+	<word>you <greek strongs="4671" morph="RP2DS" translit="soi" number="3">σοι</greek></word>
+</line>
+<line>
+	<word>himself, <greek strongs="846" morph="RP3ASM" translit="auton" number="4">αὐτόν</greek></word>
+	<word>that <greek strongs="5124" morph="RD-NSN" translit="tout'" number="5">τοῦτ'</greek></word>
+	<word>is, <greek strongs="2076" morph="VPAI3S" translit="estin" number="6">ἔστιν</greek></word>
+	<word>my <greek strongs="1699" morph="JNPN" translit="ema" number="8">ἐμὰ</greek></word>
+	<word>heart, <greek strongs="3588" morph="DNPN" translit="ta" number="7">τὰ</greek> <greek strongs="4698" morph="NNPN" translit="splanchna" number="9">σπλάγχνα</greek></word>
+	<verse>13</verse>
+	<word>whom <greek strongs="3739" morph="RR-ASM" translit="hon" number="1">ὃν</greek></word>
+	<word>I <greek strongs="1473" morph="RP1NS" translit="egō" number="2">ἐγὼ</greek></word>
+	<word>wanted <greek strongs="1014" morph="VIUI1S" translit="eboulomēn" number="3">ἐβουλόμην</greek></word>
+	<word>to <right/></word>
+	<word>keep <greek strongs="2722" morph="VPAN" translit="katechein" number="6">κατέχειν</greek></word>
+	<word>with <greek strongs="4314" morph="P" translit="pros" number="4">πρὸς</greek></word>
+</line>
+<line>
+	<word>me, <greek strongs="1683" morph="RF1ASM" translit="emauton" number="5">ἐμαυτὸν</greek></word>
+	<word>in <right/></word>
+	<word>order <right/></word>
+	<word>that <greek strongs="2443" morph="CAP" translit="hina" number="7">ἵνα</greek></word>
+	<word>he <right/></word>
+	<word>might <right/></word>
+	<word>serve <greek strongs="1247" morph="VPAS3S" translit="diakonē" number="11">διακονῇ</greek></word>
+	<word>me <greek strongs="3427" morph="RP1DS" translit="moi" number="10">μοι</greek></word>
+	<word>on <greek strongs="5228" morph="P" translit="hyper" number="8">ὑπὲρ</greek></word>
+	<word>behalf <left/></word>
+	<word>of <right/></word>
+	<word>you <greek strongs="4675" morph="RP2GS" translit="sou" number="9">σοῦ</greek></word>
+	<word>during <greek strongs="1722" morph="P" translit="en" number="12">ἐν</greek></word>
+	<word>my <greek strongs="3588" morph="DDPM" translit="tois" number="13">τοῖς</greek></word>
+</line>
+<line>
+	<word>imprisonment <greek strongs="1199" morph="NDPM" translit="desmois" number="14">δεσμοῖς</greek></word>
+	<word>for <pointer direction="right" number="16"/></word>
+	<word>the <greek strongs="3588" morph="DGSN" translit="tou" number="15">τοῦ</greek></word>
+	<word>gospel. <greek strongs="2098" morph="NGSN" translit="euangeliou" number="16">εὐαγγελίου</greek></word>
+	<verse>14</verse>
+	<word>But <greek strongs="1161" morph="CLC" translit="de" number="2">δὲ</greek></word>
+	<word>apart <greek strongs="5565" morph="P" translit="chōris" number="1">χωρὶς</greek></word>
+	<word>from <left/></word>
+	<word>your <greek strongs="4674" morph="JGSF" translit="sēs" number="4">σῆς</greek></word>
+	<word>consent, <greek strongs="3588" morph="DGSF" translit="tēs" number="3">τῆς</greek> <greek strongs="1106" morph="NGSF" translit="gnōmēs" number="5">γνώμης</greek></word>
+	<word>I <right/></word>
+	<word>wanted <greek strongs="2309" morph="VAAI1S" translit="ēthelēsa" number="7">ἠθέλησα</greek></word>
+	<word>to <right/></word>
+</line>
+<line>
+	<word>do <greek strongs="4160" morph="VAAN" translit="poiēsai" number="8">ποιῆσαι</greek></word>
+	<word>nothing, <greek strongs="3762" morph="JASN" translit="ouden" number="6">οὐδὲν</greek></word>
+	<word>in <right/></word>
+	<word>order <right/></word>
+	<word>that <greek strongs="2443" morph="CAP" translit="hina" number="9">ἵνα</greek></word>
+	<word>your <greek strongs="4675" morph="RP2GS" translit="sou" number="16">σου</greek></word>
+	<word>good <greek strongs="3588" morph="DNSN" translit="to" number="14">τὸ</greek> <greek strongs="18" morph="JNSN" translit="agathon" number="15">ἀγαθόν</greek></word>
+	<word>deed <left/></word>
+	<word>might <right/></word>
+	<word>be <greek strongs="5600" morph="VPAS3S" translit="ē" number="17">ᾖ</greek></word>
+	<word>not <greek strongs="3361" morph="BN" translit="mē" number="10">μὴ</greek></word>
+	<word>as <greek strongs="5613" morph="CAM" translit="hōs" number="11">ὡς</greek></word>
+	<word>according <greek strongs="2596" morph="P" translit="kata" number="12">κατὰ</greek></word>
+</line>
+<line>
+	<word>to <left/></word>
+	<word>necessity, <greek strongs="318" morph="NASF" translit="anankēn" number="13">ἀνάγκην</greek></word>
+	<word>but <greek strongs="235" morph="CLC" translit="alla" number="18">ἀλλὰ</greek></word>
+	<word>according <greek strongs="2596" morph="P" translit="kata" number="19">κατὰ</greek></word>
+	<word>to <left/></word>
+	<word>your<skip/></word>
+	<word>own<skip/></word>
+	<word>free <greek strongs="1595" morph="JASN" translit="hekousion" number="20">ἑκούσιον</greek></word>
+	<word>will. <left/></word>
+	<verse>15</verse>
+	<word>For <greek strongs="1063" morph="CLX" translit="gar" number="2">γὰρ</greek></word>
+	<word>perhaps <greek strongs="5029" morph="B" translit="tacha" number="1">τάχα</greek></word>
+	<word>because <greek strongs="1223" morph="P" translit="dia" number="3">διὰ</greek></word>
+	<word>of <left/></word>
+</line>
+<note id="1">Some manuscripts have "both to you"</note>
+<line>
+	<word>this, <greek strongs="5124" morph="RD-ASN" translit="touto" number="4">τοῦτο</greek></word>
+	<word>he <right/></word>
+	<word>was <right/></word>
+	<word>separated <greek strongs="5563" morph="VAPI3S" translit="echōristhē" number="5">ἐχωρίσθη</greek></word>
+	<word>from<skip/></word>
+	<word>you<skip/></word>
+	<word>for <greek strongs="4314" morph="P" translit="pros" number="6">πρὸς</greek></word>
+	<word>a <right/></word>
+	<word>time, <greek strongs="5610" morph="NASF" translit="hōran" number="7">ὥραν</greek></word>
+	<word>in <right/></word>
+	<word>order <right/></word>
+	<word>that <greek strongs="2443" morph="CAP" translit="hina" number="8">ἵνα</greek></word>
+	<word>you <right/></word>
+	<word>might <right/></word>
+	<word>have <greek strongs="568" morph="VPAS2S" translit="apechēs" number="11">ἀπέχῃς</greek></word>
+	<word>him <greek strongs="846" morph="RP3ASM" translit="auton" number="10">αὐτὸν</greek></word>
+</line>
+<line>
+	<word>back <pointer direction="left" number="11"/></word>
+	<word>forever, <greek strongs="166" morph="JASM" translit="aiōnion" number="9">αἰώνιον</greek></word>
+	<verse>16</verse>
+	<word>no <greek strongs="3765" morph="BN" translit="ouketi" number="1">οὐκέτι</greek></word>
+	<word>longer <left/></word>
+	<word>as <greek strongs="5613" morph="P" translit="hōs" number="2">ὡς</greek></word>
+	<word>a <right/></word>
+	<word>slave, <greek strongs="1401" morph="NASM" translit="doulon" number="3">δοῦλον</greek></word>
+	<word>but <greek strongs="235" morph="CLC" translit="alla" number="4">ἀλλὰ</greek></word>
+	<word>more <greek strongs="5228" morph="P" translit="hyper" number="5">ὑπὲρ</greek></word>
+	<word>than <left/></word>
+	<word>a <right/></word>
+	<word>slave, <greek strongs="1401" morph="NASM" translit="doulon" number="6">δοῦλον</greek></word>
+	<word>a <pointer direction="right" number="7"/></word>
+	<word>beloved <greek strongs="27" morph="JASM" translit="agapēton" number="8">ἀγαπητόν</greek></word>
+</line>
+<line>
+	<word>brother, <greek strongs="80" morph="NASM" translit="adelphon" number="7">ἀδελφὸν</greek></word>
+	<word>especially <greek strongs="3122" morph="BS" translit="malista" number="9">μάλιστα</greek></word>
+	<word>to <right/></word>
+	<word>me, <greek strongs="1698" morph="RP1DS" translit="emoi" number="10">ἐμοί</greek></word>
+	<word>but <greek strongs="1161" morph="CLC" translit="de" number="12">δὲ</greek></word>
+	<word>how <right/></word>
+	<word>much <greek strongs="4214" morph="RI-DSN" translit="posō" number="11">πόσῳ</greek></word>
+	<word>more <greek strongs="3123" morph="B" translit="mallon" number="13">μᾶλλον</greek></word>
+	<word>to <right/></word>
+	<word>you, <greek strongs="4671" morph="RP2DS" translit="soi" number="14">σοὶ</greek></word>
+	<word>both <greek strongs="2532" morph="CLK" translit="kai" number="15">καὶ</greek></word>
+	<word>in <greek strongs="1722" morph="P" translit="en" number="16">ἐν</greek></word>
+	<word>the <right/></word>
+	<word>flesh <greek strongs="4561" morph="NDSF" translit="sarki" number="17">σαρκὶ</greek></word>
+	<word>and <greek strongs="2532" morph="CLK" translit="kai" number="18">καὶ</greek></word>
+</line>
+<line>
+	<word>in <greek strongs="1722" morph="P" translit="en" number="19">ἐν</greek></word>
+	<word>the <right/></word>
+	<word>Lord. <greek strongs="2962" morph="NDSM" translit="kyriō" number="20">κυρίῳ</greek></word>
+</line>
+<title>Paul's Request to Philemon</title>
+<line>
+	<verse>17</verse>
+	<word>If <greek strongs="1487" morph="CAC" translit="Ei" number="1">Εἰ</greek></word>
+	<word>therefore <greek strongs="3767" morph="CLI" translit="oun" number="2">οὖν</greek></word>
+	<word>you <right/></word>
+	<word>consider <greek strongs="2192" morph="VPAI2S" translit="echeis" number="4">ἔχεις</greek></word>
+	<word>me <greek strongs="3165" morph="RP1AS" translit="me" number="3">με</greek></word>
+	<word>a <right/></word>
+	<word>partner, <greek strongs="2844" morph="JASM" translit="koinōnon" number="5">κοινωνόν</greek></word>
+	<word>receive <greek strongs="4355" morph="VAMM2S" translit="proslabou" number="6">προσλαβοῦ</greek></word>
+	<word>him <greek strongs="846" morph="RP3ASM" translit="auton" number="7">αὐτὸν</greek></word>
+	<word>as <greek strongs="5613" morph="CAM" translit="hōs" number="8">ὡς</greek></word>
+	<word>you<skip/></word>
+	<word>would<skip/></word>
+	<word>me. <greek strongs="1691" morph="RP1AS" translit="eme" number="9">ἐμέ</greek></word>
+</line>
+<line>
+	<verse>18</verse>
+	<word>But <greek strongs="1161" morph="CLN" translit="de" number="2">δέ</greek></word>
+	<word>if <greek strongs="1487" morph="CAC" translit="ei" number="1">εἰ</greek></word>
+	<word>in <right/></word>
+	<word>anything <greek strongs="5100" morph="RX-ASN" translit="ti" number="3">τι</greek></word>
+	<word>he <right/></word>
+	<word>has <right/></word>
+	<word>caused <greek strongs="91" morph="VAAI3S" translit="ēdikēsen" number="4">ἠδίκησέν</greek></word>
+	<word>you <greek strongs="4571" morph="RP2AS" translit="se" number="5">σε</greek></word>
+	<word>loss <pointer direction="left" number="4"/></word>
+	<word>or <greek strongs="2228" morph="CLD" translit="ē" number="6">ἢ</greek></word>
+	<word>owes <greek strongs="3784" morph="VPAI3S" translit="opheilei" number="7">ὀφείλει</greek></word>
+	<word>you <left/></word>
+	<word>anything, <left/></word>
+</line>
+<line>
+	<word>charge_this_to_my_account.<sup>2</sup> <greek strongs="5124" morph="RD-ASN" translit="touto" number="8">τοῦτο</greek> <greek strongs="1698" morph="RP1DS" translit="emoi" number="9">ἐμοὶ</greek> <greek strongs="1677" morph="VPAM2S" translit="elloga" number="10">ἐλλόγα</greek></word>
+	<verse>19</verse>
+	<word>I, <greek strongs="1473" morph="RP1NS" translit="egō" number="1">ἐγὼ</greek></word>
+	<word>Paul, <greek strongs="3972" morph="NNSM" translit="Paulos" number="2">Παῦλος</greek></word>
+	<word>write <greek strongs="1125" morph="VAAI1S" translit="egrapsa" number="3">ἔγραψα</greek></word>
+	<word>this <left/></word>
+	<word>with <pointer direction="right" number="6"/></word>
+	<word>my <greek strongs="1699" morph="JDSF" translit="emē" number="5">ἐμῇ</greek></word>
+	<word>own<skip/></word>
+	<word>hand: <greek strongs="3588" morph="DDSF" translit="tē" number="4">τῇ</greek> <greek strongs="5495" morph="NDSF" translit="cheiri" number="6">χειρί</greek></word>
+	<word>I <greek strongs="1473" morph="RP1NS" translit="egō" number="7">ἐγὼ</greek></word>
+</line>
+<line>
+	<word>will <right/></word>
+	<word>pay <greek strongs="661" morph="VFAI1S" translit="apotisō" number="8">ἀποτίσω</greek></word>
+	<word>it <left/></word>
+	<word>back, <left/></word>
+	<word>lest <greek strongs="2443" morph="CAP" translit="hina" number="9">ἵνα</greek> <greek strongs="3361" morph="BN" translit="mē" number="10">μὴ</greek></word>
+	<word>I <right/></word>
+	<word>mention <greek strongs="3004" morph="VPAS1S" translit="legō" number="11">λέγω</greek></word>
+	<word>to <right/></word>
+	<word>you <greek strongs="4671" morph="RP2DS" translit="soi" number="12">σοι</greek></word>
+	<word>that <greek strongs="3754" morph="CSC" translit="hoti" number="13">ὅτι</greek></word>
+	<word>you <right/></word>
+	<word>owe <greek strongs="4359" morph="VPAI2S" translit="prosopheileis" number="17">προσοφείλεις</greek></word>
+	<word>me <greek strongs="3427" morph="RP1DS" translit="moi" number="16">μοι</greek></word>
+	<word>even <greek strongs="2532" morph="BE" translit="kai" number="14">καὶ</greek></word>
+</line>
+<line>
+	<word>your <right/></word>
+	<word>very <right/></word>
+	<word>self <greek strongs="4572" morph="RF2ASM" translit="seauton" number="15">σεαυτόν</greek></word>
+	<word>besides.<sup>3</sup> <pointer direction="left" number="17"/></word>
+	<verse>20</verse>
+	<word>Yes, <greek strongs="3483" morph="I" translit="nai" number="1">ναί</greek></word>
+	<word>brother, <greek strongs="80" morph="NVSM" translit="adelphe" number="2">ἀδελφέ</greek></word>
+	<word>I <greek strongs="1473" morph="RP1NS" translit="egō" number="3">ἐγώ</greek></word>
+	<word>ought <right/></word>
+	<word>to <right/></word>
+	<word>have <right/></word>
+	<word>some <right/></word>
+	<word>benefit <greek strongs="3685" morph="VAMO1S" translit="onaimēn" number="5">ὀναίμην</greek></word>
+	<word>of <right/></word>
+	<word>you <greek strongs="4675" morph="RP2GS" translit="sou" number="4">σου</greek></word>
+</line>
+<line>
+	<word>in <greek strongs="1722" morph="P" translit="en" number="6">ἐν</greek></word>
+	<word>the <right/></word>
+	<word>Lord; <greek strongs="2962" morph="NDSM" translit="kyriō" number="7">κυρίῳ</greek></word>
+	<word>refresh <greek strongs="373" morph="VAAM2S" translit="anapauson" number="8">ἀνάπαυσόν</greek></word>
+	<word>my <greek strongs="3450" morph="RP1GS" translit="mou" number="9">μου</greek></word>
+	<word>heart <greek strongs="3588" morph="DAPN" translit="ta" number="10">τὰ</greek> <greek strongs="4698" morph="NAPN" translit="splanchna" number="11">σπλάγχνα</greek></word>
+	<word>in <greek strongs="1722" morph="P" translit="en" number="12">ἐν</greek></word>
+	<word>Christ. <greek strongs="5547" morph="NDSM" translit="Christō" number="13">Χριστῷ</greek></word>
+	<verse>21</verse>
+	<word>Confident <greek strongs="3982" morph="VRAP-SNM" translit="pepoithōs" number="1">πεποιθὼς</greek></word>
+	<word>of <pointer direction="right" number="3"/></word>
+	<word>your <greek strongs="4675" morph="RP2GS" translit="sou" number="4">σου</greek></word>
+</line>
+<line>
+	<word>obedience, <greek strongs="3588" morph="DDSF" translit="tē" number="2">τῇ</greek> <greek strongs="5218" morph="NDSF" translit="hypakoē" number="3">ὑπακοῇ</greek></word>
+	<word>I <right/></word>
+	<word>am <right/></word>
+	<word>writing <greek strongs="1125" morph="VAAI1S" translit="egrapsa" number="5">ἔγραψά</greek></word>
+	<word>to <right/></word>
+	<word>you <greek strongs="4671" morph="RP2DS" translit="soi" number="6">σοι</greek></word>
+	<word>because <right/></word>
+	<word>I <right/></word>
+	<word>know <greek strongs="1492" morph="VRAP-SNM" translit="eidōs" number="7">εἰδὼς</greek></word>
+	<word>that <greek strongs="3754" morph="CSC" translit="hoti" number="8">ὅτι</greek></word>
+	<word>you <right/></word>
+	<word>will <right/></word>
+	<word>do <greek strongs="4160" morph="VFAI2S" translit="poiēseis" number="13">ποιήσεις</greek></word>
+	<word>even <greek strongs="2532" morph="BE" translit="kai" number="9">καὶ</greek></word>
+</line>
+<line>
+	<word>beyond <greek strongs="5228" morph="P" translit="hyper" number="10">ὑπὲρ</greek></word>
+	<word>what <greek strongs="3739" morph="RR-APN" translit="ha" number="11">ἃ</greek></word>
+	<word>I <right/></word>
+	<word>say. <greek strongs="3004" morph="VPAI1S" translit="legō" number="12">λέγω</greek></word>
+	<verse>22</verse>
+	<word>* <greek strongs="1161" morph="CLN" translit="de" number="2">δὲ</greek></word>
+	<word>At <right/></word>
+	<word>the <right/></word>
+	<word>same <greek strongs="260" morph="B" translit="hama" number="1">ἅμα</greek></word>
+	<word>time <left/></word>
+	<word>also, <greek strongs="2532" morph="BE" translit="kai" number="3">καὶ</greek></word>
+	<word>prepare <greek strongs="2090" morph="VPAM2S" translit="hetoimaze" number="4">ἑτοίμαζέ</greek></word>
+	<word>a <right/></word>
+	<word>guest <greek strongs="3578" morph="NASF" translit="xenian" number="6">ξενίαν</greek></word>
+	<word>room <left/></word>
+	<word>for <right/></word>
+	<word>me, <greek strongs="3427" morph="RP1DS" translit="moi" number="5">μοι</greek></word>
+</line>
+<note id="2">Lit. "this to me charge to my account"</note>
+<note id="3">Lit. "even yourself to me you owe besides"</note>
+<line>
+	<word>for <greek strongs="1063" morph="CAZ" translit="gar" number="8">γὰρ</greek></word>
+	<word>I <right/></word>
+	<word>hope <greek strongs="1679" morph="VPAI1S" translit="elpizō" number="7">ἐλπίζω</greek></word>
+	<word>that <greek strongs="3754" morph="CSC" translit="hoti" number="9">ὅτι</greek></word>
+	<word>through <greek strongs="1223" morph="P" translit="dia" number="10">διὰ</greek></word>
+	<word>your <greek strongs="5216" morph="RP2GP" translit="hymōn" number="13">ὑμῶν</greek></word>
+	<word>prayers <greek strongs="3588" morph="DGPF" translit="tōn" number="11">τῶν</greek> <greek strongs="4335" morph="NGPF" translit="proseuchōn" number="12">προσευχῶν</greek></word>
+	<word>I <right/></word>
+	<word>will <right/></word>
+	<word>be <right/></word>
+	<word>restored <greek strongs="5483" morph="VFPI1S" translit="charisthēsomai" number="14">χαρισθήσομαι</greek></word>
+	<word>to <right/></word>
+	<word>you. <greek strongs="5213" morph="RP2DP" translit="hymin" number="15">ὑμῖν</greek></word>
+</line>
+<title>Final Greetings and Benediction</title>
+<line>
+	<verse>23</verse>
+	<word>Epaphras, <greek strongs="1889" morph="NNSM" translit="Epaphras" number="3">Ἐπαφρᾶς</greek></word>
+	<word>my <greek strongs="3450" morph="RP1GS" translit="mou" number="6">μου</greek></word>
+	<word>fellow <greek strongs="3588" morph="DNSM" translit="ho" number="4">ὁ</greek> <greek strongs="4869" morph="JNSM" translit="synaichmalōtos" number="5">συναιχμάλωτός</greek></word>
+	<word>prisoner <left/></word>
+	<word>in <greek strongs="1722" morph="P" translit="en" number="7">ἐν</greek></word>
+	<word>Christ <greek strongs="5547" morph="NDSM" translit="Christō" number="8">Χριστῷ</greek></word>
+	<word>Jesus, <greek strongs="2424" morph="NDSM" translit="Iēsou" number="9">Ἰησοῦ</greek></word>
+	<word>greets <greek strongs="782" morph="VPUI3S" translit="Aspazetai" number="1">Ἀσπάζεταί</greek></word>
+	<word>you, <greek strongs="4571" morph="RP2AS" translit="se" number="2">σε</greek></word>
+</line>
+<line>
+	<verse>24</verse>
+	<word>and<skip/></word>
+	<word>so<skip/></word>
+	<word>do<skip/></word>
+	<word>Mark, <greek strongs="3138" morph="NNSM" translit="Markos" number="1">Μᾶρκος</greek></word>
+	<word>Aristarchus, <greek strongs="708" morph="NNSM" translit="Aristarchos" number="2">Ἀρίσταρχος</greek></word>
+	<word>Demas, <greek strongs="1214" morph="NNSM" translit="Dēmas" number="3">Δημᾶς</greek></word>
+	<word>and <right/></word>
+	<word>Luke, <greek strongs="3065" morph="NNSM" translit="Loukas" number="4">Λουκᾶς</greek></word>
+	<word>my <greek strongs="3450" morph="RP1GS" translit="mou" number="7">μου</greek></word>
+	<word>fellow <greek strongs="3588" morph="DNPM" translit="hoi" number="5">οἱ</greek> <greek strongs="4904" morph="JNPM" translit="synergoi" number="6">συνεργοί</greek></word>
+	<word>workers. <left/></word>
+</line>
+<line>
+	<verse>25</verse>
+	<word>The <greek strongs="3588" morph="DNSF" translit="HĒ" number="1">Ἡ</greek></word>
+	<word>grace <greek strongs="5485" morph="NNSF" translit="charis" number="2">χάρις</greek></word>
+	<word>of <pointer direction="right" number="4"/></word>
+	<word>the <greek strongs="3588" morph="DGSM" translit="tou" number="3">τοῦ</greek></word>
+	<word>Lord <greek strongs="2962" morph="NGSM" translit="kyriou" number="4">κυρίου</greek></word>
+	<word>Jesus <greek strongs="2424" morph="NGSM" translit="Iēsou" number="5">Ἰησοῦ</greek></word>
+	<word>Christ <greek strongs="5547" morph="NGSM" translit="Christou" number="6">Χριστοῦ</greek></word>
+	<word>be <right/></word>
+	<word>with <greek strongs="3326" morph="P" translit="meta" number="7">μετὰ</greek></word>
+	<word>your <greek strongs="5216" morph="RP2GP" translit="hymōn" number="10">ὑμῶν</greek></word>
+	<word>spirit. <greek strongs="3588" morph="DGSN" translit="tou" number="8">τοῦ</greek> <greek strongs="4151" morph="NGSN" translit="pneumatos" number="9">πνεύματος</greek></word>
+</line>
+</book>
