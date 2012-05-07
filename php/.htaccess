@@ -1,7 +1,90 @@
 RewriteEngine On
 
 RewriteRule strongs/([GH].*)\.html$ strongs_number.php?id=$1 [L,QSA]
-RewriteRule matthew/([0-9]+)\.html$ interlineal.php?book=mt&chapter=$1 [L,QSA]
-RewriteRule matthew/([0-9]+)-([0-9]+)\.html$ interlineal.php?book=mt&chapter=$1&endchapter=$2 [L,QSA]
 
+#lexham
+RewriteRule ^lexham/matthew/([0-9]+)\.html$ lexham_reverse.php?book=mt&chapter=$1 [L,QSA]
+RewriteRule ^lexham/matthew/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=mt&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/mark/([0-9]+)\.html$ lexham_reverse.php?book=mk&chapter=$1 [L,QSA]
+RewriteRule ^lexham/mark/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=mk&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/luke/([0-9]+)\.html$ lexham_reverse.php?book=lk&chapter=$1 [L,QSA]
+RewriteRule ^lexham/luke/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=lk&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/john/([0-9]+)\.html$ lexham_reverse.php?book=jn&chapter=$1 [L,QSA]
+RewriteRule ^lexham/john/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=jn&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/acts/([0-9]+)\.html$ lexham_reverse.php?book=ac&chapter=$1 [L,QSA]
+RewriteRule ^lexham/acts/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=ac&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/romans/([0-9]+)\.html$ lexham_reverse.php?book=ro&chapter=$1 [L,QSA]
+RewriteRule ^lexham/romans/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=ro&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/1_corinthians/([0-9]+)\.html$ lexham_reverse.php?book=1co&chapter=$1 [L,QSA]
+RewriteRule ^lexham/1_corinthians/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=1co&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/2_corinthians/([0-9]+)\.html$ lexham_reverse.php?book=2co&chapter=$1 [L,QSA]
+RewriteRule ^lexham/2_corinthians/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=2co&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/galatians/([0-9]+)\.html$ lexham_reverse.php?book=ga&chapter=$1 [L,QSA]
+RewriteRule ^lexham/galatians/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=ga&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/ephesians/([0-9]+)\.html$ lexham_reverse.php?book=eph&chapter=$1 [L,QSA]
+RewriteRule ^lexham/ephesians/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=eph&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/philippians/([0-9]+)\.html$ lexham_reverse.php?book=php&chapter=$1 [L,QSA]
+RewriteRule ^lexham/philippians/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=php&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/colossians/([0-9]+)\.html$ lexham_reverse.php?book=col&chapter=$1 [L,QSA]
+RewriteRule ^lexham/colossians/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=col&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/1_thessalonians/([0-9]+)\.html$ lexham_reverse.php?book=1th&chapter=$1 [L,QSA]
+RewriteRule ^lexham/1_thessalonians/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=1th&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/2_thessalonians/([0-9]+)\.html$ lexham_reverse.php?book=2th&chapter=$1 [L,QSA]
+RewriteRule ^lexham/2_thessalonians/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=2th&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/1_timothy/([0-9]+)\.html$ lexham_reverse.php?book=1ti&chapter=$1 [L,QSA]
+RewriteRule ^lexham/1_timothy/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=1ti&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/2_timothy/([0-9]+)\.html$ lexham_reverse.php?book=2ti&chapter=$1 [L,QSA]
+RewriteRule ^lexham/2_timothy/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=2ti&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/titus/([0-9]+)\.html$ lexham_reverse.php?book=tit&chapter=$1 [L,QSA]
+RewriteRule ^lexham/titus/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=tit&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/philemon/([0-9]+)\.html$ lexham_reverse.php?book=phm&chapter=$1 [L,QSA]
+RewriteRule ^lexham/philemon/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=phm&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/hebrews/([0-9]+)\.html$ lexham_reverse.php?book=heb&chapter=$1 [L,QSA]
+RewriteRule ^lexham/hebrews/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=heb&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/james/([0-9]+)\.html$ lexham_reverse.php?book=jas&chapter=$1 [L,QSA]
+RewriteRule ^lexham/james/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=jas&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/1_peter/([0-9]+)\.html$ lexham_reverse.php?book=1pe&chapter=$1 [L,QSA]
+RewriteRule ^lexham/1_peter/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=1pe&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/2_peter/([0-9]+)\.html$ lexham_reverse.php?book=2pe&chapter=$1 [L,QSA]
+RewriteRule ^lexham/2_peter/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=2pe&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/1_john/([0-9]+)\.html$ lexham_reverse.php?book=1jn&chapter=$1 [L,QSA]
+RewriteRule ^lexham/1_john/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=1jn&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/2_john/([0-9]+)\.html$ lexham_reverse.php?book=2jn&chapter=$1 [L,QSA]
+RewriteRule ^lexham/2_john/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=2jn&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/3_john/([0-9]+)\.html$ lexham_reverse.php?book=3jn&chapter=$1 [L,QSA]
+RewriteRule ^lexham/3_john/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=3jn&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/jude/([0-9]+)\.html$ lexham_reverse.php?book=jud&chapter=$1 [L,QSA]
+RewriteRule ^lexham/jude/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=jud&chapter=$1&endchapter=$2 [L,QSA]
+
+RewriteRule ^lexham/revelation/([0-9]+)\.html$ lexham_reverse.php?book=re&chapter=$1 [L,QSA]
+RewriteRule ^lexham/revelation/([0-9]+)-([0-9]+)\.html$ lexham_reverse.php?book=re&chapter=$1&endchapter=$2 [L,QSA]
+
+#interlinear
+RewriteRule ^matthew/([0-9]+)\.html$ interlineal.php?book=mt&chapter=$1 [L,QSA]
+RewriteRule ^matthew/([0-9]+)-([0-9]+)\.html$ interlineal.php?book=mt&chapter=$1&endchapter=$2 [L,QSA]
 
