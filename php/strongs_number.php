@@ -9,9 +9,15 @@ include 'books.php';
 include 'translit.php';
 include 'helpers.php';
 
-
-include 'concordance.php';
 include 'lexicon_index.php';
+
+
+if ($use_logos = true) {
+	include 'lconcordance.php';
+} else {
+	include 'concordance.php';
+}
+
 
 
 $id = isset($_GET['id']) ? $_GET['id'] : null;
@@ -50,6 +56,7 @@ if (isset($strongs[$lang][$number])) {
 
 
 	$lex_url = 'http://biblestudyaids.net/nt/a&g/';
+	$lex_url = '/lexicon/';
 	$lexicon['DAG'] = $lex_url . $lexicon_index[$number];
 
 

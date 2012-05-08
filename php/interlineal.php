@@ -30,8 +30,11 @@ $query_string = (!empty($params) ? '?' : '') . http_build_query($params);
 
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
-#$moprhdb_path = dirname(__FILE__) . '/morph/';
-$moprhdb_path = dirname(__FILE__) . '/lmorph/';
+
+$moprhdb_path = dirname(__FILE__) . '/morph/';
+if ($use_logos = true) {
+	$moprhdb_path = dirname(__FILE__) . '/lmorph/';
+}
 
 
 $filename = $xml_path . $books[$book]['xml'];
@@ -43,7 +46,6 @@ $xml = simplexml_load_file($filename);
 
 $morphdb = array();
 include($morphdb_filename);
-
 
 $i = 0;
 $open = array();
@@ -187,6 +189,7 @@ foreach($interlineal as $S) {
 	$current_word = $S['w'];
 	if ($current_chapter && $current_verse) {
 		$morph = '---';
+		$translit = '-';
 		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word])) {
 			$morph = $morphdb[$book][$current_chapter][$current_verse][$current_word]['morph'];
 			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
@@ -217,7 +220,7 @@ foreach($interlineal as $S) {
 		$content .= sprintf('<span class="strongs">%s</span>', $strongs_def);
 	}
 	if ($show_morph) {
-		$content .= sprintf('<span class="morph" title="%s">%s</span>', label_lmac($morph, $rmac), $morph);
+		$content .= sprintf('<span class="morph" title="%s">%s</span>', $use_logos ? label_lmac($morph, $rmac) : label_rmac($morph, $rmac), $morph);
 	}
 	if ($show_greek) {
 		$content .= sprintf('<span class="greek">%s</span>', $greek);
