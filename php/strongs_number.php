@@ -98,7 +98,7 @@ if (isset($strongs[$lang][$number])) {
 		foreach ($lines as $key => $word) {
 			$content .= sprintf("\n\t<tr><td>%s</td><td><span title=\"%s\">%s</span></td><td>%s</td><td>%s</td></tr>", 
 				$word['word'],
-				label_rmac($word['morph'], $rmac),
+				label_lmac($word['morph'], $rmac),
 				$word['morph'],
 				$word['spa'],
 				implode(', ', $refs[$key])

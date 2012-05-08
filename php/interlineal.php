@@ -30,8 +30,8 @@ $query_string = (!empty($params) ? '?' : '') . http_build_query($params);
 
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
-$moprhgnt_path = dirname(dirname(__FILE__)) . '/morphgnt/';
-$moprhdb_path = dirname(__FILE__) . '/morph/';
+#$moprhdb_path = dirname(__FILE__) . '/morph/';
+$moprhdb_path = dirname(__FILE__) . '/lmorph/';
 
 
 $filename = $xml_path . $books[$book]['xml'];
@@ -176,14 +176,12 @@ foreach($interlineal as $S) {
 				$content .= '<span class="spa">&nbsp;</span>';
 			}
 			$content .= '</span> ';
-
-
 		}
 	}
 
 	$greek = $S['s'];
 	$clean = $S['k'];
-	$translit = translit($S['k'], true);
+	//$translit = translit($S['k'], true);
 	$spa = $S['t'];
 
 	$current_word = $S['w'];
@@ -192,6 +190,7 @@ foreach($interlineal as $S) {
 		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word])) {
 			$morph = $morphdb[$book][$current_chapter][$current_verse][$current_word]['morph'];
 			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
+			$translit = $morphdb[$book][$current_chapter][$current_verse][$current_word]['translit'];
 		}
 	}
 
@@ -218,7 +217,7 @@ foreach($interlineal as $S) {
 		$content .= sprintf('<span class="strongs">%s</span>', $strongs_def);
 	}
 	if ($show_morph) {
-		$content .= sprintf('<span class="morph" title="%s">%s</span>', label_rmac($morph, $rmac), $morph);
+		$content .= sprintf('<span class="morph" title="%s">%s</span>', label_lmac($morph, $rmac), $morph);
 	}
 	if ($show_greek) {
 		$content .= sprintf('<span class="greek">%s</span>', $greek);

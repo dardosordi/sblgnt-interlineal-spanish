@@ -14,8 +14,8 @@ include 'helpers.php';
 ini_set('memory_limit', '128M');
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
-$moprhgnt_path = dirname(dirname(__FILE__)) . '/morphgnt/';
-$moprhdb_path = dirname(__FILE__) . '/morph/';
+#$moprhdb_path = dirname(__FILE__) . '/morph/';
+$moprhdb_path = dirname(__FILE__) . '/lmorph/';
 
 $works = array('mt');
 
@@ -72,9 +72,13 @@ foreach($xml->xpath('//S') as $S) {
 	$morph = null;
 	if ($current_chapter && $current_verse) {
 		$morph = '---';
+		$translit = '-';
+		$greek = '-';
 		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word])) {
+			$greek = $morphdb[$book][$current_chapter][$current_verse][$current_word]['word'];
 			$morph = $morphdb[$book][$current_chapter][$current_verse][$current_word]['morph'];
 			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
+			$translit = $morphdb[$book][$current_chapter][$current_verse][$current_word]['translit'];
 		}
 	}
 
@@ -92,17 +96,16 @@ foreach($xml->xpath('//S') as $S) {
 		$t = (string)$S['t'];
 		$a = (string)$S['a'];
 
-		$translit = translit($k);
-
+		//$translit = translit($k);
+		$translit = strtolower($translit);
 		if (!isset($concordance[$strongs_number][$translit])) {
 			$concordance[$strongs_number][$translit] = array();
 		}
 
-
 		$spa = $a ? $a : '-';
 		
 		$concordance[$strongs_number][$translit][] = array(
-			'word' => $k,
+			'word' => $greek,
 			'spa' => $spa,
 			'morph' => $morph,
 			'ref' => "$book $current_chapter:$current_verse"
