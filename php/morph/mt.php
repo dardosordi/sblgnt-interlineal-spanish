@@ -11038,7 +11038,7 @@ $morphdb['mt'][19][7][7] = array('word' => 'βιβλίον', 'translit' => 'bibl
 $morphdb['mt'][19][7][8] = array('word' => 'ἀποστασίου', 'translit' => 'apostasiou', 'morph' => 'N-GSN', 'strongs' => '647',);
 $morphdb['mt'][19][7][9] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CONJ', 'strongs' => '2532',);
 $morphdb['mt'][19][7][10] = array('word' => 'ἀπολῦσαι', 'translit' => 'apolusai', 'morph' => 'V-AAN', 'strongs' => '630',);
-$morphdb['mt'][19][7][11] = array('word' => 'αὐτὸν', 'translit' => 'auton', 'morph' => 'P-ASM', 'strongs' => '846',);
+$morphdb['mt'][19][7][11] = array('word' => 'αὐτήν', 'translit' => 'autēn', 'morph' => 'P-ASM', 'strongs' => '846',);
 $morphdb['mt'][19][8][0] = array('word' => 'λέγει', 'translit' => 'legei', 'morph' => 'V-PAI-3S', 'strongs' => '3004',);
 $morphdb['mt'][19][8][1] = array('word' => 'αὐτοῖς', 'translit' => 'autois', 'morph' => 'P-DPM', 'strongs' => '846',);
 $morphdb['mt'][19][8][2] = array('word' => 'ὅτι', 'translit' => 'hoti', 'morph' => 'CONJ', 'strongs' => '3754',);
