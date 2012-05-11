@@ -11,8 +11,9 @@ include 'helpers.php';
 
 include 'lexicon_index.php';
 
+include 'config.php';
 
-if ($use_logos = true) {
+if ($use_logos) {
 	include 'lconcordance.php';
 } else {
 	include 'concordance.php';
@@ -93,7 +94,7 @@ if (isset($strongs[$lang][$number])) {
 				$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
 				$ref = sprintf('<a href="%s" target="_blank">%s</a>', $url, ucwords($word['ref']));
 
-				$key = $word['morph'].'|'.$lemma.'|'.$word['spa'];
+				$key = $word['morph'].'|'.$word['spa'];
 				$key = strtolower($key);
 
 				$refs[$key][] = $ref;

@@ -11,6 +11,7 @@ include 'breaks.php';
 include 'translit.php';
 include 'helpers.php';
 
+include 'config.php';
 
 $book = isset($_GET['book']) ? $_GET['book'] : null;
 $chapter = isset($_GET['chapter']) ? $_GET['chapter'] : null;
@@ -32,7 +33,7 @@ $query_string = (!empty($params) ? '?' : '') . http_build_query($params);
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
 
 $moprhdb_path = dirname(__FILE__) . '/morph/';
-if ($use_logos = true) {
+if ($use_logos) {
 	$moprhdb_path = dirname(__FILE__) . '/lmorph/';
 }
 
