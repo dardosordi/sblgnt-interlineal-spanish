@@ -184,7 +184,7 @@ function label_lmac($morph) {
 }
 
 function label_rmac($morph, $rmac) {
-	if (empty($morph)) {
+	if (empty($morph) || $morph == '-') {
 		return;
 	}
 
