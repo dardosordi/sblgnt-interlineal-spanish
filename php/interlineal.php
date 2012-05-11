@@ -118,6 +118,7 @@ $content = '';
 
 $current_verse = 0;
 $current_chapter = 0;
+$current_word = 0;
 
 if (isset($breaks[$book][$current_chapter]['s'])) {
 	$content .= $breaks[$book][$current_chapter]['s'];
@@ -134,6 +135,7 @@ foreach($interlineal as $S) {
 	if ($S['v'] > 0) {
 
 		if ($S['c'] != $current_chapter) {
+			$current_word = 0;
 			if (isset($breaks[$book][$current_chapter]['e'])) {
 				$content .= $breaks[$book][$current_chapter]['e'];
 			}
@@ -156,6 +158,7 @@ foreach($interlineal as $S) {
 		}
 
 		if ($S['v'] != $current_verse) {
+			$current_word = 0;
 			$current_verse = $S['v'];
 			if (isset($breaks[$book][$current_chapter][$current_verse])) {
 				$content .= $breaks[$book][$current_chapter][$current_verse];
@@ -186,18 +189,19 @@ foreach($interlineal as $S) {
 	//$translit = translit($S['k'], true);
 	$spa = $S['t'];
 
-	$current_word = $S['w'];
-	if ($current_chapter && $current_verse) {
-		$morph = '---';
-		$translit = '-';
+	$skip = $greek == '—';
+
+	//$current_word = $S['w'];
+	$morph = '-';
+	$translit = '-';
+	if ($current_chapter && $current_verse && !$skip) {
 		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word])) {
 			$morph = $morphdb[$book][$current_chapter][$current_verse][$current_word]['morph'];
 			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
 			$translit = $morphdb[$book][$current_chapter][$current_verse][$current_word]['translit'];
 		}
+		$current_word++;
 	}
-
-
 
 	if (empty($spa)) {
 		$spa = '-';
@@ -232,6 +236,7 @@ foreach($interlineal as $S) {
 		$content .= sprintf('<span class="spa">%s</span>', $spa);
 	}
 	$content .= '</span> ';
+
 }
 
 if (isset($breaks[$book][$current_chapter]['e'])) {

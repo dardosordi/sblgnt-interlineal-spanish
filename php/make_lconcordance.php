@@ -33,7 +33,7 @@ include($morphdb_filename);
 $current_book = 1;
 $current_chapter = 0;
 $current_verse = 0;
-$current_word = -1;
+$current_word = 0;
 
 $concordance = array();
 
@@ -48,38 +48,37 @@ foreach($xml->xpath('//S') as $S) {
 
 		if (preg_match('/\\\\c ([0-9]+)/', $mark, $matches)) {
 			$current_chapter = $matches[1];
-			$current_word = -1;
+			$current_word = 0;
 			$is_title = 0;
 		}
 
 		if (preg_match('/\\\\v ([0-9]+)/', $mark, $matches)) {
 			$current_verse = $matches[1];
-			$current_word = -1;
+			$current_word = 0;
 			$is_title = 0;
 		}
 	}
 
-
-
-	++$current_word;
 
 	if (isset($S['f']) && !intval($S['f'])) {
 		echo "//MISSING NUMBRER: $book $current_chapter:$current_verse";
 		continue;
 	}
 
+	$greek = $S['s'];
+	$skip = $greek == '—';
+
 	$strongs_number = null;
-	$morph = null;
-	if ($current_chapter && $current_verse) {
-		$morph = '---';
-		$translit = '-';
-		$greek = '-';
+	$morph = '-';
+	$translit = '-';
+	if ($current_chapter && $current_verse && !$skip) {
 		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word])) {
 			$greek = $morphdb[$book][$current_chapter][$current_verse][$current_word]['word'];
 			$morph = $morphdb[$book][$current_chapter][$current_verse][$current_word]['morph'];
 			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
 			$translit = $morphdb[$book][$current_chapter][$current_verse][$current_word]['translit'];
 		}
+		++$current_word;
 	}
 
 	if (empty($spa)) {
