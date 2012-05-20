@@ -3350,7 +3350,7 @@ $morphdb['mt'][7][13][21] = array('word' => 'οἱ', 'translit' => 'hoi', 'morph
 $morphdb['mt'][7][13][22] = array('word' => 'εἰσερχόμενοι', 'translit' => 'eiserchomenoi', 'morph' => 'VPUP-PNM', 'strongs' => '1525',);
 $morphdb['mt'][7][13][23] = array('word' => 'δι\'', 'translit' => 'di\'', 'morph' => 'P', 'strongs' => '1223',);
 $morphdb['mt'][7][13][24] = array('word' => 'αὐτῆς', 'translit' => 'autēs', 'morph' => 'RP3GSF', 'strongs' => '846',);
-$morphdb['mt'][7][14][0] = array('word' => 'ὅτι', 'translit' => 'hoti', 'morph' => 'C', 'strongs' => '3754',);
+$morphdb['mt'][7][14][0] = array('word' => 'ὅτι', 'translit' => 'hoti', 'morph' => 'CAZ', 'strongs' => '3754',);
 $morphdb['mt'][7][14][1] = array('word' => 'στενὴ', 'translit' => 'stenē', 'morph' => 'JNSF', 'strongs' => '4728',);
 $morphdb['mt'][7][14][2] = array('word' => 'ἡ', 'translit' => 'hē', 'morph' => 'DNSF', 'strongs' => '3588',);
 $morphdb['mt'][7][14][3] = array('word' => 'πύλη', 'translit' => 'pylē', 'morph' => 'NNSF', 'strongs' => '4439',);
@@ -9533,7 +9533,7 @@ $morphdb['mt'][16][19][6] = array('word' => 'τῶν', 'translit' => 'tōn', 'mo
 $morphdb['mt'][16][19][7] = array('word' => 'οὐρανῶν', 'translit' => 'ouranōn', 'morph' => 'NGPM', 'strongs' => '3772',);
 $morphdb['mt'][16][19][8] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CLN', 'strongs' => '2532',);
 $morphdb['mt'][16][19][9] = array('word' => 'ὃ', 'translit' => 'ho', 'morph' => 'RR-NSN', 'strongs' => '3739',);
-$morphdb['mt'][16][19][10] = array('word' => 'ἐὰν', 'translit' => 'ean', 'morph' => 'CAC', 'strongs' => '1437',);
+$morphdb['mt'][16][19][10] = array('word' => 'ἐὰν', 'translit' => 'ean', 'morph' => 'TC', 'strongs' => '1437',);
 $morphdb['mt'][16][19][11] = array('word' => 'δήσῃς', 'translit' => 'dēsēs', 'morph' => 'VAAS2S', 'strongs' => '1210',);
 $morphdb['mt'][16][19][12] = array('word' => 'ἐπὶ', 'translit' => 'epi', 'morph' => 'P', 'strongs' => '1909',);
 $morphdb['mt'][16][19][13] = array('word' => 'τῆς', 'translit' => 'tēs', 'morph' => 'DGSF', 'strongs' => '3588',);
