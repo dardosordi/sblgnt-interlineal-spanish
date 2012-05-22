@@ -503,7 +503,7 @@
       cDT="2011-10-18T22:27:12Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="αὐτοὺς">
-      <RS n="6" a="ellos" df="0"
+      <RS n="5" a="ellos" df="0"
       cDT="2011-10-18T22:27:12Z" wC="dardo:sophie"/>
       <RS n="25" a="a ellos" df="0"
       cDT="2011-10-18T22:27:12Z" wC="dardo:sophie"/>
@@ -6487,8 +6487,11 @@
       cDT="2011-10-19T03:40:17Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="μνηστευθείσης">
-      <RS n="1" a="estaba comprometida" df="0"
-      cDT="2011-10-19T03:34:30Z" wC="dardo:sophie"/>
+      <RS n="1" a="estaba comprometida" df="1"
+      cDT="2012-05-21T17:01:42Z" wC="dardo:sophie"
+      dDT="2012-05-21T17:01:44Z"/>
+      <RS n="1" a="habiendo estado comprometida" df="0"
+      cDT="2012-05-21T17:01:53Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="μοι">
       <RS n="30" a="a mí" df="0"
@@ -10638,8 +10641,11 @@
       cDT="2011-10-19T03:40:16Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="συνελθεῖν">
-      <RS n="1" a="juntarse" df="0"
-      cDT="2011-10-19T03:34:30Z" wC="dardo:sophie"/>
+      <RS n="1" a="juntarse" df="1"
+      cDT="2011-10-19T03:34:30Z" wC="dardo:sophie"
+      dDT="2012-05-21T17:05:13Z"/>
+      <RS n="1" a="juntar" df="0"
+      cDT="2012-05-21T17:05:28Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="συνετῶν">
       <RS n="1" a="inteligentes" df="0"
@@ -11701,7 +11707,7 @@
       cDT="2011-10-26T02:25:46Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="τῆς">
-      <RS n="54" a="la" df="0"
+      <RS n="55" a="la" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
       <RS n="15" a="de" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>

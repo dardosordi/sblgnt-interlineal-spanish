@@ -84482,7 +84482,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'μνηστευθείσης',
-        'spa' => 'estaba comprometida',
+        'spa' => 'habiendo estado comprometida',
         'morph' => 'V-APP-GSF',
         'ref' => 'mt 1:18',
       ),
@@ -133294,7 +133294,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'συνελθεῖν',
-        'spa' => 'juntarse',
+        'spa' => 'juntar',
         'morph' => 'V-2AAN',
         'ref' => 'mt 1:18',
       ),
