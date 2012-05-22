@@ -32,6 +32,7 @@ $query_string = (!empty($params) ? '?' : '') . http_build_query($params);
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
 
+$apparatus_path = dirname(__FILE__) . '/apparatus/';
 $moprhdb_path = dirname(__FILE__) . '/morph/';
 if ($use_logos) {
 	$moprhdb_path = dirname(__FILE__) . '/lmorph/';
@@ -40,13 +41,16 @@ if ($use_logos) {
 
 $filename = $xml_path . $books[$book]['xml'];
 $morphdb_filename = $moprhdb_path . $book . '.php';
-
+$apparatus_filename = $apparatus_path . $book . '.php';
 
 ini_set('memory_limit', '128M');
 $xml = simplexml_load_file($filename);
 
 $morphdb = array();
 include($morphdb_filename);
+
+$apparatus = array();
+include($apparatus_filename);
 
 $i = 0;
 $open = array();
@@ -120,12 +124,15 @@ $content = '';
 $current_verse = 0;
 $current_chapter = 0;
 $current_word = 0;
+$current_note = 0;
 
 if (isset($breaks[$book][$current_chapter]['s'])) {
 	$content .= $breaks[$book][$current_chapter]['s'];
 }
 
-
+$note_id = 1;
+$verse_markers = array();
+$notes = array();
 
 foreach($interlineal as $S) {
 
@@ -134,8 +141,8 @@ foreach($interlineal as $S) {
 	$strongs_def = '';
 
 	if ($S['v'] > 0) {
-
 		if ($S['c'] != $current_chapter) {
+			$current_note = 0;
 			$current_word = 0;
 			if (isset($breaks[$book][$current_chapter]['e'])) {
 				$content .= $breaks[$book][$current_chapter]['e'];
@@ -159,6 +166,7 @@ foreach($interlineal as $S) {
 		}
 
 		if ($S['v'] != $current_verse) {
+			$current_note = 0;
 			$current_word = 0;
 			$current_verse = $S['v'];
 			if (isset($breaks[$book][$current_chapter][$current_verse])) {
@@ -201,6 +209,32 @@ foreach($interlineal as $S) {
 			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
 			$translit = $morphdb[$book][$current_chapter][$current_verse][$current_word]['translit'];
 		}
+
+		if (isset($apparatus[$book][$current_chapter][$current_verse])) {
+			$markers = array();
+			if (preg_match('#[⸀⸁⸂⸄⸃⸅]#u', $greek, $markers)) {
+				$marker = $markers[0];
+				$open_note = preg_match('#[⸀⸁⸂⸄]#u', $greek);
+				if ($open_note) {
+					$note = $apparatus[$book][$current_chapter][$current_verse][$current_note];
+					$verse_markers[$marker] = array($current_note, $note_id);
+					$use_note_id = $note_id;
+					$ref = "$book $current_chapter:$current_verse";
+					$notes[$note_id] = '<div class="note" id="note'.$note_id.'"><strong>'.$ref.'</strong> ' . $note . ' <a href="#ref'.$note_id.'">^</a></div>';
+					$current_note++;
+					$note_id++;
+				} else {
+					$marker_map = array('⸃' => '⸂', '⸅' => '⸄');
+					$open_marker = $marker_map[$marker];
+					$use_note = $verse_markers[$open_marker][0];
+					$use_note_id = $verse_markers[$open_marker][1];
+					$note = $apparatus[$book][$current_chapter][$current_verse][$use_note];
+				}
+
+				$greek = preg_replace('#([⸀⸁⸂⸄⸃⸅])#u', '<sup id="ref'.$use_note_id.'"><a href="#note'.$use_note_id.'" title="'.h($note).'">\1</a></sup>', $greek);
+			}
+		}
+
 	}
 
 	if (empty($spa)) {
@@ -248,6 +282,9 @@ if (isset($breaks[$book][$current_chapter]['e'])) {
 }
 
 
+foreach ($notes as $note) {
+	$content .= $note;
+}
 
 $nav = array();
 if ($chapter > 1) {
