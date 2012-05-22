@@ -62,4 +62,11 @@ $(function() {
 
 	}
 
+	$('sup a, .note a').click(function(e) {
+		$('.note, sup').removeClass('highlight');
+		var ref = $(this).attr('href');
+		$(this).parent().addClass('highlight');
+		$(ref).addClass('highlight');
+	});
+
 });
