@@ -274,21 +274,22 @@ Mt 15:36	ἔλαβεν WH Treg NIV ] καὶ λαβὼν RP • καὶ WH Tr
 Mt 15:37	τὸ … κλασμάτων ἦραν WH Treg NIV ] ἦραν τὸ … κλασμάτων RP
 Mt 15:39	Μαγαδάν WH Treg NIV ] Μαγδαλά RP
 
-Mt 16:2–3	Ὀψίας γενομένης … οὐ δύνασθε Treg NIV RP ] ⟦WH⟧ • τὸ Treg NIV ⟦WH⟧ ] Ὑποκριταί τὸ RP
-Mt 15:4	Ἰωνᾶ WH Treg NIV ] + τοῦ προφήτου RP
-Mt 15:5	μαθηταὶ WH Treg NIV ] + αὐτοῦ RP
-Mt 15:8	εἶπεν WH Treg NIV ] + αὐτοῖς RP • ἐλάβετε Treg RP ] ἔχετε WH NIV
-Mt 15:11	ἄρτων WH Treg NIV ] ἄρτου RP • προσέχετε δὲ WH Treg NIV ] προσέχειν RP
-Mt 15:12	τῶν ἄρτων WH Treg NIV ] τοῦ ἄρτου RP
-Mt 15:13	Τίνα WH Treg NIV ] + με RP
-Mt 15:17	ἀποκριθεὶς δὲ WH Treg NIV ] Καὶ ἀποκριθεὶς RP
-Mt 15:19	δώσω WH NIV ] καὶ δώσω Treg RP • κλεῖδας WH Treg NIV ] κλεῖς RP • ⸀ἐὰν WH NIV RP ] ἂν Treg • ⸁ἐὰν WH NIV RP ] ἂν Treg
-Mt 15:20	διεστείλατο Treg RP NA ] ἐπετίμησεν WH NIV • μαθηταῖς WH Treg NIV ] + αὐτοῦ RP • ἐστιν WH Treg NIV ] + Ἰησοῦς RP
-Mt 15:21	ὁ Ἰησοῦς Treg NIV RP ] Ἰησοῦς Χριστὸς WH • εἰς Ἱεροσόλυμα ἀπελθεῖν WH Treg NIV ] ἀπελθεῖν εἰς Ἱεροσόλυμα RP
-Mt 15:23	εἶ ἐμοῦ WH Treg NIV ] μου εἶ RP
-Mt 15:25	ἐὰν WH Treg NIV ] ἂν RP
-Mt 15:26	ὠφεληθήσεται WH Treg NIV ] ὠφελεῖται RP
-Mt 15:28	ὅτι WH NIV ] – Treg RP • τῶν ὧδε ἑστώτων WH Treg NIV ] ὧδε ἑστῶτες RP
+Mt 16:2	Ὀψίας γενομένης … οὐ δύνασθε Treg NIV RP ] ⟦WH⟧
+Mt 16:3	τὸ Treg NIV ⟦WH⟧ ] Ὑποκριταί τὸ RP
+Mt 16:4	Ἰωνᾶ WH Treg NIV ] + τοῦ προφήτου RP
+Mt 16:5	μαθηταὶ WH Treg NIV ] + αὐτοῦ RP
+Mt 16:8	εἶπεν WH Treg NIV ] + αὐτοῖς RP • ἐλάβετε Treg RP ] ἔχετε WH NIV
+Mt 16:11	ἄρτων WH Treg NIV ] ἄρτου RP • προσέχετε δὲ WH Treg NIV ] προσέχειν RP
+Mt 16:12	τῶν ἄρτων WH Treg NIV ] τοῦ ἄρτου RP
+Mt 16:13	Τίνα WH Treg NIV ] + με RP
+Mt 16:17	ἀποκριθεὶς δὲ WH Treg NIV ] Καὶ ἀποκριθεὶς RP
+Mt 16:19	δώσω WH NIV ] καὶ δώσω Treg RP • κλεῖδας WH Treg NIV ] κλεῖς RP • ⸀ἐὰν WH NIV RP ] ἂν Treg • ⸁ἐὰν WH NIV RP ] ἂν Treg
+Mt 16:20	διεστείλατο Treg RP NA ] ἐπετίμησεν WH NIV • μαθηταῖς WH Treg NIV ] + αὐτοῦ RP • ἐστιν WH Treg NIV ] + Ἰησοῦς RP
+Mt 16:21	ὁ Ἰησοῦς Treg NIV RP ] Ἰησοῦς Χριστὸς WH • εἰς Ἱεροσόλυμα ἀπελθεῖν WH Treg NIV ] ἀπελθεῖν εἰς Ἱεροσόλυμα RP
+Mt 16:23	εἶ ἐμοῦ WH Treg NIV ] μου εἶ RP
+Mt 16:25	ἐὰν WH Treg NIV ] ἂν RP
+Mt 16:26	ὠφεληθήσεται WH Treg NIV ] ὠφελεῖται RP
+Mt 16:28	ὅτι WH NIV ] – Treg RP • τῶν ὧδε ἑστώτων WH Treg NIV ] ὧδε ἑστῶτες RP
 
 Mt 17:2	ἐγένετο WH Treg NIV ] ἐγένοντο RP
 Mt 17:3	ὤφθη WH Treg NIV ] ὤφθησαν RP • συλλαλοῦντες μετ᾽αὐτοῦ WH Treg NIV ] μετ᾽αὐτοῦ συλλαλοῦντες RP
@@ -534,7 +535,8 @@ Mt 26:52	τὴν μάχαιράν σου WH Treg NIV ] σου τὴν μάχα
 Mt 26:53	δύναμαι WH Treg NIV ] + ἄρτι RP • ἄρτι πλείω WH Treg NIV ] πλείους ἢ RP
 Mt 26:55	ἡμέραν WH NIV ] + πρὸς ὑμᾶς Treg RP • ἐν τῷ ἱερῷ ἐκαθεζόμην διδάσκων WH Treg NIV ] ἐκαθεζόμην διδάσκων ἐν τῷ ἱερῷ RP
 Mt 26:59	καὶ WH Treg NIV ] + οἱ πρεσβύτεροι καὶ RP • αὐτὸν θανατώσωσιν WH NIV ] αὐτὸν θανατώσουσιν Treg; θανατώσωσιν αὐτόν RP
-Mt 26:60–61	πολλῶν προσελθόντων ψευδομαρτύρων. ὕστερον δὲ προσελθόντες δύο WH Treg NIV ] καὶ πολλῶν ψευδομαρτύρων προσελθόντων, οὐχ εὗρον. Ὕστερον δὲ προσελθόντες δύο ψευδομάρτυρες RP • οἰκοδομῆσαι WH Treg NIV ] + αὐτόν RP
+Mt 26:60	πολλῶν προσελθόντων ψευδομαρτύρων. ὕστερον δὲ προσελθόντες δύο WH Treg NIV ] καὶ πολλῶν ψευδομαρτύρων προσελθόντων, οὐχ εὗρον. Ὕστερον δὲ προσελθόντες δύο ψευδομάρτυρες RP
+Mt 26:61	οἰκοδομῆσαι WH Treg NIV ] + αὐτόν RP
 Mt 26:63	καὶ WH Treg NIV ] + ἀποκριθεὶς RP
 Mt 26:65	λέγων WH Treg NIV ] + ὅτι RP • βλασφημίαν WH Treg NIV ] + αὐτοῦ RP
 Mt 26:69	ἐκάθητο ἔξω WH Treg NIV ] ἔξω ἐκάθητο RP
