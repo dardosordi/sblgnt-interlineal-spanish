@@ -63,6 +63,7 @@ $(function() {
 	}
 
 	$('sup a, .note a').click(function(e) {
+		e.stopPropagation();
 		$('.note, sup').removeClass('highlight');
 		var ref = $(this).attr('href');
 		$(this).parent().addClass('highlight');
