@@ -216,6 +216,47 @@ a:visited {
 	border: 1px solid #ccc;
 }
 
+.word .spa {
+	font-size: 1em;
+	line-height: 2;
+}
+
+span.number {
+	display: inline;
+}
+
+.block span.greek-word {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.block span.aligned {
+}
+
+.aligned .greek,
+.block span.skip,
+.block span.group-close,
+.block span.group-open,
+.block span.arrow-left,
+.block span.arrow-right,
+.block span.pointer-left,
+.block span.pointer-right {
+	font-size: 1.3em;
+	line-height: 2;
+	display: inline-block;
+}
+
+
+.number {
+	font-size: 14px;
+	margin-left: 2px;
+}
+
+sub {
+	margin-left: 2px;
+}
+
+
 /* Print */
 
 @media print {
