@@ -201,7 +201,6 @@ foreach($interlineal as $S) {
 			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
 			$translit = $morphdb[$book][$current_chapter][$current_verse][$current_word]['translit'];
 		}
-		$current_word++;
 	}
 
 	if (empty($spa)) {
@@ -237,6 +236,10 @@ foreach($interlineal as $S) {
 		$content .= sprintf('<span class="spa">%s</span>', $spa);
 	}
 	$content .= '</span> ';
+
+	if ($current_chapter && $current_verse && !$skip) {
+		$current_word++;
+	}
 
 }
 
