@@ -28466,21 +28466,21 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἔδει',
-        'spa' => 'debías',
+        'spa' => 'debía',
         'morph' => 'V-IAI-3S',
         'ref' => 'mt 18:33',
       ),
       1 => 
       array (
         'word' => 'ἔδει',
-        'spa' => 'debías',
+        'spa' => 'debía',
         'morph' => 'V-IAI-3S',
         'ref' => 'mt 23:23',
       ),
       2 => 
       array (
         'word' => 'ἔδει',
-        'spa' => 'debías',
+        'spa' => 'debía',
         'morph' => 'V-IAI-3S',
         'ref' => 'mt 25:27',
       ),
@@ -119726,14 +119726,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'πειράζων',
-        'spa' => 'tentador',
+        'spa' => 'que tienta',
         'morph' => 'V-PAP-NSM',
         'ref' => 'mt 4:3',
       ),
       1 => 
       array (
         'word' => 'πειράζων',
-        'spa' => 'que tienta',
+        'spa' => 'tentando',
         'morph' => 'V-PAP-NSM',
         'ref' => 'mt 22:35',
       ),
@@ -126411,7 +126411,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'προσκόψῃς',
-        'spa' => 'tropieces',
+        'spa' => 'golpees',
         'morph' => 'V-AAS-2S',
         'ref' => 'mt 4:6',
       ),
@@ -127666,7 +127666,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἐπυνθάνετο',
-        'spa' => 'inquirió',
+        'spa' => 'inquiría',
         'morph' => 'V-IMI-3S',
         'ref' => 'mt 2:4',
       ),
