@@ -248,7 +248,7 @@ foreach($interlineal as $S) {
 	if ($strongs_number) {
 		$strongs_def = sprintf('<a href="/strongs/G%d.html" title="%s">%d</a>',
 			$strongs_number,
-			h($strongs['greek'][$strongs_number]['strongs_def']),
+			h($strongs['greek'][$strongs_number]['lemma'] . ': '.$strongs['greek'][$strongs_number]['strongs_def']),
 			$strongs_number
 		);
 	}
