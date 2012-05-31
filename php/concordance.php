@@ -31380,7 +31380,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'διχάσαι',
-        'spa' => 'dovodir',
+        'spa' => 'dividir',
         'morph' => 'V-AAN',
         'ref' => 'mt 10:35',
       ),
@@ -37423,7 +37423,7 @@ $concordance = array (
       2 => 
       array (
         'word' => 'ἓν',
-        'spa' => 'una',
+        'spa' => 'uno',
         'morph' => 'A-ASN',
         'ref' => 'mt 5:30',
       ),

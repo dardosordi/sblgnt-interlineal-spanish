@@ -2293,8 +2293,11 @@
       cDT="2011-11-23T01:56:15Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="διχάσαι">
-      <RS n="1" a="dovodir" df="0"
-      cDT="2011-10-19T03:47:20Z" wC="dardo:sophie"/>
+      <RS n="1" a="dovodir" df="1"
+      cDT="2011-10-19T03:47:20Z" wC="dardo:sophie"
+      dDT="2012-05-31T02:36:22Z"/>
+      <RS n="1" a="dividir" df="0"
+      cDT="2012-05-31T02:36:29Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="διχοτομήσει">
       <RS n="1" a="partirá en dos" df="0"
@@ -17335,7 +17338,7 @@
       cDT="2011-12-12T01:26:01Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἓν">
-      <RS n="4" a="una" df="0"
+      <RS n="3" a="una" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
       <RS n="5" a="uno" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
