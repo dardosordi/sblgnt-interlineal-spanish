@@ -46,10 +46,11 @@ $(function() {
 	});
 
 	$('.greek').each(function (i, e) {
-		var morph = $(this).parent().find('.morph').attr('title');
-		var strongs = $(this).parent().find('.strongs a').text();
+		var morph = $(this).parent().find('.morph');
+		var strongs = $(this).parent().find('.strongs a');
+		var spa = $(this).parent().find('.spa');
 
-		$(e).attr('title', morph + ' (G' + strongs + ')');
+		$(e).attr('title', spa.text() + ' [' + morph.attr('title') + '. G' + strongs.text() + ', ' + strongs.attr('title') + ']');
 	});
 
 	var matches = /G([0-9]+)/.exec(document.referrer);
