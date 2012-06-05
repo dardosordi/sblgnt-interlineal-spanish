@@ -5124,7 +5124,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἠνάγκασεν',
-        'spa' => 'ordenó',
+        'spa' => 'obligó',
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 14:22',
       ),
@@ -9655,7 +9655,7 @@ $concordance = array (
       1 => 
       array (
         'word' => 'ἀπολύσῃ',
-        'spa' => 'se despida',
+        'spa' => 'despida',
         'morph' => 'V-AAS-3S',
         'ref' => 'mt 14:22',
       ),
@@ -30894,14 +30894,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'δοθῆναι',
-        'spa' => 'dar',
+        'spa' => 'ser dada',
         'morph' => 'V-APN',
         'ref' => 'mt 14:9',
       ),
       1 => 
       array (
         'word' => 'δοθῆναι',
-        'spa' => 'dar',
+        'spa' => 'ser dado',
         'morph' => 'V-APN',
         'ref' => 'mt 26:9',
       ),

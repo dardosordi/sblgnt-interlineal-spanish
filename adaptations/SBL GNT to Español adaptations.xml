@@ -2365,8 +2365,13 @@
       <RS n="1" a="δοθῆναι" df="1"
       cDT="2011-10-26T02:49:49Z" wC="dardo:sophie"
       dDT="2011-10-26T02:50:19Z"/>
-      <RS n="2" a="dar" df="0"
-      cDT="2011-10-26T02:50:37Z" wC="dardo:sophie"/>
+      <RS n="1" a="dar" df="1"
+      cDT="2011-10-26T02:50:37Z" wC="dardo:sophie"
+      dDT="2012-06-05T01:33:14Z"/>
+      <RS n="1" a="ser dada" df="0"
+      cDT="2012-06-05T01:33:01Z" wC="dardo:sophie"/>
+      <RS n="1" a="ser dado" df="0"
+      cDT="2012-06-05T01:33:18Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="δοκεῖ">
       <RS n="6" a="parece" df="0"
@@ -13901,8 +13906,9 @@
       <RS n="1" a="se divorcie" df="1"
       cDT="2011-10-19T03:40:26Z" wC="dardo:sophie"
       dDT="2012-01-14T05:02:55Z"/>
-      <RS n="1" a="se despida" df="0"
-      cDT="2011-10-26T03:23:29Z" wC="dardo:sophie"/>
+      <RS n="1" a="se despida" df="1"
+      cDT="2011-10-26T03:23:29Z" wC="dardo:sophie"
+      dDT="2012-06-05T01:54:39Z"/>
       <RS n="2" a="despida" df="0"
       cDT="2012-01-14T05:00:17Z" wC="dardo:sophie"/>
     </TU>
@@ -18296,8 +18302,11 @@
       cDT="2011-10-19T03:47:48Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἠνάγκασεν">
-      <RS n="1" a="ordenó" df="0"
-      cDT="2011-10-26T03:21:02Z" wC="dardo:sophie"/>
+      <RS n="1" a="ordenó" df="1"
+      cDT="2011-10-26T03:21:02Z" wC="dardo:sophie"
+      dDT="2012-06-05T01:53:04Z"/>
+      <RS n="1" a="obligó" df="0"
+      cDT="2012-06-05T01:53:10Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἠνέχθη">
       <RS n="1" a="ἠνέχθη" df="0"
