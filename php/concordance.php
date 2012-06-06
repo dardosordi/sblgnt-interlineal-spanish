@@ -30256,7 +30256,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'διδασκαλίας',
-        'spa' => 'doctrinas',
+        'spa' => 'enseñanzas',
         'morph' => 'N-APF',
         'ref' => 'mt 15:9',
       ),
@@ -57545,7 +57545,7 @@ $concordance = array (
       1 => 
       array (
         'word' => 'ἰάθη',
-        'spa' => 'fue curado',
+        'spa' => 'fue curada',
         'morph' => 'V-API-3S',
         'ref' => 'mt 15:28',
       ),
@@ -82421,14 +82421,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'μεταβὰς',
-        'spa' => 'habiendo partido',
+        'spa' => 'habiendo marchado',
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 12:9',
       ),
       1 => 
       array (
         'word' => 'μεταβὰς',
-        'spa' => 'habiendo partido',
+        'spa' => 'habiendo marchado',
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 15:29',
       ),
@@ -98651,7 +98651,7 @@ $concordance = array (
       77 => 
       array (
         'word' => 'τῷ',
-        'spa' => 'el',
+        'spa' => 'al',
         'morph' => 'T-DSM',
         'ref' => 'mt 15:1',
       ),
@@ -126072,14 +126072,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'προσέρχονται',
-        'spa' => 'vinieron',
+        'spa' => 'vienen',
         'morph' => 'V-PMI-3P',
         'ref' => 'mt 9:14',
       ),
       1 => 
       array (
         'word' => 'προσέρχονται',
-        'spa' => 'vinieron',
+        'spa' => 'vienen',
         'morph' => 'V-PMI-3P',
         'ref' => 'mt 15:1',
       ),
