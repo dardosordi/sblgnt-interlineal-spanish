@@ -217,7 +217,7 @@ foreach($interlineal as $S) {
 				$open_note = preg_match('#[⸀⸁⸂⸄]#u', $greek);
 				if ($open_note) {
 					$note = $apparatus[$book][$current_chapter][$current_verse][$current_note];
-					$verse_markers[$marker] = array($current_note, $note_id);
+					$verse_markers[$marker] = array($current_note, $note_id, $note);
 					$use_note_id = $note_id;
 					$ref = "$book $current_chapter:$current_verse";
 					$notes[$note_id] = '<div class="note" id="note'.$note_id.'"><strong>'.$ref.'</strong> ' . $note . ' <a href="#ref'.$note_id.'">^</a></div>';
@@ -228,7 +228,7 @@ foreach($interlineal as $S) {
 					$open_marker = $marker_map[$marker];
 					$use_note = $verse_markers[$open_marker][0];
 					$use_note_id = $verse_markers[$open_marker][1];
-					$note = $apparatus[$book][$current_chapter][$current_verse][$use_note];
+					$note = $verse_markers[$open_marker][2];
 				}
 
 				$greek = preg_replace('#([⸀⸁⸂⸄⸃⸅])#u', '<sup id="ref'.$use_note_id.'"><a href="#note'.$use_note_id.'" title="'.h($note).'">\1</a></sup>', $greek);
