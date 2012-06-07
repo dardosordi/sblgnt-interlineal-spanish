@@ -9307,7 +9307,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἀποκτεννόντων',
-        'spa' => 'que destruyen',
+        'spa' => 'que matan',
         'morph' => 'V-PAP-GPM',
         'ref' => 'mt 10:28',
       ),
@@ -9317,14 +9317,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἀποκτεῖναι',
-        'spa' => 'destruir',
+        'spa' => 'matar',
         'morph' => 'V-AAN',
         'ref' => 'mt 10:28',
       ),
       1 => 
       array (
         'word' => 'ἀποκτεῖναι',
-        'spa' => 'destruir',
+        'spa' => 'matar',
         'morph' => 'V-AAN',
         'ref' => 'mt 14:5',
       ),
@@ -23794,28 +23794,28 @@ $concordance = array (
       0 => 
       array (
         'word' => 'γνοὺς',
-        'spa' => 'conociendo',
+        'spa' => 'habiendo conocido',
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 12:15',
       ),
       1 => 
       array (
         'word' => 'γνοὺς',
-        'spa' => 'conociendo',
+        'spa' => 'habiendo conocido',
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 16:8',
       ),
       2 => 
       array (
         'word' => 'γνοὺς',
-        'spa' => 'conociendo',
+        'spa' => 'habiendo conocido',
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 22:18',
       ),
       3 => 
       array (
         'word' => 'γνοὺς',
-        'spa' => 'conociendo',
+        'spa' => 'habiendo conocido',
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 26:10',
       ),

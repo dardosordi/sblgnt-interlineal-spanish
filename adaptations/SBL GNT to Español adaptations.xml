@@ -1498,8 +1498,11 @@
       cDT="2012-01-29T03:31:24Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="γνοὺς">
-      <RS n="4" a="conociendo" df="0"
-      cDT="2011-10-20T04:11:18Z" wC="dardo:sophie"/>
+      <RS n="0" a="conociendo" df="1"
+      cDT="2011-10-20T04:11:18Z" wC="dardo:sophie"
+      dDT="2012-06-07T01:27:47Z"/>
+      <RS n="5" a="habiendo conocido" df="0"
+      cDT="2012-06-07T01:27:52Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="γνωσθήσεται">
       <RS n="1" a="será conocido" df="0"
@@ -11659,7 +11662,7 @@
       <RS n="0" a="Entonces" df="1"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"
       dDT="2011-10-19T04:23:58Z"/>
-      <RS n="1070" a="entonces" df="0"
+      <RS n="1100" a="entonces" df="0"
       cDT="2011-10-22T23:06:34Z" wC="dardo:sophie"/>
       <RS n="1" a="dfssdffds" df="1"
       cDT="2011-10-22T23:00:36Z" wC="dardo:sophie"
@@ -11712,7 +11715,7 @@
     <TU f="0" k="τὸ">
       <RS n="36" a="lo" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
-      <RS n="100" a="el" df="0"
+      <RS n="99" a="el" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
       <RS n="90" a="la" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
@@ -13839,8 +13842,11 @@
       cDT="2011-11-23T03:05:14Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀποκτεννόντων">
-      <RS n="1" a="que destruyen" df="0"
-      cDT="2011-10-19T03:47:12Z" wC="dardo:sophie"/>
+      <RS n="1" a="que destruyen" df="1"
+      cDT="2012-06-07T01:43:52Z" wC="dardo:sophie"
+      dDT="2012-06-07T01:43:54Z"/>
+      <RS n="1" a="que matan" df="0"
+      cDT="2012-06-07T01:44:08Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀποκτενοῦσιν">
       <RS n="1" a="matarám" df="1"
@@ -13850,8 +13856,11 @@
       cDT="2011-11-03T03:34:44Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀποκτεῖναι">
-      <RS n="2" a="destruir" df="0"
-      cDT="2011-10-19T03:47:13Z" wC="dardo:sophie"/>
+      <RS n="1" a="destruir" df="1"
+      cDT="2012-06-07T01:43:47Z" wC="dardo:sophie"
+      dDT="2012-06-07T01:43:49Z"/>
+      <RS n="2" a="matar" df="0"
+      cDT="2012-06-07T01:43:30Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀπολέσαι">
       <RS n="2" a="destruir" df="0"
