@@ -118968,7 +118968,7 @@ $concordance = array (
       3 => 
       array (
         'word' => 'παντὸς',
-        'spa' => 'toda',
+        'spa' => 'todo',
         'morph' => 'A-GSN',
         'ref' => 'mt 18:19',
       ),
@@ -124933,7 +124933,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'πράγματος',
-        'spa' => 'obra práctica',
+        'spa' => 'asunto',
         'morph' => 'N-GSN',
         'ref' => 'mt 18:19',
       ),
@@ -126266,14 +126266,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'προσηύξατο',
-        'spa' => 'ora',
+        'spa' => 'oró',
         'morph' => 'V-ADI-3S',
         'ref' => 'mt 26:42',
       ),
       1 => 
       array (
         'word' => 'προσηύξατο',
-        'spa' => 'ora',
+        'spa' => 'oró',
         'morph' => 'V-ADI-3S',
         'ref' => 'mt 26:44',
       ),
@@ -143085,7 +143085,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'χαίρει',
-        'spa' => 'alegrar',
+        'spa' => 'se alegra',
         'morph' => 'V-PAI-3S',
         'ref' => 'mt 18:13',
       ),

@@ -7598,9 +7598,9 @@
       <RS n="1" a="todas" df="1"
       cDT="2011-10-23T04:00:15Z" wC="dardo:sophie"
       dDT="2011-10-23T04:00:16Z"/>
-      <RS n="2" a="toda" df="0"
+      <RS n="1" a="toda" df="0"
       cDT="2011-10-23T04:00:20Z" wC="dardo:sophie"/>
-      <RS n="2" a="todo" df="0"
+      <RS n="3" a="todo" df="0"
       cDT="2011-11-05T19:03:12Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="παρ">
@@ -8956,8 +8956,11 @@
       cDT="2011-10-19T03:34:44Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="πράγματος">
-      <RS n="1" a="obra práctica" df="0"
-      cDT="2011-11-05T20:22:15Z" wC="dardo:sophie"/>
+      <RS n="1" a="obra práctica" df="1"
+      cDT="2011-11-05T20:22:15Z" wC="dardo:sophie"
+      dDT="2012-06-09T02:06:02Z"/>
+      <RS n="1" a="asunto" df="0"
+      cDT="2012-06-09T02:06:04Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="πρέπον">
       <RS n="1" a="conveniente" df="0"
@@ -9228,8 +9231,11 @@
       cDT="2011-11-09T23:47:31Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="προσηύξατο">
-      <RS n="2" a="ora" df="0"
-      cDT="2011-12-12T04:10:47Z" wC="dardo:sophie"/>
+      <RS n="1" a="ora" df="1"
+      cDT="2011-12-12T04:10:47Z" wC="dardo:sophie"
+      dDT="2012-06-09T01:55:52Z"/>
+      <RS n="2" a="oró" df="0"
+      cDT="2012-06-09T01:55:44Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="προσθεῖναι">
       <RS n="1" a="agregar" df="1"
@@ -12206,8 +12212,11 @@
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="χαίρει">
-      <RS n="1" a="alegrar" df="0"
-      cDT="2011-11-05T19:12:55Z" wC="dardo:sophie"/>
+      <RS n="1" a="alegrar" df="1"
+      cDT="2011-11-05T19:12:55Z" wC="dardo:sophie"
+      dDT="2012-06-09T01:37:18Z"/>
+      <RS n="1" a="se alegra" df="0"
+      cDT="2012-06-09T01:37:21Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="χαίρετε">
       <RS n="1" a="Alégrense" df="0"
