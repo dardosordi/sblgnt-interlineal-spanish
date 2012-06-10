@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="6" sizex="1290" sizey="10652" ftsbp="1" specialcolor="255"
+	<Settings docVersion="6" sizex="1290" sizey="11304" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="28:" srcname="SBL GNT" tgtname="Español"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -36552,7 +36552,7 @@
   <S s="ἡ" k="ἡ" t="la" a="la"
   f="0000000000000000000001" sn="11091" w="1" ty="1">
   </S>
-  <S s="αἰτία" k="αἰτία" t="causa" a="causa"
+  <S s="αἰτία" k="αἰτία" t="acusación" a="acusación"
   f="0000000000000000000001" sn="11092" w="1" ty="1">
   </S>
   <S s="τοῦ" k="τοῦ" t="del" a="del"
@@ -37266,7 +37266,7 @@
   <S s="ἔχων" k="ἔχων" t="teniendo" a="teniendo"
   f="0000000000000000000001" sn="11303" w="1" ty="1">
   </S>
-  <S s="κτήματα" k="κτήματα" t="riquezas" a="riquezas"
+  <S s="κτήματα" k="κτήματα" t="propiedades" a="propiedades"
   f="0000000000000000000001" sn="11304" w="1" ty="1">
   </S>
   <S s="πολλά." k="πολλά" t="muchas." a="muchas"
@@ -44662,7 +44662,7 @@
   <S s="αὐτὸν" k="αὐτὸν" t="a él" a="a él"
   f="0000000000000000000001" sn="13525" w="1" ty="1">
   </S>
-  <S s="οὐκέτι." k="οὐκέτι" t="jamás." a="jamás"
+  <S s="οὐκέτι." k="οὐκέτι" t="ya no." a="ya no"
   f="0000000000000000100001" sn="13526" w="1" ty="1"
   fp=".">
   </S>

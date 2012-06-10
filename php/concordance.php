@@ -2080,7 +2080,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'αἰτία',
-        'spa' => 'causa',
+        'spa' => 'acusación',
         'morph' => 'N-NSF',
         'ref' => 'mt 19:10',
       ),
@@ -74550,7 +74550,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κτήματα',
-        'spa' => 'riquezas',
+        'spa' => 'propiedades',
         'morph' => 'N-APN',
         'ref' => 'mt 19:22',
       ),
@@ -113529,7 +113529,7 @@ $concordance = array (
       1 => 
       array (
         'word' => 'οὐκέτι',
-        'spa' => 'jamás',
+        'spa' => 'ya no',
         'morph' => 'ADV',
         'ref' => 'mt 22:46',
       ),

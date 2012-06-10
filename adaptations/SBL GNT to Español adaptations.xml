@@ -316,8 +316,11 @@
       cDT="2012-05-20T01:26:38Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="αἰτία">
-      <RS n="1" a="causa" df="0"
-      cDT="2011-11-09T23:26:42Z" wC="dardo:sophie"/>
+      <RS n="1" a="causa" df="1"
+      cDT="2012-06-10T14:58:36Z" wC="dardo:sophie"
+      dDT="2012-06-10T14:58:38Z"/>
+      <RS n="1" a="acusación" df="0"
+      cDT="2012-06-10T14:58:45Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="αἰτίαν">
       <RS n="0" a="αἰτίαν" df="1"
@@ -5073,10 +5076,11 @@
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κτήματα">
-      <RS n="1" a="propiedades" df="0"
+      <RS n="2" a="propiedades" df="0"
       cDT="2011-11-10T00:54:27Z" wC="dardo:sophie"/>
-      <RS n="1" a="riquezas" df="0"
-      cDT="2011-11-10T00:54:33Z" wC="dardo:sophie"/>
+      <RS n="1" a="riquezas" df="1"
+      cDT="2012-06-10T15:34:21Z" wC="dardo:sophie"
+      dDT="2012-06-10T15:34:25Z"/>
     </TU>
     <TU f="0" k="κτήσησθε">
       <RS n="1" a="se provean" df="0"
@@ -7201,12 +7205,14 @@
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="οὐκέτι">
-      <RS n="1" a="οὐκέτι" df="0"
-      cDT="2011-11-09T23:11:20Z" wC="dardo:sophie"/>
-      <RS n="1" a="ya no" df="0"
+      <RS n="0" a="οὐκέτι" df="1"
+      cDT="2011-11-09T23:11:20Z" wC="dardo:sophie"
+      dDT="2012-06-10T15:05:13Z"/>
+      <RS n="4" a="ya no" df="0"
       cDT="2011-11-09T23:11:37Z" wC="dardo:sophie"/>
-      <RS n="1" a="jamás" df="0"
-      cDT="2011-11-19T17:53:15Z" wC="dardo:sophie"/>
+      <RS n="1" a="jamás" df="1"
+      cDT="2012-06-10T15:04:47Z" wC="dardo:sophie"
+      dDT="2012-06-10T15:04:50Z"/>
     </TU>
     <TU f="0" k="οὐράνιος">
       <RS n="7" a="celestial" df="0"
@@ -11668,7 +11674,7 @@
       <RS n="0" a="Entonces" df="1"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"
       dDT="2011-10-19T04:23:58Z"/>
-      <RS n="1100" a="entonces" df="0"
+      <RS n="1130" a="entonces" df="0"
       cDT="2011-10-22T23:06:34Z" wC="dardo:sophie"/>
       <RS n="1" a="dfssdffds" df="1"
       cDT="2011-10-22T23:00:36Z" wC="dardo:sophie"
