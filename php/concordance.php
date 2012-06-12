@@ -10266,7 +10266,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἀργὸν',
-        'spa' => 'inútil',
+        'spa' => 'desocupada',
         'morph' => 'A-NSN',
         'ref' => 'mt 12:36',
       ),
@@ -20099,7 +20099,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'βαστάσαι',
-        'spa' => 'llevar',
+        'spa' => 'cargar',
         'morph' => 'V-AAN',
         'ref' => 'mt 3:11',
       ),
@@ -20109,7 +20109,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἐβάστασεν',
-        'spa' => 'llevó',
+        'spa' => 'cargó',
         'morph' => 'V-AAI-3S',
         'ref' => 'mt 8:17',
       ),
@@ -20119,7 +20119,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'βαστάσασι',
-        'spa' => 'habiendo llevado',
+        'spa' => 'habiendo cargado',
         'morph' => 'V-AAP-DPM',
         'ref' => 'mt 20:12',
       ),
@@ -67083,7 +67083,7 @@ $concordance = array (
       759 => 
       array (
         'word' => 'καὶ',
-        'spa' => 'y',
+        'spa' => 'e',
         'morph' => 'CONJ',
         'ref' => 'mt 20:34',
       ),
@@ -75889,7 +75889,7 @@ $concordance = array (
       3 => 
       array (
         'word' => 'λαβὼν',
-        'spa' => 'habiendo tomado',
+        'spa' => 'habiendo recibido',
         'morph' => 'V-2AAP-NSM',
         'ref' => 'mt 25:16',
       ),
@@ -76084,7 +76084,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'εἰληφὼς',
-        'spa' => 'había recibido',
+        'spa' => 'que ha recibido',
         'morph' => 'V-RAP-NSM',
         'ref' => 'mt 25:24',
       ),
@@ -101681,7 +101681,7 @@ $concordance = array (
       135 => 
       array (
         'word' => 'τῶν',
-        'spa' => 'las',
+        'spa' => 'los',
         'morph' => 'T-GPM',
         'ref' => 'mt 20:34',
       ),
@@ -107648,7 +107648,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ὀμμάτων',
-        'spa' => 'vistas',
+        'spa' => 'ojos',
         'morph' => 'N-GPN',
         'ref' => 'mt 20:34',
       ),
