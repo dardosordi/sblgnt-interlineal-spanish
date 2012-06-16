@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="6" sizex="1290" sizey="11995" ftsbp="1" specialcolor="255"
+	<Settings docVersion="7" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="5939" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="28:" srcname="SBL GNT" tgtname="Español"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -19559,7 +19559,7 @@
   <S s="οὐρανοῦ" k="οὐρανοῦ" t="cielo" a="cielo"
   f="0000000000000000000001" sn="5937" w="1" ty="1">
   </S>
-  <S s="ὑψωθήσῃ⸃;" k="ὑψωθήσῃ" t="serás levantada⸃?" a="serás levantada"
+  <S s="ὑψωθήσῃ⸃;" k="ὑψωθήσῃ" t="serás elevada⸃?" a="serás elevada"
   f="0000000000000000100001" sn="5938" w="1" ty="1"
   fp="⸃;">
   </S>
@@ -45135,7 +45135,7 @@
   <S s="κληθῆτε" k="κληθῆτε" t="sean llamados" a="sean llamados"
   f="0000000000000000000001" sn="13667" w="1" ty="1">
   </S>
-  <S s="καθηγηταί," k="καθηγηταί" t="guías," a="guías"
+  <S s="καθηγηταί," k="καθηγηταί" t="maestros," a="maestros"
   f="0000000000000000000001" sn="13668" w="1" ty="1"
   fp=",">
   </S>
@@ -45143,7 +45143,7 @@
   f="0000000000000000000001" sn="13669" w="1" ty="1"
   pp="⸂">
   </S>
-  <S s="καθηγητὴς" k="καθηγητὴς" t="guía" a="guía"
+  <S s="καθηγητὴς" k="καθηγητὴς" t="maestro" a="maestro"
   f="0000000000000000000001" sn="13670" w="1" ty="1">
   </S>
   <S s="ὑμῶν" k="ὑμῶν" t="de ustedes" a="de ustedes"

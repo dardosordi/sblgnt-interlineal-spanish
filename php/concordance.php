@@ -61428,7 +61428,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'καθηγηταί',
-        'spa' => 'guías',
+        'spa' => 'maestros',
         'morph' => 'N-NPM',
         'ref' => 'mt 23:10',
       ),
@@ -61438,7 +61438,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'καθηγητὴς',
-        'spa' => 'guía',
+        'spa' => 'maestro',
         'morph' => 'N-NSM',
         'ref' => 'mt 23:10',
       ),
@@ -141315,7 +141315,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ὑψωθήσῃ',
-        'spa' => 'serás levantada',
+        'spa' => 'serás elevada',
         'morph' => 'V-FPI-2S',
         'ref' => 'mt 11:23',
       ),
