@@ -28562,7 +28562,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'δεῖνα',
-        'spa' => 'tail',
+        'spa' => 'tal',
         'morph' => 'A-ASM',
         'ref' => 'mt 26:18',
       ),
@@ -68994,7 +68994,7 @@ $concordance = array (
       1032 => 
       array (
         'word' => 'καὶ',
-        'spa' => 'y',
+        'spa' => 'también',
         'morph' => 'CONJ',
         'ref' => 'mt 26:13',
       ),
@@ -71579,7 +71579,7 @@ $concordance = array (
       3 => 
       array (
         'word' => 'καθ’',
-        'spa' => 'contra',
+        'spa' => 'durante',
         'morph' => 'PREP',
         'ref' => 'mt 26:55',
       ),
