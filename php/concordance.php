@@ -10884,14 +10884,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἀπολελυμένην',
-        'spa' => 'la que ha sido despedida',
+        'spa' => 'la despedida',
         'morph' => 'V-RPP-ASF',
         'ref' => 'mt 5:32',
       ),
       1 => 
       array (
         'word' => 'ἀπολελυμένην',
-        'spa' => 'con quien ha sido despedida',
+        'spa' => 'la despedida',
         'morph' => 'V-RPP-ASF',
         'ref' => 'mt 19:9',
       ),
@@ -21727,7 +21727,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'βεβλημένην',
-        'spa' => 'que había sido arrojada',
+        'spa' => 'arrojada',
         'morph' => 'V-RPP-ASF',
         'ref' => 'mt 8:14',
       ),
@@ -21737,7 +21737,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'βεβλημένον',
-        'spa' => 'había sido arrojado',
+        'spa' => 'arrojado',
         'morph' => 'V-RPP-ASM',
         'ref' => 'mt 9:2',
       ),
@@ -27664,7 +27664,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'γεγραμμένην',
-        'spa' => 'que esta escrita',
+        'spa' => 'escrita',
         'morph' => 'V-RPP-ASF',
         'ref' => 'mt 27:37',
       ),
@@ -33553,7 +33553,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'δεδεμένον',
-        'spa' => 'habiendo sido atado',
+        'spa' => 'atado',
         'morph' => 'V-RPP-NSN',
         'ref' => 'mt 16:19',
       ),
@@ -33573,7 +33573,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'δεδεμένα',
-        'spa' => 'habiendo sido atado',
+        'spa' => 'atados',
         'morph' => 'V-RPP-NPN',
         'ref' => 'mt 18:18',
       ),
@@ -33583,7 +33583,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'δεδεμένην',
-        'spa' => 'habiendo sido atada',
+        'spa' => 'atada',
         'morph' => 'V-RPP-ASF',
         'ref' => 'mt 21:2',
       ),
@@ -36102,7 +36102,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'δεδιωγμένοι',
-        'spa' => 'que han sido perseguidos',
+        'spa' => 'perseguidos',
         'morph' => 'V-RPP-NPM',
         'ref' => 'mt 5:10',
       ),
@@ -40464,7 +40464,7 @@ $concordance = array (
       1 => 
       array (
         'word' => 'εἰδὼς',
-        'spa' => 'habiendo conocido',
+        'spa' => 'conociendo',
         'morph' => 'V-RAP-NSM',
         'ref' => 'mt 12:25',
       ),
@@ -40601,7 +40601,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'εἰδότες',
-        'spa' => 'habiendo conocido',
+        'spa' => 'conociendo',
         'morph' => 'V-RAP-NPM',
         'ref' => 'mt 22:29',
       ),
@@ -49780,7 +49780,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἐνδεδυμένον',
-        'spa' => 'se ha vestido',
+        'spa' => 'vestido',
         'morph' => 'V-RMP-ASM',
         'ref' => 'mt 22:11',
       ),
@@ -54960,7 +54960,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'εἰρηκότος',
-        'spa' => 'que fue dicha',
+        'spa' => 'dicha',
         'morph' => 'V-RAP-GSN-ATT',
         'ref' => 'mt 26:75',
       ),
@@ -58249,7 +58249,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἡτοιμασμένην',
-        'spa' => 'ha sido preparado',
+        'spa' => 'preparado',
         'morph' => 'V-RPP-ASF',
         'ref' => 'mt 25:34',
       ),
@@ -58259,7 +58259,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἡτοιμασμένον',
-        'spa' => 'ha sido preparado',
+        'spa' => 'preparado',
         'morph' => 'V-RPP-ASN',
         'ref' => 'mt 25:41',
       ),
@@ -65471,7 +65471,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'τεθυμένα',
-        'spa' => 'han sido sacrificadas',
+        'spa' => 'sacrificadas',
         'morph' => 'V-RPP-NPN',
         'ref' => 'mt 22:4',
       ),
@@ -68890,14 +68890,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἑστῶτες',
-        'spa' => 'habiéndose parado',
+        'spa' => 'parados',
         'morph' => 'V-RAP-NPM',
         'ref' => 'mt 6:5',
       ),
       1 => 
       array (
         'word' => 'ἑστῶτες',
-        'spa' => 'habiéndose parado',
+        'spa' => 'parados',
         'morph' => 'V-RAP-NPM',
         'ref' => 'mt 26:73',
       ),
@@ -68954,7 +68954,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἑστώτων',
-        'spa' => 'están parados',
+        'spa' => 'parados',
         'morph' => 'V-RAP-GPM',
         'ref' => 'mt 16:28',
       ),
@@ -68974,14 +68974,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἑστῶτας',
-        'spa' => 'estában parados',
+        'spa' => 'parados',
         'morph' => 'V-RAP-APM',
         'ref' => 'mt 20:3',
       ),
       1 => 
       array (
         'word' => 'ἑστῶτας',
-        'spa' => 'estában parados',
+        'spa' => 'parados',
         'morph' => 'V-RAP-APM',
         'ref' => 'mt 20:6',
       ),
@@ -69048,7 +69048,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἑστηκότων',
-        'spa' => 'están parados',
+        'spa' => 'parados',
         'morph' => 'V-RAP-GPM',
         'ref' => 'mt 27:47',
       ),
@@ -82577,7 +82577,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκλημένους',
-        'spa' => 'que han sido llamados',
+        'spa' => 'llamados',
         'morph' => 'V-RPP-APM',
         'ref' => 'mt 22:3',
       ),
@@ -82587,7 +82587,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκλημένοις',
-        'spa' => 'que han sido llamados',
+        'spa' => 'llamados',
         'morph' => 'V-RPP-DPM',
         'ref' => 'mt 22:4',
       ),
@@ -82597,7 +82597,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκλημένοι',
-        'spa' => 'que han sido llamados',
+        'spa' => 'llamados',
         'morph' => 'V-RPP-NPM',
         'ref' => 'mt 22:8',
       ),
@@ -82863,7 +82863,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκαλυμμένον',
-        'spa' => 'que ha sido encubierto',
+        'spa' => 'encubierto',
         'morph' => 'V-RPP-NSN',
         'ref' => 'mt 10:26',
       ),
@@ -85600,7 +85600,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκοιμημένων',
-        'spa' => 'que habían dormido',
+        'spa' => 'dormidos',
         'morph' => 'V-RPP-GPM',
         'ref' => 'mt 27:52',
       ),
@@ -85821,7 +85821,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκονιαμένοις',
-        'spa' => 'que han sido blanquedos',
+        'spa' => 'blanquedos',
         'morph' => 'V-RPP-DPM',
         'ref' => 'mt 23:27',
       ),
@@ -85972,7 +85972,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκοσμημένον',
-        'spa' => 'estando ordenada',
+        'spa' => 'ordenada',
         'morph' => 'V-RPP-ASM',
         'ref' => 'mt 12:44',
       ),
@@ -86810,7 +86810,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκρυμμένα',
-        'spa' => 'lo que ha sido escondido',
+        'spa' => 'escondidos',
         'morph' => 'V-RPP-APN',
         'ref' => 'mt 13:35',
       ),
@@ -86820,7 +86820,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'κεκρυμμένῳ',
-        'spa' => 'que ha sido escondido',
+        'spa' => 'escondido',
         'morph' => 'V-RPP-DSM',
         'ref' => 'mt 13:44',
       ),
@@ -88537,7 +88537,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'εἰληφὼς',
-        'spa' => 'que ha recibido',
+        'spa' => 'recibido',
         'morph' => 'V-RAP-NSM',
         'ref' => 'mt 25:24',
       ),
@@ -92503,7 +92503,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'λελυμένον',
-        'spa' => 'habiendo sido desatado',
+        'spa' => 'desatado',
         'morph' => 'V-RPP-NSN',
         'ref' => 'mt 16:19',
       ),
@@ -92523,7 +92523,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'λελυμένα',
-        'spa' => 'habiendo sido desatado',
+        'spa' => 'desatados',
         'morph' => 'V-RPP-NPN',
         'ref' => 'mt 18:18',
       ),
@@ -139068,7 +139068,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'πεπλανημένοις',
-        'spa' => 'que estan extraviadas',
+        'spa' => 'extraviadas',
         'morph' => 'V-RPP-DPN',
         'ref' => 'mt 18:13',
       ),
@@ -147071,7 +147071,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'σεσαρωμένον',
-        'spa' => 'estando barrida',
+        'spa' => 'barrida',
         'morph' => 'V-RPP-ASM',
         'ref' => 'mt 12:44',
       ),
@@ -149918,7 +149918,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'ἐσπαρμένον',
-        'spa' => 'que ha sido sembrado',
+        'spa' => 'sembrado',
         'morph' => 'V-RPP-ASN',
         'ref' => 'mt 13:19',
       ),
@@ -151358,7 +151358,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'συνηγμένοι',
-        'spa' => 'que se han reunido',
+        'spa' => 'reunidos',
         'morph' => 'V-RPP-NPM',
         'ref' => 'mt 18:20',
       ),
@@ -151385,14 +151385,14 @@ $concordance = array (
       0 => 
       array (
         'word' => 'Συνηγμένων',
-        'spa' => 'Habiendose reunido',
+        'spa' => 'Reunidos',
         'morph' => 'V-RPP-GPM',
         'ref' => 'mt 22:41',
       ),
       1 => 
       array (
         'word' => 'συνηγμένων',
-        'spa' => 'habiendose reunido',
+        'spa' => 'reunidos',
         'morph' => 'V-RPP-GPM',
         'ref' => 'mt 27:17',
       ),
@@ -161751,7 +161751,7 @@ $concordance = array (
       0 => 
       array (
         'word' => 'πεφορτισμένοι',
-        'spa' => 'que han sido cargados',
+        'spa' => 'cargados',
         'morph' => 'V-RPP-NPM',
         'ref' => 'mt 11:28',
       ),
