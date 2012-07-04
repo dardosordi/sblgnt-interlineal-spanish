@@ -11,13 +11,14 @@ include 'breaks.php';
 include 'translit.php';
 include 'helpers.php';
 
-ini_set('memory_limit', '128M');
+ini_set('memory_limit', '256M');
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
 $moprhdb_path = dirname(__FILE__) . '/morph/';
 #$moprhdb_path = dirname(__FILE__) . '/lmorph/';
 
-$works = array('mt');
+$works = array('mt', 'mk');
+$concordance = array();
 
 foreach($works as $book) {
 
@@ -34,8 +35,6 @@ $current_book = 1;
 $current_chapter = 0;
 $current_verse = 0;
 $current_word = 0;
-
-$concordance = array();
 
 foreach($xml->xpath('//S') as $S) {
 	if (isset($S['m'])) {
@@ -61,7 +60,8 @@ foreach($xml->xpath('//S') as $S) {
 
 
 	if (isset($S['f']) && !intval($S['f'])) {
-		echo "//MISSING NUMBRER: $book $current_chapter:$current_verse";
+		//echo "//MISSING NUMBRER: $book $current_chapter:$current_verse\n";
+		//file_put_contents('php://stderr', "//MISSING NUMBRER: $book $current_chapter:$current_verse\n");
 		continue;
 	}
 

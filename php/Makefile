@@ -1,13 +1,17 @@
+BOOKS=../adaptations/Adaptations/61-Mt.xml ../adaptations/Adaptations/62-Mk.xml
+MORPH=morph/mt.php morph/mk.php
+LMORPH=lmorph/mt.php lmorph/mk.php
+
 concordance: concordance.php lconcordance.php
 
-concordance.php: ../adaptations/Adaptations/61-Mt.xml morph/mt.php
+concordance.php: ${BOOKS} ${MORPH}
 	php make_concordance.php > concordance.php
 
-lconcordance.php: ../adaptations/Adaptations/61-Mt.xml lmorph/mt.php
+lconcordance.php: ${BOOKS} ${LMORPH}
 	php make_lconcordance.php > lconcordance.php
 
 
-concordance.txt: ../adaptations/Adaptations/61-Mt.xml morph/mt.php
+concordance.txt: ${BOOKS} ${MORPH}
 	php make_parsed.php > concordance.txt
 
 cambios: concordance.php
