@@ -331,6 +331,7 @@ $apparatus['mk'][6][31][0] = 'λέγει WH Treg NIV ] εἶπεν RP';
 $apparatus['mk'][6][31][1] = 'ἀναπαύσασθε WH Treg NIV ] ἀναπαύεσθε RP';
 $apparatus['mk'][6][32][0] = 'ἐν τῷ πλοίῳ εἰς ἔρημον τόπον WH NIV ] εἰς ἔρημον τόπον τῷ πλοίῳ Treg RP';
 $apparatus['mk'][6][33][0] = 'ἐπέγνωσαν NIV ] + αὐτὸν RP; ἔγνωσαν WH Treg';
+$apparatus['mk'][6][33][1] = 'αὐτοὺς WH Treg NIV ] αὐτοῖς RP // FALTA EN ORIGINAL';
 $apparatus['mk'][6][34][0] = 'εἶδεν WH Treg NIV ] + ὁ Ἰησοῦς RP';
 $apparatus['mk'][6][34][1] = 'αὐτοὺς WH Treg NIV ] αὐτοῖς RP';
 $apparatus['mk'][6][35][0] = 'ἔλεγον WH Treg NIV ] λέγουσιν RP';
