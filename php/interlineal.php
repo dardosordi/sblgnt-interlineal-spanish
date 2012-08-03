@@ -153,6 +153,7 @@ foreach($interlineal as $S) {
 				$content .= $breaks[$book][$current_chapter]['s'];
 			}
 
+
 			$content .= '<span class="block">';
 			if ($show_greek) {
 				$content .= sprintf('<span id="c%d" class="chapter">%s</span>', $current_chapter, $current_chapter);
@@ -166,6 +167,12 @@ foreach($interlineal as $S) {
 		}
 
 		if ($S['v'] != $current_verse) {
+
+			if ($current_verse) {
+				$content .= '</span>';
+			}
+			$content .= '<span class="verse-text">';
+
 			$current_note = 0;
 			$current_word = 0;
 			$current_verse = $S['v'];

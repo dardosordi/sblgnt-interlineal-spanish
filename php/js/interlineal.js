@@ -5,6 +5,9 @@ $(function() {
 	$('#panel').append(' - <label><input type="checkbox" name="translit"> Transliteration</label>');
 	$('#panel').append(' - <label><input type="checkbox" name="spa"> Spanish</label>');
 
+	$('#panel').append(' - <a href="javascript:prev();">&lt;</a>');
+	$('#panel').append(' <a href="javascript:next();">&gt;</a>');
+
 	if (!window.location.href.match(/strongs=0/)) {
 		$('#panel input[name=strongs]').attr('checked', true);
 	}
@@ -71,4 +74,60 @@ $(function() {
 		$(ref).addClass('highlight');
 	});
 
+	var verseMatch = /#v([0-9]+)/.exec(window.location.hash);
+	if (verseMatch) {
+		selectVerse(verseMatch[1]);
+	}
+
 });
+
+function selectVerse(n) {
+	var id = '#v' + n;
+	var verse = $(id);
+
+	if (verse.length) {
+		var selected = 	$('.selected').removeClass('selected');
+
+		verse.parent().parent().addClass('selected');
+		verse.attr('id', '_' + id.substr(1))
+		window.location.hash = id;
+		verse.attr('id', id.substr(1))
+
+		$('html,body').animate({scrollTop: verse.offset().top - 100}, 'slow');
+	}
+}
+
+function prev() {
+	var verse = 2;
+	var verseMatch = /#v([0-9]+)/.exec(window.location.hash);
+	if (verseMatch) {
+		verse = parseInt(verseMatch[1]);
+	}
+
+	while(--verse > 0) {
+		if ($('#v' + verse).length) {
+			break;
+		}
+	}
+
+	selectVerse(verse);
+
+}
+
+function next() {
+	var verse = 0;
+	var verseMatch = /#v([0-9]+)/.exec(window.location.hash);
+	if (verseMatch) {
+		verse = parseInt(verseMatch[1]);
+	}
+
+	var maxVerse = parseInt($('.verse:last').attr('id').substr(1)) + 1;
+	while(++verse < maxVerse) {
+		if ($('#v' + verse).length) {
+			break;
+		}
+	}
+
+	selectVerse(verse);
+}
+

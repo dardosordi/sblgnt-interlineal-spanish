@@ -200,6 +200,10 @@ a:visited {
 	cursor: pointer;
 }
 
+.selected {
+	border-bottom: 1px solid #f00;
+}
+
 .highlight {
 	background: #ff6;
 }
