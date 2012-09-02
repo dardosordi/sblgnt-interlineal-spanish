@@ -3,8 +3,8 @@
 	 Note: Using Microsoft WORD 2003 or later is not a good way to edit this xml file.
 	 Instead, use NotePad or WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="7" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="5178" ftsbp="1" specialcolor="255"
-	retranscolor="20640" navcolor="65280" curchap="" srcname="SBL GNT" tgtname="Español"
+	<Settings docVersion="7" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="16562" ftsbp="1" specialcolor="255"
+	retranscolor="20640" navcolor="65280" curchap="14:" srcname="SBL GNT" tgtname="Español"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \h \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
   f="0000000000000000011001" sn="0" w="1" ty="10"
@@ -14398,7 +14398,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="4369" w="1" ty="1">
   </S>
-  <S s="ἀναστὰς" k="ἀναστὰς" t="levantado" a="levantado"
+  <S s="ἀναστὰς" k="ἀναστὰς" t="habiéndose levantado" a="habiéndose levantado"
   f="0000000000000000000001" sn="4370" w="1" ty="1">
   </S>
   <S s="ἠκολούθησεν" k="ἠκολούθησεν" t="siguió" a="siguió"
@@ -14819,7 +14819,7 @@
   <S s="δὲ" k="δὲ" t="← pero" a="← pero"
   f="0000000000000000000001" sn="4497" w="1" ty="1">
   </S>
-  <S s="ἐπιβάλλει" k="ἐπιβάλλει" t="pone" a="pone"
+  <S s="ἐπιβάλλει" k="ἐπιβάλλει" t="arroja" a="arroja"
   f="0000000000000000000001" sn="4498" w="1" ty="1">
   </S>
   <S s="ἐπίβλημα" k="ἐπίβλημα" t="parche" a="parche"
@@ -19923,7 +19923,7 @@
   <S s="κἀγὼ" k="κἀγὼ" t="y yo" a="y yo"
   f="0000000000000000000001" sn="6048" w="1" ty="1">
   </S>
-  <S s="ἀναπαύσω" k="ἀναπαύσω" t="daré descanso" a="daré descanso"
+  <S s="ἀναπαύσω" k="ἀναπαύσω" t="haré descansar" a="haré descansar"
   f="0000000000000000000001" sn="6049" w="1" ty="1">
   </S>
   <S s="ὑμᾶς." k="ὑμᾶς" t="a ustedes." a="a ustedes"
@@ -54186,7 +54186,7 @@
   <S s="οὐκ" k="οὐκ" t="no" a="no"
   f="0000000000000000000001" sn="16397" w="1" ty="1">
   </S>
-  <S s="ἰσχύσατε" k="ἰσχύσατε" t="tienen fuerza" a="tienen fuerza"
+  <S s="ἰσχύσατε" k="ἰσχύσατε" t="pudieron" a="pudieron"
   f="0000000000000000000001" sn="16398" w="1" ty="1">
   </S>
   <S s="μίαν" k="μίαν" t="una" a="una"
@@ -54457,7 +54457,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="16477" w="1" ty="1">
   </S>
-  <S s="ἀναπαύεσθε·" k="ἀναπαύεσθε" t="descanse:" a="descanse"
+  <S s="ἀναπαύεσθε·" k="ἀναπαύεσθε" t="descansen:" a="descansen"
   f="0000000000000000100001" sn="16478" w="1" ty="1"
   fp="·">
   </S>
@@ -54737,7 +54737,7 @@
   <S s="προσελθόντες" k="προσελθόντες" t="habiendo venido" a="habiendo venido"
   f="0000000000000000000001" sn="16561" w="1" ty="1">
   </S>
-  <S s="ἐπέβαλον" k="ἐπέβαλον" t="pusieron" a="pusieron"
+  <S s="ἐπέβαλον" k="ἐπέβαλον" t="arrojaron" a="arrojaron"
   f="0000000000000000000001" sn="16562" w="1" ty="1">
   </S>
   <S s="τὰς" k="τὰς" t="las" a="las"
@@ -55410,7 +55410,7 @@
   c="26:62"
   m="\v 62 ">
   </S>
-  <S s="ἀναστὰς" k="ἀναστὰς" t="levantado" a="levantado"
+  <S s="ἀναστὰς" k="ἀναστὰς" t="habiéndose levantado" a="habiéndose levantado"
   f="0000000000000000000001" sn="16767" w="1" ty="1">
   </S>
   <S s="ὁ" k="ὁ" t="el" a="el"
