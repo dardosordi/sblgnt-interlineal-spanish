@@ -9758,11 +9758,11 @@ $morphdb['mk'][14][41][3] = array('word' => 'τρίτον', 'translit' => 'trito
 $morphdb['mk'][14][41][4] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CLN', 'strongs' => '2532',);
 $morphdb['mk'][14][41][5] = array('word' => 'λέγει', 'translit' => 'legei', 'morph' => 'VPAI3S', 'strongs' => '3004',);
 $morphdb['mk'][14][41][6] = array('word' => 'αὐτοῖς', 'translit' => 'autois', 'morph' => 'RP3DPM', 'strongs' => '846',);
-$morphdb['mk'][14][41][7] = array('word' => 'Καθεύδετε', 'translit' => 'Katheudete', 'morph' => 'VPAI2P', 'strongs' => '2518',);
+$morphdb['mk'][14][41][7] = array('word' => 'Καθεύδετε', 'translit' => 'Katheudete', 'morph' => 'VPAM2P', 'strongs' => '2518',);
 $morphdb['mk'][14][41][8] = array('word' => 'τὸ', 'translit' => 'to', 'morph' => 'DASN', 'strongs' => '3588',);
 $morphdb['mk'][14][41][9] = array('word' => 'λοιπὸν', 'translit' => 'loipon', 'morph' => 'JASN', 'strongs' => '3063',);
 $morphdb['mk'][14][41][10] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CLN', 'strongs' => '2532',);
-$morphdb['mk'][14][41][11] = array('word' => 'ἀναπαύεσθε', 'translit' => 'anapauesthe', 'morph' => 'VPMI2P', 'strongs' => '373',);
+$morphdb['mk'][14][41][11] = array('word' => 'ἀναπαύεσθε', 'translit' => 'anapauesthe', 'morph' => 'VPMM2P', 'strongs' => '373',);
 $morphdb['mk'][14][41][12] = array('word' => 'ἀπέχει', 'translit' => 'apechei', 'morph' => 'VPAI3S', 'strongs' => '566',);
 $morphdb['mk'][14][41][13] = array('word' => 'ἦλθεν', 'translit' => 'ēlthen', 'morph' => 'VAAI3S', 'strongs' => '2064',);
 $morphdb['mk'][14][41][14] = array('word' => 'ἡ', 'translit' => 'hē', 'morph' => 'DNSF', 'strongs' => '3588',);
