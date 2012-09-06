@@ -1,6 +1,6 @@
-BOOKS=../adaptations/Adaptations/61-Mt.xml ../adaptations/Adaptations/62-Mk.xml
-MORPH=morph/mt.php morph/mk.php
-LMORPH=lmorph/mt.php lmorph/mk.php
+BOOKS=../adaptations/Adaptations/*.xml
+MORPH=morph/*.php
+LMORPH=lmorph/*.php
 
 concordance: concordance.php lconcordance.php
 
