@@ -14,17 +14,18 @@ include 'helpers.php';
 ini_set('memory_limit', '256M');
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
-#$moprhdb_path = dirname(__FILE__) . '/morph/';
 $moprhdb_path = dirname(__FILE__) . '/lmorph/';
 
-$works = array('mt', 'mk');
 $concordance = array();
 
-foreach($works as $book) {
+foreach($books as $book => $book_data) {
 
 $filename = $xml_path . $books[$book]['xml'];
 $morphdb_filename = $moprhdb_path . $book . '.php';
 
+if (!file_exists($filename)) {
+	continue;
+}
 
 $xml = simplexml_load_file($filename);
 
