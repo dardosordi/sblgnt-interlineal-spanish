@@ -38,6 +38,14 @@ if ($use_logos) {
 	$moprhdb_path = dirname(__FILE__) . '/lmorph/';
 }
 
+if (!isset($books[$book])) {
+	foreach ($books as $key => $value) {
+		if ($book == $value['dir']) {
+			$book = $key;
+			break;
+		}
+	}
+}
 
 $filename = $xml_path . $books[$book]['xml'];
 $morphdb_filename = $moprhdb_path . $book . '.php';

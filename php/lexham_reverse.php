@@ -30,6 +30,15 @@ $query_string = (!empty($params) ? '?' : '') . http_build_query($params);
 
 $xml_path = dirname(dirname(__FILE__)) . '/lexham/';
 
+if (!isset($books[$book])) {
+	foreach ($books as $key => $value) {
+		if ($book == $value['dir']) {
+			$book = $key;
+			break;
+		}
+	}
+}
+
 $filename = $xml_path . $books[$book]['xml'];
 
 
