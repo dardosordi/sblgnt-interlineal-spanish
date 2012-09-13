@@ -4812,7 +4812,7 @@
     </TU>
     <TU f="0" k="κΑΤΑ">
       <RS n="1" a="según" df="0"
-      cDT="2012-09-05T01:34:41Z" wC="dardo:sophie"/>
+      cDT="2012-09-13T21:58:01Z" wC="dardo:sophie"/>
       <RS n="1" a="eran sumergidos" df="1"
       cDT="2012-07-04T01:16:52Z" wC="dardo:sophie"
       dDT="2012-07-04T01:17:14Z"/>
@@ -23549,6 +23549,11 @@
       <RS n="1" a="Permitió" df="0"
       cDT="2012-09-05T00:50:14Z" wC="dardo:sophie"/>
     </TU>
+    <TU f="0" k="Ἐπειδήπερ">
+      <RS n="1" a="Ἐπειδήπερ" df="1"
+      cDT="2012-09-06T02:44:23Z" wC="dardo:sophie"
+      dDT="2012-09-06T02:44:25Z"/>
+    </TU>
     <TU f="0" k="Ἐπερωτήσω">
       <RS n="1" a="Preguntaré" df="0"
       cDT="2012-09-05T00:50:16Z" wC="dardo:sophie"/>
@@ -23730,8 +23735,11 @@
       cDT="2011-12-20T01:54:56Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἠγνόουν">
-      <RS n="1" a="entendían" df="0"
-      cDT="2012-09-05T00:50:13Z" wC="dardo:sophie"/>
+      <RS n="1" a="entendían" df="1"
+      cDT="2012-09-05T00:50:13Z" wC="dardo:sophie"
+      dDT="2012-09-13T21:58:07Z"/>
+      <RS n="1" a="no entendían" df="0"
+      cDT="2012-09-13T21:58:09Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἠγόρασαν">
       <RS n="2" a="compraron" df="0"
