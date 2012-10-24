@@ -56,10 +56,12 @@ ProjectSettings
 SourceLanguageName	SBL GNT
 TargetLanguageName	Español
 GlossesLanguageName	
-SourceLanguageCode	
-TargetLanguageCode	
+FreeTranslationLanguageName	
+SourceLanguageCode	qqq
+TargetLanguageCode	qqq
 GlossesLanguageCode	
-LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/62-Mk.xml
+FreeTranslationLanguageCode	
+LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/61-Mt.xml
 LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
 LastInterlinearRTFOutputPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/_INTERLINEAR_RTF_OUTPUTS
 LastSourceTextExportPath	
@@ -70,6 +72,8 @@ LastGlossesTextExportPath
 LastGlossesTextRTFExportPath	
 LastFreeTransExportPath	
 LastFreeTransRTFExportPath	
+LastXhtmlExportPath	
+LastPathwayExportPath	
 FoldersProtectedFromNavigation	
 PunctuationPairsSourceSet(stores space for an empty cell)	;.,·:"!()<>⟦⟧[]“”‘’⸀⸁⸂⸄⸃⸅’
 PunctuationPairsTargetSet(stores space for an empty cell)	?.,::"!()<>⟦⟧[]“”‘ ⸀⸁⸂⸄⸃⸅ 
@@ -104,8 +108,8 @@ SFMafterNewlines	0
 SourceIsRTL	0
 TargetIsRTL	0
 NavTextIsRTL	0
-LowerCaseSourceLanguageChars	αβγδεζηθικλμνξοπρστυφχψω
-UpperCaseSourceLanguageChars	ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+LowerCaseSourceLanguageChars	abcdefghijklmnopqrstuvwxyz
+UpperCaseSourceLanguageChars	ABCDEFGHIJKLMNOPQRSTUVWXYZ
 LowerCaseTargetLanguageChars	abcdefghijklmnopqrstuvwxyz
 UpperCaseTargetLanguageChars	ABCDEFGHIJKLMNOPQRSTUVWXYZ
 LowerCaseGlossLanguageChars	abcdefghijklmnopqrstuvwxyz
