@@ -3,7 +3,7 @@
 	 Note: Using Microsoft WORD 2003 or later is not a good way to edit this xml file.
 	 Instead, use NotePad or WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="7" bookName="" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="14369" ftsbp="1" specialcolor="255"
+	<Settings docVersion="7" bookName="" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="17961" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="24:" srcname="SBL GNT" tgtname="Español" srccode="qqq" tgtcode="qqq"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -4369,7 +4369,7 @@
   f="0000000000000000000001" sn="1328" w="1" ty="1"
   fp=",">
   </S>
-  <S s="μήποτε" k="μήποτε" t="para que no" a="para que no"
+  <S s="μήποτε" k="μήποτε" t="no sea que" a="no sea que"
   f="0000000000000000000001" sn="1329" w="1" ty="1">
   </S>
   <S s="προσκόψῃς" k="προσκόψῃς" t="golpees" a="golpees"
@@ -6829,7 +6829,7 @@
   f="0000000000000000100001" sn="2076" w="1" ty="1"
   fp="⸃,">
   </S>
-  <S s="μήποτέ" k="μήποτέ" t="para que no" a="para que no"
+  <S s="μήποτέ" k="μήποτέ" t="no sea que" a="no sea que"
   f="0000000000000000000001" sn="2077" w="1" ty="1">
   </S>
   <S s="σε" k="σε" t="te" a="te"
@@ -10581,7 +10581,7 @@
   f="0000000000000000000001" sn="3218" w="1" ty="1"
   fp=",">
   </S>
-  <S s="μήποτε" k="μήποτε" t="para que no" a="para que no"
+  <S s="μήποτε" k="μήποτε" t="no sea que" a="no sea que"
   f="0000000000000000000001" sn="3219" w="1" ty="1">
   </S>
   <S s="⸀καταπατήσουσιν" k="καταπατήσουσιν" t="⸀pisoteen" a="pisoteen"
@@ -23788,13 +23788,13 @@
   f="0000000000000000100001" sn="7223" w="1" ty="1"
   fp="·">
   </S>
-  <S s="μήποτε" k="μήποτε" t="para que no" a="para que no"
+  <S s="μήποτε" k="μήποτε" t="no sea que" a="no sea que"
   f="0000000000000000000001" sn="7224" w="1" ty="1">
   </S>
   <S s="ἴδωσιν" k="ἴδωσιν" t="vean" a="vean"
   f="0000000000000000000001" sn="7225" w="1" ty="1">
   </S>
-  <S s="τοῖς" k="τοῖς" t="en los" a="en los"
+  <S s="τοῖς" k="τοῖς" t="con los" a="con los"
   f="0000000000000000000001" sn="7226" w="1" ty="1">
   </S>
   <S s="ὀφθαλμοῖς" k="ὀφθαλμοῖς" t="ojos" a="ojos"
@@ -23803,7 +23803,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="7228" w="1" ty="1">
   </S>
-  <S s="τοῖς" k="τοῖς" t="en los" a="en los"
+  <S s="τοῖς" k="τοῖς" t="con los" a="con los"
   f="0000000000000000000001" sn="7229" w="1" ty="1">
   </S>
   <S s="ὠσὶν" k="ὠσὶν" t="oídos" a="oídos"
@@ -24685,7 +24685,7 @@
   f="0000000000000000000001" sn="7498" w="1" ty="1"
   fp=",">
   </S>
-  <S s="μήποτε" k="μήποτε" t="para que no" a="para que no"
+  <S s="μήποτε" k="μήποτε" t="no sea que" a="no sea que"
   f="0000000000000000000001" sn="7499" w="1" ty="1">
   </S>
   <S s="συλλέγοντες" k="συλλέγοντες" t="recogiendo" a="recogiendo"
@@ -49916,7 +49916,7 @@
   f="0000000000000000100001" sn="15110" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μήποτε" k="Μήποτε" t="Para que no" a="Para que no"
+  <S s="Μήποτε" k="Μήποτε" t="No sea que" a="No sea que"
   f="0000000000000000000001" sn="15111" w="1" ty="1">
   </S>
   <S s="⸂οὐ" k="οὐ" t="⸂no" a="no"
@@ -59373,7 +59373,7 @@
   f="0000000000000000000001" sn="17960" w="1" ty="1"
   fp=",">
   </S>
-  <S s="μήποτε" k="μήποτε" t="para que no" a="para que no"
+  <S s="μήποτε" k="μήποτε" t="no sea que" a="no sea que"
   f="0000000000000000000001" sn="17961" w="1" ty="1">
   </S>
   <S s="ἐλθόντες" k="ἐλθόντες" t="habiendo venido" a="habiendo venido"
