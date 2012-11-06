@@ -149,8 +149,9 @@
       cDT="2011-10-18T22:27:12Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ΚΑΤΑ">
-      <RS n="1" a="Según" df="0"
-      cDT="2012-11-06T03:18:34Z" wC="dardo:sophie"/>
+      <RS n="1" a="Según" df="1"
+      cDT="2012-11-06T03:18:34Z" wC="dardo:sophie"
+      dDT="2012-11-06T03:19:59Z"/>
     </TU>
     <TU f="0" k="Καίσαρος">
       <RS n="2" a="César" df="0"
@@ -4049,7 +4050,7 @@
       <RS n="378" a="← pero" df="0"
       cDT="2011-10-18T22:27:12Z" wC="dardo:sophie"/>
       <RS n="1" a="δὲ" df="0"
-      cDT="2012-11-06T03:18:44Z" wC="dardo:sophie"/>
+      cDT="2012-11-06T03:20:02Z" wC="dardo:sophie"/>
       <RS n="1" a="h" df="1"
       cDT="2012-01-29T03:20:15Z" wC="dardo:sophie"
       dDT="2012-01-29T03:20:19Z"/>
@@ -28450,10 +28451,11 @@
       <RS n="1" a="subordinado" df="1"
       cDT="2011-10-19T03:40:20Z" wC="dardo:sophie"
       dDT="2012-03-28T05:23:05Z"/>
-      <RS n="1" a="oficial" df="0"
+      <RS n="2" a="oficial" df="0"
       cDT="2012-03-28T05:23:08Z" wC="dardo:sophie"/>
-      <RS n="1" a="asistente" df="0"
-      cDT="2012-11-06T02:50:28Z" wC="dardo:sophie"/>
+      <RS n="1" a="asistente" df="1"
+      cDT="2012-11-06T03:20:12Z" wC="dardo:sophie"
+      dDT="2012-11-06T03:20:13Z"/>
     </TU>
     <TU f="0" k="ὑπηρετῶν">
       <RS n="1" a="subordinados" df="1"
