@@ -3,11 +3,11 @@
 	 Note: Using Microsoft WORD 2003 or later is not a good way to edit this xml file.
 	 Instead, use NotePad or WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="7" bookName="" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="15378" ftsbp="1" specialcolor="255"
+	<Settings docVersion="7" bookName="" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="14636" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="24:" srcname="SBL GNT" tgtname="Español" srccode="qqq" tgtcode="qqq"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
-  f="0000000000000000011001" sn="0" w="1" ty="10"
+  f="0000000000000000011000" sn="0" w="1" ty="10"
   i="hdr"
   m="\h ">
   </S>
@@ -36167,7 +36167,7 @@
   <S s="πᾶσαν" k="πᾶσαν" t="toda" a="toda"
   f="0000000000000000000001" sn="10974" w="1" ty="1">
   </S>
-  <S s="αἰτίαν;" k="αἰτίαν" t="acusación?" a="acusación"
+  <S s="αἰτίαν;" k="αἰτίαν" t="causa?" a="causa"
   f="0000000000000000100001" sn="10975" w="1" ty="1"
   fp=";">
   </S>
@@ -36552,7 +36552,7 @@
   <S s="ἡ" k="ἡ" t="la" a="la"
   f="0000000000000000000001" sn="11091" w="1" ty="1">
   </S>
-  <S s="αἰτία" k="αἰτία" t="acusación" a="acusación"
+  <S s="αἰτία" k="αἰτία" t="causa" a="causa"
   f="0000000000000000000001" sn="11092" w="1" ty="1">
   </S>
   <S s="τοῦ" k="τοῦ" t="del" a="del"
@@ -37132,7 +37132,7 @@
   f="0000000000000000100001" sn="11263" w="1" ty="1"
   fp="⸃">
   </S>
-  <S s="⸀ἐφύλαξα·" k="ἐφύλαξα" t="⸀observo:" a="observo"
+  <S s="⸀ἐφύλαξα·" k="ἐφύλαξα" t="⸀vigilo:" a="vigilo"
   f="0000000000000000100001" sn="11264" w="1" ty="1"
   pp="⸀" fp="·">
   </S>
@@ -48340,7 +48340,7 @@
   <S s="τότε" k="τότε" t="entonces" a="entonces"
   f="0000000000000000000001" sn="14634" w="1" ty="1">
   </S>
-  <S s="κόψονται" k="κόψονται" t="lamentarán" a="lamentarán"
+  <S s="κόψονται" k="κόψονται" t="se golpearán el pecho" a="se golpearán el pecho"
   f="0000000000000000000001" sn="14635" w="1" ty="1">
   </S>
   <S s="πᾶσαι" k="πᾶσαι" t="todas" a="todas"
@@ -57980,7 +57980,7 @@
   <S s="τὴν" k="τὴν" t="la" a="la"
   f="0000000000000000000001" sn="17539" w="1" ty="1">
   </S>
-  <S s="αἰτίαν" k="αἰτίαν" t="acusación" a="acusación"
+  <S s="αἰτίαν" k="αἰτίαν" t="causa" a="causa"
   f="0000000000000000000001" sn="17540" w="1" ty="1">
   </S>
   <S s="αὐτοῦ" k="αὐτοῦ" t="de él" a="de él"
