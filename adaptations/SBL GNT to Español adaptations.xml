@@ -248,7 +248,7 @@
     </TU>
     <TU f="0" k="ΚΑΤΑ">
       <RS n="1" a="Según" df="0"
-      cDT="2012-11-24T03:25:18Z" wC="dardo:sophie"/>
+      cDT="2012-11-24T03:37:22Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Καίσαρος">
       <RS n="2" a="César" df="0"
@@ -1486,7 +1486,7 @@
     <TU f="0" k="αὐτὸν">
       <RS n="44" a="él" df="0"
       cDT="2011-10-18T22:27:12Z" wC="dardo:sophie"/>
-      <RS n="221" a="a él" df="0"
+      <RS n="220" a="a él" df="0"
       cDT="2011-10-18T22:27:12Z" wC="dardo:sophie"/>
       <RS n="6" a="a ella" df="0"
       cDT="2011-10-19T03:40:06Z" wC="dardo:sophie"/>
@@ -3376,7 +3376,7 @@
       cDT="2012-07-13T01:44:52Z" wC="dardo:sophie"
       dDT="2012-07-13T01:46:23Z"/>
       <RS n="1" a="haber sido atado" df="0"
-      cDT="2012-09-05T00:50:08Z" wC="dardo:sophie"/>
+      cDT="2012-11-24T03:37:39Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="δεδεμένα">
       <RS n="1" a="habiendo sido atado" df="1"
@@ -11284,7 +11284,7 @@
       cDT="2012-10-20T02:35:03Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="οὐ">
-      <RS n="155" a="no" df="0"
+      <RS n="154" a="no" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="οὐαί">
@@ -17013,20 +17013,29 @@
       cDT="2012-09-05T00:50:17Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="συντετριμμένον">
-      <RS n="1" a="cascada" df="0"
-      cDT="2011-10-20T04:19:01Z" wC="dardo:sophie"/>
+      <RS n="1" a="cascada" df="1"
+      cDT="2011-10-20T04:19:01Z" wC="dardo:sophie"
+      dDT="2012-11-24T03:36:55Z"/>
+      <RS n="1" a="quebrada" df="0"
+      cDT="2012-11-24T03:36:57Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="συντετρῖφθαι">
-      <RS n="1" a="haber sido partido" df="0"
-      cDT="2012-09-05T00:50:08Z" wC="dardo:sophie"/>
+      <RS n="1" a="haber sido partido" df="1"
+      cDT="2012-09-05T00:50:08Z" wC="dardo:sophie"
+      dDT="2012-11-24T03:37:39Z"/>
+      <RS n="1" a="haber sido quebrado" df="0"
+      cDT="2012-11-24T03:37:43Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="συντηροῦνται">
       <RS n="1" a="son preservados" df="0"
       cDT="2011-10-19T03:44:04Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="συντρίψασα">
-      <RS n="1" a="habiendo sido partido" df="0"
-      cDT="2012-09-05T00:50:18Z" wC="dardo:sophie"/>
+      <RS n="1" a="habiendo sido partido" df="1"
+      cDT="2012-09-05T00:50:18Z" wC="dardo:sophie"
+      dDT="2012-11-24T03:38:08Z"/>
+      <RS n="1" a="habiendo sido quebrado" df="0"
+      cDT="2012-11-24T03:38:14Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="συντρῖβον">
       <RS n="1" a="quebrando" df="0"
