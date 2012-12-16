@@ -259,7 +259,7 @@
     </TU>
     <TU f="0" k="ΚΑΤΑ">
       <RS n="1" a="Según" df="0"
-      cDT="2012-12-13T04:23:16Z" wC="dardo:sophie"/>
+      cDT="2012-12-16T19:37:47Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Καίσαρος">
       <RS n="2" a="César" df="0"
@@ -2108,7 +2108,7 @@
       cDT="2012-10-17T04:37:11Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="βασιλεὺς">
-      <RS n="17" a="rey" df="0"
+      <RS n="19" a="rey" df="0"
       cDT="2011-10-18T22:27:12Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="βασιλεῖ">
@@ -2124,8 +2124,9 @@
       cDT="2011-12-20T01:46:43Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="βασιλεῦς">
-      <RS n="1" a="rey" df="0"
-      cDT="2011-12-20T02:03:43Z" wC="dardo:sophie"/>
+      <RS n="1" a="rey" df="1"
+      cDT="2011-12-20T02:03:43Z" wC="dardo:sophie"
+      dDT="2012-12-16T19:38:07Z"/>
     </TU>
     <TU f="0" k="βαστάζετε">
       <RS n="1" a="carguen" df="0"
