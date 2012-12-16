@@ -310,7 +310,7 @@ Ac 13:9	ἁγίου WH Treg NIV ] + καὶ RP
 Ac 13:10	ὁδοὺς Treg RP ] + τοῦ WH NIV
 Ac 13:11	δὲ WH Treg RP ] τε NIV • ἔπεσεν WH Treg NIV ] ἐπέπεσεν RP
 Ac 13:13	περὶ WH Treg NIV ] + τὸν RP
-Ac 13:14	τὴν Πισιδίαν WH Treg NIV ] τῆς Πισιδίας RP • εἰσελθόντες WH Treg ] ἐλθόντες NIV RP
+Ac 13:14	τὴν Πισιδίαν WH Treg NIV ] τῆς Πισιδίας RP • εἰσελθόντες NIV RP ] ἐλθόντες WH Treg
 Ac 13:15	τίς WH Treg NIV ] – RP • ἐν ὑμῖν λόγος WH Treg NIV ] λόγος ἐν ὑμῖν RP
 Ac 13:17	Ἰσραὴλ WH Treg NIV ] – RP • Αἰγύπτου WH Treg NIV ] Αἰγύπτῳ RP
 Ac 13:19	καὶ Treg NIV RP ] – WH • κατεκληρονόμησεν WH Treg NIV ] + αὐτοῖς RP
@@ -466,7 +466,7 @@ Ac 19:1	ἐλθεῖν WH Treg RP ] κατελθεῖν NIV • εὑρεῖ�
 Ac 19:2	τε WH Treg NIV ] – RP • δὲ WH Treg NIV ] + εἶπον RP
 Ac 19:3	τε WH Treg NIV ] + πρὸς αὐτούς RP
 Ac 19:4	Ἰωάννης WH Treg NIV ] + μὲν RP • τὸν WH Treg NIV ] + χριστὸν RP
-Ac 19:6	Παύλου WH Treg NIV ] + τὰς RP
+Ac 19:6	Παύλου WH Treg ] + τὰς NIV RP
 Ac 19:7	δώδεκα WH Treg NIV ] δεκαδύο RP
 Ac 19:8	πείθων WH Treg ] + τὰ NIV RP
 Ac 19:9	Τυράννου WH Treg NIV ] + τινός RP

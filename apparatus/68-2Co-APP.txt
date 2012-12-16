@@ -26,7 +26,7 @@ Order of edition citation: WH Treg NIV RP
 2Co 2:17	πολλοὶ WH Treg NIV ] λοιποί RP • κατέναντι WH Treg NIV ] κατενώπιον τοῦ RP
 
 2Co 3:1	συνιστάνειν WH NIV RP ] συνιστᾶν Treg • ἢ WH Treg NIV ] Εἰ RP • ὑμῶν WH Treg NIV ] +συστατικῶν RP
-2Co 3:5	ἀφ’ ἑαυτῶν ἱκανοί ἐσμεν WH Treg NIV ] ἱκανοί ἐσμεν ἀφ’ ἑαυτῶν RP • αὑτῶν WH Treg NIV ] ἑαυτῶν RP
+2Co 3:5	ἀφ’ ἑαυτῶν ἱκανοί ἐσμεν WH Treg NIV ] ἱκανοί ἐσμεν ἀφ’ ἑαυτῶν RP • αὑτῶν WH ] αὐτῶν Treg; ἑαυτῶν NIV RP
 2Co 3:7	γράμμασιν WH NIV RP ] γράμματι Treg • ἐντετυπωμένη WH Treg NIV ] + ἐν RP
 2Co 3:9	τῇ διακονίᾳ Treg NIV ] ἡ διακονία WH RP • δικαιοσύνης WH Treg NIV ] + ἐν RP
 2Co 3:10	εἵνεκεν WH Treg NIV ] ἕνεκεν RP

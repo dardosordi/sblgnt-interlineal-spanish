@@ -555,7 +555,7 @@ Lk 19:34	ὅτι WH Treg NIV ] – RP
 Lk 19:35	αὐτῶν WH Treg NIV ] – RP
 Lk 19:36	ἑαυτῶν WH Treg ] αὐτῶν NIV RP
 Lk 19:37	πασῶν WH NIV RP ] πάντων Treg
-Lk 19:38	βασιλεὺς WH NIV ] ὁ βασιλεὺς Treg RP • ἐν οὐρανῷ εἰρήνη WH Treg NIV ] εἰρήνη ἐν οὐρανῷ RP
+Lk 19:38	βασιλεὺς Treg RP ] ὁ βασιλεὺς WH NIV • ἐν οὐρανῷ εἰρήνη WH Treg NIV ] εἰρήνη ἐν οὐρανῷ RP
 Lk 19:40	εἶπεν WH NIV ] + αὐτοῖς Treg RP • ὅτι Treg RP ] – WH NIV • σιωπήσουσιν WH Treg NIV ] σιωπήσωσιν RP • κράξουσιν WH Treg NIV ] κεκράξονται RP
 Lk 19:41	αὐτήν WH Treg NIV ] αὐτῇ RP
 Lk 19:42	ἐν τῇ ἡμέρᾳ ταύτῃ καὶ σὺ WH NIV ] καὶ σὺ ἐν τῇ ἡμέρᾳ ταύτῃ Treg; καὶ σύ καί γε ἐν τῇ ἡμέρᾳ σου RP • εἰρήνην WH NIV ] + σου Treg RP
@@ -610,7 +610,7 @@ Lk 21:13	ἀποβήσεται WH NIV ] + δὲ Treg RP
 Lk 21:14	θέτε WH Treg NIV ] Θέσθε RP • ἐν ταῖς καρδίαις WH Treg NIV ] εἰς τὰς καρδίας RP
 Lk 21:15	ἀντιστῆναι ἢ ἀντειπεῖν WH Treg NIV ] ἀντειπεῖν οὐδὲ ἀντιστῆναι RP • ἅπαντες WH Treg NIV ] πάντες RP
 Lk 21:16	ἀδελφῶν καὶ συγγενῶν καὶ φίλων WH Treg NIV ] συγγενῶν καὶ φίλων καὶ ἀδελφῶν RP
-Lk 21:19	κτήσασθε WH NIV RP ] κτήσεσθε Treg
+Lk 21:19	κτήσασθε NIV RP ] κτήσεσθε WH Treg
 Lk 21:20	στρατοπέδων WH Treg NIV ] + τὴν RP
 Lk 21:23	οὐαὶ WH Treg NIV ] + δὲ RP • ὀργὴ WH Treg NIV ] + ἐν RP
 Lk 21:24	τὰ ἔθνη πάντα WH Treg NIV ] πάντα τὰ ἔθνη RP • οὗ WH Treg NIV ] – RP • πληρωθῶσιν Treg NIV RP ] + καὶ ἔσονται WH

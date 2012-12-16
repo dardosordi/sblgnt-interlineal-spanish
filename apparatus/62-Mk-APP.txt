@@ -255,7 +255,7 @@ Mk 8:31	ὑπὸ WH Treg NIV ] ἀπὸ RP
 Mk 8:32	ὁ Πέτρος αὐτὸν WH Treg NIV ] αὐτὸν ὁ Πέτρος RP
 Mk 8:33	Πέτρῳ WH Treg NIV ] τῷ Πέτρῳ RP • καὶ λέγει WH Treg NIV ] λέγων RP
 Mk 8:34	Εἴ τις WH Treg NIV ] Ὅστις RP • ἐλθεῖν WH ] ἀκολουθεῖν Treg NIV RP
-Mk 8:35	ἐὰν WH Treg NIV ] ἂν RP • ⸂ψυχὴν αὐτοῦ⸃ Treg NIV RP ] ἑαυτοῦ ψυχὴν WH • ἀπολέσει WH Treg NIV ] ἀπολέσῃ RP • ⸄ψυχὴν αὐτοῦ⸅ Treg NIV RP ] ἑαυτοῦ ψυχὴν WH • σώσει WH Treg NIV ] οὗτος σώσει RP
+Mk 8:35	ἐὰν WH Treg NIV ] ἂν RP • ⸂ψυχὴν αὐτοῦ⸃ Treg NIV RP ] ἑαυτοῦ ψυχὴν WH • ἀπολέσει WH Treg NIV ] ἀπολέσῃ RP • ⸄ψυχὴν αὐτοῦ⸅ WH NIV ] ἑαυτοῦ ψυχὴν Treg RP • σώσει WH Treg NIV ] οὗτος σώσει RP
 Mk 8:36	ὠφελεῖ WH NIV ] ὠφελήσει Treg RP • ἄνθρωπον WH NIV RP ] τὸν ἄνθρωπον Treg • κερδῆσαι τὸν … καὶ ζημιωθῆναι WH NIV ] ἐὰν κερδήσῃ τὸν … καὶ ζημιωθῇ Treg RP
 Mk 8:37	τί γὰρ WH Treg NIV ] Ἢ τί RP • δοῖ WH Treg NIV ] δώσει RP
 
