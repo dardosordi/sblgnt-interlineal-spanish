@@ -3,11 +3,11 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="7" bookName="" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="0" ftsbp="1" specialcolor="255"
+	<Settings docVersion="7" bookName="" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="16075" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="27:" srcname="SBL GNT" tgtname="Español" srccode="qqq" tgtcode="qqq"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
-  f="0000000000000000011001" sn="0" w="1" ty="10"
+  f="0000000000000000011000" sn="0" w="1" ty="10"
   i="hdr"
   m="\h ">
   </S>
@@ -18178,7 +18178,7 @@
   c="10:39"
   m="\v 39 ">
   </S>
-  <S s="εὑρὼν" k="εὑρὼν" t="que encuentra" a="que encuentra"
+  <S s="εὑρὼν" k="εὑρὼν" t="que encontró" a="que encontró"
   f="0000000000000000000001" sn="5521" w="1" ty="1">
   </S>
   <S s="τὴν" k="τὴν" t="la" a="la"
@@ -18203,7 +18203,7 @@
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="5528" w="1" ty="1">
   </S>
-  <S s="ἀπολέσας" k="ἀπολέσας" t="que pierde" a="que pierde"
+  <S s="ἀπολέσας" k="ἀπολέσας" t="que perdió" a="que perdió"
   f="0000000000000000000001" sn="5529" w="1" ty="1">
   </S>
   <S s="τὴν" k="τὴν" t="la" a="la"
@@ -23977,7 +23977,7 @@
   <S s="τοῦ" k="τοῦ" t="del" a="del"
   f="0000000000000000000001" sn="7282" w="1" ty="1">
   </S>
-  <S s="⸀σπείραντος." k="σπείραντος" t="⸀que siembra." a="que siembra"
+  <S s="⸀σπείραντος." k="σπείραντος" t="⸀que siembró." a="que siembró"
   f="0000000000000000100001" sn="7283" w="1" ty="1"
   pp="⸀" fp=".">
   </S>
@@ -25704,7 +25704,7 @@
   <S s="ὃν" k="ὃν" t="que" a="que"
   f="0000000000000000000001" sn="7812" w="1" ty="1">
   </S>
-  <S s="εὑρὼν" k="εὑρὼν" t="encontrando" a="encontrando"
+  <S s="εὑρὼν" k="εὑρὼν" t="habiendo encontrado" a="habiendo encontrado"
   f="0000000000000000000001" sn="7813" w="1" ty="1">
   </S>
   <S s="ἄνθρωπος" k="ἄνθρωπος" t="hombre" a="hombre"
@@ -25805,7 +25805,7 @@
   f="0000000000000000100001" sn="7843" w="1" ty="1"
   fp="·">
   </S>
-  <S s="⸂εὑρὼν" k="εὑρὼν" t="⸂encontrando" a="encontrando"
+  <S s="⸂εὑρὼν" k="εὑρὼν" t="⸂habiendo encontrado" a="habiendo encontrado"
   f="0000010000000000000001" sn="7844" w="1" ty="1"
   pp="⸂" c="13:46"
   m="\v 46 ">
@@ -33749,7 +33749,7 @@
   <S s="τὸν" k="τὸν" t="al" a="al"
   f="0000000000000000000001" sn="10237" w="1" ty="1">
   </S>
-  <S s="⸀ἀναβάντα" k="ἀναβάντα" t="⸀que habiendo subido" a="que habiendo subido"
+  <S s="⸀ἀναβάντα" k="ἀναβάντα" t="⸀que subió" a="que subió"
   f="0000000000000000000001" sn="10238" w="1" ty="1"
   pp="⸀">
   </S>
@@ -37580,7 +37580,7 @@
   <S s="οἱ" k="οἱ" t="los" a="los"
   f="0000000000000000000001" sn="11397" w="1" ty="1">
   </S>
-  <S s="ἀκολουθήσαντές" k="ἀκολουθήσαντές" t="que habiendo seguido" a="que habiendo seguido"
+  <S s="ἀκολουθήσαντές" k="ἀκολουθήσαντές" t="que siguieron" a="que siguieron"
   f="0000000000000000000001" sn="11398" w="1" ty="1">
   </S>
   <S s="μοι" k="μοι" t="a mí" a="a mí"
@@ -53108,7 +53108,7 @@
   <S s="Ὁ" k="Ὁ" t="El" a="El"
   f="0000000000000000000001" sn="16072" w="1" ty="1">
   </S>
-  <S s="ἐμβάψας" k="ἐμβάψας" t="que moja" a="que moja"
+  <S s="ἐμβάψας" k="ἐμβάψας" t="que mojó" a="que mojó"
   f="0000000000000000000001" sn="16073" w="1" ty="1">
   </S>
   <S s="μετ’" k="μετ" t="con" a="con"
