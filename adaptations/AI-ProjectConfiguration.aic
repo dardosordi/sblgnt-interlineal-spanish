@@ -61,7 +61,7 @@ SourceLanguageCode	qqq
 TargetLanguageCode	qqq
 GlossesLanguageCode	
 FreeTranslationLanguageCode	
-LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/61-Mt.xml
+LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/63-Lk.xml
 LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
 LastInterlinearRTFOutputPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/_INTERLINEAR_RTF_OUTPUTS
 LastSourceTextExportPath	
@@ -74,6 +74,8 @@ LastFreeTransExportPath
 LastFreeTransRTFExportPath	
 LastXhtmlExportPath	
 LastPathwayExportPath	
+LastKBExportPath	
+LastKBLIFTExportPath	
 FoldersProtectedFromNavigation	
 PunctuationPairsSourceSet(stores space for an empty cell)	;.,·:"!()<>⟦⟧[]“”‘’⸀⸁⸂⸄⸃⸅’
 PunctuationPairsTargetSet(stores space for an empty cell)	?.,::"!()<>⟦⟧[]“”‘ ⸀⸁⸂⸄⸃⸅ 
