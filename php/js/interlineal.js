@@ -8,6 +8,15 @@ $(function() {
 	$('#panel').append(' - <a href="javascript:prev();">&lt;</a>');
 	$('#panel').append(' <a href="javascript:next();">&gt;</a>');
 
+	$(document).keydown(function(e){
+		if (e.keyCode == 37) {
+			prev();
+		}
+		if (e.keyCode == 39) {
+			next();
+		}
+	});
+
 	if (!window.location.href.match(/strongs=0/)) {
 		$('#panel input[name=strongs]').attr('checked', true);
 	}
