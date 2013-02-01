@@ -3,11 +3,11 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="7" bookName="" owner="****" commitcnt="****" revdate="" sizex="1290" sizey="16075" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="14541" sizex="1290" sizey="87138" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="27:" srcname="SBL GNT" tgtname="Español" srccode="qqq" tgtcode="qqq"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
-  f="0000000000000000011000" sn="0" w="1" ty="10"
+  f="0000000000000000011001" sn="0" w="1" ty="10"
   i="hdr"
   m="\h ">
   </S>
@@ -14490,7 +14490,7 @@
   <S s="Φαρισαῖοι" k="Φαρισαῖοι" t="Fariseos" a="Fariseos"
   f="0000000000000000000001" sn="4397" w="1" ty="1">
   </S>
-  <S s="⸀ἔλεγον" k="ἔλεγον" t="⸀decian" a="decian"
+  <S s="⸀ἔλεγον" k="ἔλεγον" t="⸀decían" a="decían"
   f="0000000000000000000001" sn="4398" w="1" ty="1"
   pp="⸀">
   </S>
@@ -15792,7 +15792,7 @@
   <S s="Φαρισαῖοι" k="Φαρισαῖοι" t="Fariseos" a="Fariseos"
   f="0000000000000000000001" sn="4791" w="1" ty="1">
   </S>
-  <S s="ἔλεγον·" k="ἔλεγον" t="decian:" a="decian"
+  <S s="ἔλεγον·" k="ἔλεγον" t="decían:" a="decían"
   f="0000000000000000100001" sn="4792" w="1" ty="1"
   fp="·">
   </S>
@@ -16467,7 +16467,7 @@
   c="10:9"
   m="\v 9 ">
   </S>
-  <S s="κτήσησθε" k="κτήσησθε" t="se provean" a="se provean"
+  <S s="κτήσησθε" k="κτήσησθε" t="adquieran" a="adquieran"
   f="0000000000000000000001" sn="4998" w="1" ty="1">
   </S>
   <S s="χρυσὸν" k="χρυσὸν" t="oro" a="oro"
@@ -16491,7 +16491,7 @@
   <S s="τὰς" k="τὰς" t="los" a="los"
   f="0000000000000000000001" sn="5005" w="1" ty="1">
   </S>
-  <S s="ζώνας" k="ζώνας" t="citurones" a="citurones"
+  <S s="ζώνας" k="ζώνας" t="cinturones" a="cinturones"
   f="0000000000000000000001" sn="5006" w="1" ty="1">
   </S>
   <S s="ὑμῶν," k="ὑμῶν" t="de ustedes," a="de ustedes"
@@ -21171,7 +21171,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="6424" w="1" ty="1">
   </S>
-  <S s="ἔλεγον·" k="ἔλεγον" t="decian:" a="decian"
+  <S s="ἔλεγον·" k="ἔλεγον" t="decían:" a="decían"
   f="0000000000000000100001" sn="6425" w="1" ty="1"
   fp="·">
   </S>
@@ -40185,7 +40185,7 @@
   <S s="ὄχλοι" k="ὄχλοι" t="multitudes" a="multitudes"
   f="0000000000000000000001" sn="12179" w="1" ty="1">
   </S>
-  <S s="ἔλεγον·" k="ἔλεγον" t="decian:" a="decian"
+  <S s="ἔλεγον·" k="ἔλεγον" t="decían:" a="decían"
   f="0000000000000000100001" sn="12180" w="1" ty="1"
   fp="·">
   </S>
@@ -42206,7 +42206,7 @@
   <S s="οὗτος" k="οὗτος" t="esta" a="esta"
   f="0000000000000000000001" sn="12789" w="1" ty="1">
   </S>
-  <S s="ἐγενήθη" k="ἐγενήθη" t="ha sido hecha" a="ha sido hecha"
+  <S s="ἐγενήθη" k="ἐγενήθη" t="fue hecha" a="fue hecha"
   f="0000000000000000000001" sn="12790" w="1" ty="1">
   </S>
   <S s="εἰς" k="εἰς" t="hacia" a="hacia"
@@ -48025,7 +48025,7 @@
   <S s="τοὺς" k="τοὺς" t="a los" a="a los"
   f="0000000000000000000001" sn="14539" w="1" ty="1">
   </S>
-  <S s="ἐκλεκτούς·" k="ἐκλεκτούς" t="escogidos:" a="escogidos"
+  <S s="ἐκλεκτούς·" k="ἐκλεκτούς" t="elegidos:" a="elegidos"
   f="0000000000000000100001" sn="14540" w="1" ty="1"
   fp="·">
   </S>
@@ -52255,7 +52255,7 @@
   f="0000000000000000100001" sn="15816" w="1" ty="1"
   fp="·">
   </S>
-  <S s="ἔλεγον" k="ἔλεγον" t="decian" a="decian"
+  <S s="ἔλεγον" k="ἔλεγον" t="decían" a="decían"
   f="0000010000000000000001" sn="15817" w="1" ty="1"
   c="26:5"
   m="\v 5 ">
@@ -58192,7 +58192,7 @@
   f="0000000000000000000001" sn="17603" w="1" ty="1"
   pp="⸀">
   </S>
-  <S s="ἔλεγον·" k="ἔλεγον" t="decian:" a="decian"
+  <S s="ἔλεγον·" k="ἔλεγον" t="decían:" a="decían"
   f="0000000000000000100001" sn="17604" w="1" ty="1"
   fp="·">
   </S>
@@ -58496,7 +58496,7 @@
   <S s="ἀκούσαντες" k="ἀκούσαντες" t="habiendo escuchado" a="habiendo escuchado"
   f="0000000000000000000001" sn="17692" w="1" ty="1">
   </S>
-  <S s="ἔλεγον" k="ἔλεγον" t="decian" a="decian"
+  <S s="ἔλεγον" k="ἔλεγον" t="decían" a="decían"
   f="0000000000000000000001" sn="17693" w="1" ty="1">
   </S>
   <S s="ὅτι" k="ὅτι" t="que" a="que"
@@ -58577,7 +58577,7 @@
   <S s="λοιποὶ" k="λοιποὶ" t="restantes" a="restantes"
   f="0000000000000000000001" sn="17717" w="1" ty="1">
   </S>
-  <S s="⸀ἔλεγον·" k="ἔλεγον" t="⸀decian:" a="decian"
+  <S s="⸀ἔλεγον·" k="ἔλεγον" t="⸀decían:" a="decían"
   f="0000000000000000100001" sn="17718" w="1" ty="1"
   pp="⸀" fp="·">
   </S>
