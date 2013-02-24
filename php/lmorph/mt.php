@@ -598,7 +598,7 @@ $morphdb['mt'][2][9][17] = array('word' => 'ἕως', 'translit' => 'heōs', 'mo
 $morphdb['mt'][2][9][18] = array('word' => 'ἐλθὼν', 'translit' => 'elthōn', 'morph' => 'VAAP-SNM', 'strongs' => '2064',);
 $morphdb['mt'][2][9][19] = array('word' => 'ἐστάθη', 'translit' => 'estathē', 'morph' => 'VAPI3S', 'strongs' => '2476',);
 $morphdb['mt'][2][9][20] = array('word' => 'ἐπάνω', 'translit' => 'epanō', 'morph' => 'P', 'strongs' => '1883',);
-$morphdb['mt'][2][9][21] = array('word' => 'οὗ', 'translit' => 'hou', 'morph' => 'RR-GSM', 'strongs' => '3757',);
+$morphdb['mt'][2][9][21] = array('word' => 'οὗ', 'translit' => 'hou', 'morph' => 'B', 'strongs' => '3757',);
 $morphdb['mt'][2][9][22] = array('word' => 'ἦν', 'translit' => 'ēn', 'morph' => 'VIAI3S', 'strongs' => '2258',);
 $morphdb['mt'][2][9][23] = array('word' => 'τὸ', 'translit' => 'to', 'morph' => 'DNSN', 'strongs' => '3588',);
 $morphdb['mt'][2][9][24] = array('word' => 'παιδίον', 'translit' => 'paidion', 'morph' => 'NNSN', 'strongs' => '3813',);
@@ -16552,7 +16552,7 @@ $morphdb['mt'][26][50][3] = array('word' => 'εἶπεν', 'translit' => 'eipen'
 $morphdb['mt'][26][50][4] = array('word' => 'αὐτῷ', 'translit' => 'autō', 'morph' => 'RP3DSM', 'strongs' => '846',);
 $morphdb['mt'][26][50][5] = array('word' => 'Ἑταῖρε', 'translit' => 'Hetaire', 'morph' => 'NVSM', 'strongs' => '2083',);
 $morphdb['mt'][26][50][6] = array('word' => 'ἐφ\'', 'translit' => 'eph\'', 'morph' => 'P', 'strongs' => '1909',);
-$morphdb['mt'][26][50][7] = array('word' => 'ὃ', 'translit' => 'ho', 'morph' => 'RR-NSN', 'strongs' => '3588',);
+$morphdb['mt'][26][50][7] = array('word' => 'ὃ', 'translit' => 'ho', 'morph' => 'RR-NSN', 'strongs' => '3739',);
 $morphdb['mt'][26][50][8] = array('word' => 'πάρει', 'translit' => 'parei', 'morph' => 'VPAI2S', 'strongs' => '3918',);
 $morphdb['mt'][26][50][9] = array('word' => 'τότε', 'translit' => 'tote', 'morph' => 'B', 'strongs' => '5119',);
 $morphdb['mt'][26][50][10] = array('word' => 'προσελθόντες', 'translit' => 'proselthontes', 'morph' => 'VAAP-PNM', 'strongs' => '4334',);

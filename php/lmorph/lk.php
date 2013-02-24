@@ -7640,7 +7640,7 @@ $morphdb['lk'][9][33][5] = array('word' => 'αὐτοὺς', 'translit' => 'auto
 $morphdb['lk'][9][33][6] = array('word' => 'ἀπ\'', 'translit' => 'ap\'', 'morph' => 'P', 'strongs' => '575',);
 $morphdb['lk'][9][33][7] = array('word' => 'αὐτοῦ', 'translit' => 'autou', 'morph' => 'RP3GSM', 'strongs' => '846',);
 $morphdb['lk'][9][33][8] = array('word' => 'εἶπεν', 'translit' => 'eipen', 'morph' => 'VAAI3S', 'strongs' => '2036',);
-$morphdb['lk'][9][33][9] = array('word' => 'ὁ', 'translit' => 'ho', 'morph' => 'DNSM', 'strongs' => '3739',);
+$morphdb['lk'][9][33][9] = array('word' => 'ὁ', 'translit' => 'ho', 'morph' => 'DNSM', 'strongs' => '3588',);
 $morphdb['lk'][9][33][10] = array('word' => 'Πέτρος', 'translit' => 'Petros', 'morph' => 'NNSM', 'strongs' => '4074',);
 $morphdb['lk'][9][33][11] = array('word' => 'πρὸς', 'translit' => 'pros', 'morph' => 'P', 'strongs' => '4314',);
 $morphdb['lk'][9][33][12] = array('word' => 'τὸν', 'translit' => 'ton', 'morph' => 'DASM', 'strongs' => '3588',);
@@ -8212,7 +8212,7 @@ $morphdb['lk'][10][1][20] = array('word' => 'πᾶσαν', 'translit' => 'pasan'
 $morphdb['lk'][10][1][21] = array('word' => 'πόλιν', 'translit' => 'polin', 'morph' => 'NASF', 'strongs' => '4172',);
 $morphdb['lk'][10][1][22] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CLN', 'strongs' => '2532',);
 $morphdb['lk'][10][1][23] = array('word' => 'τόπον', 'translit' => 'topon', 'morph' => 'NASM', 'strongs' => '5117',);
-$morphdb['lk'][10][1][24] = array('word' => 'οὗ', 'translit' => 'hou', 'morph' => 'B', 'strongs' => '3739',);
+$morphdb['lk'][10][1][24] = array('word' => 'οὗ', 'translit' => 'hou', 'morph' => 'B', 'strongs' => '3757',);
 $morphdb['lk'][10][1][25] = array('word' => 'ἤμελλεν', 'translit' => 'ēmellen', 'morph' => 'VIAI3S', 'strongs' => '3195',);
 $morphdb['lk'][10][1][26] = array('word' => 'αὐτὸς', 'translit' => 'autos', 'morph' => 'RP3NSMP', 'strongs' => '846',);
 $morphdb['lk'][10][1][27] = array('word' => 'ἔρχεσθαι', 'translit' => 'erchesthai', 'morph' => 'VPUN', 'strongs' => '2064',);
@@ -12030,7 +12030,7 @@ $morphdb['lk'][14][22][2] = array('word' => 'ὁ', 'translit' => 'ho', 'morph' =
 $morphdb['lk'][14][22][3] = array('word' => 'δοῦλος', 'translit' => 'doulos', 'morph' => 'NNSM', 'strongs' => '1401',);
 $morphdb['lk'][14][22][4] = array('word' => 'Κύριε', 'translit' => 'Kyrie', 'morph' => 'NVSM', 'strongs' => '2962',);
 $morphdb['lk'][14][22][5] = array('word' => 'γέγονεν', 'translit' => 'gegonen', 'morph' => 'VRAI3S', 'strongs' => '1096',);
-$morphdb['lk'][14][22][6] = array('word' => 'ὃ', 'translit' => 'ho', 'morph' => 'RR-ASN', 'strongs' => '3588',);
+$morphdb['lk'][14][22][6] = array('word' => 'ὃ', 'translit' => 'ho', 'morph' => 'RR-ASN', 'strongs' => '3739',);
 $morphdb['lk'][14][22][7] = array('word' => 'ἐπέταξας', 'translit' => 'epetaxas', 'morph' => 'VAAI2S', 'strongs' => '2004',);
 $morphdb['lk'][14][22][8] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CLC', 'strongs' => '2532',);
 $morphdb['lk'][14][22][9] = array('word' => 'ἔτι', 'translit' => 'eti', 'morph' => 'B', 'strongs' => '2089',);
@@ -16347,7 +16347,7 @@ $morphdb['lk'][21][15][7] = array('word' => 'ᾗ', 'translit' => 'hē', 'morph' 
 $morphdb['lk'][21][15][8] = array('word' => 'οὐ', 'translit' => 'ou', 'morph' => 'BN', 'strongs' => '3756',);
 $morphdb['lk'][21][15][9] = array('word' => 'δυνήσονται', 'translit' => 'dynēsontai', 'morph' => 'VFMI3P', 'strongs' => '1410',);
 $morphdb['lk'][21][15][10] = array('word' => 'ἀντιστῆναι', 'translit' => 'antistēnai', 'morph' => 'VAAN', 'strongs' => '436',);
-$morphdb['lk'][21][15][11] = array('word' => 'ἢ', 'translit' => 'ē', 'morph' => 'CLD', 'strongs' => '3739',);
+$morphdb['lk'][21][15][11] = array('word' => 'ἢ', 'translit' => 'ē', 'morph' => 'CLD', 'strongs' => '2228',);
 $morphdb['lk'][21][15][12] = array('word' => 'ἀντειπεῖν', 'translit' => 'anteipein', 'morph' => 'VAAN', 'strongs' => '471',);
 $morphdb['lk'][21][15][13] = array('word' => 'ἅπαντες', 'translit' => 'hapantes', 'morph' => 'JNPM', 'strongs' => '537',);
 $morphdb['lk'][21][15][14] = array('word' => 'οἱ', 'translit' => 'hoi', 'morph' => 'DNPM', 'strongs' => '3588',);
