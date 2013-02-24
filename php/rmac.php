@@ -18,7 +18,7 @@ $rmac['PRT-N'] = array ('part' => 'partícula negativa',);
 $rmac['N-LI'] = array ('part' => 'letra indeclinable',);
 $rmac['N-OI'] = array ('part' => 'otro indeclinable',);
 $rmac['N-PRI'] = array ('part' => 'sustantivo propio indeclinable',);
-$rmac['A-NUI'] = array ('part' => 'numeral indeclinable',);
+$rmac['N-NUI'] = array ('part' => 'numeral indeclinable',);
 $rmac['A-NUI-ABB'] = array ('part' => 'adjetivo','case' => 'nominativo','form' => 'abreviado',);
 $rmac['A-APF'] = array ('part' => 'adjetivo','case' => 'acusativo','number' => 'plural','gender' => 'femenino',);
 $rmac['A-APF-C'] = array ('degree' => 'comparativo','part' => 'adjetivo','case' => 'acusativo','number' => 'plural','gender' => 'femenino',);
