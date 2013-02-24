@@ -649,8 +649,12 @@
       <RS n="1" a="" df="0"
       cDT="2012-12-27T03:26:41Z" wC="dardo:sophie"/>
     </TU>
+    <TU f="0" k="ΙΩΑΝΝΗΝ">
+      <RS n="1" a="Juan" df="0"
+      cDT="2013-02-24T17:27:13Z" wC="dardo:sophie"/>
+    </TU>
     <TU f="0" k="ΚΑΤΑ">
-      <RS n="1" a="Según" df="0"
+      <RS n="2" a="Según" df="0"
       cDT="2013-02-01T03:45:00Z" wC="dardo:sophie"/>
       <RS n="1" a="a ti" df="0"
       cDT="2012-12-27T03:30:27Z" wC="dardo:sophie"/>
