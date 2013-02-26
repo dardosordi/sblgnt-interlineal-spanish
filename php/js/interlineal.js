@@ -1,21 +1,36 @@
 $(function() {
 	$('body').append('<div id="panel"></div>');
-	$('#panel').append('<label><input type="checkbox" name="strongs"> Strongs</label>');
-	$('#panel').append(' - <label><input type="checkbox" name="morph"> Morphology</label>');
-	$('#panel').append(' - <label><input type="checkbox" name="translit"> Transliteration</label>');
-	$('#panel').append(' - <label><input type="checkbox" name="spa"> Spanish</label>');
+	$('#panel').append('<label><input type="checkbox" name="greek"> Greek</label>');
+	$('#panel').append(' <label><input type="checkbox" name="strongs"> Strongs</label>');
+	$('#panel').append(' <label><input type="checkbox" name="morph"> Morphology</label>');
+	$('#panel').append(' <label><input type="checkbox" name="translit"> Transliteration</label>');
+	$('#panel').append(' <label><input type="checkbox" name="spa"> Spanish</label> - ');
 
-	$('#panel').append(' - <a href="javascript:prev();">&lt;</a>');
-	$('#panel').append(' <a href="javascript:next();">&gt;</a>');
+	$('#panel').append($('#nav .prev').clone());
+	$('#panel').append(' <a href="javascript:prev();">&lt;</a> ');
+	$('#panel').append(' <a href="javascript:next();">&gt;</a> ');
+	$('#panel').append($('#nav .next').clone());
+	$('#panel').append(' <input name="verse" size="2" onchange="selectVerse(this.value);">');
+
 
 	$(document).keydown(function(e){
-		if (e.keyCode == 37) {
+		if (e.keyCode == 37 || e.keyCode == 38) {
 			prev();
 		}
-		if (e.keyCode == 39) {
+		if (e.keyCode == 39 || e.keyCode == 40) {
 			next();
 		}
+		if (e.keyCode == 36) {
+			first();
+		}
+		if (e.keyCode == 35) {
+			last();
+		}
 	});
+
+	if (!window.location.href.match(/greek=0/)) {
+		$('#panel input[name=greek]').attr('checked', true);
+	}
 
 	if (!window.location.href.match(/strongs=0/)) {
 		$('#panel input[name=strongs]').attr('checked', true);
@@ -33,7 +48,7 @@ $(function() {
 		$('#panel input[name=spa]').attr('checked', true);
 	}
 
-	$('#panel input').change(function () {
+	$('#panel input[type=checkbox]').change(function () {
 		var sel = '.' + this.name;
 
 		if ($(this).attr('checked')) {
@@ -43,12 +58,12 @@ $(function() {
 		}
 	});
 
-	$('.greek').click(function (e) {
+	$('.word').click(function (e) {
 		if (!e.ctrlKey) {
-			window.open($(this).parent().find('.strongs a').attr('href'));
+			window.open($('.strongs a', this).attr('href'));
 		}
 
-		var strongs = $(this).parent().find('.strongs a').text();
+		var strongs = $('.strongs a', this).text();
 		$('.strongs a').each(function (i, e) {
 			if ($(e).text() == strongs) {
 				$(e).parent().parent().addClass('marked');
@@ -91,6 +106,7 @@ $(function() {
 });
 
 function selectVerse(n) {
+	$('input[name=verse]').val(n);
 	var id = '#v' + n;
 	var verse = $(id);
 
@@ -140,3 +156,12 @@ function next() {
 	selectVerse(verse);
 }
 
+function first() {
+	var verse = $('.verse:first').attr('id').substr(1);
+	selectVerse(verse);
+}
+
+function last() {
+	var verse = $('.verse:last').attr('id').substr(1);
+	selectVerse(verse);
+}
