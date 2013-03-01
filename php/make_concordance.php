@@ -73,11 +73,13 @@ foreach($xml->xpath('//S') as $S) {
 	$morph = '-';
 	$translit = '-';
 	if ($current_chapter && $current_verse && !$skip) {
-		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word])) {
+		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word]['word'])) {
 			$greek = $morphdb[$book][$current_chapter][$current_verse][$current_word]['word'];
 			$morph = $morphdb[$book][$current_chapter][$current_verse][$current_word]['morph'];
 			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
 			$translit = $morphdb[$book][$current_chapter][$current_verse][$current_word]['translit'];
+		} else {
+			file_put_contents('php://stderr', "//MISSING $greek $book $current_chapter:$current_verse ($current_word)\n");
 		}
 		++$current_word;
 	}
