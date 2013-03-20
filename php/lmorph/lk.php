@@ -4499,7 +4499,7 @@ $morphdb['lk'][6][20][11] = array('word' => 'Μακάριοι', 'translit' => 'M
 $morphdb['lk'][6][20][12] = array('word' => 'οἱ', 'translit' => 'hoi', 'morph' => 'DNPM', 'strongs' => '3588',);
 $morphdb['lk'][6][20][13] = array('word' => 'πτωχοί', 'translit' => 'ptōchoi', 'morph' => 'JNPM', 'strongs' => '4434',);
 $morphdb['lk'][6][20][14] = array('word' => 'ὅτι', 'translit' => 'hoti', 'morph' => 'CAZ', 'strongs' => '3754',);
-$morphdb['lk'][6][20][15] = array('word' => 'ὑμετέρα', 'translit' => 'hymetera', 'morph' => 'JNSF', 'strongs' => '5212',);
+$morphdb['lk'][6][20][15] = array('word' => 'ὑμετέρα', 'translit' => 'hymetera', 'morph' => 'RS2NSF', 'strongs' => '5212',);
 $morphdb['lk'][6][20][16] = array('word' => 'ἐστὶν', 'translit' => 'estin', 'morph' => 'VPAI3S', 'strongs' => '2076',);
 $morphdb['lk'][6][20][17] = array('word' => 'ἡ', 'translit' => 'hē', 'morph' => 'DNSF', 'strongs' => '3588',);
 $morphdb['lk'][6][20][18] = array('word' => 'βασιλεία', 'translit' => 'basileia', 'morph' => 'NNSF', 'strongs' => '932',);
