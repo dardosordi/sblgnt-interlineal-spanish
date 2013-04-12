@@ -4974,7 +4974,7 @@ $strongs['greek']['5060'] = array ('derivation' => 'of Latin origin;','lemma' =>
 $strongs['greek']['5061'] = array ('derivation' => 'of uncertain derivation;','lemma' => 'Τέρτυλλος','kjv_def' => 'Tertullus','strongs_def' => 'Tertullus, a Roman',);
 $strongs['greek']['5062'] = array ('derivation' => 'the decade of G5064 (τέσσαρες);','lemma' => 'τεσσαράκοντα','kjv_def' => 'forty','strongs_def' => 'forty',);
 $strongs['greek']['5063'] = array ('derivation' => 'from G5062 (τεσσαράκοντα) and G2094 (ἔτος);','lemma' => 'τεσσαρακονταετής','kjv_def' => '(+ full, of) forty years (old)','strongs_def' => 'of forty years of age',);
-$strongs['greek']['5064'] = array ('derivation' => 'a plural number;','lemma' => 'τέσσαρα','kjv_def' => 'four','strongs_def' => 'four',);
+$strongs['greek']['5064'] = array ('derivation' => 'a plural number;','lemma' => 'τέσσαρες','kjv_def' => 'four','strongs_def' => 'four',);
 $strongs['greek']['5065'] = array ('derivation' => 'from G5064 (τέσσαρες) and G2532 (καί) and G1182 (δέκατος);','lemma' => 'τεσσαρεσκαιδέκατος','kjv_def' => 'fourteenth','strongs_def' => 'fourteenth',);
 $strongs['greek']['5066'] = array ('derivation' => 'from G5064 (τέσσαρες);','lemma' => 'τεταρταῖος','kjv_def' => 'four days','strongs_def' => 'pertaining to the fourth day',);
 $strongs['greek']['5067'] = array ('derivation' => 'ordinal from G5064 (τέσσαρες);','lemma' => 'τέταρτος','kjv_def' => 'four(-th)','strongs_def' => 'fourth',);
