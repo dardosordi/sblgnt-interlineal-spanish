@@ -17,7 +17,7 @@ $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
 $moprhgnt_path = dirname(dirname(__FILE__)) . '/morphgnt/';
 $moprhdb_path = dirname(__FILE__) . '/morph/';
 
-$works = array('mt', 'mk');
+$works = array('mt', 'mk', 'lk', 'jn');
 
 foreach($works as $book) {
 
