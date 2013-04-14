@@ -2,7 +2,7 @@ BOOKS=../adaptations/Adaptations/*.xml
 MORPH=morph/*.php
 LMORPH=lmorph/*.php
 
-concordance: concordance.php lconcordance.php
+concordance: lconcordance.php concordance.php
 
 concordance.php: ${BOOKS} ${MORPH}
 	php make_concordance.php > concordance.php
