@@ -14,5 +14,8 @@ lconcordance.php: ${BOOKS} ${LMORPH}
 concordance.txt: ${BOOKS} ${MORPH}
 	php make_parsed.php > concordance.txt
 
+lconcordance.txt: ${BOOKS} ${MORPH}
+	php make_lparsed.php > lconcordance.txt
+
 cambios: concordance.php
 	git diff concordance.php | grep '^- ' -A3 -B1 | grep -v morph 

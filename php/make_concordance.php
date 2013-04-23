@@ -59,10 +59,9 @@ foreach($xml->xpath('//S') as $S) {
 		}
 	}
 
-
-	if (isset($S['f']) && !intval($S['f'])) {
+	if (!isset($S['f']) || substr((string)$S['f'], -1, 1) == "0") {
 		//echo "//MISSING NUMBRER: $book $current_chapter:$current_verse\n";
-		//file_put_contents('php://stderr', "//MISSING NUMBRER: $book $current_chapter:$current_verse\n");
+		//file_put_contents('php://stderr', "//MISSING NUMBRER: $book $current_chapter:$current_verse.$current_word $text\n");
 		continue;
 	}
 
@@ -115,6 +114,7 @@ foreach($xml->xpath('//S') as $S) {
 	}
 
 }
+		//file_put_contents('php://stderr', "//MISSING NUMBRER: $book $current_chapter:$current_verse\n");
 
 
 

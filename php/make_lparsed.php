@@ -14,7 +14,7 @@ include 'helpers.php';
 ini_set('memory_limit', '256M');
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
-$moprhdb_path = dirname(__FILE__) . '/morph/';
+$moprhdb_path = dirname(__FILE__) . '/lmorph/';
 
 foreach($books as $book => $book_data) {
 
