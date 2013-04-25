@@ -298,6 +298,10 @@ if (isset($breaks[$book][$current_chapter]['e'])) {
 	$content .= $breaks[$book][$current_chapter]['e'];
 }
 
+if ($current_verse) {
+	$content .= '</span>';
+}
+
 
 foreach ($notes as $note) {
 	$content .= $note;
