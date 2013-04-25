@@ -268,7 +268,9 @@ foreach($interlineal as $S) {
 		);
 	}
 
-	$content .= '<span class="block word">';
+	$extra_class = $strongs_number ? ' G'.$strongs_number . ' ' . $morph : '';
+
+	$content .= sprintf('<span class="block word%s">', $extra_class);
 	if ($show_strongs) {
 		$content .= sprintf('<span class="strongs">%s</span>', $strongs_def);
 	}
