@@ -1789,14 +1789,14 @@ $strongs['greek']['1774'] = array ('derivation' => 'from G1722 (ἐν) and G3611
 $strongs['greek']['1775'] = array ('derivation' => 'from G1520 (εἷς);','lemma' => 'ἑνότης','kjv_def' => 'unity','strongs_def' => 'oneness, i.e. (figuratively) unanimity',);
 $strongs['greek']['1776'] = array ('derivation' => 'from G1722 (ἐν) and G3791 (ὀχλέω);','lemma' => 'ἐνοχλέω','kjv_def' => 'trouble','strongs_def' => 'to crowd in, i.e. (figuratively) to annoy',);
 $strongs['greek']['1777'] = array ('derivation' => 'from G1758 (ἐνέχω);','lemma' => 'ἔνοχος','kjv_def' => 'in danger of, guilty of, subject to','strongs_def' => 'liable to (a condition, penalty or imputation)',);
-$strongs['greek']['1778'] = array ('derivation' => 'from G1781 (ἐντέλλομαι);','lemma' => 'ἔνταλμα','kjv_def' => 'commandment','strongs_def' => 'an injunction, i.e. religious precept',);
+$strongs['greek']['1778'] = array ('derivation' => 'from G1781 (ἐντέλλω);','lemma' => 'ἔνταλμα','kjv_def' => 'commandment','strongs_def' => 'an injunction, i.e. religious precept',);
 $strongs['greek']['1779'] = array ('derivation' => 'from a compound of G1722 (ἐν) and G5028 (τάφος);','lemma' => 'ἐνταφιάζω','kjv_def' => 'bury','strongs_def' => 'to inswathe with cerements for interment',);
 $strongs['greek']['1780'] = array ('derivation' => 'from G1779 (ἐνταφιάζω);','lemma' => 'ἐνταφιασμός','kjv_def' => 'burying','strongs_def' => 'preparation for interment',);
-$strongs['greek']['1781'] = array ('derivation' => 'from G1722 (ἐν) and the base of G5056 (τέλος);','lemma' => 'ἐντέλλομαι','kjv_def' => '(give) charge, (give) command(-ments), injoin','strongs_def' => 'to enjoin',);
+$strongs['greek']['1781'] = array ('derivation' => 'from G1722 (ἐν) and the base of G5056 (τέλος);','lemma' => 'ἐντέλλω','kjv_def' => '(give) charge, (give) command(-ments), injoin','strongs_def' => 'to enjoin',);
 $strongs['greek']['1782'] = array ('derivation' => 'from the same as G1759 (ἐνθάδε);','lemma' => 'ἐντεῦθεν','kjv_def' => '(from) hence, on either side','strongs_def' => 'hence (literally or figuratively); (repeated) on both sides',);
 $strongs['greek']['1783'] = array ('derivation' => 'from G1793 (ἐντυγχάνω);','lemma' => 'ἔντευξις','kjv_def' => 'intercession, prayer','strongs_def' => 'an interview, i.e. (specially) supplication',);
 $strongs['greek']['1784'] = array ('derivation' => 'from G1722 (ἐν) and G5092 (τιμή);','lemma' => 'ἔντιμος','kjv_def' => 'dear, more honourable, precious, in reputation','strongs_def' => 'valued (figuratively)',);
-$strongs['greek']['1785'] = array ('derivation' => 'from G1781 (ἐντέλλομαι);','lemma' => 'ἐντολή','kjv_def' => 'commandment, precept','strongs_def' => 'injunction, i.e. an authoritative prescription',);
+$strongs['greek']['1785'] = array ('derivation' => 'from G1781 (ἐντέλλω);','lemma' => 'ἐντολή','kjv_def' => 'commandment, precept','strongs_def' => 'injunction, i.e. an authoritative prescription',);
 $strongs['greek']['1786'] = array ('derivation' => 'from G1722 (ἐν) and G5117 (τόπος);','lemma' => 'ἐντόπιος','kjv_def' => 'of that place','strongs_def' => 'a resident',);
 $strongs['greek']['1787'] = array ('derivation' => 'from G1722 (ἐν);','lemma' => 'ἐντός','kjv_def' => 'within','strongs_def' => 'inside (adverb or noun)',);
 $strongs['greek']['1788'] = array ('derivation' => 'from G1722 (ἐν) and the base of G5157 (τροπή);','lemma' => 'ἐντρέπω','kjv_def' => 'regard, (give) reference, shame','strongs_def' => 'to invert, i.e. (figuratively and reflexively) in a good sense, to respect; or in a bad one, to confound',);
