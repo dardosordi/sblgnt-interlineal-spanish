@@ -1,5 +1,7 @@
 <?php
 
+return;
+
 /* MT 1 */
 $breaks['mt'][1]['s'] = '<p>';
 $breaks['mt'][1][2] = '</p><p>';
