@@ -77,6 +77,12 @@ $interlineal = array();
 $text_title = array();
 $is_title = false;
 
+$prev_chapter = false;
+$prev_verse = false;
+
+$next_chapter = false;
+$next_verse = false;
+
 foreach($xml->xpath('//S') as $S) {
 	if (isset($S['m'])) {
 		$mark = (string)$S['m'];
@@ -106,19 +112,27 @@ foreach($xml->xpath('//S') as $S) {
 	++$current_word;
 
 	if ($current_chapter > $end_chapter) {
+		$next_chapter = $current_chapter;
+		$next_verse = $current_verse;
 		break;
 	}
 
 	if ($current_chapter < $chapter) {
+		$prev_chapter = $current_chapter;
+		$prev_verse = $current_verse;
 		continue;
 	}
 
 
 	if ($end_verse && $current_verse > $end_verse) {
+		$next_chapter = $current_chapter;
+		$next_verse = $current_verse;
 		break;
 	}
 
 	if ($end_verse && $current_verse < $end_verse) {
+		$prev_chapter = $current_chapter;
+		$prev_verse = $current_verse;
 		continue;
 	}
 
@@ -320,8 +334,18 @@ foreach ($notes as $note) {
 }
 
 $nav = array();
-if ($chapter > 1) {
-	$prev = url_for($books[$book]['dir'], $chapter - 1) . $query_string;
+
+$prev = false;
+
+if (!$end_verse && $prev_chapter) {
+	$prev = url_for($books[$book]['dir'], $prev_chapter) . $query_string;
+}
+
+if ($end_verse && $prev_verse) {
+	$prev = url_for($books[$book]['dir'], $prev_chapter .':' . $prev_verse) . $query_string;
+}
+
+if ($prev) {
 	$nav[] = array(
 		'url' => $prev,
 		'text' => sprintf('<span class="icon">&laquo;</span>'),
@@ -329,17 +353,25 @@ if ($chapter > 1) {
 	);
 }
 
-$currtent = url_for($books[$book]['dir'], $chapter - 1);
+$current_ref = $chapter == $end_chapter ? $chapter . ($end_verse ? ":$end_verse" : '') : "$chapter-$end_chapter";
 $nav[] = array(
-//	'url' => $currtent,
-	'text' => sprintf('%s %s', $book_title, $chapter == $end_chapter ? $chapter : "$chapter-$end_chapter"),
+	'text' => sprintf('%s %s', $book_title, $current_ref),
 	'class' => 'current',
 );
 
 
+$next = false;
 
-if ($end_chapter < $books[$book]['chapters']) {
-	$next = url_for($books[$book]['dir'], $end_chapter + 1) . $query_string;
+if (!$end_verse && $next_chapter) {
+	$next = url_for($books[$book]['dir'], $next_chapter) . $query_string;
+}
+
+if ($end_verse && $next_verse) {
+	$next = url_for($books[$book]['dir'], $next_chapter . ':' . $next_verse) . $query_string;
+}
+
+
+if ($next) {
 	$nav[] = array(
 		'url' => $next,
 		'text' => sprintf('<span class="icon">&raquo;</span>'),
