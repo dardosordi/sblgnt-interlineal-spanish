@@ -22,11 +22,12 @@ $(function() {
 		},
 		show: {
 			target: elems,
-			delay: 100
+			delay: 100,
 		},
 		hide: {
 			target: elems,
-			delay: 1000,
+			delay: 200,
+			fixed: true
 		},
 		style: {
 			classes: 'qtip-shadow'
@@ -43,7 +44,7 @@ $(function() {
 
 					var morph = $(target).parent().prev().prev().text();
 
-					if (ref_cache[url]) {
+					if (ref_cache[url] && ref_cache[url][ref]) {
 						api.set('content.text', window.ref_cache[url][ref]);
 						$('.' + strongs + '.' + morph).addClass('selected');
 						$('.' + strongs).addClass('highlight');
@@ -51,9 +52,15 @@ $(function() {
 					} else {
 						api.set('content.text', 'Cargando...');
 
-						$.get(url + '?strongs=0&morph=0&translit=0', function(response) {
+						var verse_url = '/cache' + url.replace(/\.html/, ':' + ref.substr(1) + '.html');
+						$.get(verse_url, function(response) {
 
-							window.ref_cache[url] = {};
+							response = $(response);
+							response.find('.strongs, .translit, .morph').remove();
+
+							if (!window.ref_cache[url]) {
+								window.ref_cache[url] = {};
+							}
 
 							$('.verse-text', response).each(function(i, e) {
 								var verse = $('.verse', e).attr('id');

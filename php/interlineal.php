@@ -16,6 +16,9 @@ include 'config.php';
 $book = isset($_GET['book']) ? $_GET['book'] : null;
 $chapter = isset($_GET['chapter']) ? $_GET['chapter'] : null;
 $end_chapter = isset($_GET['endchapter']) ? $_GET['endchapter'] : $chapter;
+$end_verse = isset($_GET['verse']) ? $_GET['verse'] : null;
+
+$cache = isset($_GET['cache']) ? $_GET['cache'] : false;
 
 $show_morph = isset($_GET['morph']) ? $_GET['morph'] : true;
 $show_translit = isset($_GET['translit']) ? $_GET['translit'] : true;
@@ -27,6 +30,7 @@ $params = $_GET;
 unset($params['book']);
 unset($params['chapter']);
 unset($params['endchapter']);
+unset($params['verse']);
 $query_string = (!empty($params) ? '?' : '') . http_build_query($params);
 
 
@@ -109,6 +113,14 @@ foreach($xml->xpath('//S') as $S) {
 		continue;
 	}
 
+
+	if ($end_verse && $current_verse > $end_verse) {
+		break;
+	}
+
+	if ($end_verse && $current_verse < $end_verse) {
+		continue;
+	}
 
 	$interlineal[] = array(
 		'c' => $current_chapter,
@@ -337,6 +349,10 @@ if ($end_chapter < $books[$book]['chapters']) {
 
 $nav = get_menu($nav);
 
+if ($cache) {
+ob_start();
+}
+
 ?>
 <html>
 <head>
@@ -361,4 +377,18 @@ $nav = get_menu($nav);
 </div>
 </body>
 </html>
+<?
 
+if ($cache) {
+	$filename = ltrim(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH), './');
+	$dir = dirname($filename);
+	if (!file_exists($dir)) {
+		mkdir($dir, 0775, true);
+	}
+
+	$out = ob_get_clean();
+	file_put_contents($filename, $out);
+	echo $out;
+}
+
+?>
