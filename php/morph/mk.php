@@ -9654,7 +9654,7 @@ $morphdb['mk'][14][34][12] = array('word' => 'καὶ', 'translit' => 'kai', 'mo
 $morphdb['mk'][14][34][13] = array('word' => 'γρηγορεῖτε', 'translit' => 'grēgoreite', 'morph' => 'V-PAM-2P', 'strongs' => '1127',);
 $morphdb['mk'][14][35][0] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CONJ', 'strongs' => '2532',);
 $morphdb['mk'][14][35][1] = array('word' => 'προελθὼν', 'translit' => 'proelthōn', 'morph' => 'V-2AAP-NSM', 'strongs' => '4281',);
-$morphdb['mk'][14][35][2] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'A-ASN', 'strongs' => '3397',);
+$morphdb['mk'][14][35][2] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'A-ASN', 'strongs' => '3398',);
 $morphdb['mk'][14][35][3] = array('word' => 'ἔπιπτεν', 'translit' => 'epipten', 'morph' => 'V-IAI-3S', 'strongs' => '4098',);
 $morphdb['mk'][14][35][4] = array('word' => 'ἐπὶ', 'translit' => 'epi', 'morph' => 'PREP', 'strongs' => '1909',);
 $morphdb['mk'][14][35][5] = array('word' => 'τῆς', 'translit' => 'tēs', 'morph' => 'T-GSF', 'strongs' => '3588',);
@@ -10218,7 +10218,7 @@ $morphdb['mk'][14][70][2] = array('word' => 'πάλιν', 'translit' => 'palin',
 $morphdb['mk'][14][70][3] = array('word' => 'ἠρνεῖτο', 'translit' => 'ērneito', 'morph' => 'V-IMI-3S', 'strongs' => '720',);
 $morphdb['mk'][14][70][4] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CONJ', 'strongs' => '2532',);
 $morphdb['mk'][14][70][5] = array('word' => 'μετὰ', 'translit' => 'meta', 'morph' => 'PREP', 'strongs' => '3326',);
-$morphdb['mk'][14][70][6] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'A-ASM', 'strongs' => '3397',);
+$morphdb['mk'][14][70][6] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'A-ASM', 'strongs' => '3398',);
 $morphdb['mk'][14][70][7] = array('word' => 'πάλιν', 'translit' => 'palin', 'morph' => 'ADV', 'strongs' => '3825',);
 $morphdb['mk'][14][70][8] = array('word' => 'οἱ', 'translit' => 'hoi', 'morph' => 'T-NPM', 'strongs' => '3588',);
 $morphdb['mk'][14][70][9] = array('word' => 'παρεστῶτες', 'translit' => 'parestōtes', 'morph' => 'V-RAP-NPM-C', 'strongs' => '3936',);

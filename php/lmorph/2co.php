@@ -3328,7 +3328,7 @@ $morphdb['2co'][10][18][12] = array('word' => 'συνίστησιν', 'translit'
 $morphdb['2co'][11][1][0] = array('word' => 'Ὄφελον', 'translit' => 'Ophelon', 'morph' => 'I', 'strongs' => '3785',);
 $morphdb['2co'][11][1][1] = array('word' => 'ἀνείχεσθέ', 'translit' => 'aneichesthe', 'morph' => 'VIUI2P', 'strongs' => '430',);
 $morphdb['2co'][11][1][2] = array('word' => 'μου', 'translit' => 'mou', 'morph' => 'RP1GS', 'strongs' => '3450',);
-$morphdb['2co'][11][1][3] = array('word' => 'μικρόν', 'translit' => 'mikron', 'morph' => 'JASN', 'strongs' => '3397',);
+$morphdb['2co'][11][1][3] = array('word' => 'μικρόν', 'translit' => 'mikron', 'morph' => 'JASN', 'strongs' => '3398',);
 $morphdb['2co'][11][1][4] = array('word' => 'τι', 'translit' => 'ti', 'morph' => 'RX-ASN', 'strongs' => '5100',);
 $morphdb['2co'][11][1][5] = array('word' => 'ἀφροσύνης', 'translit' => 'aphrosynēs', 'morph' => 'NGSF', 'strongs' => '877',);
 $morphdb['2co'][11][1][6] = array('word' => 'ἀλλὰ', 'translit' => 'alla', 'morph' => 'CLC', 'strongs' => '235',);
@@ -3588,7 +3588,7 @@ $morphdb['2co'][11][16][15] = array('word' => 'δέξασθέ', 'translit' => 'd
 $morphdb['2co'][11][16][16] = array('word' => 'με', 'translit' => 'me', 'morph' => 'RP1AS', 'strongs' => '3165',);
 $morphdb['2co'][11][16][17] = array('word' => 'ἵνα', 'translit' => 'hina', 'morph' => 'CAP', 'strongs' => '2443',);
 $morphdb['2co'][11][16][18] = array('word' => 'κἀγὼ', 'translit' => 'kagō', 'morph' => 'RP1NS', 'strongs' => '2504',);
-$morphdb['2co'][11][16][19] = array('word' => 'μικρόν', 'translit' => 'mikron', 'morph' => 'JASN', 'strongs' => '3397',);
+$morphdb['2co'][11][16][19] = array('word' => 'μικρόν', 'translit' => 'mikron', 'morph' => 'JASN', 'strongs' => '3398',);
 $morphdb['2co'][11][16][20] = array('word' => 'τι', 'translit' => 'ti', 'morph' => 'RX-ASN', 'strongs' => '5100',);
 $morphdb['2co'][11][16][21] = array('word' => 'καυχήσωμαι', 'translit' => 'kauchēsōmai', 'morph' => 'VAMS1S', 'strongs' => '2744',);
 $morphdb['2co'][11][17][0] = array('word' => 'ὃ', 'translit' => 'ho', 'morph' => 'RR-ASN', 'strongs' => '3739',);

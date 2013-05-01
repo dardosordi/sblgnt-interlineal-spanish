@@ -16350,7 +16350,7 @@ $morphdb['mt'][26][38][14] = array('word' => 'μετ’', 'translit' => 'met\'',
 $morphdb['mt'][26][38][15] = array('word' => 'ἐμοῦ', 'translit' => 'emou', 'morph' => 'P-1GS', 'strongs' => '1700',);
 $morphdb['mt'][26][39][0] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CONJ', 'strongs' => '2532',);
 $morphdb['mt'][26][39][1] = array('word' => 'προελθὼν', 'translit' => 'proelthōn', 'morph' => 'V-2AAP-NSM', 'strongs' => '4281',);
-$morphdb['mt'][26][39][2] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'A-ASM', 'strongs' => '3397',);
+$morphdb['mt'][26][39][2] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'A-ASM', 'strongs' => '3398',);
 $morphdb['mt'][26][39][3] = array('word' => 'ἔπεσεν', 'translit' => 'epesen', 'morph' => 'V-2AAI-3S', 'strongs' => '4098',);
 $morphdb['mt'][26][39][4] = array('word' => 'ἐπὶ', 'translit' => 'epi', 'morph' => 'PREP', 'strongs' => '1909',);
 $morphdb['mt'][26][39][5] = array('word' => 'πρόσωπον', 'translit' => 'prosōpon', 'morph' => 'N-ASN', 'strongs' => '4383',);
@@ -16938,7 +16938,7 @@ $morphdb['mt'][26][72][7] = array('word' => 'οἶδα', 'translit' => 'oida', '
 $morphdb['mt'][26][72][8] = array('word' => 'τὸν', 'translit' => 'ton', 'morph' => 'T-ASM', 'strongs' => '3588',);
 $morphdb['mt'][26][72][9] = array('word' => 'ἄνθρωπον', 'translit' => 'anthrōpon', 'morph' => 'N-ASM', 'strongs' => '444',);
 $morphdb['mt'][26][73][0] = array('word' => 'μετὰ', 'translit' => 'meta', 'morph' => 'PREP', 'strongs' => '3326',);
-$morphdb['mt'][26][73][1] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'A-ASN', 'strongs' => '3397',);
+$morphdb['mt'][26][73][1] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'A-ASN', 'strongs' => '3398',);
 $morphdb['mt'][26][73][2] = array('word' => 'δὲ', 'translit' => 'de', 'morph' => 'CONJ', 'strongs' => '1161',);
 $morphdb['mt'][26][73][3] = array('word' => 'προσελθόντες', 'translit' => 'proselthontes', 'morph' => 'V-2AAP-NPM', 'strongs' => '4334',);
 $morphdb['mt'][26][73][4] = array('word' => 'οἱ', 'translit' => 'hoi', 'morph' => 'T-NPM', 'strongs' => '3588',);

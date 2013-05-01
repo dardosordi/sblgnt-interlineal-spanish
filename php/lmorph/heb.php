@@ -3419,7 +3419,7 @@ $morphdb['heb'][10][36][11] = array('word' => 'τὴν', 'translit' => 'tēn', '
 $morphdb['heb'][10][36][12] = array('word' => 'ἐπαγγελίαν', 'translit' => 'epangelian', 'morph' => 'NASF', 'strongs' => '1860',);
 $morphdb['heb'][10][37][0] = array('word' => 'ἔτι', 'translit' => 'eti', 'morph' => 'B', 'strongs' => '2089',);
 $morphdb['heb'][10][37][1] = array('word' => 'γὰρ', 'translit' => 'gar', 'morph' => 'CAZ', 'strongs' => '1063',);
-$morphdb['heb'][10][37][2] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'JASM', 'strongs' => '3397',);
+$morphdb['heb'][10][37][2] = array('word' => 'μικρὸν', 'translit' => 'mikron', 'morph' => 'JASM', 'strongs' => '3398',);
 $morphdb['heb'][10][37][3] = array('word' => 'ὅσον', 'translit' => 'hoson', 'morph' => 'RK-ASN', 'strongs' => '3745',);
 $morphdb['heb'][10][37][4] = array('word' => 'ὅσον', 'translit' => 'hoson', 'morph' => 'RK-ASN', 'strongs' => '3745',);
 $morphdb['heb'][10][37][5] = array('word' => 'ὁ', 'translit' => 'ho', 'morph' => 'DNSM', 'strongs' => '3588',);

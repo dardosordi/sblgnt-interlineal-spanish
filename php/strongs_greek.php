@@ -3308,7 +3308,7 @@ $strongs['greek']['3394'] = array ('derivation' => 'from G3392 (μιαίνω);'
 $strongs['greek']['3395'] = array ('derivation' => 'from G3396 (μίγνυμι);','lemma' => 'μίγμα','kjv_def' => 'mixture','strongs_def' => 'a compound',);
 $strongs['greek']['3396'] = array ('derivation' => 'a primary verb;','lemma' => 'μίγνυμι','kjv_def' => 'mingle','strongs_def' => 'to mix',);
 $strongs['greek']['3397'] = array ('derivation' => 'masculine or neuter singular of G3398 (μικρός) (as noun);','lemma' => 'μικρόν','kjv_def' => 'a (little) (while)','strongs_def' => 'a small space of time or degree',);
-$strongs['greek']['3398'] = array ('derivation' => 'apparently a primary word;','lemma' => 'μικρότερος','kjv_def' => 'least, less, little, small','strongs_def' => 'small (in size, quantity, number or (figuratively) dignity)',);
+$strongs['greek']['3398'] = array ('derivation' => 'apparently a primary word;','lemma' => 'μικρός','kjv_def' => 'least, less, little, small','strongs_def' => 'small (in size, quantity, number or (figuratively) dignity)',);
 $strongs['greek']['3399'] = array ('derivation' => 'of uncertain origin;','lemma' => 'Μίλητος','kjv_def' => 'Miletus','strongs_def' => 'Miletus, a city of Asia Minor',);
 $strongs['greek']['3400'] = array ('derivation' => 'of Latin origin;','lemma' => 'μίλιον','kjv_def' => 'mile','strongs_def' => 'a thousand paces, i.e. a "mile"',);
 $strongs['greek']['3401'] = array ('derivation' => 'middle voice from (a "mimic");','lemma' => 'μιμέομαι','kjv_def' => 'follow','strongs_def' => 'to imitate',);
