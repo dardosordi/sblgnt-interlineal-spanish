@@ -1,5 +1,11 @@
 <?php
 
+function pr($data) {
+	echo '<pre>';
+	print_r($data);
+	echo '</pre>';
+}
+
 function label_lmac($morph) {
 	$dict = array(
 		'part' => array(

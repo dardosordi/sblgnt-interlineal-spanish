@@ -42,7 +42,7 @@ $(function() {
 					var url = href.replace(/#.*/g, '');
 					var ref = href.replace(/.*#/g, '');
 
-					var morph = $(target).parent().prev().prev().text();
+					var morph = $(target).closest('td').prev().prev().text();
 
 					if (ref_cache[url] && ref_cache[url][ref]) {
 						api.set('content.text', window.ref_cache[url][ref]);

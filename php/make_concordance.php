@@ -38,6 +38,7 @@ $current_verse = 0;
 $current_word = 0;
 
 foreach($xml->xpath('//S') as $S) {
+
 	if (isset($S['m'])) {
 		$mark = (string)$S['m'];
 		$matches = array();
@@ -58,10 +59,12 @@ foreach($xml->xpath('//S') as $S) {
 			$is_title = 0;
 		}
 	}
-
-	if (!isset($S['f']) || substr((string)$S['f'], -1, 1) == "0") {
-		//echo "//MISSING NUMBRER: $book $current_chapter:$current_verse\n";
-		//file_put_contents('php://stderr', "//MISSING NUMBRER: $book $current_chapter:$current_verse.$current_word $text\n");
+	if (isset($S['f']) && (string)$S['f'] == "0000000000000000000000") {
+		if ($current_word == 1) {
+			break;
+		}
+		$s = str_replace("\n", " ", var_export((array)($S), true));
+		file_put_contents('php://stderr', "MISSING TRANSLATION: $book $current_chapter:$current_verse.$current_word $text $s\n");
 		continue;
 	}
 
@@ -97,15 +100,13 @@ foreach($xml->xpath('//S') as $S) {
 		$t = (string)$S['t'];
 		$a = (string)$S['a'];
 
-		//$translit = translit($k);
-		$translit = strtolower($translit);
-		if (!isset($concordance[$strongs_number][$translit])) {
-			$concordance[$strongs_number][$translit] = array();
+		if (!isset($concordance[$strongs_number][$morph])) {
+			$concordance[$strongs_number][$morph] = array();
 		}
 
 		$spa = $a ? $a : '-';
 		
-		$concordance[$strongs_number][$translit][] = array(
+		$concordance[$strongs_number][$morph][] = array(
 			'word' => $greek,
 			'spa' => $spa,
 			'morph' => $morph,

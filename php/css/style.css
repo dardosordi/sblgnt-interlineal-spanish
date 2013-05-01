@@ -190,6 +190,14 @@ a:visited {
 	vertical-align: top;
 }
 
+ul.refs {
+	padding: 0;
+}
+
+ul.refs li {
+	margin-bottom: .5em;
+}
+
 .player {
 	border-color: transparent transparent transparent #999;
 	border-style:solid;

@@ -95,27 +95,46 @@ if (isset($strongs[$lang][$number])) {
 
 		foreach ($concordance[$number] as $lemma => $words) {
 			foreach($words as $i => $word) {
-				list($book, $chapter, $verse) = parse_ref($word['ref']);
-
-				$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
-				$ref = sprintf('<a href="%s" target="_blank">%s</a>', $url, ucwords($word['ref']));
 
 				$key = $word['morph'].'|'.$word['spa'];
 				$key = strtolower($key);
 
-				$refs[$key][] = $ref;
+				$refs[$key][] = $word['ref'];
 				$lines[$key] = $word;
 			}
 		}
 
 		ksort($lines);
 		foreach ($lines as $key => $word) {
+
+			$word_refs = '';
+			$current_book = '';
+			$current_chapter = '';
+
+			foreach($refs[$key] as $ref) {
+				list($book, $chapter, $verse) = parse_ref($ref);
+
+				$verse_ref = ($book == $current_book ? '' : $book . ' ') . ($chapter == $current_chapter ? '' : $chapter.':') . $verse;
+
+				$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
+				$link = sprintf('<a href="%s" target="_blank">%s</a>', $url, ucwords($verse_ref));
+
+				$separator = $chapter == $current_chapter ? ', ' : '; ';
+				$separator = $book == $current_book ? $separator : "</li><li class=\"book $book\">";
+
+				$word_refs .= $word_refs ? $separator . $link : "<li class=\"book $book\">" . $link;
+
+				$current_book = $book;
+				$current_chapter = $chapter;
+			}
+			$word_refs .= '</li>';
+
 			$content .= sprintf("\n\t<tr><td>%s</td><td><span title=\"%s\">%s</span></td><td>%s</td><td>%s</td></tr>", 
 				sprintf('<a href="http://www.perseus.tufts.edu/hopper/morph?l=%s" target="_blank">%s</a>', $word['word'], $word['word']),
 				$use_logos ? label_lmac($word['morph'], $rmac) : label_rmac($word['morph'], $rmac),
 				$word['morph'],
 				$word['spa'],
-				implode(', ', $refs[$key])
+				'<ul class="refs">'.$word_refs.'</ul>'
 			);
 		}
 

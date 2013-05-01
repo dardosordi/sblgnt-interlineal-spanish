@@ -4,10 +4,10 @@ LMORPH=lmorph/*.php
 
 concordance: lconcordance.php concordance.php
 
-concordance.php: ${BOOKS} ${MORPH}
+concordance.php: ${BOOKS} ${MORPH} make_concordance.php
 	php make_concordance.php > concordance.php
 
-lconcordance.php: ${BOOKS} ${LMORPH}
+lconcordance.php: ${BOOKS} ${LMORPH} make_lconcordance.php
 	php make_lconcordance.php > lconcordance.php
 
 
