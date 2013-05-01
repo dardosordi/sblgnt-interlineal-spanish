@@ -101,6 +101,10 @@ foreach($xml->xpath('//S') as $S) {
 		$t = (string)$S['t'];
 		$a = (string)$S['a'];
 
+		if ($a && stripos($t, $a) === false) {
+			file_put_contents('php://stderr', "DIFFERENT $greek $book $current_chapter:$current_verse '$t' '$a'\n");
+		}
+
 		if (!isset($concordance[$strongs_number][$morph])) {
 			$concordance[$strongs_number][$morph] = array();
 		}
