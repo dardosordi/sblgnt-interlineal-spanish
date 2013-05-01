@@ -198,6 +198,11 @@ ul.refs li {
 	margin-bottom: .5em;
 }
 
+#chart {
+	clear: both;
+	height: 400px;
+}
+
 .player {
 	border-color: transparent transparent transparent #999;
 	border-style:solid;

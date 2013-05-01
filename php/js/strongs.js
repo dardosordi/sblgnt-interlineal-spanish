@@ -1,5 +1,93 @@
 $(function() {
+	var books = {'mt': 'Mt', 'mk': 'MK', 'lk': 'Lk', 'jn': 'Jn'};
+
+
 	$(".concordance").tablesorter(); 
+	$(".concordance").before('<div id="chart"></div>');
+
+	var word = $('.strongs-entry .greek:eq(0)').text();
+
+	var categories = [];
+	var series = [{name: word, data: []}];
+	for (var x in books) {
+		categories.push(books[x]);
+		series[0].data.push($('.book.'+x + ' a').length);
+	}
+
+    $('#chart').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Frecuencia de ' + word
+        },
+        xAxis: {
+            categories: categories,
+            title: {
+                text: null
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Ocurrencias',
+                align: 'high'
+            },
+            labels: {
+                overflow: 'justify'
+            }
+        },
+        tooltip: {
+            valueSuffix: ''
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: true
+                }
+            }
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'top',
+            x: -100,
+            y: 100,
+            floating: true,
+            borderWidth: 1,
+            backgroundColor: '#FFFFFF',
+            shadow: true
+        },
+        credits: {
+            enabled: false
+        },
+        series: series
+    });
+
+
+
+
+	var checks = '';
+	for (var book in books) {
+		if ($('.book.'+book).length) {
+			checks += '<label><input type="checkbox" checked="checked" name="'+book+'"> ' + books[book] + '</label> ';
+		}
+	}
+
+	$('body').append('<div id="panel">'+checks+'</div>');
+	$('#panel input').change(function() {
+		var book = $(this).attr('name');
+
+		$('.book.'+book).toggle();
+
+		$('.concordance tr:gt(0)').hide();
+		$('#panel input:checked').each(function(i, e) {
+			var book = $(e).attr('name');
+			console.log(book);
+			$('.book.'+book).closest('tr').show();
+		});
+
+	});
 
 	window.ref_cache = {};
 

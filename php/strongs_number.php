@@ -200,6 +200,7 @@ $nav = get_menu($nav);
 <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
 <script type="text/javascript" src="/js/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="/js/highcharts.min.js"></script>
 <script type="text/javascript" src="/js/strongs.js"></script>
 <? if (!empty($prev)): ?><link rel="prev" href="<?= h($prev) ?>">
 <? endif ?>
