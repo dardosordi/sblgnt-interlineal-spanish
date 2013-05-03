@@ -3,7 +3,7 @@ $(function() {
 
 
 	$(".concordance").tablesorter(); 
-	$(".concordance").before('<div id="chart"></div>');
+	$(".concordance").after('<div id="chart"></div>');
 
 	var word = $('.strongs-entry .greek:eq(0)').text();
 

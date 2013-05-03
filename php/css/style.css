@@ -201,6 +201,7 @@ ul.refs li {
 #chart {
 	clear: both;
 	height: 400px;
+	margin: 2em 0;
 }
 
 .player {
