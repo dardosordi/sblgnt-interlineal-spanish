@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="862" sizex="1290" sizey="92318" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="14359" sizex="1290" sizey="92392" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="24:" srcname="SBL GNT" tgtname="Español" srccode="qqq" tgtcode="qqq"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -47635,7 +47635,7 @@
   <S s="πάντα" k="πάντα" t="todas" a="todas"
   f="0000000000000000000001" sn="14357" w="1" ty="1">
   </S>
-  <S s="⸀ἐφύλαξα" k="ἐφύλαξα" t="⸀vigilo" a="vigilo"
+  <S s="⸀ἐφύλαξα" k="ἐφύλαξα" t="⸀vigilé" a="vigilé"
   f="0000000000000000000001" sn="14358" w="1" ty="1"
   pp="⸀">
   </S>
