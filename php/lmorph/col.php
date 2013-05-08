@@ -921,7 +921,7 @@ $morphdb['col'][2][23][12] = array('word' => 'σώματος', 'translit' => 's�
 $morphdb['col'][2][23][13] = array('word' => 'οὐκ', 'translit' => 'ouk', 'morph' => 'BN', 'strongs' => '3756',);
 $morphdb['col'][2][23][14] = array('word' => 'ἐν', 'translit' => 'en', 'morph' => 'P', 'strongs' => '1722',);
 $morphdb['col'][2][23][15] = array('word' => 'τιμῇ', 'translit' => 'timē', 'morph' => 'NDSF', 'strongs' => '5092',);
-$morphdb['col'][2][23][16] = array('word' => 'τινι', 'translit' => 'tini', 'morph' => 'JDSF', 'strongs' => '5100',);
+$morphdb['col'][2][23][16] = array('word' => 'τινι', 'translit' => 'tini', 'morph' => 'RX-DSF', 'strongs' => '5100',);
 $morphdb['col'][2][23][17] = array('word' => 'πρὸς', 'translit' => 'pros', 'morph' => 'P', 'strongs' => '4314',);
 $morphdb['col'][2][23][18] = array('word' => 'πλησμονὴν', 'translit' => 'plēsmonēn', 'morph' => 'NASF', 'strongs' => '4140',);
 $morphdb['col'][2][23][19] = array('word' => 'τῆς', 'translit' => 'tēs', 'morph' => 'DGSF', 'strongs' => '3588',);

@@ -1965,7 +1965,7 @@ $morphdb['ga'][6][1][2] = array('word' => 'καὶ', 'translit' => 'kai', 'morph
 $morphdb['ga'][6][1][3] = array('word' => 'προλημφθῇ', 'translit' => 'prolēmphthē', 'morph' => 'VAPS3S', 'strongs' => '4301',);
 $morphdb['ga'][6][1][4] = array('word' => 'ἄνθρωπος', 'translit' => 'anthrōpos', 'morph' => 'NNSM', 'strongs' => '444',);
 $morphdb['ga'][6][1][5] = array('word' => 'ἔν', 'translit' => 'en', 'morph' => 'P', 'strongs' => '1722',);
-$morphdb['ga'][6][1][6] = array('word' => 'τινι', 'translit' => 'tini', 'morph' => 'JDSN', 'strongs' => '5100',);
+$morphdb['ga'][6][1][6] = array('word' => 'τινι', 'translit' => 'tini', 'morph' => 'RX-DSN', 'strongs' => '5100',);
 $morphdb['ga'][6][1][7] = array('word' => 'παραπτώματι', 'translit' => 'paraptōmati', 'morph' => 'NDSN', 'strongs' => '3900',);
 $morphdb['ga'][6][1][8] = array('word' => 'ὑμεῖς', 'translit' => 'hymeis', 'morph' => 'RP2NP', 'strongs' => '5210',);
 $morphdb['ga'][6][1][9] = array('word' => 'οἱ', 'translit' => 'hoi', 'morph' => 'DNPM', 'strongs' => '3588',);

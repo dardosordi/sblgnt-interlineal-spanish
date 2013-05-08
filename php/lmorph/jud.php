@@ -49,7 +49,7 @@ $morphdb['jud'][1][3][21] = array('word' => 'ἁγίοις', 'translit' => 'hagi
 $morphdb['jud'][1][3][22] = array('word' => 'πίστει', 'translit' => 'pistei', 'morph' => 'NDSF', 'strongs' => '4102',);
 $morphdb['jud'][1][4][0] = array('word' => 'παρεισέδυσαν', 'translit' => 'pareisedysan', 'morph' => 'VAAI3P', 'strongs' => '3921',);
 $morphdb['jud'][1][4][1] = array('word' => 'γάρ', 'translit' => 'gar', 'morph' => 'CAZ', 'strongs' => '1063',);
-$morphdb['jud'][1][4][2] = array('word' => 'τινες', 'translit' => 'tines', 'morph' => 'JNPM', 'strongs' => '5100',);
+$morphdb['jud'][1][4][2] = array('word' => 'τινες', 'translit' => 'tines', 'morph' => 'RX-NPM', 'strongs' => '5100',);
 $morphdb['jud'][1][4][3] = array('word' => 'ἄνθρωποι', 'translit' => 'anthrōpoi', 'morph' => 'NNPM', 'strongs' => '444',);
 $morphdb['jud'][1][4][4] = array('word' => 'οἱ', 'translit' => 'hoi', 'morph' => 'DNPM', 'strongs' => '3588',);
 $morphdb['jud'][1][4][5] = array('word' => 'πάλαι', 'translit' => 'palai', 'morph' => 'B', 'strongs' => '3819',);

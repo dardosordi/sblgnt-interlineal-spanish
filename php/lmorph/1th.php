@@ -744,7 +744,7 @@ $morphdb['1th'][3][8][4] = array('word' => 'ὑμεῖς', 'translit' => 'hymeis
 $morphdb['1th'][3][8][5] = array('word' => 'στήκετε', 'translit' => 'stēkete', 'morph' => 'VPAI2P', 'strongs' => '4739',);
 $morphdb['1th'][3][8][6] = array('word' => 'ἐν', 'translit' => 'en', 'morph' => 'P', 'strongs' => '1722',);
 $morphdb['1th'][3][8][7] = array('word' => 'κυρίῳ', 'translit' => 'kyriō', 'morph' => 'NDSM', 'strongs' => '2962',);
-$morphdb['1th'][3][9][0] = array('word' => 'τίνα', 'translit' => 'tina', 'morph' => 'JASF', 'strongs' => '5101',);
+$morphdb['1th'][3][9][0] = array('word' => 'τίνα', 'translit' => 'tina', 'morph' => 'RI-ASF', 'strongs' => '5101',);
 $morphdb['1th'][3][9][1] = array('word' => 'γὰρ', 'translit' => 'gar', 'morph' => 'CLI', 'strongs' => '1063',);
 $morphdb['1th'][3][9][2] = array('word' => 'εὐχαριστίαν', 'translit' => 'eucharistian', 'morph' => 'NASF', 'strongs' => '2169',);
 $morphdb['1th'][3][9][3] = array('word' => 'δυνάμεθα', 'translit' => 'dynametha', 'morph' => 'VPUI1P', 'strongs' => '1410',);
@@ -878,7 +878,7 @@ $morphdb['1th'][4][1][27] = array('word' => 'περισσεύητε', 'translit'
 $morphdb['1th'][4][1][28] = array('word' => 'μᾶλλον', 'translit' => 'mallon', 'morph' => 'B', 'strongs' => '3123',);
 $morphdb['1th'][4][2][0] = array('word' => 'οἴδατε', 'translit' => 'oidate', 'morph' => 'VRAI2P', 'strongs' => '1492',);
 $morphdb['1th'][4][2][1] = array('word' => 'γὰρ', 'translit' => 'gar', 'morph' => 'CAZ', 'strongs' => '1063',);
-$morphdb['1th'][4][2][2] = array('word' => 'τίνας', 'translit' => 'tinas', 'morph' => 'JAPF', 'strongs' => '5101',);
+$morphdb['1th'][4][2][2] = array('word' => 'τίνας', 'translit' => 'tinas', 'morph' => 'RI-APF', 'strongs' => '5101',);
 $morphdb['1th'][4][2][3] = array('word' => 'παραγγελίας', 'translit' => 'parangelias', 'morph' => 'NAPF', 'strongs' => '3852',);
 $morphdb['1th'][4][2][4] = array('word' => 'ἐδώκαμεν', 'translit' => 'edōkamen', 'morph' => 'VAAI1P', 'strongs' => '1325',);
 $morphdb['1th'][4][2][5] = array('word' => 'ὑμῖν', 'translit' => 'hymin', 'morph' => 'RP2DP', 'strongs' => '5213',);

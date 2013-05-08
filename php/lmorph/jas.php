@@ -250,7 +250,7 @@ $morphdb['jas'][1][18][6] = array('word' => 'τὸ', 'translit' => 'to', 'morph'
 $morphdb['jas'][1][18][7] = array('word' => 'εἶναι', 'translit' => 'einai', 'morph' => 'VPAN', 'strongs' => '1511',);
 $morphdb['jas'][1][18][8] = array('word' => 'ἡμᾶς', 'translit' => 'hēmas', 'morph' => 'RP1AP', 'strongs' => '2248',);
 $morphdb['jas'][1][18][9] = array('word' => 'ἀπαρχήν', 'translit' => 'aparchēn', 'morph' => 'NASF', 'strongs' => '536',);
-$morphdb['jas'][1][18][10] = array('word' => 'τινα', 'translit' => 'tina', 'morph' => 'JASF', 'strongs' => '5100',);
+$morphdb['jas'][1][18][10] = array('word' => 'τινα', 'translit' => 'tina', 'morph' => 'RX-ASF', 'strongs' => '5100',);
 $morphdb['jas'][1][18][11] = array('word' => 'τῶν', 'translit' => 'tōn', 'morph' => 'DGPN', 'strongs' => '3588',);
 $morphdb['jas'][1][18][12] = array('word' => 'αὐτοῦ', 'translit' => 'autou', 'morph' => 'RP3GSM', 'strongs' => '846',);
 $morphdb['jas'][1][18][13] = array('word' => 'κτισμάτων', 'translit' => 'ktismatōn', 'morph' => 'NGPN', 'strongs' => '2938',);

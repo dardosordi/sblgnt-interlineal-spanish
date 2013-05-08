@@ -3051,7 +3051,7 @@ $morphdb['2co'][10][2][8] = array('word' => 'ᾗ', 'translit' => 'hē', 'morph' 
 $morphdb['2co'][10][2][9] = array('word' => 'λογίζομαι', 'translit' => 'logizomai', 'morph' => 'VPUI1S', 'strongs' => '3049',);
 $morphdb['2co'][10][2][10] = array('word' => 'τολμῆσαι', 'translit' => 'tolmēsai', 'morph' => 'VAAN', 'strongs' => '5111',);
 $morphdb['2co'][10][2][11] = array('word' => 'ἐπί', 'translit' => 'epi', 'morph' => 'P', 'strongs' => '1909',);
-$morphdb['2co'][10][2][12] = array('word' => 'τινας', 'translit' => 'tinas', 'morph' => 'JAPM', 'strongs' => '5100',);
+$morphdb['2co'][10][2][12] = array('word' => 'τινας', 'translit' => 'tinas', 'morph' => 'RX-APM', 'strongs' => '5100',);
 $morphdb['2co'][10][2][13] = array('word' => 'τοὺς', 'translit' => 'tous', 'morph' => 'DAPM', 'strongs' => '3588',);
 $morphdb['2co'][10][2][14] = array('word' => 'λογιζομένους', 'translit' => 'logizomenous', 'morph' => 'VPUP-PAM', 'strongs' => '3049',);
 $morphdb['2co'][10][2][15] = array('word' => 'ἡμᾶς', 'translit' => 'hēmas', 'morph' => 'RP1AP', 'strongs' => '2248',);
@@ -3140,7 +3140,7 @@ $morphdb['2co'][10][8][0] = array('word' => 'ἐάν', 'translit' => 'ean', 'mor
 $morphdb['2co'][10][8][1] = array('word' => 'τε', 'translit' => 'te', 'morph' => 'CLA', 'strongs' => '5037',);
 $morphdb['2co'][10][8][2] = array('word' => 'γὰρ', 'translit' => 'gar', 'morph' => 'CLX', 'strongs' => '1063',);
 $morphdb['2co'][10][8][3] = array('word' => 'περισσότερόν', 'translit' => 'perissoteron', 'morph' => 'JASNC', 'strongs' => '4053',);
-$morphdb['2co'][10][8][4] = array('word' => 'τι', 'translit' => 'ti', 'morph' => 'JASN', 'strongs' => '5100',);
+$morphdb['2co'][10][8][4] = array('word' => 'τι', 'translit' => 'ti', 'morph' => 'RX-ASN', 'strongs' => '5100',);
 $morphdb['2co'][10][8][5] = array('word' => 'καυχήσωμαι', 'translit' => 'kauchēsōmai', 'morph' => 'VAMS1S', 'strongs' => '2744',);
 $morphdb['2co'][10][8][6] = array('word' => 'περὶ', 'translit' => 'peri', 'morph' => 'P', 'strongs' => '4012',);
 $morphdb['2co'][10][8][7] = array('word' => 'τῆς', 'translit' => 'tēs', 'morph' => 'DGSF', 'strongs' => '3588',);
