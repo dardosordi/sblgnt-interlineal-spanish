@@ -717,7 +717,7 @@ $morphdb['jn'][1][46][3] = array('word' => 'Ναθαναήλ', 'translit' => 'Na
 $morphdb['jn'][1][46][4] = array('word' => 'Ἐκ', 'translit' => 'Ek', 'morph' => 'P', 'strongs' => '1537',);
 $morphdb['jn'][1][46][5] = array('word' => 'Ναζαρὲτ', 'translit' => 'Nazaret', 'morph' => 'NGSF', 'strongs' => '3478',);
 $morphdb['jn'][1][46][6] = array('word' => 'δύναταί', 'translit' => 'dynatai', 'morph' => 'VPUI3S', 'strongs' => '1410',);
-$morphdb['jn'][1][46][7] = array('word' => 'τι', 'translit' => 'ti', 'morph' => 'RX-NSN', 'strongs' => '5101',);
+$morphdb['jn'][1][46][7] = array('word' => 'τι', 'translit' => 'ti', 'morph' => 'RX-NSN', 'strongs' => '5100',);
 $morphdb['jn'][1][46][8] = array('word' => 'ἀγαθὸν', 'translit' => 'agathon', 'morph' => 'JNSN', 'strongs' => '18',);
 $morphdb['jn'][1][46][9] = array('word' => 'εἶναι', 'translit' => 'einai', 'morph' => 'VPAN', 'strongs' => '1511',);
 $morphdb['jn'][1][46][10] = array('word' => 'λέγει', 'translit' => 'legei', 'morph' => 'VPAI3S', 'strongs' => '3004',);
