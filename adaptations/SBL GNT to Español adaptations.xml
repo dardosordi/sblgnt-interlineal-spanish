@@ -2510,8 +2510,12 @@
     <TU f="0" k="Τίνα">
       <RS n="3" a="¿Quién" df="0"
       cDT="2012-11-23T02:37:24Z" wC="dardo:sophie"/>
-      <RS n="1" a="¿Que" df="0"
-      cDT="2013-05-04T19:14:28Z" wC="dardo:sophie"/>
+      <RS n="1" a="¿Que" df="1"
+      cDT="2013-05-04T19:14:28Z" wC="dardo:sophie"
+      dDT="2013-05-08T03:52:49Z"/>
+      <RS n="1" a="¿Qué" df="1"
+      cDT="2013-05-08T03:52:54Z" wC="dardo:sophie"
+      dDT="2013-05-08T03:52:55Z"/>
     </TU>
     <TU f="0" k="Τίνες">
       <RS n="1" a="¿Cúales" df="0"
@@ -25460,7 +25464,7 @@
       cDT="2011-11-10T00:25:53Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="τί">
-      <RS n="97" a="qué" df="0"
+      <RS n="100" a="qué" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
       <RS n="12" a="por qué" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
@@ -25474,8 +25478,9 @@
       cDT="2012-07-06T02:42:26Z" wC="dardo:sophie"/>
       <RS n="1" a="¿Cúal" df="0"
       cDT="2012-09-05T00:50:09Z" wC="dardo:sophie"/>
-      <RS n="3" a="que" df="0"
-      cDT="2012-07-14T03:54:18Z" wC="dardo:sophie"/>
+      <RS n="1" a="que" df="1"
+      cDT="2013-05-08T03:55:54Z" wC="dardo:sophie"
+      dDT="2013-05-08T03:55:55Z"/>
     </TU>
     <TU f="0" k="τίθημι">
       <RS n="3" a="pongo" df="0"
@@ -25541,12 +25546,18 @@
     <TU f="0" k="τίς">
       <RS n="45" a="¿Quién" df="0"
       cDT="2011-10-18T22:27:13Z" wC="dardo:sophie"/>
-      <RS n="3" a="que" df="0"
-      cDT="2012-07-04T02:37:08Z" wC="dardo:sophie"/>
-      <RS n="16" a="quién" df="0"
+      <RS n="1" a="que" df="1"
+      cDT="2013-05-08T03:57:06Z" wC="dardo:sophie"
+      dDT="2013-05-08T03:57:09Z"/>
+      <RS n="17" a="quién" df="0"
       cDT="2012-09-05T00:50:20Z" wC="dardo:sophie"/>
       <RS n="4" a="¿Qué" df="0"
       cDT="2012-11-21T02:19:21Z" wC="dardo:sophie"/>
+      <RS n="1" a="¿qué" df="1"
+      cDT="2013-05-08T03:54:00Z" wC="dardo:sophie"
+      dDT="2013-05-08T03:54:01Z"/>
+      <RS n="1" a="qué" df="0"
+      cDT="2013-05-08T03:56:48Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="τίτλον">
       <RS n="2" a="título" df="0"
