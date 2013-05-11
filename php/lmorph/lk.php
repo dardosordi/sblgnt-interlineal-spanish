@@ -10392,7 +10392,7 @@ $morphdb['lk'][12][25][0] = array('word' => 'τίς', 'translit' => 'tis', 'morp
 $morphdb['lk'][12][25][1] = array('word' => 'δὲ', 'translit' => 'de', 'morph' => 'CLN', 'strongs' => '1161',);
 $morphdb['lk'][12][25][2] = array('word' => 'ἐξ', 'translit' => 'ex', 'morph' => 'P', 'strongs' => '1537',);
 $morphdb['lk'][12][25][3] = array('word' => 'ὑμῶν', 'translit' => 'hymōn', 'morph' => 'RP2GP', 'strongs' => '5216',);
-$morphdb['lk'][12][25][4] = array('word' => 'μεριμνῶν', 'translit' => 'merimnōn', 'morph' => 'VPAP-SNM', 'strongs' => '3308',);
+$morphdb['lk'][12][25][4] = array('word' => 'μεριμνῶν', 'translit' => 'merimnōn', 'morph' => 'VPAP-SNM', 'strongs' => '3309',);
 $morphdb['lk'][12][25][5] = array('word' => 'δύναται', 'translit' => 'dynatai', 'morph' => 'VPUI3S', 'strongs' => '1410',);
 $morphdb['lk'][12][25][6] = array('word' => 'ἐπὶ', 'translit' => 'epi', 'morph' => 'P', 'strongs' => '1909',);
 $morphdb['lk'][12][25][7] = array('word' => 'τὴν', 'translit' => 'tēn', 'morph' => 'DASF', 'strongs' => '3588',);
@@ -19372,7 +19372,7 @@ $morphdb['lk'][24][47][14] = array('word' => 'ἀρξάμενοι', 'translit' =
 $morphdb['lk'][24][47][15] = array('word' => 'ἀπὸ', 'translit' => 'apo', 'morph' => 'P', 'strongs' => '575',);
 $morphdb['lk'][24][47][16] = array('word' => 'Ἰερουσαλήμ', 'translit' => 'Ierousalēm', 'morph' => 'NGSF', 'strongs' => '2419',);
 $morphdb['lk'][24][48][0] = array('word' => 'ὑμεῖς', 'translit' => 'hymeis', 'morph' => 'RP2NP', 'strongs' => '5210',);
-$morphdb['lk'][24][48][1] = array('word' => 'ἐστε', 'translit' => 'este', 'morph' => 'VP-I2P', 'strongs' => '2076',);
+$morphdb['lk'][24][48][1] = array('word' => 'ἐστε', 'translit' => 'este', 'morph' => 'VP-I2P', 'strongs' => '2075',);
 $morphdb['lk'][24][48][2] = array('word' => 'μάρτυρες', 'translit' => 'martyres', 'morph' => 'NNPM', 'strongs' => '3144',);
 $morphdb['lk'][24][48][3] = array('word' => 'τούτων', 'translit' => 'toutōn', 'morph' => 'RD-GPN', 'strongs' => '5130',);
 $morphdb['lk'][24][49][0] = array('word' => 'καὶ', 'translit' => 'kai', 'morph' => 'CLN', 'strongs' => '2532',);
