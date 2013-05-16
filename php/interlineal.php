@@ -239,7 +239,7 @@ foreach($interlineal as $S) {
 	//$translit = translit($S['k'], true);
 	$spa = $S['t'];
 
-	$skip = $greek == '—';
+	$skip = preg_match('#^(—|\[|\]|[0-9]+)$#', $greek);
 
 	//$current_word = $S['w'];
 	$morph = '-';

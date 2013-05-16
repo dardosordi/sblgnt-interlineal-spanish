@@ -69,7 +69,7 @@ foreach($xml->xpath('//S') as $S) {
 	}
 
 	$greek = $S['s'];
-	$skip = $greek == '—';
+	$skip = preg_match('#^(—|\[|\]|[0-9]+)$#', $greek);
 
 	$strongs_number = null;
 	$morph = '-';
