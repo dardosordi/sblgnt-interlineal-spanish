@@ -57,11 +57,11 @@ SourceLanguageName	SBL GNT
 TargetLanguageName	Español
 GlossesLanguageName	
 FreeTranslationLanguageName	
-SourceLanguageCode	qqq
-TargetLanguageCode	qqq
-GlossesLanguageCode	
-FreeTranslationLanguageCode	
-LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/61-Mt.xml
+SourceLanguageCode	grc
+TargetLanguageCode	es
+GlossesLanguageCode	es
+FreeTranslationLanguageCode	es
+LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/64-Jn.xml
 LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
 LastInterlinearRTFOutputPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/_INTERLINEAR_RTF_OUTPUTS
 LastSourceTextExportPath	
@@ -77,8 +77,10 @@ LastPathwayExportPath
 LastKBExportPath	
 LastKBLIFTExportPath	
 FoldersProtectedFromNavigation	
-PunctuationPairsSourceSet(stores space for an empty cell)	;.,·:"!()<>⟦⟧[]“”‘’⸀⸁⸂⸄⸃⸅’
-PunctuationPairsTargetSet(stores space for an empty cell)	?.,::"!()<>⟦⟧[]“”‘ ⸀⸁⸂⸄⸃⸅ 
+KeepPhraseBoxMidscreen	1
+DoLegacyLowerCaseLookup	0
+PunctuationPairsSourceSet(stores space for an empty cell)	;.,·:"!()<>⟦⟧[]“”—’⸀⸁⸂⸄⸃⸅’
+PunctuationPairsTargetSet(stores space for an empty cell)	?.,::"!()<>⟦⟧[]“”— ⸀⸁⸂⸄⸃⸅ 
 PunctuationTwoCharacterPairsSourceSet(ditto)	
 PunctuationTwoCharacterPairsTargetSet(ditto)	
 SpecialTextColor	255
