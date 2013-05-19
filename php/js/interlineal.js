@@ -106,6 +106,12 @@ $(function() {
 });
 
 function selectVerse(n) {
+	if (String(n).match(/[0-9]+:[0-9]+/)) {
+		var parts = n.split(':');
+		window.location.href = parts[0] + '.html' + window.location.search + '#v' + parts[1];
+		return;
+	}
+
 	$('input[name=verse]').val(n);
 	var id = '#v' + n;
 	var verse = $(id);
