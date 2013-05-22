@@ -60,11 +60,11 @@ foreach($xml->xpath('//S') as $S) {
 		}
 	}
 	if (isset($S['f']) && (string)$S['f'] == "0000000000000000000000") {
-		if ($current_word == 1) {
+		if ($current_word <= 1) {
 			break;
 		}
 		$s = str_replace("\n", " ", var_export((array)($S), true));
-		file_put_contents('php://stderr', "MISSING TRANSLATION: $book $current_chapter:$current_verse.$current_word $text $s\n");
+		file_put_contents('php://stderr', "MISSING TRANSLATION: $book $current_chapter:$current_verse.$current_word $s\n");
 		continue;
 	}
 
