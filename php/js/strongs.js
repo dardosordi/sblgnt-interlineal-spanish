@@ -1,5 +1,5 @@
 $(function() {
-	var books = {'mt': 'Mt', 'mk': 'MK', 'lk': 'Lk', 'jn': 'Jn'};
+	var books = {'mt': 'Mt', 'mk': 'Mk', 'lk': 'Lk', 'jn': 'Jn', 'ac': 'Ac'};
 
 
 	$(".concordance").tablesorter(); 
