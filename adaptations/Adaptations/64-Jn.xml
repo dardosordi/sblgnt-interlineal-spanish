@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="6659" sizex="1290" sizey="69082" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="5219" sizex="1290" sizey="69230" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="10:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \_unknown_char_style \fig \vp \_hidden_note \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -2340,7 +2340,7 @@
   <S s="ἔγραψεν" k="ἔγραψεν" t="escribió" a="escribió"
   f="0000000000000000000001" sn="696" w="1" ty="1">
   </S>
-  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moises" a="Moises"
+  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moisés" a="Moisés"
   f="0000000000000000000001" sn="697" w="1" ty="1">
   </S>
   <S s="ἐν" k="ἐν" t="en" a="en"
@@ -4965,7 +4965,7 @@
   <S s="καθὼς" k="καθὼς" t="como" a="como"
   f="0000000000000000000001" sn="1493" w="1" ty="1">
   </S>
-  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moises" a="Moises"
+  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moisés" a="Moisés"
   f="0000000000000000000001" sn="1494" w="1" ty="1">
   </S>
   <S s="ὕψωσεν" k="ὕψωσεν" t="elevó" a="elevó"
@@ -11935,7 +11935,7 @@
   <S s="ὑμῶν" k="ὑμῶν" t="de ustedes" a="de ustedes"
   f="0000000000000000000001" sn="3611" w="1" ty="1">
   </S>
-  <S s="Μωϋσῆς," k="Μωϋσῆς" t="Moises," a="Moises"
+  <S s="Μωϋσῆς," k="Μωϋσῆς" t="Moisés," a="Moisés"
   f="0000000000000000000001" sn="3612" w="1" ty="1"
   fp=",">
   </S>
@@ -11963,7 +11963,7 @@
   <S s="ἐπιστεύετε" k="ἐπιστεύετε" t="creían" a="creían"
   f="0000000000000000000001" sn="3619" w="1" ty="1">
   </S>
-  <S s="Μωϋσεῖ," k="Μωϋσεῖ" t="a Moises," a="a Moises"
+  <S s="Μωϋσεῖ," k="Μωϋσεῖ" t="a Moisés," a="a Moisés"
   f="0000000000000000000001" sn="3620" w="1" ty="1"
   fp=",">
   </S>
@@ -13811,7 +13811,7 @@
   <S s="οὐ" k="οὐ" t="no" a="no"
   f="0000000000000000000001" sn="4178" w="1" ty="1">
   </S>
-  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moises" a="Moises"
+  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moisés" a="Moisés"
   f="0000000000000000000001" sn="4179" w="1" ty="1">
   </S>
   <S s="⸀δέδωκεν" k="δέδωκεν" t="⸀ha dado" a="ha dado"
@@ -17122,7 +17122,7 @@
   c="7:19"
   m="\v 19 ">
   </S>
-  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moises" a="Moises"
+  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moisés" a="Moisés"
   f="0000000000000000000001" sn="5181" w="1" ty="1">
   </S>
   <S s="⸀δέδωκεν" k="δέδωκεν" t="⸀ha dado" a="ha dado"
@@ -17251,7 +17251,7 @@
   <S s="τοῦτο" k="τοῦτο" t="esto" a="esto"
   f="0000000000000000000001" sn="5218" w="1" ty="1">
   </S>
-  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moises" a="Moises"
+  <S s="Μωϋσῆς" k="Μωϋσῆς" t="Moisés" a="Moisés"
   f="0000000000000000000001" sn="5219" w="1" ty="1">
   </S>
   <S s="δέδωκεν" k="δέδωκεν" t="ha dado" a="ha dado"
@@ -23611,7 +23611,7 @@
   <S s="ὅτι" k="ὅτι" t="que" a="que"
   f="0000000000000000000001" sn="7122" w="1" ty="1">
   </S>
-  <S s="Μωϋσεῖ" k="Μωϋσεῖ" t="a Moises" a="a Moises"
+  <S s="Μωϋσεῖ" k="Μωϋσεῖ" t="a Moisés" a="a Moisés"
   f="0000000000000000000001" sn="7123" w="1" ty="1">
   </S>
   <S s="λελάληκεν" k="λελάληκεν" t="ha hablado" a="ha hablado"
