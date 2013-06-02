@@ -31887,8 +31887,11 @@
       cDT="2012-11-21T03:05:05Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀνακρίνας">
-      <RS n="1" a="habiendo examinado" df="0"
-      cDT="2013-02-23T03:32:59Z" wC="dardo:sophie"/>
+      <RS n="1" a="habiendo examinado" df="1"
+      cDT="2013-02-23T03:32:59Z" wC="dardo:sophie"
+      dDT="2013-06-02T19:59:28Z"/>
+      <RS n="1" a="habiendo interrogado" df="0"
+      cDT="2013-06-02T19:59:35Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀνακρινόμεθα">
       <RS n="1" a="ἀνακρινόμεθα" df="1"
@@ -40975,8 +40978,8 @@
       cDT="2011-10-19T03:43:57Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἐσθίειν">
-      <RS n="2" a="comer" df="0"
-      cDT="2011-10-20T03:39:10Z" wC="dardo:sophie"/>
+      <RS n="1" a="comer" df="0"
+      cDT="2013-06-02T19:59:20Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἐσθίετε">
       <RS n="2" a="come" df="0"
