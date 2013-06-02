@@ -15,6 +15,7 @@ ini_set('memory_limit', '256M');
 
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
 $moprhdb_path = dirname(__FILE__) . '/morph/';
+$concordance_path = dirname(__FILE__) . '/concordance/';
 
 $concordance = array();
 
@@ -22,8 +23,14 @@ foreach($books as $book => $book_data) {
 
 $filename = $xml_path . $books[$book]['xml'];
 $morphdb_filename = $moprhdb_path . $book . '.php';
+$book_concordance = $concordance_path . $book . '.php';
 
 if (!file_exists($filename)) {
+	continue;
+}
+
+if (file_exists($book_concordance) && (filemtime($book_concordance) > filemtime($filename))) {
+	echo "Skip $book\n";
 	continue;
 }
 
@@ -31,6 +38,8 @@ $xml = simplexml_load_file($filename);
 
 $morphdb = array();
 include($morphdb_filename);
+
+$concordance = array();
 
 $current_book = 1;
 $current_chapter = 0;
@@ -119,15 +128,36 @@ foreach($xml->xpath('//S') as $S) {
 	}
 
 }
-		//file_put_contents('php://stderr', "//MISSING NUMBRER: $book $current_chapter:$current_verse\n");
 
-
-
-}
 
 ksort($concordance);
 
-echo "<?php\n\$concordance = ";
-var_export($concordance);
-echo ';';
+echo "Built $book\n";
+$out = "<?php\n\n";
 
+foreach($concordance as $strongs => $item) {
+
+	foreach ($item as $morph => $refs) {
+		foreach ($refs as $key => $value) {
+			$out .= "\$concordance['$strongs']['$morph'][] = " . var_export($value, true) . ";\n";
+		}
+	}
+}
+
+file_put_contents($book_concordance, $out);
+
+}
+
+
+$out = "<?php\n\$concordance_path = dirname(__FILE__) . '/concordance/';\n\n\$concordance = array();\n";
+foreach($books as $book => $book_data) {
+
+	$book_concordance = $concordance_path . $book . '.php';
+	if (!file_exists($book_concordance)) {
+		continue;
+	}
+
+	$out .= "include \$concordance_path . '$book.php';\n";
+}
+
+file_put_contents(dirname(__FILE__).'/concordance.php', $out);
