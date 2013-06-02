@@ -2021,7 +2021,7 @@ $morphdb['ac'][4][11][5] = array('word' => 'ἐξουθενηθεὶς', 'transl
 $morphdb['ac'][4][11][6] = array('word' => 'ὑφ\'', 'translit' => 'hyph\'', 'morph' => 'P', 'strongs' => '5259',);
 $morphdb['ac'][4][11][7] = array('word' => 'ὑμῶν', 'translit' => 'hymōn', 'morph' => 'RP2GP', 'strongs' => '5216',);
 $morphdb['ac'][4][11][8] = array('word' => 'τῶν', 'translit' => 'tōn', 'morph' => 'DGPM', 'strongs' => '3588',);
-$morphdb['ac'][4][11][9] = array('word' => 'οἰκοδόμων', 'translit' => 'oikodomōn', 'morph' => 'NGPM', 'strongs' => '3621',);
+$morphdb['ac'][4][11][9] = array('word' => 'οἰκοδόμων', 'translit' => 'oikodomōn', 'morph' => 'NGPM', 'strongs' => '3618',);
 $morphdb['ac'][4][11][10] = array('word' => 'ὁ', 'translit' => 'ho', 'morph' => 'DNSM', 'strongs' => '3588',);
 $morphdb['ac'][4][11][11] = array('word' => 'γενόμενος', 'translit' => 'genomenos', 'morph' => 'VAMP-SNM', 'strongs' => '1096',);
 $morphdb['ac'][4][11][12] = array('word' => 'εἰς', 'translit' => 'eis', 'morph' => 'P', 'strongs' => '1519',);
