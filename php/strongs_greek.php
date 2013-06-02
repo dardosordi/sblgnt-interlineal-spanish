@@ -2275,11 +2275,11 @@ $strongs['greek']['2260'] = array ('derivation' => 'from G2228 (ἤ) and G4007 (
 $strongs['greek']['2261'] = array ('derivation' => 'probably from G2031 (ἔπος);','lemma' => 'ἤπιος','kjv_def' => 'gentle','strongs_def' => 'properly, affable, i.e. mild or kind',);
 $strongs['greek']['2262'] = array ('derivation' => 'of Hebrew origin (H06147);','lemma' => 'Ἤρ','kjv_def' => 'Er','strongs_def' => 'Er, an Israelite',);
 $strongs['greek']['2263'] = array ('derivation' => 'perhaps by transposition from G2048 (ἔρημος) (through the idea of stillness);','lemma' => 'ἤρεμος','kjv_def' => 'quiet','strongs_def' => 'tranquil',);
-$strongs['greek']['2264'] = array ('derivation' => 'compound of (a "hero") and G1491 (εἶδος);','lemma' => 'Ἡρώδης','kjv_def' => 'Herod','strongs_def' => 'heroic; Herod, the name of four Jewish kings',);
-$strongs['greek']['2265'] = array ('derivation' => 'plural of a derivative of G2264 (Ἡρώδης);','lemma' => 'Ἡρωδιανοί','kjv_def' => 'Herodians','strongs_def' => 'Herodians, i.e. partisans of Herod',);
-$strongs['greek']['2266'] = array ('derivation' => 'from G2264 (Ἡρώδης);','lemma' => 'Ἡρωδιάς','kjv_def' => 'Herodias','strongs_def' => 'Herodias, a woman of the Heodian family',);
-$strongs['greek']['2267'] = array ('derivation' => 'from G2264 (Ἡρώδης);','lemma' => 'Ἡρωδίων','kjv_def' => 'Herodion','strongs_def' => 'Herodion, a Christian',);
-$strongs['greek']['2268'] = array ('derivation' => 'of Hebrew origin (H03470);','lemma' => 'Ἡσαΐας','kjv_def' => 'Esaias','strongs_def' => 'Hesaias (i.e. Jeshajah), an Israelite',);
+$strongs['greek']['2264'] = array ('derivation' => 'compound of (a "hero") and G1491 (εἶδος);','lemma' => 'Ἡρῴδης','kjv_def' => 'Herod','strongs_def' => 'heroic; Herod, the name of four Jewish kings',);
+$strongs['greek']['2265'] = array ('derivation' => 'plural of a derivative of G2264 (Ἡρῴδης);','lemma' => 'Ἡρῳδιανοί','kjv_def' => 'Herodians','strongs_def' => 'Herodians, i.e. partisans of Herod',);
+$strongs['greek']['2266'] = array ('derivation' => 'from G2264 (Ἡρῴδης);','lemma' => 'Ἡρῳδιάς','kjv_def' => 'Herodias','strongs_def' => 'Herodias, a woman of the Heodian family',);
+$strongs['greek']['2267'] = array ('derivation' => 'from G2264 (Ἡρῴδης);','lemma' => 'Ἡρῳδίων','kjv_def' => 'Herodion','strongs_def' => 'Herodion, a Christian',);
+$strongs['greek']['2268'] = array ('derivation' => 'of Hebrew origin (H03470);','lemma' => 'Ἠσαΐας','kjv_def' => 'Esaias','strongs_def' => 'Hesaias (i.e. Jeshajah), an Israelite',);
 $strongs['greek']['2269'] = array ('derivation' => 'of Hebrew origin (H06215);','lemma' => 'Ἠσαῦ','kjv_def' => 'Esau','strongs_def' => 'Esau, an Edomite',);
 $strongs['greek']['2270'] = array ('derivation' => 'from the same as G2272 (ἡσύχιος);','lemma' => 'ἡσυχάζω','kjv_def' => 'cease, hold peace, be quiet, rest','strongs_def' => 'to keep still (intransitively), i.e. refrain from labor, meddlesomeness or speech',);
 $strongs['greek']['2271'] = array ('derivation' => 'feminine of G2272 (ἡσύχιος);','lemma' => 'ἡσυχία','kjv_def' => 'quietness, silence','strongs_def' => '(as noun) stillness, i.e. desistance from bustle or language',);
