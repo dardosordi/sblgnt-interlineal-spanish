@@ -8318,7 +8318,7 @@ $concordance['817']['P'][] = array (
 );
 $concordance['818']['VAAP-PNM'][] = array (
   'word' => 'ἀτιμάσαντες',
-  'spa' => 'habiendo trataron vergonzosamente',
+  'spa' => 'habiendo deshonrado',
   'morph' => 'VAAP-PNM',
   'ref' => 'lk 20:11',
 );
@@ -21344,7 +21344,7 @@ $concordance['1161']['CLN'][] = array (
 );
 $concordance['1161']['CLN'][] = array (
   'word' => 'δὲ',
-  'spa' => '← pero',
+  'spa' => '← y',
   'morph' => 'CLN',
   'ref' => 'lk 22:68',
 );
@@ -31916,7 +31916,7 @@ $concordance['1623']['JNSF'][] = array (
 );
 $concordance['1627']['VAAM2P'][] = array (
   'word' => 'ἐξενέγκατε',
-  'spa' => 'lleven',
+  'spa' => 'saquen',
   'morph' => 'VAAM2P',
   'ref' => 'lk 15:22',
 );
@@ -98312,13 +98312,13 @@ $concordance['4100']['VFAI3S'][] = array (
 );
 $concordance['4100']['VAAI2P'][] = array (
   'word' => 'ἐπιστεύσατε',
-  'spa' => 'creyerón',
+  'spa' => 'creyeron',
   'morph' => 'VAAI2P',
   'ref' => 'lk 20:5',
 );
 $concordance['4100']['VAAS2P'][] = array (
   'word' => 'πιστεύσητε',
-  'spa' => 'creyeran',
+  'spa' => 'creyeren',
   'morph' => 'VAAS2P',
   'ref' => 'lk 22:67',
 );
@@ -104180,25 +104180,25 @@ $concordance['4567']['NASM'][] = array (
 );
 $concordance['4567']['NNSM'][] = array (
   'word' => 'Σατανᾶς',
-  'spa' => 'Satanas',
+  'spa' => 'Satanás',
   'morph' => 'NNSM',
   'ref' => 'lk 11:18',
 );
 $concordance['4567']['NNSM'][] = array (
   'word' => 'Σατανᾶς',
-  'spa' => 'Satanas',
+  'spa' => 'Satanás',
   'morph' => 'NNSM',
   'ref' => 'lk 13:16',
 );
 $concordance['4567']['NNSM'][] = array (
   'word' => 'Σατανᾶς',
-  'spa' => 'Satanas',
+  'spa' => 'Satanás',
   'morph' => 'NNSM',
   'ref' => 'lk 22:3',
 );
 $concordance['4567']['NNSM'][] = array (
   'word' => 'Σατανᾶς',
-  'spa' => 'Satanas',
+  'spa' => 'Satanás',
   'morph' => 'NNSM',
   'ref' => 'lk 22:31',
 );

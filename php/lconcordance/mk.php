@@ -3362,7 +3362,7 @@ $concordance['569']['VAAI3P'][] = array (
 );
 $concordance['569']['VAAP-SNM'][] = array (
   'word' => 'ἀπιστήσας',
-  'spa' => 'no habiendo creído',
+  'spa' => 'que no creyo',
   'morph' => 'VAAP-SNM',
   'ref' => 'mk 16:16',
 );
@@ -5090,7 +5090,7 @@ $concordance['806']['B'][] = array (
 );
 $concordance['818']['VAAI3P'][] = array (
   'word' => 'ἠτίμασαν',
-  'spa' => 'trataron vergonzosamente',
+  'spa' => 'deshonraron',
   'morph' => 'VAAI3P',
   'ref' => 'mk 12:4',
 );
@@ -10154,7 +10154,7 @@ $concordance['907']['VFPI2P'][] = array (
 );
 $concordance['907']['VAPP-SNM'][] = array (
   'word' => 'βαπτισθεὶς',
-  'spa' => 'habiendo sido sumergido',
+  'spa' => 'fue sumergido',
   'morph' => 'VAPP-SNM',
   'ref' => 'mk 16:16',
 );
@@ -19358,7 +19358,7 @@ $concordance['1623']['JGSF'][] = array (
 );
 $concordance['1627']['VAAI3S'][] = array (
   'word' => 'ἐξήνεγκεν',
-  'spa' => 'llevó',
+  'spa' => 'sacó',
   'morph' => 'VAAI3S',
   'ref' => 'mk 8:23',
 );
@@ -58520,13 +58520,13 @@ $concordance['4100']['VPAP-PGM'][] = array (
 );
 $concordance['4100']['VPAS3S'][] = array (
   'word' => 'πιστεύῃ',
-  'spa' => 'cree',
+  'spa' => 'creyere',
   'morph' => 'VPAS3S',
   'ref' => 'mk 11:23',
 );
 $concordance['4100']['VAAI2P'][] = array (
   'word' => 'ἐπιστεύσατε',
-  'spa' => 'creyerón',
+  'spa' => 'creyeron',
   'morph' => 'VAAI2P',
   'ref' => 'mk 11:31',
 );
@@ -58550,13 +58550,13 @@ $concordance['4100']['VAAI3P'][] = array (
 );
 $concordance['4100']['VAAP-SNM'][] = array (
   'word' => 'πιστεύσας',
-  'spa' => 'habiendo creído',
+  'spa' => 'que creyó',
   'morph' => 'VAAP-SNM',
   'ref' => 'mk 16:16',
 );
 $concordance['4100']['VAAP-PDM'][] = array (
   'word' => 'πιστεύσασιν',
-  'spa' => 'habiendo creído',
+  'spa' => 'que creyeron',
   'morph' => 'VAAP-PDM',
   'ref' => 'mk 16:17',
 );

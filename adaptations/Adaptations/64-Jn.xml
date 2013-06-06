@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="12974" sizex="1290" sizey="68934" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="5538" sizex="1290" sizey="68934" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="10:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \_unknown_char_style \fig \vp \_hidden_note \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -5020,7 +5020,7 @@
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="1510" w="1" ty="1">
   </S>
-  <S s="πιστεύων" k="πιστεύων" t="creyendo" a="creyendo"
+  <S s="πιστεύων" k="πιστεύων" t="que cree" a="que cree"
   f="0000000000000000000001" sn="1511" w="1" ty="1">
   </S>
   <S s="⸂ἐν" k="ἐν" t="⸂en" a="en"
@@ -5093,7 +5093,7 @@
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="1532" w="1" ty="1">
   </S>
-  <S s="πιστεύων" k="πιστεύων" t="creyendo" a="creyendo"
+  <S s="πιστεύων" k="πιστεύων" t="que cree" a="que cree"
   f="0000000000000000000001" sn="1533" w="1" ty="1">
   </S>
   <S s="εἰς" k="εἰς" t="en" a="en"
@@ -5222,7 +5222,7 @@
   <S s="μὴ" k="μὴ" t="no" a="no"
   f="0000000000000000000001" sn="1571" w="1" ty="1">
   </S>
-  <S s="πιστεύων" k="πιστεύων" t="creyendo" a="creyendo"
+  <S s="πιστεύων" k="πιστεύων" t="que cree" a="que cree"
   f="0000000000000000000001" sn="1572" w="1" ty="1">
   </S>
   <S s="ἤδη" k="ἤδη" t="ya" a="ya"
@@ -9057,7 +9057,7 @@
   <S s="μὴ" k="μὴ" t="no" a="no"
   f="0000000000000000000001" sn="2739" w="1" ty="1">
   </S>
-  <S s="πιστεύσητε." k="πιστεύσητε" t="creyeran." a="creyeran"
+  <S s="πιστεύσητε." k="πιστεύσητε" t="creyeren." a="creyeren"
   f="0000000000000000100001" sn="2740" w="1" ty="1"
   fp=".">
   </S>
@@ -13695,7 +13695,7 @@
   <S s="ἵνα" k="ἵνα" t="para que" a="para que"
   f="0000000000000000000001" sn="4143" w="1" ty="1">
   </S>
-  <S s="ἴδωμεν" k="ἴδωμεν" t="veramos" a="veramos"
+  <S s="ἴδωμεν" k="ἴδωμεν" t="vieramos" a="vieramos"
   f="0000000000000000000001" sn="4144" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="y" a="y"
@@ -18302,7 +18302,7 @@
   <S s="οἱ" k="οἱ" t="los" a="los"
   f="0000000000000000000001" sn="5536" w="1" ty="1">
   </S>
-  <S s="⸀πιστεύσαντες" k="πιστεύσαντες" t="⸀habiendo creído" a="habiendo creído"
+  <S s="⸀πιστεύσαντες" k="πιστεύσαντες" t="⸀que creyeron" a="que creyeron"
   f="0000000000000000000001" sn="5537" w="1" ty="1"
   pp="⸀">
   </S>
@@ -19809,7 +19809,7 @@
   <S s="μὴ" k="μὴ" t="no" a="no"
   f="0000000000000000000001" sn="5985" w="1" ty="1">
   </S>
-  <S s="πιστεύσητε" k="πιστεύσητε" t="creyeran" a="creyeran"
+  <S s="πιστεύσητε" k="πιστεύσητε" t="creyeren" a="creyeren"
   f="0000000000000000000001" sn="5986" w="1" ty="1">
   </S>
   <S s="ὅτι" k="ὅτι" t="que" a="que"
@@ -27345,7 +27345,7 @@
   <S s="ἵνα" k="ἵνα" t="para que" a="para que"
   f="0000000000000000000001" sn="8243" w="1" ty="1">
   </S>
-  <S s="πιστεύσητε," k="πιστεύσητε" t="creyeran," a="creyeran"
+  <S s="πιστεύσητε," k="πιστεύσητε" t="creyeren," a="creyeren"
   f="0000000000000000000001" sn="8244" w="1" ty="1"
   fp=",">
   </S>
@@ -33799,7 +33799,7 @@
   <S s="ἵνα" k="ἵνα" t="para que" a="para que"
   f="0000000000000000000001" sn="10186" w="1" ty="1">
   </S>
-  <S s="⸂πιστεύσητε" k="πιστεύσητε" t="⸂creyeran" a="creyeran"
+  <S s="⸂πιστεύσητε" k="πιστεύσητε" t="⸂creyeren" a="creyeren"
   f="0000000000000000000001" sn="10187" w="1" ty="1"
   pp="⸂">
   </S>
@@ -34221,7 +34221,7 @@
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="10312" w="1" ty="1">
   </S>
-  <S s="Σατανᾶς." k="Σατανᾶς" t="Satanas." a="Satanas"
+  <S s="Σατανᾶς." k="Σατανᾶς" t="Satanás." a="Satanás"
   f="0000000000000000100001" sn="10313" w="1" ty="1"
   fp=".">
   </S>
@@ -36690,7 +36690,7 @@
   <S s="γένηται" k="γένηται" t="suceda" a="suceda"
   f="0000000000000000000001" sn="11052" w="1" ty="1">
   </S>
-  <S s="πιστεύσητε." k="πιστεύσητε" t="creyeran." a="creyeran"
+  <S s="πιστεύσητε." k="πιστεύσητε" t="creyeren." a="creyeren"
   f="0000000000000000100001" sn="11053" w="1" ty="1"
   fp=".">
   </S>

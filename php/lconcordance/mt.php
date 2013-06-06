@@ -92996,13 +92996,13 @@ $concordance['4100']['VPAP-PNM'][] = array (
 );
 $concordance['4100']['VAAI2P'][] = array (
   'word' => 'ἐπιστεύσατε',
-  'spa' => 'creyerón',
+  'spa' => 'creyeron',
   'morph' => 'VAAI2P',
   'ref' => 'mt 21:25',
 );
 $concordance['4100']['VAAI2P'][] = array (
   'word' => 'ἐπιστεύσατε',
-  'spa' => 'creyerón',
+  'spa' => 'creyeron',
   'morph' => 'VAAI2P',
   'ref' => 'mt 21:32',
 );

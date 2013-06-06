@@ -19718,7 +19718,7 @@ $concordance['1492']['VAAI2P'][] = array (
 );
 $concordance['1492']['VAAS1P'][] = array (
   'word' => 'ἴδωμεν',
-  'spa' => 'veramos',
+  'spa' => 'vieramos',
   'morph' => 'VAAS1P',
   'ref' => 'jn 6:30',
 );
@@ -79034,13 +79034,13 @@ $concordance['4100']['VFAI2P'][] = array (
 );
 $concordance['4100']['VPAP-SNM'][] = array (
   'word' => 'πιστεύων',
-  'spa' => 'creyendo',
+  'spa' => 'que cree',
   'morph' => 'VPAP-SNM',
   'ref' => 'jn 3:15',
 );
 $concordance['4100']['VPAP-SNM'][] = array (
   'word' => 'πιστεύων',
-  'spa' => 'creyendo',
+  'spa' => 'que cree',
   'morph' => 'VPAP-SNM',
   'ref' => 'jn 3:16',
 );
@@ -79052,7 +79052,7 @@ $concordance['4100']['VPAP-SNM'][] = array (
 );
 $concordance['4100']['VPAP-SNM'][] = array (
   'word' => 'πιστεύων',
-  'spa' => 'creyendo',
+  'spa' => 'que cree',
   'morph' => 'VPAP-SNM',
   'ref' => 'jn 3:18',
 );
@@ -79148,31 +79148,31 @@ $concordance['4100']['VPAI1P'][] = array (
 );
 $concordance['4100']['VAAS2P'][] = array (
   'word' => 'πιστεύσητε',
-  'spa' => 'creyeran',
+  'spa' => 'creyeren',
   'morph' => 'VAAS2P',
   'ref' => 'jn 4:48',
 );
 $concordance['4100']['VAAS2P'][] = array (
   'word' => 'πιστεύσητε',
-  'spa' => 'creyeran',
+  'spa' => 'creyeren',
   'morph' => 'VAAS2P',
   'ref' => 'jn 8:24',
 );
 $concordance['4100']['VAAS2P'][] = array (
   'word' => 'πιστεύσητε',
-  'spa' => 'creyeran',
+  'spa' => 'creyeren',
   'morph' => 'VAAS2P',
   'ref' => 'jn 11:15',
 );
 $concordance['4100']['VAAS2P'][] = array (
   'word' => 'πιστεύσητε',
-  'spa' => 'creyeran',
+  'spa' => 'creyeren',
   'morph' => 'VAAS2P',
   'ref' => 'jn 13:19',
 );
 $concordance['4100']['VAAS2P'][] = array (
   'word' => 'πιστεύσητε',
-  'spa' => 'creyeran',
+  'spa' => 'creyeren',
   'morph' => 'VAAS2P',
   'ref' => 'jn 14:29',
 );
@@ -79304,7 +79304,7 @@ $concordance['4100']['VIAI3P'][] = array (
 );
 $concordance['4100']['VAAP-PNM'][] = array (
   'word' => 'πιστεύσαντες',
-  'spa' => 'habiendo creído',
+  'spa' => 'que creyeron',
   'morph' => 'VAAP-PNM',
   'ref' => 'jn 7:39',
 );
@@ -83066,7 +83066,7 @@ $concordance['4561']['NASF'][] = array (
 );
 $concordance['4567']['NNSM'][] = array (
   'word' => 'Σατανᾶς',
-  'spa' => 'Satanas',
+  'spa' => 'Satanás',
   'morph' => 'NNSM',
   'ref' => 'jn 13:27',
 );

@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="10202" sizex="1290" sizey="54060" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="7646" sizex="1290" sizey="54134" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="11:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \h \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -17010,7 +17010,7 @@
   <S s="τυφλοῦ" k="τυφλοῦ" t="ciego" a="ciego"
   f="0000000000000000000001" sn="5066" w="1" ty="1">
   </S>
-  <S s="⸀ἐξήνεγκεν" k="ἐξήνεγκεν" t="⸀llevó" a="llevó"
+  <S s="⸀ἐξήνεγκεν" k="ἐξήνεγκεν" t="⸀sacó" a="sacó"
   f="0000000000000000000001" sn="5067" w="1" ty="1"
   pp="⸀">
   </S>
@@ -25193,7 +25193,7 @@
   <S s="ἀλλὰ" k="ἀλλὰ" t="sinó" a="sinó"
   f="0000000000000000000001" sn="7511" w="1" ty="1">
   </S>
-  <S s="⸀πιστεύῃ" k="πιστεύῃ" t="⸀cree" a="cree"
+  <S s="⸀πιστεύῃ" k="πιστεύῃ" t="⸀creyere" a="creyere"
   f="0000000000000000000001" sn="7512" w="1" ty="1"
   pp="⸀">
   </S>
@@ -25647,7 +25647,7 @@
   <S s="οὐκ" k="οὐκ" t="no" a="no"
   f="0000000000000000000001" sn="7645" w="1" ty="1">
   </S>
-  <S s="ἐπιστεύσατε" k="ἐπιστεύσατε" t="creyerón" a="creyerón"
+  <S s="ἐπιστεύσατε" k="ἐπιστεύσατε" t="creyeron" a="creyeron"
   f="0000000000000000000001" sn="7646" w="1" ty="1">
   </S>
   <S s="αὐτῷ;" k="αὐτῷ" t="a él?" a="a él"
@@ -25981,7 +25981,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="7743" w="1" ty="1">
   </S>
-  <S s="⸀ἠτίμασαν." k="ἠτίμασαν" t="⸀trataron vergonzosamente." a="trataron vergonzosamente"
+  <S s="⸀ἠτίμασαν." k="ἠτίμασαν" t="⸀deshonraron." a="deshonraron"
   f="0000000000000000100001" sn="7744" w="1" ty="1"
   pp="⸀" fp=".">
   </S>
@@ -37578,13 +37578,13 @@
   c="16:16"
   m="\v 16 ">
   </S>
-  <S s="πιστεύσας" k="πιστεύσας" t="habiendo creído" a="habiendo creído"
+  <S s="πιστεύσας" k="πιστεύσας" t="que creyó" a="que creyó"
   f="0000000000000000000001" sn="11213" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="11214" w="1" ty="1">
   </S>
-  <S s="βαπτισθεὶς" k="βαπτισθεὶς" t="habiendo sido sumergido" a="habiendo sido sumergido"
+  <S s="βαπτισθεὶς" k="βαπτισθεὶς" t="fue sumergido" a="fue sumergido"
   f="0000000000000000000001" sn="11215" w="1" ty="1">
   </S>
   <S s="σωθήσεται," k="σωθήσεται" t="será salvado," a="será salvado"
@@ -37597,7 +37597,7 @@
   <S s="δὲ" k="δὲ" t="← pero" a="← pero"
   f="0000000000000000000001" sn="11218" w="1" ty="1">
   </S>
-  <S s="ἀπιστήσας" k="ἀπιστήσας" t="no habiendo creído" a="no habiendo creído"
+  <S s="ἀπιστήσας" k="ἀπιστήσας" t="que no creyo" a="que no creyo"
   f="0000000000000000000001" sn="11219" w="1" ty="1">
   </S>
   <S s="κατακριθήσεται." k="κατακριθήσεται" t="será condenado." a="será condenado"
@@ -37615,7 +37615,7 @@
   <S s="τοῖς" k="τοῖς" t="a los" a="a los"
   f="0000000000000000000001" sn="11223" w="1" ty="1">
   </S>
-  <S s="πιστεύσασιν" k="πιστεύσασιν" t="habiendo creído" a="habiendo creído"
+  <S s="πιστεύσασιν" k="πιστεύσασιν" t="que creyeron" a="que creyeron"
   f="0000000000000000000001" sn="11224" w="1" ty="1">
   </S>
   <S s="⸂ταῦτα" k="ταῦτα" t="⸂estas" a="estas"
