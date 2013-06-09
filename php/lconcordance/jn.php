@@ -5906,7 +5906,7 @@ $concordance['684']['NGSF'][] = array (
 );
 $concordance['701']['JAPN'][] = array (
   'word' => 'ἀρεστὰ',
-  'spa' => 'complacientes',
+  'spa' => 'agradables',
   'morph' => 'JAPN',
   'ref' => 'jn 8:29',
 );
