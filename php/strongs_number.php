@@ -114,7 +114,7 @@ if (isset($strongs[$lang][$number])) {
 			foreach($refs[$key] as $ref) {
 				list($book, $chapter, $verse) = parse_ref($ref);
 
-				$verse_ref = ($book == $current_book ? '' : $book . ' ') . ($chapter == $current_chapter ? '' : $chapter.':') . $verse;
+				$verse_ref = ($book == $current_book ? '' : $book . ' ') . ($book == $current_book && $chapter == $current_chapter ? '' : $chapter.':') . $verse;
 
 				$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
 				$link = sprintf('<a href="%s" target="_blank">%s</a>', $url, ucwords($verse_ref));
