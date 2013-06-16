@@ -78320,7 +78320,7 @@ $concordance['4060']['V-2AAP-NPM'][] = array (
 );
 $concordance['4061']['N-ASF'][] = array (
   'word' => 'περιτομήν',
-  'spa' => 'cinrcunsición',
+  'spa' => 'circunsición',
   'morph' => 'N-ASF',
   'ref' => 'jn 7:22',
 );

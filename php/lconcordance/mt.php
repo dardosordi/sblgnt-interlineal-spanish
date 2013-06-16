@@ -12938,7 +12938,7 @@ $concordance['846']['RP3DPM'][] = array (
 );
 $concordance['846']['RP3DPM'][] = array (
   'word' => 'αὐτοῖς',
-  'spa' => 'a ellos',
+  'spa' => 'por ellos',
   'morph' => 'RP3DPM',
   'ref' => 'mt 17:3',
 );
@@ -83124,6 +83124,12 @@ $concordance['3700']['VFMI3P'][] = array (
   'morph' => 'VFMI3P',
   'ref' => 'mt 28:10',
 );
+$concordance['3700']['VAPI3S'][] = array (
+  'word' => 'ὤφθη',
+  'spa' => 'fue visto',
+  'morph' => 'VAPI3S',
+  'ref' => 'mt 17:3',
+);
 $concordance['3700']['VFMI2P'][] = array (
   'word' => 'ὄψεσθε',
   'spa' => 'verán',
@@ -83297,12 +83303,6 @@ $concordance['3708']['VPAM2P'][] = array (
   'spa' => 'miren',
   'morph' => 'VPAM2P',
   'ref' => 'mt 24:6',
-);
-$concordance['3708']['VAPI3S'][] = array (
-  'word' => 'ὤφθη',
-  'spa' => 'se apareció',
-  'morph' => 'VAPI3S',
-  'ref' => 'mt 17:3',
 );
 $concordance['3708']['VFMI2S'][] = array (
   'word' => 'ὄψῃ',
@@ -102056,13 +102056,13 @@ $concordance['5053']['VAAP-SGM'][] = array (
 );
 $concordance['5053']['VAAI3S'][] = array (
   'word' => 'ἐτελεύτησεν',
-  'spa' => 'ha muerto',
+  'spa' => 'murió',
   'morph' => 'VAAI3S',
   'ref' => 'mt 9:18',
 );
 $concordance['5053']['VAAI3S'][] = array (
   'word' => 'ἐτελεύτησεν',
-  'spa' => 'ha muerto',
+  'spa' => 'murió',
   'morph' => 'VAAI3S',
   'ref' => 'mt 22:25',
 );
