@@ -7490,7 +7490,7 @@ $concordance['689']['NGSM'][] = array (
 );
 $concordance['694']['NASN'][] = array (
   'word' => 'ἀργύριον',
-  'spa' => 'moneda de plata',
+  'spa' => 'plata',
   'morph' => 'NASN',
   'ref' => 'lk 9:3',
 );
@@ -116312,7 +116312,7 @@ $concordance['5613']['CAT'][] = array (
 );
 $concordance['5613']['CAT'][] = array (
   'word' => 'ὡς',
-  'spa' => 'como',
+  'spa' => 'cuando',
   'morph' => 'CAT',
   'ref' => 'lk 15:25',
 );
@@ -116348,7 +116348,7 @@ $concordance['5613']['CAT'][] = array (
 );
 $concordance['5613']['CAT'][] = array (
   'word' => 'ὡς',
-  'spa' => 'como',
+  'spa' => 'cuando',
   'morph' => 'CAT',
   'ref' => 'lk 23:26',
 );
@@ -116516,7 +116516,7 @@ $concordance['5613']['CSC'][] = array (
 );
 $concordance['5613']['CSC'][] = array (
   'word' => 'ὡς',
-  'spa' => 'cuando',
+  'spa' => 'como',
   'morph' => 'CSC',
   'ref' => 'lk 22:61',
 );

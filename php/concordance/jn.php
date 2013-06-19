@@ -92426,7 +92426,7 @@ $concordance['5613']['ADV'][] = array (
 );
 $concordance['5613']['ADV'][] = array (
   'word' => 'Ὡς',
-  'spa' => 'Como',
+  'spa' => 'Cuando',
   'morph' => 'ADV',
   'ref' => 'jn 2:23',
 );

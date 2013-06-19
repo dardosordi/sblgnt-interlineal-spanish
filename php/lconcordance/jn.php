@@ -92480,7 +92480,7 @@ $concordance['5613']['CAT'][] = array (
 );
 $concordance['5613']['CAT'][] = array (
   'word' => 'Ὡς',
-  'spa' => 'Como',
+  'spa' => 'Cuando',
   'morph' => 'CAT',
   'ref' => 'jn 2:23',
 );

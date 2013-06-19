@@ -7160,7 +7160,7 @@ $concordance['692']['JNPM'][] = array (
 );
 $concordance['694']['NASN'][] = array (
   'word' => 'ἀργύριον',
-  'spa' => 'moneda de plata',
+  'spa' => 'plata',
   'morph' => 'NASN',
   'ref' => 'mt 25:18',
 );

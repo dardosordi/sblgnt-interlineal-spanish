@@ -7490,7 +7490,7 @@ $concordance['689']['N-PRI'][] = array (
 );
 $concordance['694']['N-ASN'][] = array (
   'word' => 'ἀργύριον',
-  'spa' => 'moneda de plata',
+  'spa' => 'plata',
   'morph' => 'N-ASN',
   'ref' => 'lk 9:3',
 );
@@ -116414,7 +116414,7 @@ $concordance['5613']['ADV'][] = array (
 );
 $concordance['5613']['ADV'][] = array (
   'word' => 'ὡς',
-  'spa' => 'como',
+  'spa' => 'cuando',
   'morph' => 'ADV',
   'ref' => 'lk 15:25',
 );
@@ -116504,7 +116504,7 @@ $concordance['5613']['ADV'][] = array (
 );
 $concordance['5613']['ADV'][] = array (
   'word' => 'ὡς',
-  'spa' => 'cuando',
+  'spa' => 'como',
   'morph' => 'ADV',
   'ref' => 'lk 22:61',
 );
@@ -116522,7 +116522,7 @@ $concordance['5613']['ADV'][] = array (
 );
 $concordance['5613']['ADV'][] = array (
   'word' => 'ὡς',
-  'spa' => 'como',
+  'spa' => 'cuando',
   'morph' => 'ADV',
   'ref' => 'lk 23:26',
 );

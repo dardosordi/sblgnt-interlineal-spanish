@@ -4460,7 +4460,7 @@ $concordance['687']['PRT-I'][] = array (
 );
 $concordance['694']['N-ASN'][] = array (
   'word' => 'ἀργύριον',
-  'spa' => 'moneda de plata',
+  'spa' => 'plata',
   'morph' => 'N-ASN',
   'ref' => 'mk 14:11',
 );
@@ -10154,7 +10154,7 @@ $concordance['907']['V-FPI-2P'][] = array (
 );
 $concordance['907']['V-APP-NSM'][] = array (
   'word' => 'βαπτισθεὶς',
-  'spa' => 'fue sumergido',
+  'spa' => 'que fue sumergido',
   'morph' => 'V-APP-NSM',
   'ref' => 'mk 16:16',
 );
@@ -58658,7 +58658,7 @@ $concordance['4128']['N-NSN'][] = array (
 );
 $concordance['4133']['ADV'][] = array (
   'word' => 'πλὴν',
-  'spa' => 'pero',
+  'spa' => 'excepto',
   'morph' => 'ADV',
   'ref' => 'mk 12:32',
 );
@@ -67532,7 +67532,7 @@ $concordance['5613']['ADV'][] = array (
 );
 $concordance['5613']['ADV'][] = array (
   'word' => 'ὡς',
-  'spa' => 'como',
+  'spa' => 'cuando',
   'morph' => 'ADV',
   'ref' => 'mk 9:21',
 );
