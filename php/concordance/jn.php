@@ -26322,12 +26322,6 @@ $concordance['1834']['V-ADI-3S'][] = array (
   'morph' => 'V-ADI-3S',
   'ref' => 'jn 1:18',
 );
-$concordance['1839']['CONJ'][] = array (
-  'word' => 'ἐπεὶ',
-  'spa' => 'porque',
-  'morph' => 'CONJ',
-  'ref' => 'jn 19:31',
-);
 $concordance['1849']['N-ASF'][] = array (
   'word' => 'ἐξουσίαν',
   'spa' => 'autoridad',
@@ -26633,6 +26627,12 @@ $concordance['1893']['CONJ'][] = array (
   'spa' => 'porque',
   'morph' => 'CONJ',
   'ref' => 'jn 13:29',
+);
+$concordance['1893']['CONJ'][] = array (
+  'word' => 'ἐπεὶ',
+  'spa' => 'porque',
+  'morph' => 'CONJ',
+  'ref' => 'jn 19:31',
 );
 $concordance['1899']['ADV'][] = array (
   'word' => 'ἔπειτα',
