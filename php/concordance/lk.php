@@ -8252,13 +8252,13 @@ $concordance['796']['N-NSF'][] = array (
 );
 $concordance['797']['V-PAP-NSF'][] = array (
   'word' => 'ἀστράπτουσα',
-  'spa' => 'relampagueando',
+  'spa' => 'resplandeciendo',
   'morph' => 'V-PAP-NSF',
   'ref' => 'lk 17:24',
 );
 $concordance['797']['V-AAS-3S'][] = array (
   'word' => 'ἀστραπτούσῃ',
-  'spa' => 'relampagueando',
+  'spa' => 'reslandeciendo',
   'morph' => 'V-AAS-3S',
   'ref' => 'lk 24:4',
 );
@@ -30962,7 +30962,7 @@ $concordance['1537']['PREP'][] = array (
 );
 $concordance['1537']['PREP'][] = array (
   'word' => 'ἐκ',
-  'spa' => 'de',
+  'spa' => 'desde',
   'morph' => 'PREP',
   'ref' => 'lk 17:24',
 );
@@ -60602,7 +60602,7 @@ $concordance['2606']['V-IAI-3P'][] = array (
 );
 $concordance['2609']['V-2AAP-NPM'][] = array (
   'word' => 'καταγαγόντες',
-  'spa' => 'llevando',
+  'spa' => 'bajando',
   'morph' => 'V-2AAP-NPM',
   'ref' => 'lk 5:11',
 );
@@ -64658,13 +64658,13 @@ $concordance['3004']['V-IAI-3P'][] = array (
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'lk 22:65',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'lk 24:10',
 );

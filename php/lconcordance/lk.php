@@ -8252,13 +8252,13 @@ $concordance['796']['NNSF'][] = array (
 );
 $concordance['797']['VPAP-SNF'][] = array (
   'word' => 'ἀστράπτουσα',
-  'spa' => 'relampagueando',
+  'spa' => 'resplandeciendo',
   'morph' => 'VPAP-SNF',
   'ref' => 'lk 17:24',
 );
 $concordance['797']['VPAP-SDF'][] = array (
   'word' => 'ἀστραπτούσῃ',
-  'spa' => 'relampagueando',
+  'spa' => 'reslandeciendo',
   'morph' => 'VPAP-SDF',
   'ref' => 'lk 24:4',
 );
@@ -30962,7 +30962,7 @@ $concordance['1537']['P'][] = array (
 );
 $concordance['1537']['P'][] = array (
   'word' => 'ἐκ',
-  'spa' => 'de',
+  'spa' => 'desde',
   'morph' => 'P',
   'ref' => 'lk 17:24',
 );
@@ -60602,7 +60602,7 @@ $concordance['2606']['VIAI3P'][] = array (
 );
 $concordance['2609']['VAAP-PNM'][] = array (
   'word' => 'καταγαγόντες',
-  'spa' => 'llevando',
+  'spa' => 'bajando',
   'morph' => 'VAAP-PNM',
   'ref' => 'lk 5:11',
 );
@@ -64658,13 +64658,13 @@ $concordance['3004']['VIAI3P'][] = array (
 );
 $concordance['3004']['VIAI3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'VIAI3P',
   'ref' => 'lk 22:65',
 );
 $concordance['3004']['VIAI3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'VIAI3P',
   'ref' => 'lk 24:10',
 );

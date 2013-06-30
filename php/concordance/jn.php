@@ -47930,49 +47930,49 @@ $concordance['3004']['V-PAP-NPM'][] = array (
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 4:33',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 4:42',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 5:10',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 6:14',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 6:42',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 7:11',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 7:12',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 7:12',
 );
@@ -47984,151 +47984,151 @@ $concordance['3004']['V-IAI-3P'][] = array (
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 7:31',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 7:40',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 7:41',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 7:41',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 8:19',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 8:22',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 8:25',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 9:8',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 9:9',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 9:9',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 9:10',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 9:16',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 9:16',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 10:20',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 10:21',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 10:24',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 10:41',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 11:36',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 11:47',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 11:56',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 12:29',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 16:18',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 19:3',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 19:21',
 );
 $concordance['3004']['V-IAI-3P'][] = array (
   'word' => 'ἔλεγον',
-  'spa' => 'decian',
+  'spa' => 'decían',
   'morph' => 'V-IAI-3P',
   'ref' => 'jn 20:25',
 );
