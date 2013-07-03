@@ -22760,7 +22760,7 @@ $concordance['1161']['CONJ'][] = array (
 );
 $concordance['1161']['CONJ'][] = array (
   'word' => 'δὲ',
-  'spa' => '← y',
+  'spa' => '← pero',
   'morph' => 'CONJ',
   'ref' => 'lk 24:37',
 );
@@ -32612,7 +32612,7 @@ $concordance['1719']['A-GPM'][] = array (
 );
 $concordance['1719']['A-NPM'][] = array (
   'word' => 'ἔμφοβοι',
-  'spa' => 'aterrados',
+  'spa' => 'asustados',
   'morph' => 'A-NPM',
   'ref' => 'lk 24:37',
 );
@@ -59660,7 +59660,7 @@ $concordance['2564']['V-FPI-3S'][] = array (
 );
 $concordance['2564']['V-PPP-DSF'][] = array (
   'word' => 'καλουμένῃ',
-  'spa' => 'que es llamada',
+  'spa' => 'llamada',
   'morph' => 'V-PPP-DSF',
   'ref' => 'lk 1:36',
 );
@@ -59810,7 +59810,7 @@ $concordance['2564']['V-RAP-NSM'][] = array (
 );
 $concordance['2564']['V-RAP-DSM'][] = array (
   'word' => 'κεκληκότι',
-  'spa' => 'habiendo llamado',
+  'spa' => 'que ha llamado',
   'morph' => 'V-RAP-DSM',
   'ref' => 'lk 14:12',
 );
@@ -103364,13 +103364,13 @@ $concordance['4420']['N-APF'][] = array (
 );
 $concordance['4422']['V-APS-2P'][] = array (
   'word' => 'πτοηθῆτε',
-  'spa' => 'se asusten',
+  'spa' => 'se aterren',
   'morph' => 'V-APS-2P',
   'ref' => 'lk 21:9',
 );
 $concordance['4422']['V-APP-NPM'][] = array (
   'word' => 'πτοηθέντες',
-  'spa' => 'Habiendose asustado',
+  'spa' => 'Habiendose aterrado',
   'morph' => 'V-APP-NPM',
   'ref' => 'lk 24:37',
 );
@@ -106826,7 +106826,7 @@ $concordance['4779']['V-AMP-NSM'][] = array (
 );
 $concordance['4779']['V-AMP-NSM'][] = array (
   'word' => 'συγκαλεσάμενος',
-  'spa' => 'convocando',
+  'spa' => 'habiendo convocado',
   'morph' => 'V-AMP-NSM',
   'ref' => 'lk 23:13',
 );
