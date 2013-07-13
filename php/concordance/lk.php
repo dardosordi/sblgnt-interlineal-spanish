@@ -108260,7 +108260,7 @@ $concordance['5030']['ADV'][] = array (
 );
 $concordance['5034']['N-DSN'][] = array (
   'word' => 'τάχει',
-  'spa' => 'repidez',
+  'spa' => 'rapidez',
   'morph' => 'N-DSN',
   'ref' => 'lk 18:8',
 );

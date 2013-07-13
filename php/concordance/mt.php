@@ -6866,7 +6866,7 @@ $concordance['649']['V-AAP-NSM'][] = array (
 );
 $concordance['649']['V-AAM-2S'][] = array (
   'word' => 'ἀπόστειλον',
-  'spa' => 'envia',
+  'spa' => 'envía',
   'morph' => 'V-AAM-2S',
   'ref' => 'mt 8:31',
 );
@@ -63260,7 +63260,7 @@ $concordance['3415']['V-APS-2S'][] = array (
 );
 $concordance['3415']['V-API-3S'][] = array (
   'word' => 'ἐμνήσθη',
-  'spa' => 'se acordó',
+  'spa' => 'recordó',
   'morph' => 'V-API-3S',
   'ref' => 'mt 26:75',
 );
