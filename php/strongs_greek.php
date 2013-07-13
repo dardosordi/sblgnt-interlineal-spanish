@@ -4513,7 +4513,7 @@ $strongs['greek']['4599'] = array ('derivation' => 'from (bodily vigor;','lemma'
 $strongs['greek']['4600'] = array ('derivation' => 'of uncertain derivation;','lemma' => 'σιαγών','kjv_def' => 'cheek','strongs_def' => 'the jaw-bone, i.e. (by implication) the cheek or side of the face',);
 $strongs['greek']['4601'] = array ('derivation' => 'from G4602 (σιγή);','lemma' => 'σιγάω','kjv_def' => 'keep close (secret, silence), hold peace','strongs_def' => 'to keep silent (transitively or intransitively)',);
 $strongs['greek']['4602'] = array ('derivation' => 'apparently from (to hiss, i.e. hist or hush);','lemma' => 'σιγή','kjv_def' => 'silence','strongs_def' => 'silence',);
-$strongs['greek']['4603'] = array ('derivation' => 'from G4604 (σίδηρος);','lemma' => 'σιδήρεος','kjv_def' => '(of) iron','strongs_def' => 'made of iron',);
+$strongs['greek']['4603'] = array ('derivation' => 'from G4604 (σίδηρος);','lemma' => 'σιδηροῦς','kjv_def' => '(of) iron','strongs_def' => 'made of iron',);
 $strongs['greek']['4604'] = array ('derivation' => 'of uncertain derivation;','lemma' => 'σίδηρος','kjv_def' => 'iron','strongs_def' => 'iron',);
 $strongs['greek']['4605'] = array ('derivation' => 'of Hebrew origin (H06721);','lemma' => 'Σιδών','kjv_def' => 'Sidon','strongs_def' => 'Sidon (i.e. Tsidon), a place in Palestine',);
 $strongs['greek']['4606'] = array ('derivation' => 'from G4605 (Σιδών);','lemma' => 'Σιδώνιος','kjv_def' => 'of Sidon','strongs_def' => 'a Sidonian, i.e. inhabitant of Sidon',);
