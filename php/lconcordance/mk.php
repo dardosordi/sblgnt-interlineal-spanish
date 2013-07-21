@@ -57908,7 +57908,7 @@ $concordance['4012']['P'][] = array (
 );
 $concordance['4013']['VIAI3S'][] = array (
   'word' => 'περιῆγεν',
-  'spa' => 'fue alrededor',
+  'spa' => 'daba vueltas',
   'morph' => 'VIAI3S',
   'ref' => 'mk 6:6',
 );
@@ -61736,7 +61736,7 @@ $concordance['4572']['RF2ASM'][] = array (
 );
 $concordance['4576']['VPUI3P'][] = array (
   'word' => 'σέβονταί',
-  'spa' => 'reverencian',
+  'spa' => 'adoran',
   'morph' => 'VPUI3P',
   'ref' => 'mk 7:7',
 );
@@ -63152,7 +63152,7 @@ $concordance['4870']['VIAI3S'][] = array (
 );
 $concordance['4872']['VAAP-PNF'][] = array (
   'word' => 'συναναβᾶσαι',
-  'spa' => 'habiendo subido',
+  'spa' => 'que subieron junto',
   'morph' => 'VAAP-PNF',
   'ref' => 'mk 15:41',
 );

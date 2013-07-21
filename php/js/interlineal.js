@@ -2,9 +2,9 @@ $(function() {
 	$('body').append('<div id="panel"></div>');
 	$('#panel').append('<label><input type="checkbox" name="greek"> Greek</label>');
 	$('#panel').append(' <label><input type="checkbox" name="strongs"> Strongs</label>');
-	$('#panel').append(' <label><input type="checkbox" name="morph"> Morphology</label>');
-	$('#panel').append(' <label><input type="checkbox" name="translit"> Transliteration</label>');
-	$('#panel').append(' <label><input type="checkbox" name="spa"> Spanish</label> - ');
+	$('#panel').append(' <label><input type="checkbox" name="morph"> Morph</label>');
+	$('#panel').append(' <label><input type="checkbox" name="translit"> Translit</label>');
+	$('#panel').append(' <label><input type="checkbox" name="spa"> Spanish</label> ');
 
 	$('#panel').append($('#nav .prev').clone());
 	$('#panel').append(' <a href="javascript:prev();">&lt;</a> ');

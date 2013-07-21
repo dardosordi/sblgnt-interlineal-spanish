@@ -38264,7 +38264,7 @@ $concordance['2095']['B'][] = array (
 );
 $concordance['2097']['VPPI3P'][] = array (
   'word' => 'εὐαγγελίζονται',
-  'spa' => 'son anunciadas buenas noticias',
+  'spa' => 'son anunciadas buenas nuevas',
   'morph' => 'VPPI3P',
   'ref' => 'mt 11:5',
 );
@@ -70112,7 +70112,7 @@ $concordance['3588']['DASF'][] = array (
 );
 $concordance['3588']['DASF'][] = array (
   'word' => 'τὴν',
-  'spa' => 'de la',
+  'spa' => 'a la',
   'morph' => 'DASF',
   'ref' => 'mt 23:15',
 );
@@ -83858,7 +83858,7 @@ $concordance['3739']['RR-ASM'][] = array (
 );
 $concordance['3739']['RR-ASM'][] = array (
   'word' => 'ὃν',
-  'spa' => 'quien',
+  'spa' => 'la cual',
   'morph' => 'RR-ASM',
   'ref' => 'mt 23:37',
 );
@@ -92264,19 +92264,19 @@ $concordance['4012']['P'][] = array (
 );
 $concordance['4013']['VIAI3S'][] = array (
   'word' => 'περιῆγεν',
-  'spa' => 'fue alrededor',
+  'spa' => 'daba vueltas',
   'morph' => 'VIAI3S',
   'ref' => 'mt 4:23',
 );
 $concordance['4013']['VIAI3S'][] = array (
   'word' => 'περιῆγεν',
-  'spa' => 'fue alrededor',
+  'spa' => 'daba vueltas',
   'morph' => 'VIAI3S',
   'ref' => 'mt 9:35',
 );
 $concordance['4013']['VPAI2P'][] = array (
   'word' => 'περιάγετε',
-  'spa' => 'van alrededor',
+  'spa' => 'dan vueltas',
   'morph' => 'VPAI2P',
   'ref' => 'mt 23:15',
 );
@@ -98414,7 +98414,7 @@ $concordance['4572']['RF2ASM'][] = array (
 );
 $concordance['4576']['VPUI3P'][] = array (
   'word' => 'σέβονταί',
-  'spa' => 'reverencian',
+  'spa' => 'adoran',
   'morph' => 'VPUI3P',
   'ref' => 'mt 15:9',
 );
@@ -101726,7 +101726,7 @@ $concordance['5015']['VAPI3P'][] = array (
 );
 $concordance['5021']['VAMI3S'][] = array (
   'word' => 'ἐτάξατο',
-  'spa' => 'ordenó',
+  'spa' => 'estableció',
   'morph' => 'VAMI3S',
   'ref' => 'mt 28:16',
 );
@@ -104312,7 +104312,7 @@ $concordance['5154']['JGSF'][] = array (
 );
 $concordance['5158']['NASM'][] = array (
   'word' => 'τρόπον',
-  'spa' => 'como',
+  'spa' => 'manera',
   'morph' => 'NASM',
   'ref' => 'mt 23:37',
 );

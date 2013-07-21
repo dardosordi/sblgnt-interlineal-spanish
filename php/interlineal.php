@@ -19,9 +19,10 @@ $end_chapter = isset($_GET['endchapter']) ? $_GET['endchapter'] : $chapter;
 $end_verse = isset($_GET['verse']) ? $_GET['verse'] : null;
 
 $cache = isset($_GET['cache']) ? $_GET['cache'] : false;
+$cache = false;
 
 $show_morph = isset($_GET['morph']) ? $_GET['morph'] : true;
-$show_translit = isset($_GET['translit']) ? $_GET['translit'] : true;
+$show_translit = isset($_GET['translit']) ? $_GET['translit'] : false;
 $show_strongs = isset($_GET['strongs']) ? $_GET['strongs'] : true;
 $show_spa = isset($_GET['spa']) ? $_GET['spa'] : true;
 $show_greek = isset($_GET['greek']) ? $_GET['greek'] : true;
@@ -257,6 +258,9 @@ foreach($interlineal as $S) {
 				$marker = $markers[0];
 				$open_note = preg_match('#[⸀⸁⸂⸄]#u', $greek);
 				if ($open_note) {
+					if (!isset($apparatus[$book][$current_chapter][$current_verse][$current_note])) {
+						echo ("<pre>[$book][$current_chapter][$current_verse][$current_note]</pre>");
+					}
 					$note = $apparatus[$book][$current_chapter][$current_verse][$current_note];
 					$verse_markers[$marker] = array($current_note, $note_id, $note);
 					$use_note_id = $note_id;

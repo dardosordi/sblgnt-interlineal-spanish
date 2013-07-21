@@ -41942,37 +41942,37 @@ $concordance['2095']['B'][] = array (
 );
 $concordance['2097']['VAMN'][] = array (
   'word' => 'εὐαγγελίσασθαί',
-  'spa' => 'anunciar buenas noticias',
+  'spa' => 'anunciar buenas nuevas',
   'morph' => 'VAMN',
   'ref' => 'lk 1:19',
 );
 $concordance['2097']['VAMN'][] = array (
   'word' => 'εὐαγγελίσασθαι',
-  'spa' => 'anunciar buenas noticias',
+  'spa' => 'anunciar buenas nuevas',
   'morph' => 'VAMN',
   'ref' => 'lk 4:18',
 );
 $concordance['2097']['VAMN'][] = array (
   'word' => 'εὐαγγελίσασθαί',
-  'spa' => 'anunciar buenas noticias',
+  'spa' => 'anunciar buenas nuevas',
   'morph' => 'VAMN',
   'ref' => 'lk 4:43',
 );
 $concordance['2097']['VPMI1S'][] = array (
   'word' => 'εὐαγγελίζομαι',
-  'spa' => 'anuncio buenas noticias',
+  'spa' => 'anuncio buenas nuevas',
   'morph' => 'VPMI1S',
   'ref' => 'lk 2:10',
 );
 $concordance['2097']['VIMI3S'][] = array (
   'word' => 'εὐηγγελίζετο',
-  'spa' => 'anunciaba buenas noticias',
+  'spa' => 'anunciaba buenas nuevas',
   'morph' => 'VIMI3S',
   'ref' => 'lk 3:18',
 );
 $concordance['2097']['VPPI3P'][] = array (
   'word' => 'εὐαγγελίζονται',
-  'spa' => 'son anunciadas buenas noticias',
+  'spa' => 'son anunciadas buenas nuevas',
   'morph' => 'VPPI3P',
   'ref' => 'lk 7:22',
 );
@@ -88940,7 +88940,7 @@ $concordance['3739']['RR-ASM'][] = array (
 );
 $concordance['3739']['RR-ASM'][] = array (
   'word' => 'ὃν',
-  'spa' => 'que',
+  'spa' => 'la cual',
   'morph' => 'RR-ASM',
   'ref' => 'lk 13:34',
 );
@@ -107972,7 +107972,7 @@ $concordance['5015']['VRPP-PNM'][] = array (
 );
 $concordance['5021']['VPPP-SNM'][] = array (
   'word' => 'τασσόμενος',
-  'spa' => 'siendo ordenado',
+  'spa' => 'establecido',
   'morph' => 'VPPP-SNM',
   'ref' => 'lk 7:8',
 );
@@ -110906,7 +110906,7 @@ $concordance['5154']['JASF'][] = array (
 );
 $concordance['5158']['NASM'][] = array (
   'word' => 'τρόπον',
-  'spa' => 'como',
+  'spa' => 'manera',
   'morph' => 'NASM',
   'ref' => 'lk 13:34',
 );
