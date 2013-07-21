@@ -79,8 +79,8 @@ LastKBLIFTExportPath
 FoldersProtectedFromNavigation	
 KeepPhraseBoxMidscreen	1
 DoLegacyLowerCaseLookup	0
-PunctuationPairsSourceSet(stores space for an empty cell)	;.,·:"!()<>⟦⟧[]“”—’⸀⸁⸂⸄⸃⸅’
-PunctuationPairsTargetSet(stores space for an empty cell)	?.,::"!()<>⟦⟧[]“”— ⸀⸁⸂⸄⸃⸅ 
+PunctuationPairsSourceSet(stores space for an empty cell)	‘;.,·:"!()<>⟦⟧[]“”—’⸀⸁⸂⸄⸃⸅
+PunctuationPairsTargetSet(stores space for an empty cell)	‘?.,::"!()<>⟦⟧[]“”— ⸀⸁⸂⸄⸃⸅
 PunctuationTwoCharacterPairsSourceSet(ditto)	
 PunctuationTwoCharacterPairsTargetSet(ditto)	
 SpecialTextColor	255
