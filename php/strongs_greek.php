@@ -2718,7 +2718,7 @@ $strongs['greek']['2703'] = array ('derivation' => 'from G2596 (κατά) and G
 $strongs['greek']['2704'] = array ('derivation' => 'from G2596 (κατά) and G5351 (φθείρω);','lemma' => 'καταφθείρω','kjv_def' => '--corrupt, utterly perish','strongs_def' => 'to spoil entirely, i.e. (literally) to destroy; or (figuratively) to deprave;',);
 $strongs['greek']['2705'] = array ('derivation' => 'from 2596 and 5368;','lemma' => 'καταφιλέω','kjv_def' => 'kiss','strongs_def' => 'to kiss earnestly',);
 $strongs['greek']['2706'] = array ('derivation' => 'from G2596 (κατά) and G5426 (φρονέω);','lemma' => 'καταφρονέω','kjv_def' => 'despise','strongs_def' => 'to think against, i.e. disesteem',);
-$strongs['greek']['2707'] = array ('derivation' => 'from G2706 (καταφρονέω);','lemma' => 'καταφροντής','kjv_def' => 'despiser','strongs_def' => 'a contemner',);
+$strongs['greek']['2707'] = array ('derivation' => 'from G2706 (καταφρονέω);','lemma' => 'καταφρονητής','kjv_def' => 'despiser','strongs_def' => 'a contemner',);
 $strongs['greek']['2708'] = array ('derivation' => 'from G2596 (κατά) and cheo (to pour);','lemma' => 'καταχέω','kjv_def' => 'pour','strongs_def' => 'to pour down (out)',);
 $strongs['greek']['2709'] = array ('derivation' => 'from G2596 (κατά) and (the ground);','lemma' => 'καταχθόνιος','kjv_def' => 'under the earth','strongs_def' => 'subterranean, i.e. infernal (belonging to the world of departed spirits)',);
 $strongs['greek']['2710'] = array ('derivation' => 'from G2596 (κατά) and G5530 (χράομαι);','lemma' => 'καταχράομαι','kjv_def' => 'abuse','strongs_def' => 'to overuse, i.e. misuse',);
@@ -3277,7 +3277,7 @@ $strongs['greek']['3363'] = array ('derivation' => 'i.e. G2443 (ἵνα) and G33
 $strongs['greek']['3364'] = array ('derivation' => 'i.e. G3756 (οὐ) and G3361 (μή);','lemma' => 'οὐ μή','kjv_def' => 'any more, at all, by any (no) means, neither, never, no (at all), in no case (wise), nor ever, not (at all, in any wise)','strongs_def' => 'a double negative strengthening the denial; not at all',);
 $strongs['greek']['3365'] = array ('derivation' => 'adverb from a compound of G3361 (μή) and (somebody);','lemma' => 'μηδαμῶς','kjv_def' => 'not so','strongs_def' => 'by no means',);
 $strongs['greek']['3366'] = array ('derivation' => 'from G3361 (μή) and G1161 (δέ);','lemma' => 'μηδέ','kjv_def' => 'neither, nor (yet), (no) not (once, so much as)','strongs_def' => 'but not, not even; in a continued negation, nor',);
-$strongs['greek']['3367'] = array ('derivation' => 'from G3361 (μή) and G1520 (εἷς);','lemma' => 'μηδέν','kjv_def' => 'any (man, thing), no (man), none, not (at all, any man, a whit), nothing, + without delay','strongs_def' => 'not even one (man, woman, thing)',);
+$strongs['greek']['3367'] = array ('derivation' => 'from G3361 (μή) and G1520 (εἷς);','lemma' => 'μηδείς','kjv_def' => 'any (man, thing), no (man), none, not (at all, any man, a whit), nothing, + without delay','strongs_def' => 'not even one (man, woman, thing)',);
 $strongs['greek']['3368'] = array ('derivation' => 'from G3366 (μηδέ) and G4218 (ποτέ);','lemma' => 'μηδέποτε','kjv_def' => 'never','strongs_def' => 'not even ever',);
 $strongs['greek']['3369'] = array ('derivation' => 'from G3366 (μηδέ) and G4452 (-πω);','lemma' => 'μηδέπω','kjv_def' => 'not yet','strongs_def' => 'not even yet',);
 $strongs['greek']['3370'] = array ('derivation' => 'of foreign origin (compare H04074);','lemma' => 'Μῆδος','kjv_def' => 'Mede','strongs_def' => 'a Median, or inhabitant of Media',);
