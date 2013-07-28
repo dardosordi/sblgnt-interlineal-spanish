@@ -65046,12 +65046,6 @@ $concordance['5204']['NAPN'][] = array (
   'morph' => 'NAPN',
   'ref' => 'mk 9:22',
 );
-$concordance['5205']['NVSM'][] = array (
-  'word' => 'Υἱὲ',
-  'spa' => 'Hijo',
-  'morph' => 'NVSM',
-  'ref' => 'mk 10:47',
-);
 $concordance['5207']['NNSM'][] = array (
   'word' => 'υἱός',
   'spa' => 'hijo',
@@ -65201,6 +65195,12 @@ $concordance['5207']['NVSM'][] = array (
   'spa' => 'hijo',
   'morph' => 'NVSM',
   'ref' => 'mk 5:7',
+);
+$concordance['5207']['NVSM'][] = array (
+  'word' => 'Υἱὲ',
+  'spa' => 'Hijo',
+  'morph' => 'NVSM',
+  'ref' => 'mk 10:47',
 );
 $concordance['5207']['NVSM'][] = array (
   'word' => 'Υἱὲ',
