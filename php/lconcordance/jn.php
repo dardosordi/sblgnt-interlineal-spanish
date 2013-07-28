@@ -38480,7 +38480,7 @@ $concordance['2521']['VPUP-PAM'][] = array (
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'jn 6:3',
 );

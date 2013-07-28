@@ -18596,7 +18596,7 @@ $concordance['1097']['VAAP-SNM'][] = array (
 );
 $concordance['1097']['VAAP-SNM'][] = array (
   'word' => 'γνοὺς',
-  'spa' => 'habiendo conocido',
+  'spa' => 'que conoció',
   'morph' => 'VAAP-SNM',
   'ref' => 'lk 12:48',
 );
@@ -24062,7 +24062,7 @@ $concordance['1281']['VAMI3P'][] = array (
 );
 $concordance['1284']['VIPI3S'][] = array (
   'word' => 'διερρήσσετο',
-  'spa' => 'siendo razgada',
+  'spa' => 'se rasgaban',
   'morph' => 'VIPI3S',
   'ref' => 'lk 5:6',
 );
@@ -50330,13 +50330,13 @@ $concordance['2521']['VPUP-PDN'][] = array (
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'lk 18:35',
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'lk 22:55',
 );
@@ -95318,7 +95318,7 @@ $concordance['3908']['VFAI1S'][] = array (
 );
 $concordance['3908']['VAMI3P'][] = array (
   'word' => 'παρέθεντο',
-  'spa' => 'fue confiado',
+  'spa' => 'fueron encomendados',
   'morph' => 'VAMI3P',
   'ref' => 'lk 12:48',
 );
@@ -102260,7 +102260,7 @@ $concordance['4314']['P'][] = array (
 );
 $concordance['4314']['P'][] = array (
   'word' => 'πρὸς',
-  'spa' => 'hacia',
+  'spa' => 'en frente',
   'morph' => 'P',
   'ref' => 'lk 22:56',
 );
@@ -111044,13 +111044,13 @@ $concordance['5185']['JAPM'][] = array (
 );
 $concordance['5195']['VPAI2S'][] = array (
   'word' => 'ὑβρίζεις',
-  'spa' => 'maltratas',
+  'spa' => 'agredes',
   'morph' => 'VPAI2S',
   'ref' => 'lk 11:45',
 );
 $concordance['5195']['VFPI3S'][] = array (
   'word' => 'ὑβρισθήσεται',
-  'spa' => 'será maltratado',
+  'spa' => 'será agredido',
   'morph' => 'VFPI3S',
   'ref' => 'lk 18:32',
 );

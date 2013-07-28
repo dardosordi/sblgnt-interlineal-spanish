@@ -45860,31 +45860,31 @@ $concordance['2521']['VPUP-PDN'][] = array (
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'mt 13:1',
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'mt 15:29',
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'mt 26:58',
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'mt 26:69',
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'mt 28:2',
 );
@@ -104498,7 +104498,7 @@ $concordance['5188']['VPPP-SAN'][] = array (
 );
 $concordance['5195']['VAAI3P'][] = array (
   'word' => 'ὕβρισαν',
-  'spa' => 'maltrataron',
+  'spa' => 'agredieron',
   'morph' => 'VAAI3P',
   'ref' => 'mt 22:6',
 );

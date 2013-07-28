@@ -29174,13 +29174,13 @@ $concordance['2521']['VPUP-SAM'][] = array (
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'mk 3:32',
 );
 $concordance['2521']['VIUI3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'VIUI3S',
   'ref' => 'mk 10:46',
 );

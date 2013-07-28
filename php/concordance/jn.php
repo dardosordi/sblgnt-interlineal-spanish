@@ -38480,7 +38480,7 @@ $concordance['2521']['V-PMP-APM'][] = array (
 );
 $concordance['2521']['V-IMI-3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'V-IMI-3S',
   'ref' => 'jn 6:3',
 );

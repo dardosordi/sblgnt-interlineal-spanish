@@ -29174,13 +29174,13 @@ $concordance['2521']['V-PMP-ASM'][] = array (
 );
 $concordance['2521']['V-IMI-3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'V-IMI-3S',
   'ref' => 'mk 3:32',
 );
 $concordance['2521']['V-IMI-3S'][] = array (
   'word' => 'ἐκάθητο',
-  'spa' => 'se sentó',
+  'spa' => 'estaba sentado',
   'morph' => 'V-IMI-3S',
   'ref' => 'mk 10:46',
 );
