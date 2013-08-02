@@ -56582,7 +56582,7 @@ $concordance['3855']['V-PAP-ASM'][] = array (
 );
 $concordance['3858']['V-PMI-3P'][] = array (
   'word' => 'παραδέχονται',
-  'spa' => 'aceptan',
+  'spa' => 'reciben',
   'morph' => 'V-PMI-3P',
   'ref' => 'mk 4:20',
 );

@@ -56582,7 +56582,7 @@ $concordance['3855']['VPAP-SAM'][] = array (
 );
 $concordance['3858']['VPUI3P'][] = array (
   'word' => 'παραδέχονται',
-  'spa' => 'aceptan',
+  'spa' => 'reciben',
   'morph' => 'VPUI3P',
   'ref' => 'mk 4:20',
 );
