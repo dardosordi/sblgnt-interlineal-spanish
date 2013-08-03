@@ -94448,13 +94448,13 @@ $concordance['3813']['N-APN'][] = array (
 );
 $concordance['3814']['N-APF'][] = array (
   'word' => 'παιδίσκας',
-  'spa' => 'siervitas',
+  'spa' => 'sirvientas',
   'morph' => 'N-APF',
   'ref' => 'lk 12:45',
 );
 $concordance['3814']['N-NSF'][] = array (
   'word' => 'παιδίσκη',
-  'spa' => 'siervita',
+  'spa' => 'sirvienta',
   'morph' => 'N-NSF',
   'ref' => 'lk 22:56',
 );
@@ -97016,13 +97016,13 @@ $concordance['3983']['V-FAI-2P'][] = array (
 );
 $concordance['3985']['V-PPP-NSM'][] = array (
   'word' => 'πειραζόμενος',
-  'spa' => 'siendo tentado',
+  'spa' => 'siendo probado',
   'morph' => 'V-PPP-NSM',
   'ref' => 'lk 4:2',
 );
 $concordance['3985']['V-PAP-NPM'][] = array (
   'word' => 'πειράζοντες',
-  'spa' => 'tentando',
+  'spa' => 'probando',
   'morph' => 'V-PAP-NPM',
   'ref' => 'lk 11:16',
 );

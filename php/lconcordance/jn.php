@@ -48614,7 +48614,7 @@ $concordance['3058']['VAAI3P'][] = array (
 );
 $concordance['3068']['VRPP-SNM'][] = array (
   'word' => 'λελουμένος',
-  'spa' => 'que ha sido bañado',
+  'spa' => 'que ha sido lavado',
   'morph' => 'VRPP-SNM',
   'ref' => 'jn 13:10',
 );
@@ -75368,7 +75368,7 @@ $concordance['3813']['NVPN'][] = array (
 );
 $concordance['3814']['NNSF'][] = array (
   'word' => 'παιδίσκη',
-  'spa' => 'siervita',
+  'spa' => 'sirvienta',
   'morph' => 'NNSF',
   'ref' => 'jn 18:17',
 );
@@ -77450,7 +77450,7 @@ $concordance['3983']['VAAS3S'][] = array (
 );
 $concordance['3985']['VPAP-SNM'][] = array (
   'word' => 'πειράζων',
-  'spa' => 'tentando',
+  'spa' => 'probando',
   'morph' => 'VPAP-SNM',
   'ref' => 'jn 6:6',
 );

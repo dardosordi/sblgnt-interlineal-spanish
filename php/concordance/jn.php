@@ -48614,7 +48614,7 @@ $concordance['3058']['V-AAI-3P'][] = array (
 );
 $concordance['3068']['V-RPP-NSM'][] = array (
   'word' => 'λελουμένος',
-  'spa' => 'que ha sido bañado',
+  'spa' => 'que ha sido lavado',
   'morph' => 'V-RPP-NSM',
   'ref' => 'jn 13:10',
 );
@@ -75368,7 +75368,7 @@ $concordance['3813']['N-VPN'][] = array (
 );
 $concordance['3814']['N-NSF'][] = array (
   'word' => 'παιδίσκη',
-  'spa' => 'siervita',
+  'spa' => 'sirvienta',
   'morph' => 'N-NSF',
   'ref' => 'jn 18:17',
 );
@@ -77450,7 +77450,7 @@ $concordance['3983']['V-AAS-3S'][] = array (
 );
 $concordance['3985']['V-PAP-NSM'][] = array (
   'word' => 'πειράζων',
-  'spa' => 'tentando',
+  'spa' => 'probando',
   'morph' => 'V-PAP-NSM',
   'ref' => 'jn 6:6',
 );

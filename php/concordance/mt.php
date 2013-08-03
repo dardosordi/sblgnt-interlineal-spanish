@@ -89486,7 +89486,7 @@ $concordance['3813']['N-NPN'][] = array (
 );
 $concordance['3814']['N-NSF'][] = array (
   'word' => 'παιδίσκη',
-  'spa' => 'siervita',
+  'spa' => 'sirvienta',
   'morph' => 'N-NSF',
   'ref' => 'mt 26:69',
 );
@@ -91868,37 +91868,37 @@ $concordance['3983']['V-PAP-ASM'][] = array (
 );
 $concordance['3985']['V-APN'][] = array (
   'word' => 'πειρασθῆναι',
-  'spa' => 'ser tentado',
+  'spa' => 'ser probado',
   'morph' => 'V-APN',
   'ref' => 'mt 4:1',
 );
 $concordance['3985']['V-PAP-NSM'][] = array (
   'word' => 'πειράζων',
-  'spa' => 'que tienta',
+  'spa' => 'que prueba',
   'morph' => 'V-PAP-NSM',
   'ref' => 'mt 4:3',
 );
 $concordance['3985']['V-PAP-NSM'][] = array (
   'word' => 'πειράζων',
-  'spa' => 'tentando',
+  'spa' => 'probando',
   'morph' => 'V-PAP-NSM',
   'ref' => 'mt 22:35',
 );
 $concordance['3985']['V-PAP-NPM'][] = array (
   'word' => 'πειράζοντες',
-  'spa' => 'tentando',
+  'spa' => 'probando',
   'morph' => 'V-PAP-NPM',
   'ref' => 'mt 16:1',
 );
 $concordance['3985']['V-PAP-NPM'][] = array (
   'word' => 'πειράζοντες',
-  'spa' => 'tentando',
+  'spa' => 'probando',
   'morph' => 'V-PAP-NPM',
   'ref' => 'mt 19:3',
 );
 $concordance['3985']['V-PAI-2P'][] = array (
   'word' => 'πειράζετε',
-  'spa' => 'tientan',
+  'spa' => 'prueban',
   'morph' => 'V-PAI-2P',
   'ref' => 'mt 22:18',
 );
