@@ -11762,7 +11762,7 @@ $concordance['1011']['VAMI3P'][] = array (
 );
 $concordance['1014']['VPUI2P'][] = array (
   'word' => 'βούλεσθε',
-  'spa' => 'resuelven',
+  'spa' => 'quieren',
   'morph' => 'VPUI2P',
   'ref' => 'jn 18:39',
 );

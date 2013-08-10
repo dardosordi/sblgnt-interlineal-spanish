@@ -16352,13 +16352,13 @@ $concordance['1012']['N-DSF'][] = array (
 );
 $concordance['1014']['V-PMS-3S'][] = array (
   'word' => 'βούληται',
-  'spa' => 'resuelva',
+  'spa' => 'quisiere',
   'morph' => 'V-PMS-3S',
   'ref' => 'lk 10:22',
 );
 $concordance['1014']['V-PMI-2S'][] = array (
   'word' => 'βούλει',
-  'spa' => 'resulves',
+  'spa' => 'quisieres',
   'morph' => 'V-PMI-2S',
   'ref' => 'lk 22:42',
 );
@@ -25028,7 +25028,7 @@ $concordance['1352']['CONJ'][] = array (
 );
 $concordance['1353']['V-IAI-3S'][] = array (
   'word' => 'διώδευεν',
-  'spa' => 'recorría',
+  'spa' => 'atravezaba',
   'morph' => 'V-IAI-3S',
   'ref' => 'lk 8:1',
 );
@@ -40418,7 +40418,7 @@ $concordance['2069']['N-PRI'][] = array (
 );
 $concordance['2070']['V-PAI-1P'][] = array (
   'word' => 'ἐσμέν',
-  'spa' => 'estan',
+  'spa' => 'estamos',
   'morph' => 'V-PAI-1P',
   'ref' => 'lk 9:12',
 );

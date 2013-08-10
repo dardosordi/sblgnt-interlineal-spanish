@@ -15224,13 +15224,13 @@ $concordance['1006']['VPAP-PNM'][] = array (
 );
 $concordance['1014']['VAPI3S'][] = array (
   'word' => 'ἐβουλήθη',
-  'spa' => 'resolvió',
+  'spa' => 'quizo',
   'morph' => 'VAPI3S',
   'ref' => 'mt 1:19',
 );
 $concordance['1014']['VPUS3S'][] = array (
   'word' => 'βούληται',
-  'spa' => 'resuelva',
+  'spa' => 'quisiere',
   'morph' => 'VPUS3S',
   'ref' => 'mt 11:27',
 );

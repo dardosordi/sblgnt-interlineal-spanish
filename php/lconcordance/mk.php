@@ -10724,7 +10724,7 @@ $concordance['1010']['NNSM'][] = array (
 );
 $concordance['1014']['VPUP-SNM'][] = array (
   'word' => 'βουλόμενος',
-  'spa' => 'resolviendo',
+  'spa' => 'queriendo',
   'morph' => 'VPUP-SNM',
   'ref' => 'mk 15:15',
 );
