@@ -50180,13 +50180,13 @@ $concordance['2504']['RP1NS'][] = array (
 );
 $concordance['2507']['VAAI3S'][] = array (
   'word' => 'καθεῖλεν',
-  'spa' => 'bajó',
+  'spa' => 'derribó',
   'morph' => 'VAAI3S',
   'ref' => 'lk 1:52',
 );
 $concordance['2507']['VFAI1S'][] = array (
   'word' => 'καθελῶ',
-  'spa' => 'bajaré',
+  'spa' => 'derribaré',
   'morph' => 'VFAI1S',
   'ref' => 'lk 12:18',
 );
