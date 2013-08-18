@@ -68,7 +68,11 @@ foreach($xml->xpath('//S') as $S) {
 			$is_title = 0;
 		}
 	}
-	if (isset($S['f']) && (string)$S['f'] == "0000000000000000000000") {
+
+	$greek = $S['s'];
+	$skip = preg_match('#^(—|\[|\]|[0-9]+)$#', $greek);
+
+	if (!$skip && isset($S['f']) && (string)$S['f'] == "0000000000000000000000") {
 		if ($current_word <= 1) {
 			break;
 		}
@@ -76,9 +80,6 @@ foreach($xml->xpath('//S') as $S) {
 		file_put_contents('php://stderr', "MISSING TRANSLATION: $book $current_chapter:$current_verse.$current_word $s\n");
 		continue;
 	}
-
-	$greek = $S['s'];
-	$skip = preg_match('#^(—|\[|\]|[0-9]+)$#', $greek);
 
 	$strongs_number = null;
 	$morph = '-';
