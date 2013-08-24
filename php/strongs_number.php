@@ -10,6 +10,9 @@ include 'books.php';
 include 'translit.php';
 include 'helpers.php';
 
+include 'lexicon2/lexicon_index.php';
+$lexicon2_index = $lexicon_index;
+
 include 'lexicon_index.php';
 
 include 'config.php';
@@ -57,11 +60,17 @@ if (isset($strongs[$lang][$number])) {
 	$lexicon['logeion'] = sprintf('http://logeion.uchicago.edu/index.html#%s', urlencode($data['lemma']));
 	$lexicon['lmpg'] = sprintf('http://dge.cchs.csic.es/lmpg/%s', urlencode($data['lemma']));
 	$lexicon['greeklexicon'] = sprintf('http://greeklexicon.org/lexicon/strongs/%s/', urlencode($number));
+	$lexicon['newjerusalem'] = sprintf('http://www.newjerusalem.org/Strongs/%s%s', strtoupper($langKey), $number);
 
 
 	$lex_url = 'http://biblestudyaids.net/nt/a&g/';
 	$lex_url = '/lexicon/';
 	$lexicon['DAG'] = $lex_url . $lexicon_index[$number];
+
+	$index_slug = str_replace(' ', '_', translit($data['lemma']));
+	$lex2_url = '/lexicon2/';
+	$lexicon['DAG2'] = $lex2_url . (isset($lexicon2_index[$data['lemma']]) ? $lexicon2_index[$data['lemma']] : $lexicon2_index[$index_slug]);
+
 
 	$links = array();
 	foreach($lexicon as $key => $url) {

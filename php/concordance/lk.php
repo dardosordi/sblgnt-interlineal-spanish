@@ -3374,7 +3374,7 @@ $concordance['321']['V-2AAP-NSM'][] = array (
 );
 $concordance['321']['V-API-3P'][] = array (
   'word' => 'ἀνήχθησαν',
-  'spa' => 'subieron',
+  'spa' => 'zarparon',
   'morph' => 'V-API-3P',
   'ref' => 'lk 8:22',
 );
@@ -19472,13 +19472,13 @@ $concordance['1140']['N-GPN'][] = array (
 );
 $concordance['1144']['N-DPN'][] = array (
   'word' => 'δάκρυσιν',
-  'spa' => 'lagrimas',
+  'spa' => 'lágrimas',
   'morph' => 'N-DPN',
   'ref' => 'lk 7:38',
 );
 $concordance['1144']['N-DPN'][] = array (
   'word' => 'δάκρυσιν',
-  'spa' => 'lagrimas',
+  'spa' => 'lágrimas',
   'morph' => 'N-DPN',
   'ref' => 'lk 7:44',
 );
