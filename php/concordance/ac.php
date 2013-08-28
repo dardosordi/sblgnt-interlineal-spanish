@@ -16886,43 +16886,43 @@ $concordance['1393']['N-NSF'][] = array (
 );
 $concordance['1398']['V-FAI-3P'][] = array (
   'word' => 'δουλεύσουσιν',
-  'spa' => 'harán siervos',
+  'spa' => 'serán esclavos',
   'morph' => 'V-FAI-3P',
   'ref' => 'ac 7:7',
 );
 $concordance['1398']['V-PAP-NSM'][] = array (
   'word' => 'δουλεύων',
-  'spa' => 'sirviendo',
+  'spa' => 'siendo esclavo',
   'morph' => 'V-PAP-NSM',
   'ref' => 'ac 20:19',
 );
 $concordance['1399']['N-APF'][] = array (
   'word' => 'δούλας',
-  'spa' => 'siervas',
+  'spa' => 'esclavas',
   'morph' => 'N-APF',
   'ref' => 'ac 2:18',
 );
 $concordance['1401']['N-APM'][] = array (
   'word' => 'δούλους',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'N-APM',
   'ref' => 'ac 2:18',
 );
 $concordance['1401']['N-DPM'][] = array (
   'word' => 'δούλοις',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'N-DPM',
   'ref' => 'ac 4:29',
 );
 $concordance['1401']['N-NPM'][] = array (
   'word' => 'δοῦλοι',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'N-NPM',
   'ref' => 'ac 16:17',
 );
 $concordance['1402']['V-FAI-3P'][] = array (
   'word' => 'δουλώσουσιν',
-  'spa' => 'harán siervos',
+  'spa' => 'harán esclavos',
   'morph' => 'V-FAI-3P',
   'ref' => 'ac 7:6',
 );

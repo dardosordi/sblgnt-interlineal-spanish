@@ -16670,73 +16670,73 @@ $concordance['1392']['V-RPI-1S'][] = array (
 );
 $concordance['1398']['V-RAI-1P'][] = array (
   'word' => 'δεδουλεύκαμεν',
-  'spa' => 'hemos  servido',
+  'spa' => 'hemos  sido esclavos',
   'morph' => 'V-RAI-1P',
   'ref' => 'jn 8:33',
 );
 $concordance['1401']['N-NPM'][] = array (
   'word' => 'δοῦλοι',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'N-NPM',
   'ref' => 'jn 4:51',
 );
 $concordance['1401']['N-NPM'][] = array (
   'word' => 'δοῦλοι',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'N-NPM',
   'ref' => 'jn 18:18',
 );
 $concordance['1401']['N-NSM'][] = array (
   'word' => 'δοῦλός',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'N-NSM',
   'ref' => 'jn 8:34',
 );
 $concordance['1401']['N-NSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'N-NSM',
   'ref' => 'jn 8:35',
 );
 $concordance['1401']['N-NSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'N-NSM',
   'ref' => 'jn 13:16',
 );
 $concordance['1401']['N-NSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'N-NSM',
   'ref' => 'jn 15:15',
 );
 $concordance['1401']['N-NSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'N-NSM',
   'ref' => 'jn 15:20',
 );
 $concordance['1401']['N-APM'][] = array (
   'word' => 'δούλους',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'N-APM',
   'ref' => 'jn 15:15',
 );
 $concordance['1401']['N-ASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'N-ASM',
   'ref' => 'jn 18:10',
 );
 $concordance['1401']['N-DSM'][] = array (
   'word' => 'δούλῳ',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'N-DSM',
   'ref' => 'jn 18:10',
 );
 $concordance['1401']['N-GPM'][] = array (
   'word' => 'δούλων',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'N-GPM',
   'ref' => 'jn 18:26',
 );

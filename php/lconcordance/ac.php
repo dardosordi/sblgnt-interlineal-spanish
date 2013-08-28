@@ -16886,43 +16886,43 @@ $concordance['1393']['NNSF'][] = array (
 );
 $concordance['1398']['VFAI3P'][] = array (
   'word' => 'δουλεύσουσιν',
-  'spa' => 'harán siervos',
+  'spa' => 'serán esclavos',
   'morph' => 'VFAI3P',
   'ref' => 'ac 7:7',
 );
 $concordance['1398']['VPAP-SNM'][] = array (
   'word' => 'δουλεύων',
-  'spa' => 'sirviendo',
+  'spa' => 'siendo esclavo',
   'morph' => 'VPAP-SNM',
   'ref' => 'ac 20:19',
 );
 $concordance['1399']['NAPF'][] = array (
   'word' => 'δούλας',
-  'spa' => 'siervas',
+  'spa' => 'esclavas',
   'morph' => 'NAPF',
   'ref' => 'ac 2:18',
 );
 $concordance['1401']['NAPM'][] = array (
   'word' => 'δούλους',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'NAPM',
   'ref' => 'ac 2:18',
 );
 $concordance['1401']['NDPM'][] = array (
   'word' => 'δούλοις',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'NDPM',
   'ref' => 'ac 4:29',
 );
 $concordance['1401']['NNPM'][] = array (
   'word' => 'δοῦλοι',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'NNPM',
   'ref' => 'ac 16:17',
 );
 $concordance['1402']['VFAI3P'][] = array (
   'word' => 'δουλώσουσιν',
-  'spa' => 'harán siervos',
+  'spa' => 'harán esclavos',
   'morph' => 'VFAI3P',
   'ref' => 'ac 7:6',
 );

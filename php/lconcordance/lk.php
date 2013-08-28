@@ -25328,187 +25328,187 @@ $concordance['1392']['VIAI3S'][] = array (
 );
 $concordance['1398']['VPAI1S'][] = array (
   'word' => 'δουλεύω',
-  'spa' => 'sirvo',
+  'spa' => 'soy esclavo',
   'morph' => 'VPAI1S',
   'ref' => 'lk 15:29',
 );
 $concordance['1398']['VPAN'][] = array (
   'word' => 'δουλεύειν',
-  'spa' => 'servir',
+  'spa' => 'ser esclavo',
   'morph' => 'VPAN',
   'ref' => 'lk 16:13',
 );
 $concordance['1398']['VPAN'][] = array (
   'word' => 'δουλεύειν',
-  'spa' => 'servir',
+  'spa' => 'ser esclavo',
   'morph' => 'VPAN',
   'ref' => 'lk 16:13',
 );
 $concordance['1399']['NNSF'][] = array (
   'word' => 'δούλη',
-  'spa' => 'sierva',
+  'spa' => 'esclava',
   'morph' => 'NNSF',
   'ref' => 'lk 1:38',
 );
 $concordance['1399']['NGSF'][] = array (
   'word' => 'δούλης',
-  'spa' => 'sierva',
+  'spa' => 'esclava',
   'morph' => 'NGSF',
   'ref' => 'lk 1:48',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλόν',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 2:29',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 7:3',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 7:10',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 14:17',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 14:23',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 17:7',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 20:10',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 20:11',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'lk 22:50',
 );
 $concordance['1401']['NNSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NNSM',
   'ref' => 'lk 7:2',
 );
 $concordance['1401']['NNSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NNSM',
   'ref' => 'lk 12:43',
 );
 $concordance['1401']['NNSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NNSM',
   'ref' => 'lk 12:45',
 );
 $concordance['1401']['NNSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NNSM',
   'ref' => 'lk 12:47',
 );
 $concordance['1401']['NNSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NNSM',
   'ref' => 'lk 14:21',
 );
 $concordance['1401']['NNSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NNSM',
   'ref' => 'lk 14:22',
 );
 $concordance['1401']['NDSM'][] = array (
   'word' => 'δούλῳ',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NDSM',
   'ref' => 'lk 7:8',
 );
 $concordance['1401']['NDSM'][] = array (
   'word' => 'δούλῳ',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NDSM',
   'ref' => 'lk 14:21',
 );
 $concordance['1401']['NDSM'][] = array (
   'word' => 'δούλῳ',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NDSM',
   'ref' => 'lk 17:9',
 );
 $concordance['1401']['NNPM'][] = array (
   'word' => 'δοῦλοι',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'NNPM',
   'ref' => 'lk 12:37',
 );
 $concordance['1401']['NNPM'][] = array (
   'word' => 'Δοῦλοι',
-  'spa' => 'Siervos',
+  'spa' => 'Esclavos',
   'morph' => 'NNPM',
   'ref' => 'lk 17:10',
 );
 $concordance['1401']['NGSM'][] = array (
   'word' => 'δούλου',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NGSM',
   'ref' => 'lk 12:46',
 );
 $concordance['1401']['NAPM'][] = array (
   'word' => 'δούλους',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'NAPM',
   'ref' => 'lk 15:22',
 );
 $concordance['1401']['NAPM'][] = array (
   'word' => 'δούλους',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'NAPM',
   'ref' => 'lk 19:13',
 );
 $concordance['1401']['NAPM'][] = array (
   'word' => 'δούλους',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'NAPM',
   'ref' => 'lk 19:15',
 );
 $concordance['1401']['NVSM'][] = array (
   'word' => 'δοῦλε',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NVSM',
   'ref' => 'lk 19:17',
 );
 $concordance['1401']['NVSM'][] = array (
   'word' => 'δοῦλε',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NVSM',
   'ref' => 'lk 19:22',
 );
@@ -92492,7 +92492,7 @@ $concordance['3762']['JNSM'][] = array (
 );
 $concordance['3762']['JNSM'][] = array (
   'word' => 'οὐδεὶς',
-  'spa' => 'nadie',
+  'spa' => 'ningún',
   'morph' => 'JNSM',
   'ref' => 'lk 16:13',
 );

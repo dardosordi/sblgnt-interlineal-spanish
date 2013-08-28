@@ -14798,31 +14798,31 @@ $concordance['1392']['VPAN'][] = array (
 );
 $concordance['1401']['NNSM'][] = array (
   'word' => 'δοῦλος',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NNSM',
   'ref' => 'mk 10:44',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'mk 12:2',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'mk 12:4',
 );
 $concordance['1401']['NASM'][] = array (
   'word' => 'δοῦλον',
-  'spa' => 'siervo',
+  'spa' => 'esclavo',
   'morph' => 'NASM',
   'ref' => 'mk 14:47',
 );
 $concordance['1401']['NDPM'][] = array (
   'word' => 'δούλοις',
-  'spa' => 'siervos',
+  'spa' => 'esclavos',
   'morph' => 'NDPM',
   'ref' => 'mk 13:34',
 );
