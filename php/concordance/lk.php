@@ -43454,7 +43454,7 @@ $concordance['2201']['N-APN'][] = array (
 );
 $concordance['2207']['N-ASM'][] = array (
   'word' => 'Ζηλωτὴν',
-  'spa' => 'Celozo',
+  'spa' => 'Celoso',
   'morph' => 'N-ASM',
   'ref' => 'lk 6:15',
 );
@@ -102878,7 +102878,7 @@ $concordance['4377']['V-AAI-3S'][] = array (
 );
 $concordance['4377']['V-AAI-3S'][] = array (
   'word' => 'προσεφώνησεν',
-  'spa' => 'llamó',
+  'spa' => 'habló',
   'morph' => 'V-AAI-3S',
   'ref' => 'lk 23:20',
 );

@@ -43454,7 +43454,7 @@ $concordance['2201']['NAPN'][] = array (
 );
 $concordance['2207']['NASM'][] = array (
   'word' => 'Ζηλωτὴν',
-  'spa' => 'Celozo',
+  'spa' => 'Celoso',
   'morph' => 'NASM',
   'ref' => 'lk 6:15',
 );
@@ -102878,7 +102878,7 @@ $concordance['4377']['VAAI3S'][] = array (
 );
 $concordance['4377']['VAAI3S'][] = array (
   'word' => 'προσεφώνησεν',
-  'spa' => 'llamó',
+  'spa' => 'habló',
   'morph' => 'VAAI3S',
   'ref' => 'lk 23:20',
 );
