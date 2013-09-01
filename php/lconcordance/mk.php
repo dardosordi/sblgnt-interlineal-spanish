@@ -21938,7 +21938,7 @@ $concordance['1982']['VPAP-SNF'][] = array (
 );
 $concordance['1987']['VPUI1S'][] = array (
   'word' => 'ἐπίσταμαι',
-  'spa' => 'entiendo',
+  'spa' => 'conozco',
   'morph' => 'VPUI1S',
   'ref' => 'mk 14:68',
 );
@@ -40220,19 +40220,19 @@ $concordance['3146']['VFAI3P'][] = array (
 );
 $concordance['3148']['NAPF'][] = array (
   'word' => 'μάστιγας',
-  'spa' => 'tormentos',
+  'spa' => 'azotes',
   'morph' => 'NAPF',
   'ref' => 'mk 3:10',
 );
 $concordance['3148']['NGSF'][] = array (
   'word' => 'μάστιγος',
-  'spa' => 'tormento',
+  'spa' => 'azote',
   'morph' => 'NGSF',
   'ref' => 'mk 5:29',
 );
 $concordance['3148']['NGSF'][] = array (
   'word' => 'μάστιγός',
-  'spa' => 'tormento',
+  'spa' => 'azote',
   'morph' => 'NGSF',
   'ref' => 'mk 5:34',
 );

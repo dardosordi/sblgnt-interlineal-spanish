@@ -3638,7 +3638,7 @@ $concordance['305']['V-RAI-1S'][] = array (
 );
 $concordance['308']['V-AAI-1S'][] = array (
   'word' => 'ἀνέβλεψα',
-  'spa' => 'veo',
+  'spa' => 'vi',
   'morph' => 'V-AAI-1S',
   'ref' => 'jn 9:11',
 );
@@ -53708,7 +53708,7 @@ $concordance['3538']['V-AMI-3S'][] = array (
 );
 $concordance['3538']['V-AMP-NSM'][] = array (
   'word' => 'νιψάμενος',
-  'spa' => 'habiendo labado',
+  'spa' => 'habiendo lavado',
   'morph' => 'V-AMP-NSM',
   'ref' => 'jn 9:11',
 );

@@ -66272,7 +66272,7 @@ $concordance['3146']['VAAP-PNM'][] = array (
 );
 $concordance['3148']['NGPF'][] = array (
   'word' => 'μαστίγων',
-  'spa' => 'de tormentos',
+  'spa' => 'de azotes',
   'morph' => 'NGPF',
   'ref' => 'lk 7:21',
 );
@@ -102578,7 +102578,7 @@ $concordance['4336']['VPUP-SNN'][] = array (
 );
 $concordance['4336']['VPUP-SGM'][] = array (
   'word' => 'προσευχομένου',
-  'spa' => 'oraba',
+  'spa' => 'orando',
   'morph' => 'VPUP-SGM',
   'ref' => 'lk 3:21',
 );
