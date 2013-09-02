@@ -7298,19 +7298,19 @@ $concordance['724']['NGSF'][] = array (
 );
 $concordance['726']['VPAI3P'][] = array (
   'word' => 'ἁρπάζουσιν',
-  'spa' => 'toman por la fuerza',
+  'spa' => 'arrebatan',
   'morph' => 'VPAI3P',
   'ref' => 'mt 11:12',
 );
 $concordance['726']['VAAN'][] = array (
   'word' => 'ἁρπάσαι',
-  'spa' => 'tomar por la fuerza',
+  'spa' => 'arrebatar',
   'morph' => 'VAAN',
   'ref' => 'mt 12:29',
 );
 $concordance['726']['VPAI3S'][] = array (
   'word' => 'ἁρπάζει',
-  'spa' => 'toma por la fuerza',
+  'spa' => 'arrebata',
   'morph' => 'VPAI3S',
   'ref' => 'mt 13:19',
 );

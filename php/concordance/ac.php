@@ -6398,7 +6398,7 @@ $concordance['720']['V-ADI-3P'][] = array (
 );
 $concordance['726']['V-AAI-3S'][] = array (
   'word' => 'ἥρπασεν',
-  'spa' => 'tomó por la fuerza',
+  'spa' => 'arrebató',
   'morph' => 'V-AAI-3S',
   'ref' => 'ac 8:39',
 );

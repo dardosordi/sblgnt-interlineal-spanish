@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="11700" sizex="1290" sizey="69008" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="7798" sizex="1290" sizey="69008" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="10:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \_unknown_char_style \fig \vp \_hidden_note \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -12780,7 +12780,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="3863" w="1" ty="1">
   </S>
-  <S s="ἁρπάζειν" k="ἁρπάζειν" t="tomar por la fuerza" a="tomar por la fuerza"
+  <S s="ἁρπάζειν" k="ἁρπάζειν" t="arrebatar" a="arrebatar"
   f="0000000000000000000001" sn="3864" w="1" ty="1">
   </S>
   <S s="αὐτὸν" k="αὐτὸν" t="a él" a="a él"
@@ -24989,7 +24989,7 @@
   <S s="λύκος" k="λύκος" t="lobo" a="lobo"
   f="0000000000000000000001" sn="7537" w="1" ty="1">
   </S>
-  <S s="ἁρπάζει" k="ἁρπάζει" t="toma por la fuerza" a="toma por la fuerza"
+  <S s="ἁρπάζει" k="ἁρπάζει" t="arrebata" a="arrebata"
   f="0000000000000000000001" sn="7538" w="1" ty="1">
   </S>
   <S s="αὐτὰ" k="αὐτὰ" t="a ellas" a="a ellas"
@@ -25860,7 +25860,7 @@
   <S s="οὐχ" k="οὐχ" t="no" a="no"
   f="0000000000000000000001" sn="7797" w="1" ty="1">
   </S>
-  <S s="ἁρπάσει" k="ἁρπάσει" t="tomará por la fuerza" a="tomará por la fuerza"
+  <S s="ἁρπάσει" k="ἁρπάσει" t="arrebatará" a="arrebatará"
   f="0000000000000000000001" sn="7798" w="1" ty="1">
   </S>
   <S s="τις" k="τις" t="alguno" a="alguno"
@@ -25925,7 +25925,7 @@
   <S s="δύναται" k="δύναται" t="puede" a="puede"
   f="0000000000000000000001" sn="7816" w="1" ty="1">
   </S>
-  <S s="ἁρπάζειν" k="ἁρπάζειν" t="tomar por la fuerza" a="tomar por la fuerza"
+  <S s="ἁρπάζειν" k="ἁρπάζειν" t="arrebatar" a="arrebatar"
   f="0000000000000000000001" sn="7817" w="1" ty="1">
   </S>
   <S s="ἐκ" k="ἐκ" t="de" a="de"

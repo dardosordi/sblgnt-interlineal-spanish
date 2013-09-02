@@ -26613,7 +26613,7 @@
       cDT="2013-09-02T02:35:10Z" wC="dardo:sophie"
       dDT="2013-09-02T02:35:11Z"/>
       <RS n="1" a="fuere" df="0"
-      cDT="2013-09-02T02:33:54Z" wC="dardo:sophie"/>
+      cDT="2013-09-02T02:53:27Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="πορευομένη">
       <RS n="1" a="yendo" df="1"
@@ -26657,7 +26657,7 @@
       <RS n="2" a="andando" df="0"
       cDT="2012-10-12T03:56:18Z" wC="dardo:sophie"/>
       <RS n="1" a="yendo" df="0"
-      cDT="2013-09-02T02:28:40Z" wC="dardo:sophie"/>
+      cDT="2013-09-02T02:51:31Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="πορευόμενον">
       <RS n="1" a="partiendo" df="1"
@@ -41732,24 +41732,41 @@
       cDT="2011-10-19T03:41:01Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἁρπάζει">
-      <RS n="2" a="toma por la fuerza" df="0"
-      cDT="2011-10-23T00:33:56Z" wC="dardo:sophie"/>
+      <RS n="1" a="toma por la fuerza" df="1"
+      cDT="2013-09-02T02:53:37Z" wC="dardo:sophie"
+      dDT="2013-09-02T02:53:38Z"/>
+      <RS n="2" a="arrebata" df="0"
+      cDT="2013-09-02T02:51:52Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἁρπάζειν">
-      <RS n="2" a="tomar por la fuerza" df="0"
-      cDT="2013-03-12T02:34:24Z" wC="dardo:sophie"/>
+      <RS n="1" a="tomar por la fuerza" df="1"
+      cDT="2013-09-02T02:54:10Z" wC="dardo:sophie"
+      dDT="2013-09-02T02:54:11Z"/>
+      <RS n="2" a="arrebatar" df="0"
+      cDT="2013-09-02T02:54:03Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἁρπάζουσιν">
-      <RS n="1" a="toman por la fuerza" df="0"
-      cDT="2013-05-19T04:39:41Z" wC="dardo:sophie"/>
+      <RS n="1" a="toman por la fuerza" df="1"
+      cDT="2013-09-02T02:52:57Z" wC="dardo:sophie"
+      dDT="2013-09-02T02:52:57Z"/>
+      <RS n="1" a="arrebatan" df="1"
+      cDT="2013-09-02T02:53:02Z" wC="dardo:sophie"
+      dDT="2013-09-02T02:53:03Z"/>
     </TU>
     <TU f="0" k="ἁρπάσαι">
-      <RS n="1" a="tomar por la fuerza" df="0"
-      cDT="2013-05-19T04:39:44Z" wC="dardo:sophie"/>
+      <RS n="1" a="tomar por la fuerza" df="1"
+      cDT="2013-05-19T04:39:44Z" wC="dardo:sophie"
+      dDT="2013-09-02T02:52:01Z"/>
+      <RS n="1" a="arrebatar" df="0"
+      cDT="2013-09-02T02:52:50Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἁρπάσει">
-      <RS n="1" a="tomará por la fuerza" df="0"
-      cDT="2013-04-07T03:20:51Z" wC="dardo:sophie"/>
+      <RS n="1" a="tomará por la fuerza" df="1"
+      cDT="2013-09-02T02:54:26Z" wC="dardo:sophie"
+      dDT="2013-09-02T02:54:27Z"/>
+      <RS n="1" a="arrebatará" df="1"
+      cDT="2013-09-02T02:54:33Z" wC="dardo:sophie"
+      dDT="2013-09-02T02:54:34Z"/>
     </TU>
     <TU f="0" k="ἁρπαγῆς">
       <RS n="1" a="robo" df="0"
@@ -48704,7 +48721,7 @@
       <RS n="1" a="iban" df="1"
       cDT="2013-09-02T02:49:08Z" wC="dardo:sophie"
       dDT="2013-09-02T02:49:10Z"/>
-      <RS n="4" a="íban" df="0"
+      <RS n="3" a="íban" df="0"
       cDT="2013-09-02T02:48:15Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἐποτίσαμεν">
@@ -53562,8 +53579,11 @@
       cDT="2011-10-19T03:43:25Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἥρπασεν">
-      <RS n="1" a="tomó por la fuerza" df="0"
-      cDT="2013-06-19T05:22:41Z" wC="dardo:sophie"/>
+      <RS n="1" a="tomó por la fuerza" df="1"
+      cDT="2013-09-02T02:54:56Z" wC="dardo:sophie"
+      dDT="2013-09-02T02:54:57Z"/>
+      <RS n="1" a="arrebató" df="0"
+      cDT="2013-09-02T02:55:01Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἥτις">
       <RS n="1" a="el cual" df="0"

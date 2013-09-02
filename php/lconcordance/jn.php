@@ -5978,25 +5978,25 @@ $concordance['721']['NAPN'][] = array (
 );
 $concordance['726']['VPAN'][] = array (
   'word' => 'ἁρπάζειν',
-  'spa' => 'tomar por la fuerza',
+  'spa' => 'arrebatar',
   'morph' => 'VPAN',
   'ref' => 'jn 6:15',
 );
 $concordance['726']['VPAN'][] = array (
   'word' => 'ἁρπάζειν',
-  'spa' => 'tomar por la fuerza',
+  'spa' => 'arrebatar',
   'morph' => 'VPAN',
   'ref' => 'jn 10:29',
 );
 $concordance['726']['VPAI3S'][] = array (
   'word' => 'ἁρπάζει',
-  'spa' => 'toma por la fuerza',
+  'spa' => 'arrebata',
   'morph' => 'VPAI3S',
   'ref' => 'jn 10:12',
 );
 $concordance['726']['VFAI3S'][] = array (
   'word' => 'ἁρπάσει',
-  'spa' => 'tomará por la fuerza',
+  'spa' => 'arrebatará',
   'morph' => 'VFAI3S',
   'ref' => 'jn 10:28',
 );
