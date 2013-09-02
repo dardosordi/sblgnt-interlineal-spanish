@@ -75866,25 +75866,25 @@ $concordance['4195']['N-ASM'][] = array (
 );
 $concordance['4198']['V-PMP-GSM'][] = array (
   'word' => 'πορευομένου',
-  'spa' => 'partiendo',
+  'spa' => 'yendo',
   'morph' => 'V-PMP-GSM',
   'ref' => 'ac 1:10',
 );
 $concordance['4198']['V-PMP-ASM'][] = array (
   'word' => 'πορευόμενον',
-  'spa' => 'partiendo',
+  'spa' => 'yendo',
   'morph' => 'V-PMP-ASM',
   'ref' => 'ac 1:11',
 );
 $concordance['4198']['V-APN'][] = array (
   'word' => 'πορευθῆναι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'V-APN',
   'ref' => 'ac 1:25',
 );
 $concordance['4198']['V-APN'][] = array (
   'word' => 'πορευθῆναι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'V-APN',
   'ref' => 'ac 16:7',
 );
@@ -75902,13 +75902,13 @@ $concordance['4198']['V-PMM-2P'][] = array (
 );
 $concordance['4198']['V-IMI-3P'][] = array (
   'word' => 'ἐπορεύοντο',
-  'spa' => 'partían',
+  'spa' => 'íban',
   'morph' => 'V-IMI-3P',
   'ref' => 'ac 5:41',
 );
 $concordance['4198']['V-IMI-3P'][] = array (
   'word' => 'ἐπορεύοντο',
-  'spa' => 'partían',
+  'spa' => 'íban',
   'morph' => 'V-IMI-3P',
   'ref' => 'ac 8:36',
 );
@@ -75944,13 +75944,13 @@ $concordance['4198']['V-PMM-2S'][] = array (
 );
 $concordance['4198']['V-API-3S'][] = array (
   'word' => 'ἐπορεύθη',
-  'spa' => 'partió',
+  'spa' => 'fue',
   'morph' => 'V-API-3S',
   'ref' => 'ac 8:27',
 );
 $concordance['4198']['V-API-3S'][] = array (
   'word' => 'ἐπορεύθη',
-  'spa' => 'partió',
+  'spa' => 'se fue',
   'morph' => 'V-API-3S',
   'ref' => 'ac 12:17',
 );
@@ -75962,31 +75962,31 @@ $concordance['4198']['V-IMI-3S'][] = array (
 );
 $concordance['4198']['V-PMN'][] = array (
   'word' => 'πορεύεσθαι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'V-PMN',
   'ref' => 'ac 9:3',
 );
 $concordance['4198']['V-PMN'][] = array (
   'word' => 'πορεύεσθαι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'V-PMN',
   'ref' => 'ac 14:16',
 );
 $concordance['4198']['V-PMN'][] = array (
   'word' => 'πορεύεσθαι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'V-PMN',
   'ref' => 'ac 17:14',
 );
 $concordance['4198']['V-PMN'][] = array (
   'word' => 'πορεύεσθαι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'V-PMN',
   'ref' => 'ac 19:21',
 );
 $concordance['4198']['V-PMN'][] = array (
   'word' => 'πορεύεσθαι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'V-PMN',
   'ref' => 'ac 20:1',
 );
@@ -76004,13 +76004,13 @@ $concordance['4198']['V-PMP-NSF'][] = array (
 );
 $concordance['4198']['V-PMP-GPM'][] = array (
   'word' => 'πορευομένων',
-  'spa' => 'partiendo',
+  'spa' => 'yendo',
   'morph' => 'V-PMP-GPM',
   'ref' => 'ac 16:16',
 );
 $concordance['4198']['V-FDI-1S'][] = array (
   'word' => 'πορεύσομαι',
-  'spa' => 'partiré',
+  'spa' => 'iré',
   'morph' => 'V-FDI-1S',
   'ref' => 'ac 18:6',
 );
@@ -76022,19 +76022,19 @@ $concordance['4198']['V-PMI-1S'][] = array (
 );
 $concordance['4198']['V-IMI-1P'][] = array (
   'word' => 'ἐπορευόμεθα',
-  'spa' => 'partíamos',
+  'spa' => 'íbamos',
   'morph' => 'V-IMI-1P',
   'ref' => 'ac 21:5',
 );
 $concordance['4198']['V-IMI-1S'][] = array (
   'word' => 'ἐπορευόμην',
-  'spa' => 'andando',
+  'spa' => 'yendo',
   'morph' => 'V-IMI-1S',
   'ref' => 'ac 22:5',
 );
 $concordance['4198']['V-PMP-DSM'][] = array (
   'word' => 'πορευομένῳ',
-  'spa' => 'andando',
+  'spa' => 'yendo',
   'morph' => 'V-PMP-DSM',
   'ref' => 'ac 22:6',
 );

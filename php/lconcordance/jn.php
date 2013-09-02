@@ -39602,7 +39602,7 @@ $concordance['2532']['CLN'][] = array (
 );
 $concordance['2532']['CLN'][] = array (
   'word' => 'καὶ',
-  'spa' => 'y',
+  'spa' => 'e',
   'morph' => 'CLN',
   'ref' => 'jn 4:50',
 );
@@ -80978,19 +80978,19 @@ $concordance['4198']['VPUM2S'][] = array (
 );
 $concordance['4198']['VIUI3S'][] = array (
   'word' => 'ἐπορεύετο',
-  'spa' => 'se iba',
+  'spa' => 'iba',
   'morph' => 'VIUI3S',
   'ref' => 'jn 4:50',
 );
 $concordance['4198']['VPUN'][] = array (
   'word' => 'πορεύεσθαι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'VPUN',
   'ref' => 'jn 7:35',
 );
 $concordance['4198']['VPUN'][] = array (
   'word' => 'πορεύεσθαι',
-  'spa' => 'partir',
+  'spa' => 'ir',
   'morph' => 'VPUN',
   'ref' => 'jn 7:35',
 );
@@ -81032,13 +81032,13 @@ $concordance['4198']['VPUI1S'][] = array (
 );
 $concordance['4198']['VAPS1S'][] = array (
   'word' => 'πορευθῶ',
-  'spa' => 'partiere',
+  'spa' => 'fuere',
   'morph' => 'VAPS1S',
   'ref' => 'jn 14:3',
 );
 $concordance['4198']['VAPS1S'][] = array (
   'word' => 'πορευθῶ',
-  'spa' => 'partiere',
+  'spa' => 'fuere',
   'morph' => 'VAPS1S',
   'ref' => 'jn 16:7',
 );

@@ -67796,7 +67796,7 @@ $concordance['3588']['T-GSM'][] = array (
 );
 $concordance['3588']['T-GSM'][] = array (
   'word' => 'τοῦ',
-  'spa' => 'del',
+  'spa' => 'al',
   'morph' => 'T-GSM',
   'ref' => 'mt 2:9',
 );
@@ -94976,55 +94976,55 @@ $concordance['4191']['A-APN-C'][] = array (
 );
 $concordance['4198']['V-APP-NPM'][] = array (
   'word' => 'Πορευθέντες',
-  'spa' => 'Habiendo partido',
+  'spa' => 'Habiendo ido',
   'morph' => 'V-APP-NPM',
   'ref' => 'mt 2:8',
 );
 $concordance['4198']['V-APP-NPM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NPM',
   'ref' => 'mt 9:13',
 );
 $concordance['4198']['V-APP-NPM'][] = array (
   'word' => 'Πορευθέντες',
-  'spa' => 'Habiendo partido',
+  'spa' => 'Habiendo ido',
   'morph' => 'V-APP-NPM',
   'ref' => 'mt 11:4',
 );
 $concordance['4198']['V-APP-NPM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NPM',
   'ref' => 'mt 21:6',
 );
 $concordance['4198']['V-APP-NPM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NPM',
   'ref' => 'mt 22:15',
 );
 $concordance['4198']['V-APP-NPM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NPM',
   'ref' => 'mt 27:66',
 );
 $concordance['4198']['V-APP-NPM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NPM',
   'ref' => 'mt 28:19',
 );
 $concordance['4198']['V-API-3P'][] = array (
   'word' => 'ἐπορεύθησαν',
-  'spa' => 'partieron',
+  'spa' => 'fueron',
   'morph' => 'V-API-3P',
   'ref' => 'mt 2:9',
 );
 $concordance['4198']['V-API-3P'][] = array (
   'word' => 'ἐπορεύθησαν',
-  'spa' => 'partieron',
+  'spa' => 'fueron',
   'morph' => 'V-API-3P',
   'ref' => 'mt 28:16',
 );
@@ -95084,49 +95084,49 @@ $concordance['4198']['V-PMM-2P'][] = array (
 );
 $concordance['4198']['V-PMP-NPM'][] = array (
   'word' => 'πορευόμενοι',
-  'spa' => 'partiendo',
+  'spa' => 'yendo',
   'morph' => 'V-PMP-NPM',
   'ref' => 'mt 10:7',
 );
 $concordance['4198']['V-PMP-GPM'][] = array (
   'word' => 'πορευομένων',
-  'spa' => 'partiendo',
+  'spa' => 'yendo',
   'morph' => 'V-PMP-GPM',
   'ref' => 'mt 11:7',
 );
 $concordance['4198']['V-API-3S'][] = array (
   'word' => 'ἐπορεύθη',
-  'spa' => 'partió',
+  'spa' => 'fue',
   'morph' => 'V-API-3S',
   'ref' => 'mt 12:1',
 );
 $concordance['4198']['V-API-3S'][] = array (
   'word' => 'ἐπορεύθη',
-  'spa' => 'partió',
+  'spa' => 'se fue',
   'morph' => 'V-API-3S',
   'ref' => 'mt 19:15',
 );
 $concordance['4198']['V-APP-NSM'][] = array (
   'word' => 'πορευθεὶς',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NSM',
   'ref' => 'mt 17:27',
 );
 $concordance['4198']['V-APP-NSM'][] = array (
   'word' => 'πορευθεὶς',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NSM',
   'ref' => 'mt 18:12',
 );
 $concordance['4198']['V-APP-NSM'][] = array (
   'word' => 'πορευθεὶς',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NSM',
   'ref' => 'mt 25:16',
 );
 $concordance['4198']['V-APP-NSM'][] = array (
   'word' => 'πορευθεὶς',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NSM',
   'ref' => 'mt 26:14',
 );
@@ -95138,13 +95138,13 @@ $concordance['4198']['V-IMI-3S'][] = array (
 );
 $concordance['4198']['V-APP-NPF'][] = array (
   'word' => 'πορευθεῖσαι',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NPF',
   'ref' => 'mt 28:7',
 );
 $concordance['4198']['V-PMP-GPF'][] = array (
   'word' => 'Πορευομένων',
-  'spa' => 'Partiendo',
+  'spa' => 'Yendo',
   'morph' => 'V-PMP-GPF',
   'ref' => 'mt 28:11',
 );
@@ -103580,7 +103580,7 @@ $concordance['5119']['ADV'][] = array (
 );
 $concordance['5119']['ADV'][] = array (
   'word' => 'Τότε',
-  'spa' => 'entonces',
+  'spa' => 'Entonces',
   'morph' => 'ADV',
   'ref' => 'mt 26:14',
 );

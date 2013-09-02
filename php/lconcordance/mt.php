@@ -67790,7 +67790,7 @@ $concordance['3588']['DGSM'][] = array (
 );
 $concordance['3588']['DGSM'][] = array (
   'word' => 'τοῦ',
-  'spa' => 'del',
+  'spa' => 'al',
   'morph' => 'DGSM',
   'ref' => 'mt 2:9',
 );
@@ -94976,55 +94976,55 @@ $concordance['4191']['JAPNC'][] = array (
 );
 $concordance['4198']['VAPP-PNM'][] = array (
   'word' => 'Πορευθέντες',
-  'spa' => 'Habiendo partido',
+  'spa' => 'Habiendo ido',
   'morph' => 'VAPP-PNM',
   'ref' => 'mt 2:8',
 );
 $concordance['4198']['VAPP-PNM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-PNM',
   'ref' => 'mt 9:13',
 );
 $concordance['4198']['VAPP-PNM'][] = array (
   'word' => 'Πορευθέντες',
-  'spa' => 'Habiendo partido',
+  'spa' => 'Habiendo ido',
   'morph' => 'VAPP-PNM',
   'ref' => 'mt 11:4',
 );
 $concordance['4198']['VAPP-PNM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-PNM',
   'ref' => 'mt 21:6',
 );
 $concordance['4198']['VAPP-PNM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-PNM',
   'ref' => 'mt 22:15',
 );
 $concordance['4198']['VAPP-PNM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-PNM',
   'ref' => 'mt 27:66',
 );
 $concordance['4198']['VAPP-PNM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-PNM',
   'ref' => 'mt 28:19',
 );
 $concordance['4198']['VAPI3P'][] = array (
   'word' => 'ἐπορεύθησαν',
-  'spa' => 'partieron',
+  'spa' => 'fueron',
   'morph' => 'VAPI3P',
   'ref' => 'mt 2:9',
 );
 $concordance['4198']['VAPI3P'][] = array (
   'word' => 'ἐπορεύθησαν',
-  'spa' => 'partieron',
+  'spa' => 'fueron',
   'morph' => 'VAPI3P',
   'ref' => 'mt 28:16',
 );
@@ -95084,49 +95084,49 @@ $concordance['4198']['VPUM2P'][] = array (
 );
 $concordance['4198']['VPUP-PNM'][] = array (
   'word' => 'πορευόμενοι',
-  'spa' => 'partiendo',
+  'spa' => 'yendo',
   'morph' => 'VPUP-PNM',
   'ref' => 'mt 10:7',
 );
 $concordance['4198']['VPUP-PGM'][] = array (
   'word' => 'πορευομένων',
-  'spa' => 'partiendo',
+  'spa' => 'yendo',
   'morph' => 'VPUP-PGM',
   'ref' => 'mt 11:7',
 );
 $concordance['4198']['VAPI3S'][] = array (
   'word' => 'ἐπορεύθη',
-  'spa' => 'partió',
+  'spa' => 'fue',
   'morph' => 'VAPI3S',
   'ref' => 'mt 12:1',
 );
 $concordance['4198']['VAPI3S'][] = array (
   'word' => 'ἐπορεύθη',
-  'spa' => 'partió',
+  'spa' => 'se fue',
   'morph' => 'VAPI3S',
   'ref' => 'mt 19:15',
 );
 $concordance['4198']['VAPP-SNM'][] = array (
   'word' => 'πορευθεὶς',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-SNM',
   'ref' => 'mt 17:27',
 );
 $concordance['4198']['VAPP-SNM'][] = array (
   'word' => 'πορευθεὶς',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-SNM',
   'ref' => 'mt 18:12',
 );
 $concordance['4198']['VAPP-SNM'][] = array (
   'word' => 'πορευθεὶς',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-SNM',
   'ref' => 'mt 25:16',
 );
 $concordance['4198']['VAPP-SNM'][] = array (
   'word' => 'πορευθεὶς',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-SNM',
   'ref' => 'mt 26:14',
 );
@@ -95138,13 +95138,13 @@ $concordance['4198']['VIUI3S'][] = array (
 );
 $concordance['4198']['VAPP-PNF'][] = array (
   'word' => 'πορευθεῖσαι',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'VAPP-PNF',
   'ref' => 'mt 28:7',
 );
 $concordance['4198']['VPUP-PGF'][] = array (
   'word' => 'Πορευομένων',
-  'spa' => 'Partiendo',
+  'spa' => 'Yendo',
   'morph' => 'VPUP-PGF',
   'ref' => 'mt 28:11',
 );
@@ -103580,7 +103580,7 @@ $concordance['5119']['B'][] = array (
 );
 $concordance['5119']['B'][] = array (
   'word' => 'Τότε',
-  'spa' => 'entonces',
+  'spa' => 'Entonces',
   'morph' => 'B',
   'ref' => 'mt 26:14',
 );

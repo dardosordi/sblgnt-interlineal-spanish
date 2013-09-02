@@ -59768,19 +59768,19 @@ $concordance['4190']['A-NPN'][] = array (
 );
 $concordance['4198']['V-APP-NSF'][] = array (
   'word' => 'πορευθεῖσα',
-  'spa' => 'habiendo partido',
+  'spa' => 'habiendo ido',
   'morph' => 'V-APP-NSF',
   'ref' => 'mk 16:10',
 );
 $concordance['4198']['V-PMP-DPM'][] = array (
   'word' => 'πορευομένοις',
-  'spa' => 'partiendo',
+  'spa' => 'yendo',
   'morph' => 'V-PMP-DPM',
   'ref' => 'mk 16:12',
 );
 $concordance['4198']['V-APP-NPM'][] = array (
   'word' => 'πορευθέντες',
-  'spa' => 'Habiendo partido',
+  'spa' => 'Habiendo ido',
   'morph' => 'V-APP-NPM',
   'ref' => 'mk 16:15',
 );

@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="2937" sizex="1290" sizey="87286" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="4972" sizex="1290" sizey="87582" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="23:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -1859,7 +1859,7 @@
   f="0000000000000000100001" sn="562" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Πορευθέντες" k="Πορευθέντες" t="Habiendo partido" a="Habiendo partido"
+  <S s="Πορευθέντες" k="Πορευθέντες" t="Habiendo ido" a="Habiendo ido"
   f="0000000000000000000001" sn="563" w="1" ty="1">
   </S>
   <S s="⸂ἐξετάσατε" k="ἐξετάσατε" t="⸂investiguen" a="investiguen"
@@ -1924,13 +1924,13 @@
   <S s="ἀκούσαντες" k="ἀκούσαντες" t="habiendo escuchado" a="habiendo escuchado"
   f="0000000000000000000001" sn="581" w="1" ty="1">
   </S>
-  <S s="τοῦ" k="τοῦ" t="del" a="del"
+  <S s="τοῦ" k="τοῦ" t="al" a="al"
   f="0000000000000000000001" sn="582" w="1" ty="1">
   </S>
   <S s="βασιλέως" k="βασιλέως" t="rey" a="rey"
   f="0000000000000000000001" sn="583" w="1" ty="1">
   </S>
-  <S s="ἐπορεύθησαν," k="ἐπορεύθησαν" t="partieron," a="partieron"
+  <S s="ἐπορεύθησαν," k="ἐπορεύθησαν" t="fueron," a="fueron"
   f="0000000000000000000001" sn="584" w="1" ty="1"
   fp=",">
   </S>
@@ -14579,7 +14579,7 @@
   f="0000000000000000100001" sn="4423" w="1" ty="1"
   fp=".">
   </S>
-  <S s="πορευθέντες" k="πορευθέντες" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθέντες" k="πορευθέντες" t="habiendo ido" a="habiendo ido"
   f="0000010000000000000001" sn="4424" w="1" ty="1"
   c="9:13"
   m="\v 13 ">
@@ -16378,7 +16378,7 @@
   f="0000000000000000100001" sn="4971" w="1" ty="1"
   fp=".">
   </S>
-  <S s="πορευόμενοι" k="πορευόμενοι" t="partiendo" a="partiendo"
+  <S s="πορευόμενοι" k="πορευόμενοι" t="yendo" a="yendo"
   f="0000010000000000000001" sn="4972" w="1" ty="1"
   c="10:7"
   m="\v 7 ">
@@ -18571,7 +18571,7 @@
   f="0000000000000000100001" sn="5640" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Πορευθέντες" k="Πορευθέντες" t="Habiendo partido" a="Habiendo partido"
+  <S s="Πορευθέντες" k="Πορευθέντες" t="Habiendo ido" a="Habiendo ido"
   f="0000000000000000000001" sn="5641" w="1" ty="1">
   </S>
   <S s="ἀπαγγείλατε" k="ἀπαγγείλατε" t="anuncien" a="anuncien"
@@ -18686,7 +18686,7 @@
   <S s="δὲ" k="δὲ" t="← y" a="← y"
   f="0000000000000000000001" sn="5674" w="1" ty="1">
   </S>
-  <S s="πορευομένων" k="πορευομένων" t="partiendo" a="partiendo"
+  <S s="πορευομένων" k="πορευομένων" t="yendo" a="yendo"
   f="0000000000000000000001" sn="5675" w="1" ty="1">
   </S>
   <S s="ἤρξατο" k="ἤρξατο" t="comenzó" a="comenzó"
@@ -20050,7 +20050,7 @@
   <S s="καιρῷ" k="καιρῷ" t="tiempo" a="tiempo"
   f="0000000000000000000001" sn="6085" w="1" ty="1">
   </S>
-  <S s="ἐπορεύθη" k="ἐπορεύθη" t="partió" a="partió"
+  <S s="ἐπορεύθη" k="ἐπορεύθη" t="fue" a="fue"
   f="0000000000000000000001" sn="6086" w="1" ty="1">
   </S>
   <S s="ὁ" k="ὁ" t="el" a="el"
@@ -33720,7 +33720,7 @@
   f="0000000000000000000001" sn="10227" w="1" ty="1"
   fp=",">
   </S>
-  <S s="πορευθεὶς" k="πορευθεὶς" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθεὶς" k="πορευθεὶς" t="habiendo ido" a="habiendo ido"
   f="0000000000000000000001" sn="10228" w="1" ty="1">
   </S>
   <S s="⸀εἰς" k="εἰς" t="⸀hacia" a="hacia"
@@ -34609,7 +34609,7 @@
   f="0000000000000000000001" sn="10501" w="1" ty="1"
   pp="⸀">
   </S>
-  <S s="πορευθεὶς" k="πορευθεὶς" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθεὶς" k="πορευθεὶς" t="habiendo ido" a="habiendo ido"
   f="0000000000000000000001" sn="10502" w="1" ty="1">
   </S>
   <S s="ζητεῖ" k="ζητεῖ" t="busca" a="busca"
@@ -36864,7 +36864,7 @@
   f="0000000000000000100001" sn="11185" w="1" ty="1"
   fp="⸃">
   </S>
-  <S s="ἐπορεύθη" k="ἐπορεύθη" t="partió" a="partió"
+  <S s="ἐπορεύθη" k="ἐπορεύθη" t="se fue" a="se fue"
   f="0000000000000000000001" sn="11186" w="1" ty="1">
   </S>
   <S s="ἐκεῖθεν." k="ἐκεῖθεν" t="de allí." a="de allí"
@@ -39879,7 +39879,7 @@
   f="0000000000000000100001" sn="12085" w="1" ty="1"
   fp=".">
   </S>
-  <S s="πορευθέντες" k="πορευθέντες" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθέντες" k="πορευθέντες" t="habiendo ido" a="habiendo ido"
   f="0000010000000000000001" sn="12086" w="1" ty="1"
   c="21:6"
   m="\v 6 ">
@@ -43195,7 +43195,7 @@
   c="22:15"
   m="\v 15 ">
   </S>
-  <S s="πορευθέντες" k="πορευθέντες" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθέντες" k="πορευθέντες" t="habiendo ido" a="habiendo ido"
   f="0000000000000000000001" sn="13086" w="1" ty="1">
   </S>
   <S s="οἱ" k="οἱ" t="los" a="los"
@@ -50243,7 +50243,7 @@
   <S s="εὐθέως" k="εὐθέως" t="inmediatamente" a="inmediatamente"
   f="0000000000000000000001" sn="15207" w="1" ty="1">
   </S>
-  <S s="⸀πορευθεὶς" k="πορευθεὶς" t="⸀habiendo partido" a="habiendo partido"
+  <S s="⸀πορευθεὶς" k="πορευθεὶς" t="⸀habiendo ido" a="habiendo ido"
   f="0000010000000000000001" sn="15208" w="1" ty="1"
   pp="⸀" c="25:16"
   m="\v 16 ">
@@ -52654,12 +52654,12 @@
   f="0000000000000000100001" sn="15934" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Τότε" k="Τότε" t="entonces" a="entonces"
+  <S s="Τότε" k="Τότε" t="Entonces" a="Entonces"
   f="0000010000000000000001" sn="15935" w="1" ty="1"
   c="26:14"
   m="\v 14 ">
   </S>
-  <S s="πορευθεὶς" k="πορευθεὶς" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθεὶς" k="πορευθεὶς" t="habiendo ido" a="habiendo ido"
   f="0000000000000000000001" sn="15936" w="1" ty="1">
   </S>
   <S s="εἷς" k="εἷς" t="uno" a="uno"
@@ -59480,7 +59480,7 @@
   <S s="δὲ" k="δὲ" t="← y" a="← y"
   f="0000000000000000000001" sn="17991" w="1" ty="1">
   </S>
-  <S s="πορευθέντες" k="πορευθέντες" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθέντες" k="πορευθέντες" t="habiendo ido" a="habiendo ido"
   f="0000000000000000000001" sn="17992" w="1" ty="1">
   </S>
   <S s="ἠσφαλίσαντο" k="ἠσφαλίσαντο" t="aseguraron" a="aseguraron"
@@ -59834,7 +59834,7 @@
   <S s="ταχὺ" k="ταχὺ" t="rápidamente" a="rápidamente"
   f="0000000000000000000001" sn="18098" w="1" ty="1">
   </S>
-  <S s="πορευθεῖσαι" k="πορευθεῖσαι" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθεῖσαι" k="πορευθεῖσαι" t="habiendo ido" a="habiendo ido"
   f="0000000000000000000001" sn="18099" w="1" ty="1">
   </S>
   <S s="εἴπατε" k="εἴπατε" t="digan" a="digan"
@@ -60083,7 +60083,7 @@
   f="0000000000000000100001" sn="18174" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Πορευομένων" k="Πορευομένων" t="Partiendo" a="Partiendo"
+  <S s="Πορευομένων" k="Πορευομένων" t="Yendo" a="Yendo"
   f="0000010000000000000001" sn="18175" w="1" ty="1"
   c="28:11"
   m="\v 11 ">
@@ -60341,7 +60341,7 @@
   <S s="μαθηταὶ" k="μαθηταὶ" t="discípulos" a="discípulos"
   f="0000000000000000000001" sn="18253" w="1" ty="1">
   </S>
-  <S s="ἐπορεύθησαν" k="ἐπορεύθησαν" t="partieron" a="partieron"
+  <S s="ἐπορεύθησαν" k="ἐπορεύθησαν" t="fueron" a="fueron"
   f="0000000000000000000001" sn="18254" w="1" ty="1">
   </S>
   <S s="εἰς" k="εἰς" t="hacia" a="hacia"
@@ -60459,7 +60459,7 @@
   f="0000000000000000100001" sn="18289" w="1" ty="1"
   fp="·">
   </S>
-  <S s="πορευθέντες" k="πορευθέντες" t="habiendo partido" a="habiendo partido"
+  <S s="πορευθέντες" k="πορευθέντες" t="habiendo ido" a="habiendo ido"
   f="0000010000000000000001" sn="18290" w="1" ty="1"
   c="28:19"
   m="\v 19 ">
