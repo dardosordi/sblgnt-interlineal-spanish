@@ -14174,7 +14174,7 @@ $concordance['1287']['V-FPI-3P'][] = array (
 );
 $concordance['1288']['V-RPN'][] = array (
   'word' => 'διεσπάσθαι',
-  'spa' => 'haber sido rotas',
+  'spa' => 'haber sido despedazadas',
   'morph' => 'V-RPN',
   'ref' => 'mk 5:4',
 );

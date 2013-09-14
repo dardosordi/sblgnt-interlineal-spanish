@@ -24110,7 +24110,7 @@ $concordance['1294']['V-PAP-ASM'][] = array (
 );
 $concordance['1295']['V-AAS-3S'][] = array (
   'word' => 'διασώσῃ',
-  'spa' => 'salvare totalmente',
+  'spa' => 'salvare completamente',
   'morph' => 'V-AAS-3S',
   'ref' => 'lk 7:3',
 );
@@ -37154,13 +37154,13 @@ $concordance['1911']['V-FAI-3P'][] = array (
 );
 $concordance['1913']['V-AAP-NSM'][] = array (
   'word' => 'ἐπιβιβάσας',
-  'spa' => 'habiendo puesto',
+  'spa' => 'habiendo montado',
   'morph' => 'V-AAP-NSM',
   'ref' => 'lk 10:34',
 );
 $concordance['1913']['V-AAI-3P'][] = array (
   'word' => 'ἐπεβίβασαν',
-  'spa' => 'habiendo puesto',
+  'spa' => 'montaron',
   'morph' => 'V-AAI-3P',
   'ref' => 'lk 19:35',
 );
@@ -80750,7 +80750,7 @@ $concordance['3588']['T-ASM'][] = array (
 );
 $concordance['3588']['T-ASM'][] = array (
   'word' => 'τὸν',
-  'spa' => 'al',
+  'spa' => 'a',
   'morph' => 'T-ASM',
   'ref' => 'lk 19:35',
 );
