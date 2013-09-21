@@ -317,12 +317,12 @@ $strongs['greek']['302'] = array ('derivation' => 'a primary particle, denoting 
 $strongs['greek']['303'] = array ('derivation' => 'a primary preposition and adverb;','lemma' => 'ἀνά','kjv_def' => 'and, apiece, by, each, every (man), in, through','strongs_def' => 'properly, up; but (by extension) used (distributively) severally, or (locally) at (etc.)',);
 $strongs['greek']['304'] = array ('derivation' => 'from G305 (ἀναβαίνω) (compare G898 (βαθμός));','lemma' => 'ἀναβαθμός','kjv_def' => 'stairs','strongs_def' => 'a stairway',);
 $strongs['greek']['305'] = array ('derivation' => 'from G303 (ἀνά) and the base of G939 (βάσις);','lemma' => 'ἀναβαίνω','kjv_def' => 'arise, ascend (up), climb (go, grow, rise, spring) up, come (up)','strongs_def' => 'to go up (literally or figuratively)',);
-$strongs['greek']['306'] = array ('derivation' => 'middle voice from G303 (ἀνά) and G906 (βάλλω);','lemma' => 'ἀναβάλλομαι','kjv_def' => 'defer','strongs_def' => 'to put off (for oneself)',);
+$strongs['greek']['306'] = array ('derivation' => 'middle voice from G303 (ἀνά) and G906 (βάλλω);','lemma' => 'ἀναβάλλω','kjv_def' => 'defer','strongs_def' => 'to put off (for oneself)',);
 $strongs['greek']['307'] = array ('derivation' => 'from G303 (ἀνά) and a derivative of the base of G939 (βάσις);','lemma' => 'ἀναβιβάζω','kjv_def' => 'draw','strongs_def' => 'to cause to go up, i.e. haul (a net)',);
 $strongs['greek']['308'] = array ('derivation' => 'from G303 (ἀνά) and G991 (βλέπω);','lemma' => 'ἀναβλέπω','kjv_def' => 'look (up), see, receive sight','strongs_def' => 'to look up; by implication, to recover sight',);
 $strongs['greek']['309'] = array ('derivation' => 'from G308 (ἀναβλέπω);','lemma' => 'ἀνάβλεψις','kjv_def' => 'recovery of sight','strongs_def' => 'restoration of sight',);
 $strongs['greek']['310'] = array ('derivation' => 'from G303 (ἀνά) and G994 (βοάω);','lemma' => 'ἀναβοάω','kjv_def' => 'cry (aloud, out)','strongs_def' => 'to halloo',);
-$strongs['greek']['311'] = array ('derivation' => 'from G306 (ἀναβάλλομαι);','lemma' => 'ἀναβολή','kjv_def' => 'delay','strongs_def' => 'a putting off',);
+$strongs['greek']['311'] = array ('derivation' => 'from G306 (ἀναβάλλω);','lemma' => 'ἀναβολή','kjv_def' => 'delay','strongs_def' => 'a putting off',);
 $strongs['greek']['312'] = array ('derivation' => 'from G303 (ἀνά) and the base of G32 (ἄγγελος);','lemma' => 'ἀναγγέλλω','kjv_def' => 'declare, rehearse, report, show, speak, tell','strongs_def' => 'to announce (in detail)',);
 $strongs['greek']['313'] = array ('derivation' => 'from G303 (ἀνά) and G1080 (γεννάω);','lemma' => 'ἀναγεννάω','kjv_def' => 'beget, (bear) X (again)','strongs_def' => 'to beget or (by extension) bear (again)',);
 $strongs['greek']['314'] = array ('derivation' => 'from G303 (ἀνά) and G1097 (γινώσκω);','lemma' => 'ἀναγινώσκω','kjv_def' => 'read','strongs_def' => 'to know again, i.e. (by extension) to read',);
@@ -3749,7 +3749,7 @@ $strongs['greek']['3835'] = array ('derivation' => 'from G3956 (πᾶς) and G20
 $strongs['greek']['3836'] = array ('derivation' => 'adverb (of source) from G3837 (πανταχοῦ);','lemma' => 'πανταχόθεν','kjv_def' => 'from every quarter','strongs_def' => 'from all directions',);
 $strongs['greek']['3837'] = array ('derivation' => 'genitive case (as adverb of place) of a presumed derivative of G3956 (πᾶς);','lemma' => 'πανταχοῦ','kjv_def' => 'in all places, everywhere','strongs_def' => 'universally',);
 $strongs['greek']['3838'] = array ('derivation' => 'from G3956 (πᾶς) and G5056 (τέλος);','lemma' => 'παντελής','kjv_def' => '+ in (no) wise, uttermost','strongs_def' => 'full-ended, i.e. entire (neuter as noun, completion)',);
-$strongs['greek']['3839'] = array ('derivation' => 'adverb (of manner) from G3956 (πᾶς);','lemma' => 'πάντη','kjv_def' => 'always','strongs_def' => 'wholly',);
+$strongs['greek']['3839'] = array ('derivation' => 'adverb (of manner) from G3956 (πᾶς);','lemma' => 'πάντῃ','kjv_def' => 'always','strongs_def' => 'wholly',);
 $strongs['greek']['3840'] = array ('derivation' => 'adverb (of source) from G3956 (πᾶς);','lemma' => 'πάντοθεν','kjv_def' => 'on every side, round about','strongs_def' => 'from (i.e. on) all sides',);
 $strongs['greek']['3841'] = array ('derivation' => 'from G3956 (πᾶς) and G2904 (κράτος);','lemma' => 'παντοκράτωρ','kjv_def' => 'Almighty, Omnipotent','strongs_def' => 'the all-ruling, i.e. God (as absolute and universal sovereign)',);
 $strongs['greek']['3842'] = array ('derivation' => 'from G3956 (πᾶς) and G3753 (ὅτε);','lemma' => 'πάντοτε','kjv_def' => 'alway(-s), ever(-more)','strongs_def' => 'every when, i.e. at all times',);
