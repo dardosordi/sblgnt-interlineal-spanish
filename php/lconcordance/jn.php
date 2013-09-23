@@ -44180,7 +44180,7 @@ $concordance['2638']['VAAI3S'][] = array (
 );
 $concordance['2638']['VAAS3S'][] = array (
   'word' => 'καταλάβῃ',
-  'spa' => 'tomaré',
+  'spa' => 'tomare',
   'morph' => 'VAAS3S',
   'ref' => 'jn 12:35',
 );

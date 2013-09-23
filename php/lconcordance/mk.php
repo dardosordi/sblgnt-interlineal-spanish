@@ -36566,7 +36566,7 @@ $concordance['2634']['VPAI3P'][] = array (
 );
 $concordance['2638']['VAAS3S'][] = array (
   'word' => 'καταλάβῃ',
-  'spa' => 'tomaré',
+  'spa' => 'tomare',
   'morph' => 'VAAS3S',
   'ref' => 'mk 9:18',
 );
@@ -56738,7 +56738,7 @@ $concordance['3862']['NDSF'][] = array (
 );
 $concordance['3868']['VIUI3P'][] = array (
   'word' => 'παρῃτοῦντο',
-  'spa' => 'pedían',
+  'spa' => 'excusaban',
   'morph' => 'VIUI3P',
   'ref' => 'mk 15:6',
 );
