@@ -206,11 +206,11 @@ $strongs['greek']['191'] = array ('derivation' => 'a primary verb;','lemma' => '
 $strongs['greek']['192'] = array ('derivation' => 'from G193 (ἀκρατής);','lemma' => 'ἀκρασία','kjv_def' => 'excess, incontinency','strongs_def' => 'want of self-restraint',);
 $strongs['greek']['193'] = array ('derivation' => 'from G1 (Α) (as a negative particle) and G2904 (κράτος);','lemma' => 'ἀκρατής','kjv_def' => 'incontinent','strongs_def' => 'powerless, i.e. without self-control',);
 $strongs['greek']['194'] = array ('derivation' => 'from G1 (Α) (as a negative particle) and a presumed derivative of G2767 (κεράννυμι);','lemma' => 'ἄκρατος','kjv_def' => 'without mixture','strongs_def' => 'undiluted',);
-$strongs['greek']['195'] = array ('derivation' => 'from the same as G196 (ἀκριβέστατος);','lemma' => 'ἀκρίβεια','kjv_def' => 'perfect manner','strongs_def' => 'exactness',);
-$strongs['greek']['196'] = array ('derivation' => 'superlative of (a derivative of the same as G206 (ἄκρον));','lemma' => 'ἀκριβέστατος','kjv_def' => 'most straitest','strongs_def' => 'most exact',);
-$strongs['greek']['197'] = array ('derivation' => 'neuter of the comparative of the same as G196 (ἀκριβέστατος);','lemma' => 'ἀκριβέστερον','kjv_def' => 'more perfect(-ly)','strongs_def' => '(adverbially) more exactly',);
-$strongs['greek']['198'] = array ('derivation' => 'from the same as G196 (ἀκριβέστατος);','lemma' => 'ἀκριβόω','kjv_def' => 'enquire diligently','strongs_def' => 'to be exact, i.e. ascertain',);
-$strongs['greek']['199'] = array ('derivation' => 'adverb from the same as G196 (ἀκριβέστατος);','lemma' => 'ἀκριβῶς','kjv_def' => 'circumspectly, diligently, perfect(-ly)','strongs_def' => 'exactly',);
+$strongs['greek']['195'] = array ('derivation' => 'from the same as G196 (ἀκριβής);','lemma' => 'ἀκρίβεια','kjv_def' => 'perfect manner','strongs_def' => 'exactness',);
+$strongs['greek']['196'] = array ('derivation' => 'superlative of (a derivative of the same as G206 (ἄκρον));','lemma' => 'ἀκριβής','kjv_def' => 'most straitest','strongs_def' => 'most exact',);
+$strongs['greek']['197'] = array ('derivation' => 'neuter of the comparative of the same as G196 (ἀκριβής);','lemma' => 'ἀκριβέστερον','kjv_def' => 'more perfect(-ly)','strongs_def' => '(adverbially) more exactly',);
+$strongs['greek']['198'] = array ('derivation' => 'from the same as G196 (ἀκριβής);','lemma' => 'ἀκριβόω','kjv_def' => 'enquire diligently','strongs_def' => 'to be exact, i.e. ascertain',);
+$strongs['greek']['199'] = array ('derivation' => 'adverb from the same as G196 (ἀκριβής);','lemma' => 'ἀκριβῶς','kjv_def' => 'circumspectly, diligently, perfect(-ly)','strongs_def' => 'exactly',);
 $strongs['greek']['200'] = array ('derivation' => 'apparently from the same as G206 (ἄκρον);','lemma' => 'ἀκρίς','kjv_def' => 'locust','strongs_def' => 'a locust (as pointed, or as lighting on the top of vegetation)',);
 $strongs['greek']['201'] = array ('derivation' => 'from G202 (ἀκροατής);','lemma' => 'ἀκροατήριον','kjv_def' => 'place of hearing','strongs_def' => 'an audience-room',);
 $strongs['greek']['202'] = array ('derivation' => 'from (to listen;','lemma' => 'ἀκροατής','kjv_def' => 'hearer','strongs_def' => 'apparently an intensive of G191 (ἀκούω)); a hearer (merely)',);
