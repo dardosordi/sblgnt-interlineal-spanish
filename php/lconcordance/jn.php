@@ -13340,7 +13340,7 @@ $concordance['1121']['NDPN'][] = array (
 );
 $concordance['1121']['NAPN'][] = array (
   'word' => 'γράμματα',
-  'spa' => 'escritos',
+  'spa' => 'letras',
   'morph' => 'NAPN',
   'ref' => 'jn 7:15',
 );
@@ -66842,13 +66842,13 @@ $concordance['3588']['DDPN'][] = array (
 );
 $concordance['3588']['DDPN'][] = array (
   'word' => 'τοῖς',
-  'spa' => 'las',
+  'spa' => 'los',
   'morph' => 'DDPN',
   'ref' => 'jn 5:47',
 );
 $concordance['3588']['DDPN'][] = array (
   'word' => 'τοῖς',
-  'spa' => 'a las',
+  'spa' => 'las',
   'morph' => 'DDPN',
   'ref' => 'jn 5:47',
 );
@@ -80354,7 +80354,7 @@ $concordance['4160']['VPAS3S'][] = array (
 );
 $concordance['4160']['VAAP-PNM'][] = array (
   'word' => 'ποιήσαντες',
-  'spa' => 'habiendo hecho',
+  'spa' => 'habiendo practicado',
   'morph' => 'VAAP-PNM',
   'ref' => 'jn 5:29',
 );
@@ -81320,13 +81320,13 @@ $concordance['4232']['NASN'][] = array (
 );
 $concordance['4238']['VPAP-SNM'][] = array (
   'word' => 'πράσσων',
-  'spa' => 'haciendo',
+  'spa' => 'practicando',
   'morph' => 'VPAP-SNM',
   'ref' => 'jn 3:20',
 );
 $concordance['4238']['VAAP-PNM'][] = array (
   'word' => 'πράξαντες',
-  'spa' => 'habiendo hecho',
+  'spa' => 'habiendo practicado',
   'morph' => 'VAAP-PNM',
   'ref' => 'jn 5:29',
 );
