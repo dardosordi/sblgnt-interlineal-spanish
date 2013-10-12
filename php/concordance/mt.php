@@ -2012,7 +2012,7 @@ $concordance['191']['V-AAI-3P'][] = array (
 );
 $concordance['191']['V-AAS-3P'][] = array (
   'word' => 'ἀκούσωσιν',
-  'spa' => 'escuchen',
+  'spa' => 'escucharen',
   'morph' => 'V-AAS-3P',
   'ref' => 'mt 13:15',
 );
@@ -26264,7 +26264,7 @@ $concordance['1492']['V-2AAS-3P'][] = array (
 );
 $concordance['1492']['V-2AAS-3P'][] = array (
   'word' => 'ἴδωσιν',
-  'spa' => 'vean',
+  'spa' => 'vieren',
   'morph' => 'V-2AAS-3P',
   'ref' => 'mt 13:15',
 );
@@ -34706,7 +34706,7 @@ $concordance['1994']['V-FAI-1S'][] = array (
 );
 $concordance['1994']['V-AAS-3P'][] = array (
   'word' => 'ἐπιστρέψωσιν',
-  'spa' => 'vuelvan',
+  'spa' => 'volvieren',
   'morph' => 'V-AAS-3P',
   'ref' => 'mt 13:15',
 );
@@ -77636,7 +77636,7 @@ $concordance['3588']['T-DSF'][] = array (
 );
 $concordance['3588']['T-DSF'][] = array (
   'word' => 'τῇ',
-  'spa' => 'el',
+  'spa' => 'con el',
   'morph' => 'T-DSF',
   'ref' => 'mt 13:15',
 );
@@ -101228,7 +101228,7 @@ $concordance['4920']['V-2AXS-2P'][] = array (
 );
 $concordance['4920']['V-2AAS-3P'][] = array (
   'word' => 'συνῶσιν',
-  'spa' => 'comprendan',
+  'spa' => 'comprendieran',
   'morph' => 'V-2AAS-3P',
   'ref' => 'mt 13:15',
 );
