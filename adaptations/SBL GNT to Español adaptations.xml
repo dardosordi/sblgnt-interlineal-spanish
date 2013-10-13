@@ -2725,6 +2725,10 @@
       <RS n="1" a="Hechos" df="0"
       cDT="2013-05-19T04:35:36Z" wC="dardo:sophie"/>
     </TU>
+    <TU f="0" k="ΠΡΟΣ">
+      <RS n="1" a="Hacia" df="0"
+      cDT="2013-10-13T02:33:17Z" wC="dardo:sophie"/>
+    </TU>
     <TU f="0" k="Πάγον">
       <RS n="1" a="Πάγον" df="0"
       cDT="2013-08-10T06:05:01Z" wC="dardo:sophie"/>
@@ -3355,6 +3359,10 @@
       cDT="2012-10-17T04:40:39Z" wC="dardo:sophie"/>
       <RS n="1" a="Cómo" df="0"
       cDT="2013-05-19T04:40:04Z" wC="dardo:sophie"/>
+    </TU>
+    <TU f="0" k="ΡΩΜΑΙΟΥΣ">
+      <RS n="1" a="Romanos" df="0"
+      cDT="2013-10-13T02:33:21Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Ραββουνι">
       <RS n="0" a="" df="1"
