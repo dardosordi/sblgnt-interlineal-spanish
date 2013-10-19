@@ -36854,7 +36854,7 @@ $concordance['2135']['N-NSM'][] = array (
 );
 $concordance['2141']['V-IMI-3S'][] = array (
   'word' => 'εὐπορεῖτο',
-  'spa' => 'prosperab',
+  'spa' => 'prosperaba',
   'morph' => 'V-IMI-3S',
   'ref' => 'ac 11:29',
 );

@@ -6344,7 +6344,7 @@ $concordance['600']['VAPI3S'][] = array (
 );
 $concordance['601']['VAPS3P'][] = array (
   'word' => 'ἀποκαλυφθῶσιν',
-  'spa' => 'sea revelado',
+  'spa' => 'fuere revelado',
   'morph' => 'VAPS3P',
   'ref' => 'lk 2:35',
 );
@@ -6368,7 +6368,7 @@ $concordance['601']['VFPI3S'][] = array (
 );
 $concordance['601']['VPPI3S'][] = array (
   'word' => 'ἀποκαλύπτεται',
-  'spa' => 'se revela',
+  'spa' => 'es revelado',
   'morph' => 'VPPI3S',
   'ref' => 'lk 17:30',
 );
@@ -80078,7 +80078,7 @@ $concordance['3588']['DASM'][] = array (
 );
 $concordance['3588']['DASM'][] = array (
   'word' => 'τὸν',
-  'spa' => 'al',
+  'spa' => 'la',
   'morph' => 'DASM',
   'ref' => 'lk 8:15',
 );
@@ -100922,7 +100922,7 @@ $concordance['4217']['JNSF'][] = array (
 );
 $concordance['4218']['BX'][] = array (
   'word' => 'ποτε',
-  'spa' => 'cuando',
+  'spa' => 'una vez',
   'morph' => 'BX',
   'ref' => 'lk 22:32',
 );

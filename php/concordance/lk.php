@@ -6344,7 +6344,7 @@ $concordance['600']['V-API-3S'][] = array (
 );
 $concordance['601']['V-APS-3P'][] = array (
   'word' => 'ἀποκαλυφθῶσιν',
-  'spa' => 'sea revelado',
+  'spa' => 'fuere revelado',
   'morph' => 'V-APS-3P',
   'ref' => 'lk 2:35',
 );
@@ -6368,7 +6368,7 @@ $concordance['601']['V-FPI-3S'][] = array (
 );
 $concordance['601']['V-PPI-3S'][] = array (
   'word' => 'ἀποκαλύπτεται',
-  'spa' => 'se revela',
+  'spa' => 'es revelado',
   'morph' => 'V-PPI-3S',
   'ref' => 'lk 17:30',
 );
@@ -80138,7 +80138,7 @@ $concordance['3588']['T-ASM'][] = array (
 );
 $concordance['3588']['T-ASM'][] = array (
   'word' => 'τὸν',
-  'spa' => 'al',
+  'spa' => 'la',
   'morph' => 'T-ASM',
   'ref' => 'lk 8:15',
 );
@@ -100922,7 +100922,7 @@ $concordance['4217']['A-NSF'][] = array (
 );
 $concordance['4218']['PRT'][] = array (
   'word' => 'ποτε',
-  'spa' => 'cuando',
+  'spa' => 'una vez',
   'morph' => 'PRT',
   'ref' => 'lk 22:32',
 );

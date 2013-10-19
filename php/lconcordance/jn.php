@@ -81074,7 +81074,7 @@ $concordance['4215']['NNPM'][] = array (
 );
 $concordance['4218']['BX'][] = array (
   'word' => 'ποτε',
-  'spa' => 'antes',
+  'spa' => 'una vez',
   'morph' => 'BX',
   'ref' => 'jn 9:13',
 );

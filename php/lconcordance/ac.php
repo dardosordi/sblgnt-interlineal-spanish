@@ -36854,7 +36854,7 @@ $concordance['2135']['NNSM'][] = array (
 );
 $concordance['2141']['VIMI3S'][] = array (
   'word' => 'εὐπορεῖτό',
-  'spa' => 'prosperab',
+  'spa' => 'prosperaba',
   'morph' => 'VIMI3S',
   'ref' => 'ac 11:29',
 );
