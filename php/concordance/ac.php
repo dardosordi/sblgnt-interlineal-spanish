@@ -24962,7 +24962,7 @@ $concordance['1494']['A-GPN'][] = array (
 );
 $concordance['1494']['A-ASN'][] = array (
   'word' => 'εἰδωλόθυτον',
-  'spa' => 'de lo sacrificado a las imagenes',
+  'spa' => 'de lo sacrificado a las imágenes',
   'morph' => 'A-ASN',
   'ref' => 'ac 21:25',
 );
@@ -41966,7 +41966,7 @@ $concordance['2371']['V-PAP-NSM'][] = array (
 );
 $concordance['2372']['N-GSM'][] = array (
   'word' => 'θυμοῦ',
-  'spa' => 'de ira',
+  'spa' => 'de indignación',
   'morph' => 'N-GSM',
   'ref' => 'ac 19:28',
 );
@@ -62960,7 +62960,7 @@ $concordance['3551']['N-GSM'][] = array (
 );
 $concordance['3551']['N-GSM'][] = array (
   'word' => 'νόμου',
-  'spa' => 'de ley',
+  'spa' => 'de la ley',
   'morph' => 'N-GSM',
   'ref' => 'ac 18:15',
 );

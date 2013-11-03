@@ -47168,7 +47168,7 @@ $concordance['2340']['VAAN'][] = array (
 );
 $concordance['2343']['VPAP-SNM'][] = array (
   'word' => 'θησαυρίζων',
-  'spa' => 'que atezora',
+  'spa' => 'que atesora',
   'morph' => 'VPAP-SNM',
   'ref' => 'lk 12:21',
 );
@@ -47348,7 +47348,7 @@ $concordance['2370']['VAAN'][] = array (
 );
 $concordance['2372']['NGSM'][] = array (
   'word' => 'θυμοῦ',
-  'spa' => 'de ira',
+  'spa' => 'de indignación',
   'morph' => 'NGSM',
   'ref' => 'lk 4:28',
 );
