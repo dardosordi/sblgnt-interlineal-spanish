@@ -58046,7 +58046,7 @@ $concordance['4051']['N-APN'][] = array (
 );
 $concordance['4052']['V-PAP-GSN'][] = array (
   'word' => 'περισσεύοντος',
-  'spa' => 'sobrando',
+  'spa' => 'que sobra',
   'morph' => 'V-PAP-GSN',
   'ref' => 'mk 12:44',
 );
@@ -65978,7 +65978,7 @@ $concordance['5278']['V-AAP-NSM'][] = array (
 );
 $concordance['5302']['V-PAI-3S'][] = array (
   'word' => 'ὑστερεῖ',
-  'spa' => 'careces',
+  'spa' => 'faltas',
   'morph' => 'V-PAI-3S',
   'ref' => 'mk 10:21',
 );

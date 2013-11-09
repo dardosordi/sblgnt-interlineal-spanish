@@ -58046,7 +58046,7 @@ $concordance['4051']['NAPN'][] = array (
 );
 $concordance['4052']['VPAP-SGN'][] = array (
   'word' => 'περισσεύοντος',
-  'spa' => 'sobrando',
+  'spa' => 'que sobra',
   'morph' => 'VPAP-SGN',
   'ref' => 'mk 12:44',
 );
@@ -65978,7 +65978,7 @@ $concordance['5278']['VAAP-SNM'][] = array (
 );
 $concordance['5302']['VPAI3S'][] = array (
   'word' => 'ὑστερεῖ',
-  'spa' => 'careces',
+  'spa' => 'faltas',
   'morph' => 'VPAI3S',
   'ref' => 'mk 10:21',
 );

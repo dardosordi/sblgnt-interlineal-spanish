@@ -97676,25 +97676,25 @@ $concordance['4051']['N-GSN'][] = array (
 );
 $concordance['4052']['V-AAP-NSN'][] = array (
   'word' => 'περισσεῦσαν',
-  'spa' => 'sobrando',
+  'spa' => 'que sobró',
   'morph' => 'V-AAP-NSN',
   'ref' => 'lk 9:17',
 );
 $concordance['4052']['V-PAN'][] = array (
   'word' => 'περισσεύειν',
-  'spa' => 'sobrar',
+  'spa' => 'abundar',
   'morph' => 'V-PAN',
   'ref' => 'lk 12:15',
 );
 $concordance['4052']['V-PMI-3P'][] = array (
   'word' => 'περισσεύονται',
-  'spa' => 'sobran',
+  'spa' => 'abundan',
   'morph' => 'V-PMI-3P',
   'ref' => 'lk 15:17',
 );
 $concordance['4052']['V-PAP-GSN'][] = array (
   'word' => 'περισσεύοντος',
-  'spa' => 'sobrando',
+  'spa' => 'que sobra',
   'morph' => 'V-PAP-GSN',
   'ref' => 'lk 21:4',
 );
@@ -107564,7 +107564,7 @@ $concordance['4920']['V-PAN'][] = array (
 );
 $concordance['4921']['V-RAP-APM'][] = array (
   'word' => 'συνεστῶτας',
-  'spa' => 'estando junto',
+  'spa' => 'parados junto',
   'morph' => 'V-RAP-APM',
   'ref' => 'lk 9:32',
 );
@@ -113600,13 +113600,13 @@ $concordance['5299']['V-PAS-3S'][] = array (
 );
 $concordance['5302']['V-PPN'][] = array (
   'word' => 'ὑστερεῖσθαι',
-  'spa' => 'carecer',
+  'spa' => 'faltar',
   'morph' => 'V-PPN',
   'ref' => 'lk 15:14',
 );
 $concordance['5302']['V-AAI-2P'][] = array (
   'word' => 'ὑστερήσατε',
-  'spa' => 'carecieron',
+  'spa' => 'faltaron',
   'morph' => 'V-AAI-2P',
   'ref' => 'lk 22:35',
 );

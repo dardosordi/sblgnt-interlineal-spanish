@@ -68858,7 +68858,7 @@ $concordance['3588']['DGSM'][] = array (
 );
 $concordance['3588']['DGSM'][] = array (
   'word' => 'τοῦ',
-  'spa' => 'del',
+  'spa' => 'al',
   'morph' => 'DGSM',
   'ref' => 'mt 25:29',
 );
@@ -92372,25 +92372,25 @@ $concordance['4052']['VAAS3S'][] = array (
 );
 $concordance['4052']['VFPI3S'][] = array (
   'word' => 'περισσευθήσεται',
-  'spa' => 'será sobrepasado',
+  'spa' => 'será abundado',
   'morph' => 'VFPI3S',
   'ref' => 'mt 13:12',
 );
 $concordance['4052']['VFPI3S'][] = array (
   'word' => 'περισσευθήσεται',
-  'spa' => 'será sobrepasado',
+  'spa' => 'será abundado',
   'morph' => 'VFPI3S',
   'ref' => 'mt 25:29',
 );
 $concordance['4052']['VPAP-SAN'][] = array (
   'word' => 'περισσεῦον',
-  'spa' => 'sobrando',
+  'spa' => 'que sobra',
   'morph' => 'VPAP-SAN',
   'ref' => 'mt 14:20',
 );
 $concordance['4052']['VPAP-SAN'][] = array (
   'word' => 'περισσεῦον',
-  'spa' => 'sobrando',
+  'spa' => 'que sobra',
   'morph' => 'VPAP-SAN',
   'ref' => 'mt 15:37',
 );
@@ -107096,7 +107096,7 @@ $concordance['5286']['NNSN'][] = array (
 );
 $concordance['5302']['VPAI1S'][] = array (
   'word' => 'ὑστερῶ',
-  'spa' => 'carezco',
+  'spa' => 'falto',
   'morph' => 'VPAI1S',
   'ref' => 'mt 19:20',
 );

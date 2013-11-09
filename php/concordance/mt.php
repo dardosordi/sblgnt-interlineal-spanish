@@ -68906,7 +68906,7 @@ $concordance['3588']['T-GSM'][] = array (
 );
 $concordance['3588']['T-GSM'][] = array (
   'word' => 'τοῦ',
-  'spa' => 'del',
+  'spa' => 'al',
   'morph' => 'T-GSM',
   'ref' => 'mt 25:29',
 );
@@ -92372,25 +92372,25 @@ $concordance['4052']['V-AAS-3S'][] = array (
 );
 $concordance['4052']['V-FPI-3S'][] = array (
   'word' => 'περισσευθήσεται',
-  'spa' => 'será sobrepasado',
+  'spa' => 'será abundado',
   'morph' => 'V-FPI-3S',
   'ref' => 'mt 13:12',
 );
 $concordance['4052']['V-FPI-3S'][] = array (
   'word' => 'περισσευθήσεται',
-  'spa' => 'será sobrepasado',
+  'spa' => 'será abundado',
   'morph' => 'V-FPI-3S',
   'ref' => 'mt 25:29',
 );
 $concordance['4052']['V-PAP-ASN'][] = array (
   'word' => 'περισσεῦον',
-  'spa' => 'sobrando',
+  'spa' => 'que sobra',
   'morph' => 'V-PAP-ASN',
   'ref' => 'mt 14:20',
 );
 $concordance['4052']['V-PAP-ASN'][] = array (
   'word' => 'περισσεῦον',
-  'spa' => 'sobrando',
+  'spa' => 'que sobra',
   'morph' => 'V-PAP-ASN',
   'ref' => 'mt 15:37',
 );
@@ -107096,7 +107096,7 @@ $concordance['5286']['N-NSN'][] = array (
 );
 $concordance['5302']['V-PAI-1S-C'][] = array (
   'word' => 'ὑστερῶ',
-  'spa' => 'carezco',
+  'spa' => 'falto',
   'morph' => 'V-PAI-1S-C',
   'ref' => 'mt 19:20',
 );
