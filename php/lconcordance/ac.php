@@ -39578,7 +39578,7 @@ $concordance['2257']['RP1GP'][] = array (
 );
 $concordance['2257']['RP1GP'][] = array (
   'word' => 'ἡμῶν',
-  'spa' => 'nuesta',
+  'spa' => 'nuestra',
   'morph' => 'RP1GP',
   'ref' => 'ac 7:19',
 );
@@ -39680,7 +39680,7 @@ $concordance['2257']['RP1GP'][] = array (
 );
 $concordance['2257']['RP1GP'][] = array (
   'word' => 'ἡμῶν',
-  'spa' => 'nuesta',
+  'spa' => 'nuestra',
   'morph' => 'RP1GP',
   'ref' => 'ac 16:20',
 );
@@ -39698,7 +39698,7 @@ $concordance['2257']['RP1GP'][] = array (
 );
 $concordance['2257']['RP1GP'][] = array (
   'word' => 'ἡμῶν',
-  'spa' => 'nuesta',
+  'spa' => 'nuestra',
   'morph' => 'RP1GP',
   'ref' => 'ac 19:37',
 );
@@ -61736,7 +61736,7 @@ $concordance['3399']['NGSF'][] = array (
 );
 $concordance['3408']['NGSM'][] = array (
   'word' => 'μισθοῦ',
-  'spa' => 'recompensa',
+  'spa' => 'salario',
   'morph' => 'NGSM',
   'ref' => 'ac 1:18',
 );

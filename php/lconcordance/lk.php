@@ -45026,7 +45026,7 @@ $concordance['2257']['RP1GP'][] = array (
 );
 $concordance['2257']['RP1GP'][] = array (
   'word' => 'ἡμῶν',
-  'spa' => 'nuesta',
+  'spa' => 'nuestra',
   'morph' => 'RP1GP',
   'ref' => 'lk 7:5',
 );
@@ -45068,7 +45068,7 @@ $concordance['2257']['RP1GP'][] = array (
 );
 $concordance['2257']['RP1GP'][] = array (
   'word' => 'ἡμῶν',
-  'spa' => 'nuesta',
+  'spa' => 'nuestra',
   'morph' => 'RP1GP',
   'ref' => 'lk 23:2',
 );
@@ -69020,7 +69020,7 @@ $concordance['3408']['NNSM'][] = array (
 );
 $concordance['3408']['NGSM'][] = array (
   'word' => 'μισθοῦ',
-  'spa' => 'recompensa',
+  'spa' => 'salario',
   'morph' => 'NGSM',
   'ref' => 'lk 10:7',
 );
@@ -73184,7 +73184,7 @@ $concordance['3588']['DGSM'][] = array (
 );
 $concordance['3588']['DGSM'][] = array (
   'word' => 'τοῦ',
-  'spa' => 'de la',
+  'spa' => 'del',
   'morph' => 'DGSM',
   'ref' => 'lk 10:7',
 );
@@ -94748,7 +94748,7 @@ $concordance['3844']['P'][] = array (
 );
 $concordance['3844']['P'][] = array (
   'word' => 'παρ\'',
-  'spa' => 'desde',
+  'spa' => 'de',
   'morph' => 'P',
   'ref' => 'lk 10:7',
 );
