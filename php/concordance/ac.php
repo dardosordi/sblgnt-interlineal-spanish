@@ -109220,7 +109220,7 @@ $concordance['5547']['N-ASM'][] = array (
 );
 $concordance['5547']['N-ASM'][] = array (
   'word' => 'Χριστὸν',
-  'spa' => 'Cristo',
+  'spa' => 'Ungido',
   'morph' => 'N-ASM',
   'ref' => 'ac 24:24',
 );

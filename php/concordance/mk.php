@@ -63320,7 +63320,7 @@ $concordance['4955']['N-GPM'][] = array (
 );
 $concordance['4957']['V-RPP-NPM'][] = array (
   'word' => 'συνεσταυρωμένοι',
-  'spa' => 'co-crucificados',
+  'spa' => 'crucificados junto',
   'morph' => 'V-RPP-NPM',
   'ref' => 'mk 15:32',
 );
@@ -65030,7 +65030,7 @@ $concordance['5204']['N-GSN'][] = array (
 );
 $concordance['5204']['N-GSN'][] = array (
   'word' => 'ὕδατος',
-  'spa' => 'agua',
+  'spa' => 'de agua',
   'morph' => 'N-GSN',
   'ref' => 'mk 9:41',
 );
@@ -67076,7 +67076,7 @@ $concordance['5547']['N-GSM'][] = array (
 );
 $concordance['5547']['N-GSM'][] = array (
   'word' => 'Χριστοῦ',
-  'spa' => 'de el ungido',
+  'spa' => 'del ungido',
   'morph' => 'N-GSM',
   'ref' => 'mk 9:41',
 );

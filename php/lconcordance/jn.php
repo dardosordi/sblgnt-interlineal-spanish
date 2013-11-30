@@ -6470,7 +6470,7 @@ $concordance['759']['NGPN'][] = array (
 );
 $concordance['769']['NDSF'][] = array (
   'word' => 'ἀσθενείᾳ',
-  'spa' => 'enfermedad',
+  'spa' => 'debilidad',
   'morph' => 'NDSF',
   'ref' => 'jn 5:5',
 );
@@ -84944,7 +84944,7 @@ $concordance['4951']['VPAP-PNM'][] = array (
 );
 $concordance['4957']['VAPP-SGM'][] = array (
   'word' => 'συσταυρωθέντος',
-  'spa' => 'que fué juntamente crucificado',
+  'spa' => 'que fué crucificado junto',
   'morph' => 'VAPP-SGM',
   'ref' => 'jn 19:32',
 );

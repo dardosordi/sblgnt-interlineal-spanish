@@ -101336,7 +101336,7 @@ $concordance['4947']['N-ASF'][] = array (
 );
 $concordance['4957']['V-APP-NPM'][] = array (
   'word' => 'συσταυρωθέντες',
-  'spa' => 'habiendo sido crucificados',
+  'spa' => 'que fueron crucificados junto',
   'morph' => 'V-APP-NPM',
   'ref' => 'mt 27:44',
 );
