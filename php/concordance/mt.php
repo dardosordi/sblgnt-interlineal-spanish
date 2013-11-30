@@ -44486,7 +44486,7 @@ $concordance['2425']['A-NSM'][] = array (
 );
 $concordance['2425']['A-APN'][] = array (
   'word' => 'ἱκανὰ',
-  'spa' => 'bastante',
+  'spa' => 'bastantes',
   'morph' => 'A-APN',
   'ref' => 'mt 28:12',
 );
@@ -89900,7 +89900,7 @@ $concordance['3850']['N-ASF'][] = array (
 );
 $concordance['3850']['N-GSF'][] = array (
   'word' => 'παραβολῆς',
-  'spa' => 'de parábolas',
+  'spa' => 'de parábola',
   'morph' => 'N-GSF',
   'ref' => 'mt 13:34',
 );
@@ -94928,7 +94928,7 @@ $concordance['4190']['A-NPM'][] = array (
 );
 $concordance['4190']['A-APN'][] = array (
   'word' => 'πονηρὰ',
-  'spa' => 'mal',
+  'spa' => 'males',
   'morph' => 'A-APN',
   'ref' => 'mt 9:4',
 );

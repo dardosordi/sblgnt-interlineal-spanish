@@ -1868,13 +1868,13 @@ $concordance['227']['JNSF'][] = array (
 );
 $concordance['227']['JNPN'][] = array (
   'word' => 'ἀληθῆ',
-  'spa' => 'veraz',
+  'spa' => 'veraces',
   'morph' => 'JNPN',
   'ref' => 'jn 10:41',
 );
 $concordance['227']['JAPN'][] = array (
   'word' => 'ἀληθῆ',
-  'spa' => 'verazmente',
+  'spa' => 'veraces',
   'morph' => 'JAPN',
   'ref' => 'jn 19:35',
 );
@@ -2984,31 +2984,31 @@ $concordance['266']['NDPF'][] = array (
 );
 $concordance['266']['NGSF'][] = array (
   'word' => 'ἁμαρτίας',
-  'spa' => 'pecados',
+  'spa' => 'pecado',
   'morph' => 'NGSF',
   'ref' => 'jn 8:34',
 );
 $concordance['266']['NGSF'][] = array (
   'word' => 'ἁμαρτίας',
-  'spa' => 'pecados',
+  'spa' => 'pecado',
   'morph' => 'NGSF',
   'ref' => 'jn 8:46',
 );
 $concordance['266']['NGSF'][] = array (
   'word' => 'ἁμαρτίας',
-  'spa' => 'pecados',
+  'spa' => 'pecado',
   'morph' => 'NGSF',
   'ref' => 'jn 15:22',
 );
 $concordance['266']['NGSF'][] = array (
   'word' => 'ἁμαρτίας',
-  'spa' => 'pecados',
+  'spa' => 'pecado',
   'morph' => 'NGSF',
   'ref' => 'jn 16:8',
 );
 $concordance['266']['NGSF'][] = array (
   'word' => 'ἁμαρτίας',
-  'spa' => 'pecados',
+  'spa' => 'pecado',
   'morph' => 'NGSF',
   'ref' => 'jn 16:9',
 );
@@ -16412,7 +16412,7 @@ $concordance['1380']['VPAP-SNF'][] = array (
 );
 $concordance['1388']['NNSM'][] = array (
   'word' => 'δόλος',
-  'spa' => 'engaños',
+  'spa' => 'engaño',
   'morph' => 'NNSM',
   'ref' => 'jn 1:47',
 );
@@ -52748,7 +52748,7 @@ $concordance['3441']['JNSM'][] = array (
 );
 $concordance['3441']['JNPM'][] = array (
   'word' => 'μόνοι',
-  'spa' => 'sólo',
+  'spa' => 'sólos',
   'morph' => 'JNPM',
   'ref' => 'jn 6:22',
 );
@@ -80948,13 +80948,13 @@ $concordance['4186']['JGSF'][] = array (
 );
 $concordance['4190']['JNPN'][] = array (
   'word' => 'πονηρὰ',
-  'spa' => 'mala',
+  'spa' => 'malas',
   'morph' => 'JNPN',
   'ref' => 'jn 3:19',
 );
 $concordance['4190']['JNPN'][] = array (
   'word' => 'πονηρά',
-  'spa' => 'mala',
+  'spa' => 'malas',
   'morph' => 'JNPN',
   'ref' => 'jn 7:7',
 );
@@ -82754,7 +82754,7 @@ $concordance['4475']['NASN'][] = array (
 );
 $concordance['4475']['NAPN'][] = array (
   'word' => 'ῥαπίσματα',
-  'spa' => 'bofetada',
+  'spa' => 'bofetadas',
   'morph' => 'NAPN',
   'ref' => 'jn 19:3',
 );
@@ -83618,7 +83618,7 @@ $concordance['4632']['NNSN'][] = array (
 );
 $concordance['4634']['NNSF'][] = array (
   'word' => 'σκηνοπηγία',
-  'spa' => 'tabernáculos',
+  'spa' => 'tabernáculo',
   'morph' => 'NNSF',
   'ref' => 'jn 7:2',
 );
@@ -87674,7 +87674,7 @@ $concordance['5154']['JASN'][] = array (
 );
 $concordance['5160']['NAPF'][] = array (
   'word' => 'τροφὰς',
-  'spa' => 'alimento',
+  'spa' => 'alimentos',
   'morph' => 'NAPF',
   'ref' => 'jn 4:8',
 );

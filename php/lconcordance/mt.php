@@ -44486,7 +44486,7 @@ $concordance['2425']['JNSM'][] = array (
 );
 $concordance['2425']['JAPN'][] = array (
   'word' => 'ἱκανὰ',
-  'spa' => 'bastante',
+  'spa' => 'bastantes',
   'morph' => 'JAPN',
   'ref' => 'mt 28:12',
 );
@@ -89900,7 +89900,7 @@ $concordance['3850']['NASF'][] = array (
 );
 $concordance['3850']['NGSF'][] = array (
   'word' => 'παραβολῆς',
-  'spa' => 'de parábolas',
+  'spa' => 'de parábola',
   'morph' => 'NGSF',
   'ref' => 'mt 13:34',
 );
@@ -94928,7 +94928,7 @@ $concordance['4190']['JNPM'][] = array (
 );
 $concordance['4190']['JAPN'][] = array (
   'word' => 'πονηρὰ',
-  'spa' => 'mal',
+  'spa' => 'males',
   'morph' => 'JAPN',
   'ref' => 'mt 9:4',
 );

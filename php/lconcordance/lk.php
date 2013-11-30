@@ -32360,7 +32360,7 @@ $concordance['1699']['JAPM'][] = array (
 );
 $concordance['1699']['RS1NPN'][] = array (
   'word' => 'ἐμὰ',
-  'spa' => 'mías',
+  'spa' => 'mío',
   'morph' => 'RS1NPN',
   'ref' => 'lk 15:31',
 );
@@ -43886,7 +43886,7 @@ $concordance['2228']['T'][] = array (
 );
 $concordance['2228']['T'][] = array (
   'word' => 'ἢ',
-  'spa' => 'que',
+  'spa' => 'o',
   'morph' => 'T',
   'ref' => 'lk 10:42',
 );
@@ -66782,7 +66782,7 @@ $concordance['3173']['JNSF'][] = array (
 );
 $concordance['3173']['JDPF'][] = array (
   'word' => 'μεγάλαις',
-  'spa' => 'grande',
+  'spa' => 'grandes',
   'morph' => 'JDPF',
   'ref' => 'lk 23:23',
 );
@@ -70064,7 +70064,7 @@ $concordance['3464']['NDSN'][] = array (
 );
 $concordance['3464']['NAPN'][] = array (
   'word' => 'μύρα',
-  'spa' => 'perfume',
+  'spa' => 'perfumes',
   'morph' => 'NAPN',
   'ref' => 'lk 23:56',
 );
@@ -87542,7 +87542,7 @@ $concordance['3641']['JNPM'][] = array (
 );
 $concordance['3641']['JGPN'][] = array (
   'word' => 'ὀλίγων',
-  'spa' => 'de poco',
+  'spa' => 'de pocas',
   'morph' => 'JGPN',
   'ref' => 'lk 10:42',
 );
@@ -94910,7 +94910,7 @@ $concordance['3850']['NASF'][] = array (
 );
 $concordance['3850']['NGSF'][] = array (
   'word' => 'παραβολῆς',
-  'spa' => 'de parábolas',
+  'spa' => 'de parábola',
   'morph' => 'NGSF',
   'ref' => 'lk 8:4',
 );
@@ -99566,7 +99566,7 @@ $concordance['4160']['VAAP-SNM'][] = array (
 );
 $concordance['4160']['VAAP-SNM'][] = array (
   'word' => 'ποιήσας',
-  'spa' => 'habiendo hecho',
+  'spa' => 'que hizo',
   'morph' => 'VAAP-SNM',
   'ref' => 'lk 11:40',
 );
@@ -100424,7 +100424,7 @@ $concordance['4183']['JGSF'][] = array (
 );
 $concordance['4189']['NGSF'][] = array (
   'word' => 'πονηρίας',
-  'spa' => 'de maldades',
+  'spa' => 'de maldad',
   'morph' => 'NGSF',
   'ref' => 'lk 11:39',
 );
@@ -114884,7 +114884,7 @@ $concordance['5456']['NGSF'][] = array (
 );
 $concordance['5456']['NDPF'][] = array (
   'word' => 'φωναῖς',
-  'spa' => 'por voz',
+  'spa' => 'por voces',
   'morph' => 'NDPF',
   'ref' => 'lk 23:23',
 );

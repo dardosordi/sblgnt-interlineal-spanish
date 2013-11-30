@@ -5876,7 +5876,7 @@ $concordance['537']['A-APN'][] = array (
 );
 $concordance['537']['A-NPN'][] = array (
   'word' => 'πάντα',
-  'spa' => 'todas las cosas',
+  'spa' => 'todo',
   'morph' => 'A-NPN',
   'ref' => 'ac 4:32',
 );
@@ -34394,7 +34394,7 @@ $concordance['2010']['V-API-3S'][] = array (
 );
 $concordance['2011']['N-GSF'][] = array (
   'word' => 'ἐπιτροπῆς',
-  'spa' => 'poderes',
+  'spa' => 'poder',
   'morph' => 'N-GSF',
   'ref' => 'ac 26:12',
 );
@@ -41864,7 +41864,7 @@ $concordance['2347']['N-GSF'][] = array (
 );
 $concordance['2347']['N-NPF'][] = array (
   'word' => 'θλίψεις',
-  'spa' => 'aflicción',
+  'spa' => 'afliccoies',
   'morph' => 'N-NPF',
   'ref' => 'ac 20:23',
 );
@@ -41996,7 +41996,7 @@ $concordance['2374']['N-DSF'][] = array (
 );
 $concordance['2374']['N-APF'][] = array (
   'word' => 'θύρας',
-  'spa' => 'puerta',
+  'spa' => 'puertas',
   'morph' => 'N-APF',
   'ref' => 'ac 5:19',
 );
@@ -54344,7 +54344,7 @@ $concordance['2756']['A-APN'][] = array (
 );
 $concordance['2759']['N-APN'][] = array (
   'word' => 'κέντρα',
-  'spa' => 'aguijón',
+  'spa' => 'aguijones',
   'morph' => 'N-APN',
   'ref' => 'ac 26:14',
 );
@@ -68612,7 +68612,7 @@ $concordance['3588']['T-APN'][] = array (
 );
 $concordance['3588']['T-APN'][] = array (
   'word' => 'τὰ',
-  'spa' => 'la',
+  'spa' => 'las',
   'morph' => 'T-APN',
   'ref' => 'ac 19:19',
 );
@@ -90536,7 +90536,7 @@ $concordance['4016']['V-2AMM-2S'][] = array (
 );
 $concordance['4021']['A-APN'][] = array (
   'word' => 'περίεργα',
-  'spa' => 'magia',
+  'spa' => 'magias',
   'morph' => 'A-APN',
   'ref' => 'ac 19:19',
 );
@@ -96716,7 +96716,7 @@ $concordance['4443']['N-ASF'][] = array (
 );
 $concordance['4446']['N-DPM'][] = array (
   'word' => 'πυρετοῖς',
-  'spa' => 'fiebre',
+  'spa' => 'por fiebre',
   'morph' => 'N-DPM',
   'ref' => 'ac 28:8',
 );
@@ -105308,7 +105308,7 @@ $concordance['5204']['N-GSN'][] = array (
 );
 $concordance['5205']['N-APM'][] = array (
   'word' => 'ὑετοὺς',
-  'spa' => 'lluvia',
+  'spa' => 'lluvias',
   'morph' => 'N-APM',
   'ref' => 'ac 14:17',
 );
@@ -109976,7 +109976,7 @@ $concordance['5610']['N-DSF'][] = array (
 );
 $concordance['5610']['N-APF'][] = array (
   'word' => 'ὥρας',
-  'spa' => 'hora',
+  'spa' => 'horas',
   'morph' => 'N-APF',
   'ref' => 'ac 19:34',
 );

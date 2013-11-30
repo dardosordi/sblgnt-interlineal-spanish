@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="10696" sizex="1290" sizey="54060" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="8478" sizex="1290" sizey="54134" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="11:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \h \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -7847,7 +7847,7 @@
   <S s="δὲ" k="δὲ" t="← y" a="← y"
   f="0000000000000000000001" sn="2332" w="1" ty="1">
   </S>
-  <S s="παραβολῆς" k="παραβολῆς" t="de parábolas" a="de parábolas"
+  <S s="παραβολῆς" k="παραβολῆς" t="de parábola" a="de parábola"
   f="0000000000000000000001" sn="2333" w="1" ty="1">
   </S>
   <S s="οὐκ" k="οὐκ" t="no" a="no"
@@ -14630,7 +14630,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="4361" w="1" ty="1">
   </S>
-  <S s="παρόμοια" k="παρόμοια" t="similar" a="similar"
+  <S s="παρόμοια" k="παρόμοια" t="similares" a="similares"
   f="0000000000000000000001" sn="4362" w="1" ty="1">
   </S>
   <S s="τοιαῦτα" k="τοιαῦτα" t="como estás" a="como estás"
@@ -15052,7 +15052,7 @@
   f="0000000000000000000001" sn="4487" w="1" ty="1"
   fp=",">
   </S>
-  <S s="δόλος," k="δόλος" t="engaños," a="engaños"
+  <S s="δόλος," k="δόλος" t="engaño," a="engaño"
   f="0000000000000000000001" sn="4488" w="1" ty="1"
   fp=",">
   </S>
@@ -15090,7 +15090,7 @@
   <S s="τὰ" k="τὰ" t="las" a="las"
   f="0000000000000000000001" sn="4497" w="1" ty="1">
   </S>
-  <S s="πονηρὰ" k="πονηρὰ" t="mala" a="mala"
+  <S s="πονηρὰ" k="πονηρὰ" t="malas" a="malas"
   f="0000000000000000000001" sn="4498" w="1" ty="1">
   </S>
   <S s="ἔσωθεν" k="ἔσωθεν" t="por dentro" a="por dentro"
@@ -28166,7 +28166,7 @@
   <S s="προφάσει" k="προφάσει" t="con pretexto" a="con pretexto"
   f="0000000000000000000001" sn="8396" w="1" ty="1">
   </S>
-  <S s="μακρὰ" k="μακρὰ" t="largo" a="largo"
+  <S s="μακρὰ" k="μακρὰ" t="largas" a="largas"
   f="0000000000000000000001" sn="8397" w="1" ty="1">
   </S>
   <S s="προσευχόμενοι·" k="προσευχόμενοι" t="orando:" a="orando"
@@ -28478,7 +28478,7 @@
   <S s="ἴδε" k="ἴδε" t="mira" a="mira"
   f="0000000000000000000001" sn="8491" w="1" ty="1">
   </S>
-  <S s="ποταποὶ" k="ποταποὶ" t="que clase de" a="que clase de"
+  <S s="ποταποὶ" k="ποταποὶ" t="que clases de" a="que clases de"
   f="0000000000000000000001" sn="8492" w="1" ty="1">
   </S>
   <S s="λίθοι" k="λίθοι" t="piedras" a="piedras"
@@ -28487,7 +28487,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="8494" w="1" ty="1">
   </S>
-  <S s="ποταπαὶ" k="ποταπαὶ" t="que clase de" a="que clase de"
+  <S s="ποταπαὶ" k="ποταπαὶ" t="que clases de" a="que clases de"
   f="0000000000000000000001" sn="8495" w="1" ty="1">
   </S>
   <S s="οἰκοδομαί." k="οἰκοδομαί" t="edificios." a="edificios"
@@ -29921,7 +29921,7 @@
   f="0000000000000000100001" sn="8924" w="1" ty="1"
   fp="’">
   </S>
-  <S s="ἄκρου" k="ἄκρου" t="extremos" a="extremos"
+  <S s="ἄκρου" k="ἄκρου" t="extremo" a="extremo"
   f="0000000000000000000001" sn="8925" w="1" ty="1">
   </S>
   <S s="γῆς" k="γῆς" t="de la tierra" a="de la tierra"
@@ -29930,7 +29930,7 @@
   <S s="ἕως" k="ἕως" t="hasta" a="hasta"
   f="0000000000000000000001" sn="8927" w="1" ty="1">
   </S>
-  <S s="ἄκρου" k="ἄκρου" t="extremos" a="extremos"
+  <S s="ἄκρου" k="ἄκρου" t="extremo" a="extremo"
   f="0000000000000000000001" sn="8928" w="1" ty="1">
   </S>
   <S s="οὐρανοῦ." k="οὐρανοῦ" t="del cielo." a="del cielo"

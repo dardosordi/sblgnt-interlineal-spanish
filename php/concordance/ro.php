@@ -632,19 +632,19 @@ $concordance['266']['N-ASF'][] = array (
 );
 $concordance['266']['N-GSF'][] = array (
   'word' => 'ἁμαρτίας',
-  'spa' => 'de pecados',
+  'spa' => 'de pecado',
   'morph' => 'N-GSF',
   'ref' => 'ro 3:20',
 );
 $concordance['266']['N-GSF'][] = array (
   'word' => 'ἁμαρτίας',
-  'spa' => 'pecados',
+  'spa' => 'pecado',
   'morph' => 'N-GSF',
   'ref' => 'ro 5:12',
 );
 $concordance['266']['N-GSF'][] = array (
   'word' => 'ἁμαρτίας',
-  'spa' => 'pecados',
+  'spa' => 'pecado',
   'morph' => 'N-GSF',
   'ref' => 'ro 6:6',
 );
@@ -11234,7 +11234,7 @@ $concordance['3588']['T-NPN'][] = array (
 );
 $concordance['3588']['T-NPN'][] = array (
   'word' => 'τὰ',
-  'spa' => 'el',
+  'spa' => 'los',
   'morph' => 'T-NPN',
   'ref' => 'ro 6:23',
 );
@@ -12872,7 +12872,7 @@ $concordance['3788']['N-GPM'][] = array (
 );
 $concordance['3800']['N-NPN'][] = array (
   'word' => 'ὀψώνια',
-  'spa' => 'salario',
+  'spa' => 'salarios',
   'morph' => 'N-NPN',
   'ref' => 'ro 6:23',
 );

@@ -32360,7 +32360,7 @@ $concordance['1699']['S-1APM'][] = array (
 );
 $concordance['1699']['S-1NPN'][] = array (
   'word' => 'ἐμὰ',
-  'spa' => 'mías',
+  'spa' => 'mío',
   'morph' => 'S-1NPN',
   'ref' => 'lk 15:31',
 );
@@ -43754,7 +43754,7 @@ $concordance['2228']['PRT'][] = array (
 );
 $concordance['2228']['PRT'][] = array (
   'word' => 'ἡ',
-  'spa' => 'que',
+  'spa' => 'o',
   'morph' => 'PRT',
   'ref' => 'lk 10:42',
 );
@@ -66782,7 +66782,7 @@ $concordance['3173']['A-NSF'][] = array (
 );
 $concordance['3173']['A-DPF'][] = array (
   'word' => 'μεγάλαις',
-  'spa' => 'grande',
+  'spa' => 'grandes',
   'morph' => 'A-DPF',
   'ref' => 'lk 23:23',
 );
@@ -70064,7 +70064,7 @@ $concordance['3464']['N-DSN'][] = array (
 );
 $concordance['3464']['N-APN'][] = array (
   'word' => 'μύρα',
-  'spa' => 'perfume',
+  'spa' => 'perfumes',
   'morph' => 'N-APN',
   'ref' => 'lk 23:56',
 );
@@ -87542,7 +87542,7 @@ $concordance['3641']['A-NPM'][] = array (
 );
 $concordance['3641']['A-GPN'][] = array (
   'word' => 'ὀλίγων',
-  'spa' => 'de poco',
+  'spa' => 'de pocas',
   'morph' => 'A-GPN',
   'ref' => 'lk 10:42',
 );
@@ -94910,7 +94910,7 @@ $concordance['3850']['N-ASF'][] = array (
 );
 $concordance['3850']['N-GSF'][] = array (
   'word' => 'παραβολῆς',
-  'spa' => 'de parábolas',
+  'spa' => 'de parábola',
   'morph' => 'N-GSF',
   'ref' => 'lk 8:4',
 );
@@ -99566,7 +99566,7 @@ $concordance['4160']['V-AAP-NSM'][] = array (
 );
 $concordance['4160']['V-AAP-NSM'][] = array (
   'word' => 'ποιήσας',
-  'spa' => 'habiendo hecho',
+  'spa' => 'que hizo',
   'morph' => 'V-AAP-NSM',
   'ref' => 'lk 11:40',
 );
@@ -100424,7 +100424,7 @@ $concordance['4183']['A-GSF'][] = array (
 );
 $concordance['4189']['N-GSF'][] = array (
   'word' => 'πονηρίας',
-  'spa' => 'de maldades',
+  'spa' => 'de maldad',
   'morph' => 'N-GSF',
   'ref' => 'lk 11:39',
 );
@@ -114884,7 +114884,7 @@ $concordance['5456']['N-GSF'][] = array (
 );
 $concordance['5456']['N-DPF'][] = array (
   'word' => 'φωναῖς',
-  'spa' => 'por voz',
+  'spa' => 'por voces',
   'morph' => 'N-DPF',
   'ref' => 'lk 23:23',
 );

@@ -5876,7 +5876,7 @@ $concordance['537']['JAPN'][] = array (
 );
 $concordance['537']['JNPN'][] = array (
   'word' => 'πάντα',
-  'spa' => 'todas las cosas',
+  'spa' => 'todo',
   'morph' => 'JNPN',
   'ref' => 'ac 4:32',
 );
@@ -34394,7 +34394,7 @@ $concordance['2010']['VAPI3S'][] = array (
 );
 $concordance['2011']['NGSF'][] = array (
   'word' => 'ἐπιτροπῆς',
-  'spa' => 'poderes',
+  'spa' => 'poder',
   'morph' => 'NGSF',
   'ref' => 'ac 26:12',
 );
@@ -41864,7 +41864,7 @@ $concordance['2347']['NGSF'][] = array (
 );
 $concordance['2347']['NNPF'][] = array (
   'word' => 'θλίψεις',
-  'spa' => 'aflicción',
+  'spa' => 'afliccoies',
   'morph' => 'NNPF',
   'ref' => 'ac 20:23',
 );
@@ -41996,7 +41996,7 @@ $concordance['2374']['NDSF'][] = array (
 );
 $concordance['2374']['NAPF'][] = array (
   'word' => 'θύρας',
-  'spa' => 'puerta',
+  'spa' => 'puertas',
   'morph' => 'NAPF',
   'ref' => 'ac 5:19',
 );
@@ -54344,7 +54344,7 @@ $concordance['2756']['JAPN'][] = array (
 );
 $concordance['2759']['NAPN'][] = array (
   'word' => 'κέντρα',
-  'spa' => 'aguijón',
+  'spa' => 'aguijones',
   'morph' => 'NAPN',
   'ref' => 'ac 26:14',
 );
@@ -68576,7 +68576,7 @@ $concordance['3588']['DAPN'][] = array (
 );
 $concordance['3588']['DAPN'][] = array (
   'word' => 'τὰ',
-  'spa' => 'la',
+  'spa' => 'las',
   'morph' => 'DAPN',
   'ref' => 'ac 19:19',
 );
@@ -90536,7 +90536,7 @@ $concordance['4016']['VAMM2S'][] = array (
 );
 $concordance['4021']['JAPN'][] = array (
   'word' => 'περίεργα',
-  'spa' => 'magia',
+  'spa' => 'magias',
   'morph' => 'JAPN',
   'ref' => 'ac 19:19',
 );
@@ -96716,7 +96716,7 @@ $concordance['4443']['NASF'][] = array (
 );
 $concordance['4446']['NDPM'][] = array (
   'word' => 'πυρετοῖς',
-  'spa' => 'fiebre',
+  'spa' => 'por fiebre',
   'morph' => 'NDPM',
   'ref' => 'ac 28:8',
 );
@@ -105308,7 +105308,7 @@ $concordance['5204']['NGSN'][] = array (
 );
 $concordance['5205']['NAPM'][] = array (
   'word' => 'ὑετοὺς',
-  'spa' => 'lluvia',
+  'spa' => 'lluvias',
   'morph' => 'NAPM',
   'ref' => 'ac 14:17',
 );
@@ -109976,7 +109976,7 @@ $concordance['5610']['NDSF'][] = array (
 );
 $concordance['5610']['NAPF'][] = array (
   'word' => 'ὥρας',
-  'spa' => 'hora',
+  'spa' => 'horas',
   'morph' => 'NAPF',
   'ref' => 'ac 19:34',
 );

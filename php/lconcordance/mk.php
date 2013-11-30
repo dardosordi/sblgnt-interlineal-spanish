@@ -1268,13 +1268,13 @@ $concordance['200']['NAPF'][] = array (
 );
 $concordance['206']['NGSN'][] = array (
   'word' => 'ἄκρου',
-  'spa' => 'extremos',
+  'spa' => 'extremo',
   'morph' => 'NGSN',
   'ref' => 'mk 13:27',
 );
 $concordance['206']['NGSN'][] = array (
   'word' => 'ἄκρου',
-  'spa' => 'extremos',
+  'spa' => 'extremo',
   'morph' => 'NGSN',
   'ref' => 'mk 13:27',
 );
@@ -14762,7 +14762,7 @@ $concordance['1380']['VPAP-PNM'][] = array (
 );
 $concordance['1388']['NNSM'][] = array (
   'word' => 'δόλος',
-  'spa' => 'engaños',
+  'spa' => 'engaño',
   'morph' => 'NNSM',
   'ref' => 'mk 7:22',
 );
@@ -40082,7 +40082,7 @@ $concordance['3113']['B'][] = array (
 );
 $concordance['3117']['JAPN'][] = array (
   'word' => 'μακρὰ',
-  'spa' => 'largo',
+  'spa' => 'largas',
   'morph' => 'JAPN',
   'ref' => 'mk 12:40',
 );
@@ -56534,7 +56534,7 @@ $concordance['3850']['NDSF'][] = array (
 );
 $concordance['3850']['NGSF'][] = array (
   'word' => 'παραβολῆς',
-  'spa' => 'de parábolas',
+  'spa' => 'de parábola',
   'morph' => 'NGSF',
   'ref' => 'mk 4:34',
 );
@@ -57020,7 +57020,7 @@ $concordance['3936']['VRAP-SNM'][] = array (
 );
 $concordance['3946']['JAPN'][] = array (
   'word' => 'παρόμοια',
-  'spa' => 'similar',
+  'spa' => 'similares',
   'morph' => 'JAPN',
   'ref' => 'mk 7:13',
 );
@@ -59762,7 +59762,7 @@ $concordance['4190']['JNSM'][] = array (
 );
 $concordance['4190']['JNPN'][] = array (
   'word' => 'πονηρὰ',
-  'spa' => 'mala',
+  'spa' => 'malas',
   'morph' => 'JNPN',
   'ref' => 'mk 7:23',
 );
@@ -59852,13 +59852,13 @@ $concordance['4215']['NDSM'][] = array (
 );
 $concordance['4217']['JNPM'][] = array (
   'word' => 'ποταποὶ',
-  'spa' => 'que clase de',
+  'spa' => 'que clases de',
   'morph' => 'JNPM',
   'ref' => 'mk 13:1',
 );
 $concordance['4217']['JNPF'][] = array (
   'word' => 'ποταπαὶ',
-  'spa' => 'que clase de',
+  'spa' => 'que clases de',
   'morph' => 'JNPF',
   'ref' => 'mk 13:1',
 );
