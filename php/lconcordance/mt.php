@@ -26444,7 +26444,7 @@ $concordance['1492']['VRAI1S'][] = array (
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'mt 26:70',
 );
@@ -26462,7 +26462,7 @@ $concordance['1492']['VRAI1S'][] = array (
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'mt 28:5',
 );

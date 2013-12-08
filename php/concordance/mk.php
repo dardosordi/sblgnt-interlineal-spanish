@@ -16298,7 +16298,7 @@ $concordance['1492']['V-RAI-1S'][] = array (
 );
 $concordance['1492']['V-RAI-1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'V-RAI-1S',
   'ref' => 'mk 14:68',
 );

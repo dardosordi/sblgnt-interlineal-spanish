@@ -24788,31 +24788,31 @@ $concordance['1492']['VAAP-SNM'][] = array (
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'ac 3:17',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'ac 12:11',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'ac 20:25',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'ac 20:29',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'ac 26:27',
 );
@@ -35708,7 +35708,7 @@ $concordance['2070']['VPAI1P'][] = array (
 );
 $concordance['2070']['VPAI1P'][] = array (
   'word' => 'ἐσμεν',
-  'spa' => 'somos',
+  'spa' => 'estamos',
   'morph' => 'VPAI1P',
   'ref' => 'ac 16:28',
 );

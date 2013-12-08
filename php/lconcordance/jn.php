@@ -19562,7 +19562,7 @@ $concordance['1492']['VLAI2S'][] = array (
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'Οἶδα',
-  'spa' => 'Se',
+  'spa' => 'Sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 4:25',
 );
@@ -19610,49 +19610,49 @@ $concordance['1492']['VRAI1S'][] = array (
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 9:12',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 9:25',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 9:25',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 11:22',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'Οἶδα',
-  'spa' => 'Se',
+  'spa' => 'Sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 11:24',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 12:50',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 13:18',
 );
 $concordance['1492']['VRAI1S'][] = array (
   'word' => 'οἶδα',
-  'spa' => 'se',
+  'spa' => 'sé',
   'morph' => 'VRAI1S',
   'ref' => 'jn 20:13',
 );
