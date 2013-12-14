@@ -15691,9 +15691,8 @@
       <RS n="1" a="esta colgada" df="1"
       cDT="2013-12-14T19:46:31Z" wC="dardo:sophie"
       dDT="2013-12-14T19:47:41Z"/>
-      <RS n="1" a="está colgada" df="1"
-      cDT="2013-12-14T19:47:50Z" wC="dardo:sophie"
-      dDT="2013-12-14T19:47:51Z"/>
+      <RS n="1" a="está colgada" df="0"
+      cDT="2013-12-14T19:55:03Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κρίμα">
       <RS n="8" a="jucio" df="0"
@@ -17821,8 +17820,8 @@
       <RS n="1" a="que esta apunto de" df="1"
       cDT="2013-12-14T19:46:08Z" wC="dardo:sophie"
       dDT="2013-12-14T19:49:56Z"/>
-      <RS n="1" a="que está apunto de" df="0"
-      cDT="2013-12-14T19:50:11Z" wC="dardo:sophie"/>
+      <RS n="2" a="que está apunto de" df="0"
+      cDT="2013-12-14T19:59:20Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="μέλλουσιν">
       <RS n="2" a="están a punto de" df="0"
@@ -20113,6 +20112,8 @@
     <TU f="0" k="νόσοις">
       <RS n="2" a="enfermedades" df="0"
       cDT="2013-12-14T19:46:24Z" wC="dardo:sophie"/>
+      <RS n="2" a="por enfermedades" df="0"
+      cDT="2013-12-14T19:57:42Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="νόσον">
       <RS n="3" a="enfermedad" df="0"
@@ -38895,9 +38896,8 @@
       cDT="2013-12-14T19:46:20Z" wC="dardo:sophie"/>
       <RS n="1" a="a los que están debilitados" df="0"
       cDT="2013-12-14T19:46:29Z" wC="dardo:sophie"/>
-      <RS n="1" a="que están debilitados" df="1"
-      cDT="2013-12-14T19:48:07Z" wC="dardo:sophie"
-      dDT="2013-12-14T19:49:18Z"/>
+      <RS n="1" a="que están debilitados" df="0"
+      cDT="2013-12-14T19:58:54Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀσθενοῦς">
       <RS n="1" a="enfermo" df="0"
@@ -44491,9 +44491,8 @@
       <RS n="1" a="esta fuera de sí" df="1"
       cDT="2013-12-14T19:46:25Z" wC="dardo:sophie"
       dDT="2013-12-14T19:48:12Z"/>
-      <RS n="1" a="está fuera de sí" df="1"
-      cDT="2013-12-14T19:48:17Z" wC="dardo:sophie"
-      dDT="2013-12-14T19:48:18Z"/>
+      <RS n="2" a="está fuera de sí" df="0"
+      cDT="2013-12-14T19:55:37Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἐξέστησαν">
       <RS n="4" a="quedaron atónitos" df="0"
@@ -54968,7 +54967,7 @@
       <RS n="2" a="estando" df="0"
       cDT="2013-12-14T19:46:22Z" wC="dardo:sophie"/>
       <RS n="1" a="que está" df="0"
-      cDT="2013-12-14T19:48:52Z" wC="dardo:sophie"/>
+      cDT="2013-12-14T19:58:30Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ὤμοσεν">
       <RS n="3" a="juró" df="0"
