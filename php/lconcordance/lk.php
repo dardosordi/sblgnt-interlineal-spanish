@@ -8144,7 +8144,7 @@ $concordance['769']['NGSF'][] = array (
 );
 $concordance['770']['VPAP-PAM'][] = array (
   'word' => 'ἀσθενοῦντας',
-  'spa' => 'que estan enfermos',
+  'spa' => 'estando debilitados',
   'morph' => 'VPAP-PAM',
   'ref' => 'lk 4:40',
 );
@@ -15026,7 +15026,7 @@ $concordance['863']['VAAP-PNM'][] = array (
 );
 $concordance['863']['VRPI3P'][] = array (
   'word' => 'ἀφέωνταί',
-  'spa' => 'estan perdonados',
+  'spa' => 'están perdonados',
   'morph' => 'VRPI3P',
   'ref' => 'lk 5:20',
 );
@@ -40772,7 +40772,7 @@ $concordance['2075']['VPAI2P'][] = array (
 );
 $concordance['2075']['VPAI2P'][] = array (
   'word' => 'ἐστέ',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'VPAI2P',
   'ref' => 'lk 24:38',
 );
@@ -61286,7 +61286,7 @@ $concordance['2798']['NDPM'][] = array (
 );
 $concordance['2799']['VPAP-PVM'][] = array (
   'word' => 'κλαίοντες',
-  'spa' => 'que estan llorando',
+  'spa' => 'que están llorando',
   'morph' => 'VPAP-PVM',
   'ref' => 'lk 6:21',
 );
@@ -70628,7 +70628,7 @@ $concordance['3551']['NNSM'][] = array (
 );
 $concordance['3554']['NDPF'][] = array (
   'word' => 'νόσοις',
-  'spa' => 'enfermedades',
+  'spa' => 'por enfermedades',
   'morph' => 'NDPF',
   'ref' => 'lk 4:40',
 );
@@ -111056,7 +111056,7 @@ $concordance['5195']['VFPI3S'][] = array (
 );
 $concordance['5198']['VPAP-PNM'][] = array (
   'word' => 'ὑγιαίνοντες',
-  'spa' => 'que estan sanos',
+  'spa' => 'que están sanos',
   'morph' => 'VPAP-PNM',
   'ref' => 'lk 5:31',
 );
@@ -113564,7 +113564,7 @@ $concordance['5291']['VIAI3P'][] = array (
 );
 $concordance['5293']['VPPP-SNM'][] = array (
   'word' => 'ὑποτασσόμενος',
-  'spa' => 'siendo sumiso',
+  'spa' => 'sometido',
   'morph' => 'VPPP-SNM',
   'ref' => 'lk 2:51',
 );

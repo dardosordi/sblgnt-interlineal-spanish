@@ -1298,7 +1298,7 @@ $concordance['211']['NASF'][] = array (
 );
 $concordance['214']['VPAP-PAM'][] = array (
   'word' => 'ἀλαλάζοντας',
-  'spa' => 'los que estan gimiendo',
+  'spa' => 'los que están gimiendo',
   'morph' => 'VPAP-PAM',
   'ref' => 'mk 5:38',
 );
@@ -5018,7 +5018,7 @@ $concordance['766']['NNSF'][] = array (
 );
 $concordance['770']['VPAP-PAM'][] = array (
   'word' => 'ἀσθενοῦντας',
-  'spa' => 'que estan enfermos',
+  'spa' => 'que están debilitados',
   'morph' => 'VPAP-PAM',
   'ref' => 'mk 6:56',
 );
@@ -18272,7 +18272,7 @@ $concordance['1526']['VPAI3P'][] = array (
 );
 $concordance['1526']['VPAI3P'][] = array (
   'word' => 'εἰσὶν',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'VPAI3P',
   'ref' => 'mk 6:3',
 );
@@ -21014,7 +21014,7 @@ $concordance['1839']['VPMN'][] = array (
 );
 $concordance['1839']['VAAI3S'][] = array (
   'word' => 'ἐξέστη',
-  'spa' => 'esta fuera de sí',
+  'spa' => 'está fuera de sí',
   'morph' => 'VAAI3S',
   'ref' => 'mk 3:21',
 );
@@ -28808,7 +28808,7 @@ $concordance['2479']['NGSF'][] = array (
 );
 $concordance['2480']['VPAP-PNM'][] = array (
   'word' => 'ἰσχύοντες',
-  'spa' => 'que estan fuertes',
+  'spa' => 'que están fuertes',
   'morph' => 'VPAP-PNM',
   'ref' => 'mk 2:17',
 );
@@ -36956,7 +36956,7 @@ $concordance['2798']['NNSM'][] = array (
 );
 $concordance['2799']['VPAP-PAM'][] = array (
   'word' => 'κλαίοντας',
-  'spa' => 'los que estan llorando',
+  'spa' => 'los que están llorando',
   'morph' => 'VPAP-PAM',
   'ref' => 'mk 5:38',
 );

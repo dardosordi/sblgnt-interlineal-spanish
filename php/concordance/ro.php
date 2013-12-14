@@ -1,5 +1,11 @@
 <?php
 
+$concordance['5']['N-PRI'][] = array (
+  'word' => 'ἀββα',
+  'spa' => 'Abba',
+  'morph' => 'N-PRI',
+  'ref' => 'ro 8:15',
+);
 $concordance['11']['N-PRI'][] = array (
   'word' => 'Ἀβραὰμ',
   'spa' => 'Abraham',
@@ -72,6 +78,12 @@ $concordance['18']['A-ASN'][] = array (
   'morph' => 'A-ASN',
   'ref' => 'ro 7:19',
 );
+$concordance['18']['A-ASN'][] = array (
+  'word' => 'ἀγαθόν',
+  'spa' => 'bien',
+  'morph' => 'A-ASN',
+  'ref' => 'ro 8:28',
+);
 $concordance['18']['A-NPN'][] = array (
   'word' => 'ἀγαθά',
   'spa' => 'buenas',
@@ -96,6 +108,18 @@ $concordance['18']['A-NSN'][] = array (
   'morph' => 'A-NSN',
   'ref' => 'ro 7:13',
 );
+$concordance['25']['V-PAP-DPM'][] = array (
+  'word' => 'ἀγαπῶσιν',
+  'spa' => 'que aman',
+  'morph' => 'V-PAP-DPM',
+  'ref' => 'ro 8:28',
+);
+$concordance['25']['V-AAP-GSM'][] = array (
+  'word' => 'ἀγαπήσαντος',
+  'spa' => 'que amó',
+  'morph' => 'V-AAP-GSM',
+  'ref' => 'ro 8:37',
+);
 $concordance['26']['N-NSF'][] = array (
   'word' => 'ἀγάπη',
   'spa' => 'amor',
@@ -108,11 +132,29 @@ $concordance['26']['N-ASF'][] = array (
   'morph' => 'N-ASF',
   'ref' => 'ro 5:8',
 );
+$concordance['26']['N-GSF'][] = array (
+  'word' => 'ἀγάπης',
+  'spa' => 'amor',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:35',
+);
+$concordance['26']['N-GSF'][] = array (
+  'word' => 'ἀγάπης',
+  'spa' => 'amor',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:39',
+);
 $concordance['27']['A-DPM'][] = array (
   'word' => 'ἀγαπητοῖς',
   'spa' => 'amados',
   'morph' => 'A-DPM',
   'ref' => 'ro 1:7',
+);
+$concordance['32']['N-NPM'][] = array (
+  'word' => 'ἄγγελοι',
+  'spa' => 'mensajeros',
+  'morph' => 'N-NPM',
+  'ref' => 'ro 8:38',
 );
 $concordance['38']['N-ASM'][] = array (
   'word' => 'ἁγιασμόν',
@@ -156,6 +198,12 @@ $concordance['40']['A-NSF'][] = array (
   'morph' => 'A-NSF',
   'ref' => 'ro 7:12',
 );
+$concordance['40']['A-GPM'][] = array (
+  'word' => 'ἁγίων',
+  'spa' => 'santos',
+  'morph' => 'A-GPM',
+  'ref' => 'ro 8:27',
+);
 $concordance['42']['N-GSF'][] = array (
   'word' => 'ἁγιωσύνης',
   'spa' => 'de Santidad',
@@ -192,6 +240,12 @@ $concordance['71']['V-PAI-3S'][] = array (
   'morph' => 'V-PAI-3S',
   'ref' => 'ro 2:4',
 );
+$concordance['71']['V-PPI-3P'][] = array (
+  'word' => 'ἄγονται',
+  'spa' => 'son llevados',
+  'morph' => 'V-PPI-3P',
+  'ref' => 'ro 8:14',
+);
 $concordance['76']['N-PRI'][] = array (
   'word' => 'Ἀδὰμ',
   'spa' => 'Adam',
@@ -221,6 +275,18 @@ $concordance['80']['N-VPM'][] = array (
   'spa' => 'hermanos',
   'morph' => 'N-VPM',
   'ref' => 'ro 7:4',
+);
+$concordance['80']['N-VPM'][] = array (
+  'word' => 'ἀδελφοί',
+  'spa' => 'hermanos',
+  'morph' => 'N-VPM',
+  'ref' => 'ro 8:12',
+);
+$concordance['80']['N-DPM'][] = array (
+  'word' => 'ἀδελφοῖς',
+  'spa' => 'hermanos',
+  'morph' => 'N-DPM',
+  'ref' => 'ro 8:29',
 );
 $concordance['89']['ADV'][] = array (
   'word' => 'ἀδιαλείπτως',
@@ -275,6 +341,12 @@ $concordance['96']['A-ASM'][] = array (
   'spa' => 'reprobada',
   'morph' => 'A-ASM',
   'ref' => 'ro 1:28',
+);
+$concordance['102']['A-NSN'][] = array (
+  'word' => 'ἀδύνατον',
+  'spa' => 'imposible',
+  'morph' => 'A-NSN',
+  'ref' => 'ro 8:3',
 );
 $concordance['126']['A-NSM'][] = array (
   'word' => 'αἴδιος',
@@ -426,6 +498,12 @@ $concordance['213']['N-APM'][] = array (
   'morph' => 'N-APM',
   'ref' => 'ro 1:30',
 );
+$concordance['215']['A-DPM'][] = array (
+  'word' => 'ἀλαλήτοις',
+  'spa' => 'indecibles',
+  'morph' => 'A-DPM',
+  'ref' => 'ro 8:26',
+);
 $concordance['225']['N-ASF'][] = array (
   'word' => 'ἀλήθειαν',
   'spa' => 'verdad',
@@ -443,6 +521,12 @@ $concordance['225']['N-ASF'][] = array (
   'spa' => 'verdad',
   'morph' => 'N-ASF',
   'ref' => 'ro 2:2',
+);
+$concordance['225']['N-ASF'][] = array (
+  'word' => 'Ἀλήθειαν',
+  'spa' => '-',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 9:1',
 );
 $concordance['225']['N-DSF'][] = array (
   'word' => 'ἀληθείᾳ',
@@ -642,6 +726,54 @@ $concordance['235']['CONJ'][] = array (
   'morph' => 'CONJ',
   'ref' => 'ro 7:20',
 );
+$concordance['235']['CONJ'][] = array (
+  'word' => 'ἀλλὰ',
+  'spa' => 'sinó que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:4',
+);
+$concordance['235']['CONJ'][] = array (
+  'word' => 'ἀλλὰ',
+  'spa' => 'sinó que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:9',
+);
+$concordance['235']['CONJ'][] = array (
+  'word' => 'ἀλλὰ',
+  'spa' => 'sinó que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:15',
+);
+$concordance['235']['CONJ'][] = array (
+  'word' => 'ἀλλὰ',
+  'spa' => 'sinó',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:20',
+);
+$concordance['235']['CONJ'][] = array (
+  'word' => 'ἀλλὰ',
+  'spa' => 'sinó que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:23',
+);
+$concordance['235']['CONJ'][] = array (
+  'word' => 'ἀλλὰ',
+  'spa' => 'pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:26',
+);
+$concordance['235']['CONJ'][] = array (
+  'word' => 'ἀλλὰ',
+  'spa' => 'sinó que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:32',
+);
+$concordance['235']['CONJ'][] = array (
+  'word' => 'ἀλλ’',
+  'spa' => 'pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:37',
+);
 $concordance['236']['V-AAI-3P'][] = array (
   'word' => 'ἤλλαξαν',
   'spa' => 'cambiaron',
@@ -744,6 +876,18 @@ $concordance['266']['N-ASF'][] = array (
   'morph' => 'N-ASF',
   'ref' => 'ro 7:14',
 );
+$concordance['266']['N-ASF'][] = array (
+  'word' => 'ἁμαρτίαν',
+  'spa' => 'pecado',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:3',
+);
+$concordance['266']['N-ASF'][] = array (
+  'word' => 'ἁμαρτίαν',
+  'spa' => 'pecado',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:10',
+);
 $concordance['266']['N-GSF'][] = array (
   'word' => 'ἁμαρτίας',
   'spa' => 'de pecado',
@@ -815,6 +959,24 @@ $concordance['266']['N-GSF'][] = array (
   'spa' => 'de pecado',
   'morph' => 'N-GSF',
   'ref' => 'ro 7:25',
+);
+$concordance['266']['N-GSF'][] = array (
+  'word' => 'ἁμαρτίας',
+  'spa' => 'pecado',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:2',
+);
+$concordance['266']['N-GSF'][] = array (
+  'word' => 'ἁμαρτίας',
+  'spa' => 'de pecado',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:3',
+);
+$concordance['266']['N-GSF'][] = array (
+  'word' => 'ἁμαρτίας',
+  'spa' => 'pecado',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:3',
 );
 $concordance['266']['N-NPF'][] = array (
   'word' => 'ἁμαρτίαι',
@@ -1296,11 +1458,23 @@ $concordance['514']['A-NPM'][] = array (
   'morph' => 'A-NPM',
   'ref' => 'ro 1:32',
 );
+$concordance['514']['A-NPN'][] = array (
+  'word' => 'ἄξια',
+  'spa' => 'dignas',
+  'morph' => 'A-NPN',
+  'ref' => 'ro 8:18',
+);
 $concordance['517']['A-NPN'][] = array (
   'word' => 'ἀόρατα',
   'spa' => 'invisibles',
   'morph' => 'A-NPN',
   'ref' => 'ro 1:20',
+);
+$concordance['536']['N-ASF'][] = array (
+  'word' => 'ἀπαρχὴν',
+  'spa' => 'primer fruto',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:23',
 );
 $concordance['544']['V-PAP-DPM'][] = array (
   'word' => 'ἀπειθοῦσι',
@@ -1313,6 +1487,24 @@ $concordance['545']['A-APM'][] = array (
   'spa' => 'desobedientes',
   'morph' => 'A-APM',
   'ref' => 'ro 1:30',
+);
+$concordance['553']['V-PMI-3S'][] = array (
+  'word' => 'ἀπεκδέχεται',
+  'spa' => 'aguarda ansiosamente',
+  'morph' => 'V-PMI-3S',
+  'ref' => 'ro 8:19',
+);
+$concordance['553']['V-PMP-NPM'][] = array (
+  'word' => 'ἀπεκδεχόμενοι',
+  'spa' => 'aguardando ansiosamente',
+  'morph' => 'V-PMP-NPM',
+  'ref' => 'ro 8:23',
+);
+$concordance['553']['V-PMI-1P'][] = array (
+  'word' => 'ἀπεκδεχόμεθα',
+  'spa' => 'aguardamos ansiosamente',
+  'morph' => 'V-PMI-1P',
+  'ref' => 'ro 8:25',
 );
 $concordance['561']['ADV'][] = array (
   'word' => 'ἀπέναντι',
@@ -1404,6 +1596,30 @@ $concordance['575']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 7:6',
 );
+$concordance['575']['PREP'][] = array (
+  'word' => 'ἀπὸ',
+  'spa' => 'de',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:2',
+);
+$concordance['575']['PREP'][] = array (
+  'word' => 'ἀπὸ',
+  'spa' => 'de',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:21',
+);
+$concordance['575']['PREP'][] = array (
+  'word' => 'ἀπὸ',
+  'spa' => 'de',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:35',
+);
+$concordance['575']['PREP'][] = array (
+  'word' => 'ἀπὸ',
+  'spa' => 'de',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:39',
+);
 $concordance['591']['V-FAI-3S'][] = array (
   'word' => 'ἀποδώσει',
   'spa' => 'recompensará',
@@ -1470,6 +1686,12 @@ $concordance['599']['V-2AAP-NSM'][] = array (
   'morph' => 'V-2AAP-NSM',
   'ref' => 'ro 6:7',
 );
+$concordance['599']['V-2AAP-NSM'][] = array (
+  'word' => 'ἀποθανών',
+  'spa' => 'que murió',
+  'morph' => 'V-2AAP-NSM',
+  'ref' => 'ro 8:34',
+);
 $concordance['599']['V-PAI-3S'][] = array (
   'word' => 'ἀποθνῄσκει',
   'spa' => 'muere',
@@ -1500,6 +1722,12 @@ $concordance['599']['V-2AAI-1S'][] = array (
   'morph' => 'V-2AAI-1S',
   'ref' => 'ro 7:10',
 );
+$concordance['599']['V-PAN'][] = array (
+  'word' => 'ἀποθνῄσκειν',
+  'spa' => 'morir',
+  'morph' => 'V-PAN',
+  'ref' => 'ro 8:13',
+);
 $concordance['601']['V-PPI-3S'][] = array (
   'word' => 'ἀποκαλύπτεται',
   'spa' => 'es revelada',
@@ -1512,11 +1740,29 @@ $concordance['601']['V-PPI-3S'][] = array (
   'morph' => 'V-PPI-3S',
   'ref' => 'ro 1:18',
 );
+$concordance['601']['V-APN'][] = array (
+  'word' => 'ἀποκαλυφθῆναι',
+  'spa' => 'ser revelada',
+  'morph' => 'V-APN',
+  'ref' => 'ro 8:18',
+);
 $concordance['602']['N-GSF'][] = array (
   'word' => 'ἀποκαλύψεως',
   'spa' => 'de revelación',
   'morph' => 'N-GSF',
   'ref' => 'ro 2:5',
+);
+$concordance['602']['N-ASF'][] = array (
+  'word' => 'ἀποκάλυψιν',
+  'spa' => 'revelación',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:19',
+);
+$concordance['603']['N-NSF'][] = array (
+  'word' => 'ἀποκαραδοκία',
+  'spa' => 'anhelo profundo',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:19',
 );
 $concordance['615']['V-AAI-3S'][] = array (
   'word' => 'ἀπέκτεινεν',
@@ -1547,6 +1793,12 @@ $concordance['629']['N-GSF'][] = array (
   'spa' => 'redención',
   'morph' => 'N-GSF',
   'ref' => 'ro 3:24',
+);
+$concordance['629']['N-ASF'][] = array (
+  'word' => 'ἀπολύτρωσιν',
+  'spa' => 'redención',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:23',
 );
 $concordance['651']['N-ASF'][] = array (
   'word' => 'ἀποστολὴν',
@@ -1590,6 +1842,24 @@ $concordance['686']['PRT'][] = array (
   'morph' => 'PRT',
   'ref' => 'ro 7:25',
 );
+$concordance['686']['PRT'][] = array (
+  'word' => 'ἄρα',
+  'spa' => 'por lo tanto',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:1',
+);
+$concordance['686']['PRT'][] = array (
+  'word' => 'Ἄρα',
+  'spa' => 'Por lo tanto',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:12',
+);
+$concordance['700']['V-AAN'][] = array (
+  'word' => 'ἀρέσαι',
+  'spa' => 'agradar',
+  'morph' => 'V-AAN',
+  'ref' => 'ro 8:8',
+);
 $concordance['730']['N-NPM'][] = array (
   'word' => 'ἄρσενες',
   'spa' => 'varones',
@@ -1607,6 +1877,12 @@ $concordance['730']['N-DPM'][] = array (
   'spa' => 'varones',
   'morph' => 'N-DPM',
   'ref' => 'ro 1:27',
+);
+$concordance['746']['N-NPF'][] = array (
+  'word' => 'ἀρχαὶ',
+  'spa' => 'principales',
+  'morph' => 'N-NPF',
+  'ref' => 'ro 8:38',
 );
 $concordance['763']['N-ASF'][] = array (
   'word' => 'ἀσέβειαν',
@@ -1632,11 +1908,23 @@ $concordance['769']['N-ASF'][] = array (
   'morph' => 'N-ASF',
   'ref' => 'ro 6:19',
 );
+$concordance['769']['N-DSF'][] = array (
+  'word' => 'ἀσθενείᾳ',
+  'spa' => 'debilidad',
+  'morph' => 'N-DSF',
+  'ref' => 'ro 8:26',
+);
 $concordance['770']['V-AAP-NSM'][] = array (
   'word' => 'ἀσθενήσας',
-  'spa' => 'estando enfermo',
+  'spa' => 'estando debilitado',
   'morph' => 'V-AAP-NSM',
   'ref' => 'ro 4:19',
+);
+$concordance['770']['V-IAI-3S'][] = array (
+  'word' => 'ἠσθένει',
+  'spa' => 'era débil',
+  'morph' => 'V-IAI-3S',
+  'ref' => 'ro 8:3',
 );
 $concordance['772']['A-GPM'][] = array (
   'word' => 'ἀσθενῶν',
@@ -1842,6 +2130,24 @@ $concordance['846']['P-GSM'][] = array (
   'morph' => 'P-GSM',
   'ref' => 'ro 6:9',
 );
+$concordance['846']['P-GSM'][] = array (
+  'word' => 'αὐτοῦ',
+  'spa' => 'de él',
+  'morph' => 'P-GSM',
+  'ref' => 'ro 8:9',
+);
+$concordance['846']['P-GSM'][] = array (
+  'word' => 'αὐτοῦ',
+  'spa' => 'de él',
+  'morph' => 'P-GSM',
+  'ref' => 'ro 8:11',
+);
+$concordance['846']['P-GSM'][] = array (
+  'word' => 'αὐτοῦ',
+  'spa' => 'de él',
+  'morph' => 'P-GSM',
+  'ref' => 'ro 8:29',
+);
 $concordance['846']['P-DSN'][] = array (
   'word' => 'αὐτῷ',
   'spa' => 'él',
@@ -2040,6 +2346,18 @@ $concordance['846']['P-ASM'][] = array (
   'morph' => 'P-ASM',
   'ref' => 'ro 4:23',
 );
+$concordance['846']['P-ASM'][] = array (
+  'word' => 'αὐτὸν',
+  'spa' => 'él',
+  'morph' => 'P-ASM',
+  'ref' => 'ro 8:29',
+);
+$concordance['846']['P-ASM'][] = array (
+  'word' => 'αὐτόν',
+  'spa' => 'a él',
+  'morph' => 'P-ASM',
+  'ref' => 'ro 8:32',
+);
 $concordance['846']['P-DSM'][] = array (
   'word' => 'αὐτῷ',
   'spa' => 'a él',
@@ -2069,6 +2387,12 @@ $concordance['846']['P-DSM'][] = array (
   'spa' => 'con él',
   'morph' => 'P-DSM',
   'ref' => 'ro 6:8',
+);
+$concordance['846']['P-DSM'][] = array (
+  'word' => 'αὐτῷ',
+  'spa' => 'él',
+  'morph' => 'P-DSM',
+  'ref' => 'ro 8:32',
 );
 $concordance['846']['P-DSF'][] = array (
   'word' => 'αὐτῇ',
@@ -2111,6 +2435,36 @@ $concordance['846']['P-NSM'][] = array (
   'spa' => 'yo mismo',
   'morph' => 'P-NSM',
   'ref' => 'ro 7:25',
+);
+$concordance['846']['P-NSN'][] = array (
+  'word' => 'αὐτὸ',
+  'spa' => 'él mismo',
+  'morph' => 'P-NSN',
+  'ref' => 'ro 8:16',
+);
+$concordance['846']['P-NSN'][] = array (
+  'word' => 'αὐτὸ',
+  'spa' => 'él mismo',
+  'morph' => 'P-NSN',
+  'ref' => 'ro 8:26',
+);
+$concordance['846']['P-NSF'][] = array (
+  'word' => 'αὐτὴ',
+  'spa' => 'ella misma',
+  'morph' => 'P-NSF',
+  'ref' => 'ro 8:21',
+);
+$concordance['846']['P-NPM'][] = array (
+  'word' => 'αὐτοὶ',
+  'spa' => 'nosotros mismos',
+  'morph' => 'P-NPM',
+  'ref' => 'ro 8:23',
+);
+$concordance['846']['P-NPM'][] = array (
+  'word' => 'αὐτοὶ',
+  'spa' => 'nosotros mismos',
+  'morph' => 'P-NPM',
+  'ref' => 'ro 8:23',
 );
 $concordance['861']['N-ASF'][] = array (
   'word' => 'ἀφθαρσίαν',
@@ -2177,6 +2531,18 @@ $concordance['891']['PREP'][] = array (
   'spa' => 'hasta',
   'morph' => 'PREP',
   'ref' => 'ro 5:13',
+);
+$concordance['891']['PREP'][] = array (
+  'word' => 'ἄχρι',
+  'spa' => 'hasta',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:22',
+);
+$concordance['899']['N-NSN'][] = array (
+  'word' => 'βάθος',
+  'spa' => 'profundidad',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:39',
 );
 $concordance['907']['V-API-1P'][] = array (
   'word' => 'ἐβαπτίσθημεν',
@@ -2267,6 +2633,24 @@ $concordance['991']['V-PAI-1S'][] = array (
   'spa' => 'veo',
   'morph' => 'V-PAI-1S',
   'ref' => 'ro 7:23',
+);
+$concordance['991']['V-PPP-NSF'][] = array (
+  'word' => 'βλεπομένη',
+  'spa' => 'que se ve',
+  'morph' => 'V-PPP-NSF',
+  'ref' => 'ro 8:24',
+);
+$concordance['991']['V-PAI-3S'][] = array (
+  'word' => 'βλέπει',
+  'spa' => 've',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:24',
+);
+$concordance['991']['V-PAI-1P'][] = array (
+  'word' => 'βλέπομεν',
+  'spa' => 'vemos',
+  'morph' => 'V-PAI-1P',
+  'ref' => 'ro 8:25',
 );
 $concordance['1063']['CONJ'][] = array (
   'word' => 'γάρ',
@@ -2640,6 +3024,114 @@ $concordance['1063']['CONJ'][] = array (
   'morph' => 'CONJ',
   'ref' => 'ro 7:22',
 );
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:2',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:3',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:5',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:6',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:7',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:7',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:13',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:14',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:15',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:18',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:19',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:20',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:22',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:24',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:24',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:26',
+);
+$concordance['1063']['CONJ'][] = array (
+  'word' => 'γὰρ',
+  'spa' => '← porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
+);
+$concordance['1065']['PRT'][] = array (
+  'word' => 'γε',
+  'spa' => 'de hecho',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:32',
+);
 $concordance['1073']['V-PAI-3S'][] = array (
   'word' => 'γέμει',
   'spa' => 'está llena',
@@ -2886,11 +3378,23 @@ $concordance['1125']['V-RPI-3S'][] = array (
   'morph' => 'V-RPI-3S',
   'ref' => 'ro 4:17',
 );
+$concordance['1125']['V-RPI-3S'][] = array (
+  'word' => 'γέγραπται',
+  'spa' => 'está escrito',
+  'morph' => 'V-RPI-3S',
+  'ref' => 'ro 8:36',
+);
 $concordance['1125']['V-2API-3S'][] = array (
   'word' => 'ἐγράφη',
   'spa' => 'fue escrito',
   'morph' => 'V-2API-3S',
   'ref' => 'ro 4:23',
+);
+$concordance['1132']['N-NSF'][] = array (
+  'word' => 'γυμνότης',
+  'spa' => 'desnudez',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:35',
 );
 $concordance['1135']['N-NSF'][] = array (
   'word' => 'γυνὴ',
@@ -3264,11 +3768,143 @@ $concordance['1161']['CONJ'][] = array (
   'morph' => 'CONJ',
   'ref' => 'ro 7:25',
 );
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:5',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:6',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:8',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:9',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δέ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:9',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:10',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:10',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:11',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:13',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:17',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:17',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:23',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:24',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← pero',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:25',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← e',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:26',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:27',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:28',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:30',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:30',
+);
+$concordance['1161']['CONJ'][] = array (
+  'word' => 'δὲ',
+  'spa' => '← y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:34',
+);
 $concordance['1163']['V-IAI-3S'][] = array (
   'word' => 'ἔδει',
   'spa' => 'era necesaria',
   'morph' => 'V-IAI-3S',
   'ref' => 'ro 1:27',
+);
+$concordance['1163']['V-PAI-3S'][] = array (
+  'word' => 'δεῖ',
+  'spa' => 'es necesario',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:26',
+);
+$concordance['1188']['A-DSF'][] = array (
+  'word' => 'δεξιᾷ',
+  'spa' => 'derecha',
+  'morph' => 'A-DSF',
+  'ref' => 'ro 8:34',
 );
 $concordance['1189']['V-PMP-NSM'][] = array (
   'word' => 'δεόμενος',
@@ -3284,7 +3920,7 @@ $concordance['1204']['ADV'][] = array (
 );
 $concordance['1210']['V-RPI-3S'][] = array (
   'word' => 'δέδεται',
-  'spa' => 'esta atada',
+  'spa' => 'está atada',
   'morph' => 'V-RPI-3S',
   'ref' => 'ro 7:2',
 );
@@ -3636,6 +4272,48 @@ $concordance['1223']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 7:25',
 );
+$concordance['1223']['PREP'][] = array (
+  'word' => 'διὰ',
+  'spa' => 'a través',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:3',
+);
+$concordance['1223']['PREP'][] = array (
+  'word' => 'διὰ',
+  'spa' => 'por',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:10',
+);
+$concordance['1223']['PREP'][] = array (
+  'word' => 'διὰ',
+  'spa' => 'por',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:10',
+);
+$concordance['1223']['PREP'][] = array (
+  'word' => 'διὰ',
+  'spa' => 'por',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:11',
+);
+$concordance['1223']['PREP'][] = array (
+  'word' => 'διὰ',
+  'spa' => 'por',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:20',
+);
+$concordance['1223']['PREP'][] = array (
+  'word' => 'δι’',
+  'spa' => 'a través',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:25',
+);
+$concordance['1223']['PREP'][] = array (
+  'word' => 'διὰ',
+  'spa' => 'a través',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:37',
+);
 $concordance['1252']['V-API-3S'][] = array (
   'word' => 'διεκρίθη',
   'spa' => 'dudó',
@@ -3816,6 +4494,12 @@ $concordance['1343']['N-ASF'][] = array (
   'morph' => 'N-ASF',
   'ref' => 'ro 6:16',
 );
+$concordance['1343']['N-ASF'][] = array (
+  'word' => 'δικαιοσύνην',
+  'spa' => 'justicia',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:10',
+);
 $concordance['1343']['N-GSF'][] = array (
   'word' => 'δικαιοσύνης',
   'spa' => 'justicia',
@@ -3948,6 +4632,24 @@ $concordance['1344']['V-RPI-3S'][] = array (
   'morph' => 'V-RPI-3S',
   'ref' => 'ro 6:7',
 );
+$concordance['1344']['V-AAI-3S'][] = array (
+  'word' => 'ἐδικαίωσεν',
+  'spa' => 'justificó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:30',
+);
+$concordance['1344']['V-AAI-3S'][] = array (
+  'word' => 'ἐδικαίωσεν',
+  'spa' => 'justificó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:30',
+);
+$concordance['1344']['V-PAP-NSM'][] = array (
+  'word' => 'δικαιῶν',
+  'spa' => 'que justifica',
+  'morph' => 'V-PAP-NSM',
+  'ref' => 'ro 8:33',
+);
 $concordance['1345']['N-ASN'][] = array (
   'word' => 'δικαίωμα',
   'spa' => 'ordenanza',
@@ -3959,6 +4661,12 @@ $concordance['1345']['N-ASN'][] = array (
   'spa' => 'justificación',
   'morph' => 'N-ASN',
   'ref' => 'ro 5:16',
+);
+$concordance['1345']['N-ASN'][] = array (
+  'word' => 'δικαίωμα',
+  'spa' => 'ordenanza',
+  'morph' => 'N-ASN',
+  'ref' => 'ro 8:4',
 );
 $concordance['1345']['N-APN'][] = array (
   'word' => 'δικαιώματα',
@@ -4020,6 +4728,18 @@ $concordance['1360']['CONJ'][] = array (
   'morph' => 'CONJ',
   'ref' => 'ro 3:20',
 );
+$concordance['1360']['CONJ'][] = array (
+  'word' => 'διότι',
+  'spa' => 'porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:7',
+);
+$concordance['1375']['N-NSM'][] = array (
+  'word' => 'διωγμὸς',
+  'spa' => 'persecución',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:35',
+);
 $concordance['1381']['V-AAI-3P'][] = array (
   'word' => 'ἐδοκίμασαν',
   'spa' => 'examinaron',
@@ -4080,6 +4800,12 @@ $concordance['1391']['N-ASF'][] = array (
   'morph' => 'N-ASF',
   'ref' => 'ro 4:20',
 );
+$concordance['1391']['N-ASF'][] = array (
+  'word' => 'δόξαν',
+  'spa' => 'gloria',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:18',
+);
 $concordance['1391']['N-NSF'][] = array (
   'word' => 'δόξα',
   'spa' => 'gloria',
@@ -4104,11 +4830,35 @@ $concordance['1391']['N-GSF'][] = array (
   'morph' => 'N-GSF',
   'ref' => 'ro 6:4',
 );
+$concordance['1391']['N-GSF'][] = array (
+  'word' => 'δόξης',
+  'spa' => 'gloria',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:21',
+);
 $concordance['1392']['V-AAI-3P'][] = array (
   'word' => 'ἐδόξασαν',
   'spa' => 'glorificaron',
   'morph' => 'V-AAI-3P',
   'ref' => 'ro 1:21',
+);
+$concordance['1392']['V-AAI-3S'][] = array (
+  'word' => 'ἐδόξασεν',
+  'spa' => 'glorificó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:30',
+);
+$concordance['1397']['N-GSF'][] = array (
+  'word' => 'δουλείας',
+  'spa' => 'de esclavitud',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:15',
+);
+$concordance['1397']['N-GSF'][] = array (
+  'word' => 'δουλείας',
+  'spa' => 'esclavitud',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:21',
 );
 $concordance['1398']['V-PAN'][] = array (
   'word' => 'δουλεύειν',
@@ -4182,6 +4932,24 @@ $concordance['1402']['V-APP-NPM'][] = array (
   'morph' => 'V-APP-NPM',
   'ref' => 'ro 6:22',
 );
+$concordance['1410']['V-PMI-3S'][] = array (
+  'word' => 'δύναται',
+  'spa' => 'puede',
+  'morph' => 'V-PMI-3S',
+  'ref' => 'ro 8:7',
+);
+$concordance['1410']['V-PMI-3P'][] = array (
+  'word' => 'δύνανται',
+  'spa' => 'pueden',
+  'morph' => 'V-PMI-3P',
+  'ref' => 'ro 8:8',
+);
+$concordance['1410']['V-FDI-3S'][] = array (
+  'word' => 'δυνήσεται',
+  'spa' => 'podrá',
+  'morph' => 'V-FDI-3S',
+  'ref' => 'ro 8:39',
+);
 $concordance['1411']['N-DSF'][] = array (
   'word' => 'δυνάμει',
   'spa' => 'poder',
@@ -4199,6 +4967,12 @@ $concordance['1411']['N-NSF'][] = array (
   'spa' => 'poder',
   'morph' => 'N-NSF',
   'ref' => 'ro 1:20',
+);
+$concordance['1411']['N-NPF'][] = array (
+  'word' => 'δυνάμεις',
+  'spa' => 'poderes',
+  'morph' => 'N-NPF',
+  'ref' => 'ro 8:38',
 );
 $concordance['1415']['A-NSM'][] = array (
   'word' => 'δυνατός',
@@ -4278,6 +5052,12 @@ $concordance['1438']['F-3DPM'][] = array (
   'morph' => 'F-3DPM',
   'ref' => 'ro 2:14',
 );
+$concordance['1438']['F-3DPM'][] = array (
+  'word' => 'ἑαυτοῖς',
+  'spa' => 'nostros mismos',
+  'morph' => 'F-3DPM',
+  'ref' => 'ro 8:23',
+);
 $concordance['1438']['F-3GSM'][] = array (
   'word' => 'ἑαυτοῦ',
   'spa' => 'de él mismo',
@@ -4289,6 +5069,12 @@ $concordance['1438']['F-3GSM'][] = array (
   'spa' => 'de él mismo',
   'morph' => 'F-3GSM',
   'ref' => 'ro 5:8',
+);
+$concordance['1438']['F-3GSM'][] = array (
+  'word' => 'ἑαυτοῦ',
+  'spa' => 'de él mismo',
+  'morph' => 'F-3GSM',
+  'ref' => 'ro 8:3',
 );
 $concordance['1438']['F-3APM'][] = array (
   'word' => 'ἑαυτοὺς',
@@ -4332,11 +5118,35 @@ $concordance['1453']['V-APP-NSM'][] = array (
   'morph' => 'V-APP-NSM',
   'ref' => 'ro 6:9',
 );
+$concordance['1453']['V-APP-NSM'][] = array (
+  'word' => 'ἐγερθείς',
+  'spa' => 'que fue levantado',
+  'morph' => 'V-APP-NSM',
+  'ref' => 'ro 8:34',
+);
 $concordance['1453']['V-APP-DSM'][] = array (
   'word' => 'ἐγερθέντι',
   'spa' => 'fue levantado',
   'morph' => 'V-APP-DSM',
   'ref' => 'ro 7:4',
+);
+$concordance['1453']['V-AAP-GSM'][] = array (
+  'word' => 'ἐγείραντος',
+  'spa' => 'que levantó',
+  'morph' => 'V-AAP-GSM',
+  'ref' => 'ro 8:11',
+);
+$concordance['1453']['V-AAP-NSM'][] = array (
+  'word' => 'ἐγείρας',
+  'spa' => 'que levantó',
+  'morph' => 'V-AAP-NSM',
+  'ref' => 'ro 8:11',
+);
+$concordance['1458']['V-FAI-3S'][] = array (
+  'word' => 'ἐγκαλέσει',
+  'spa' => 'acusará',
+  'morph' => 'V-FAI-3S',
+  'ref' => 'ro 8:33',
 );
 $concordance['1473']['P-1NS'][] = array (
   'word' => 'ἐγὼ',
@@ -4524,6 +5334,54 @@ $concordance['1487']['COND'][] = array (
   'morph' => 'COND',
   'ref' => 'ro 7:20',
 );
+$concordance['1487']['COND'][] = array (
+  'word' => 'εἰ',
+  'spa' => 'si',
+  'morph' => 'COND',
+  'ref' => 'ro 8:9',
+);
+$concordance['1487']['COND'][] = array (
+  'word' => 'εἰ',
+  'spa' => 'si',
+  'morph' => 'COND',
+  'ref' => 'ro 8:10',
+);
+$concordance['1487']['COND'][] = array (
+  'word' => 'εἰ',
+  'spa' => 'si',
+  'morph' => 'COND',
+  'ref' => 'ro 8:11',
+);
+$concordance['1487']['COND'][] = array (
+  'word' => 'εἰ',
+  'spa' => 'si',
+  'morph' => 'COND',
+  'ref' => 'ro 8:13',
+);
+$concordance['1487']['COND'][] = array (
+  'word' => 'εἰ',
+  'spa' => 'si',
+  'morph' => 'COND',
+  'ref' => 'ro 8:13',
+);
+$concordance['1487']['COND'][] = array (
+  'word' => 'εἰ',
+  'spa' => 'si',
+  'morph' => 'COND',
+  'ref' => 'ro 8:17',
+);
+$concordance['1487']['COND'][] = array (
+  'word' => 'εἰ',
+  'spa' => 'si',
+  'morph' => 'COND',
+  'ref' => 'ro 8:25',
+);
+$concordance['1487']['COND'][] = array (
+  'word' => 'εἰ',
+  'spa' => 'si',
+  'morph' => 'COND',
+  'ref' => 'ro 8:31',
+);
 $concordance['1488']['V-PAI-2S'][] = array (
   'word' => 'εἶ',
   'spa' => 'eres',
@@ -4553,6 +5411,24 @@ $concordance['1492']['V-RAI-1P'][] = array (
   'spa' => 'Sabemos',
   'morph' => 'V-RAI-1P',
   'ref' => 'ro 7:14',
+);
+$concordance['1492']['V-RAI-1P'][] = array (
+  'word' => 'οἴδαμεν',
+  'spa' => 'sabemos',
+  'morph' => 'V-RAI-1P',
+  'ref' => 'ro 8:22',
+);
+$concordance['1492']['V-RAI-1P'][] = array (
+  'word' => 'οἴδαμεν',
+  'spa' => 'sabemos',
+  'morph' => 'V-RAI-1P',
+  'ref' => 'ro 8:26',
+);
+$concordance['1492']['V-RAI-1P'][] = array (
+  'word' => 'Οἴδαμεν',
+  'spa' => 'Sabemos',
+  'morph' => 'V-RAI-1P',
+  'ref' => 'ro 8:28',
 );
 $concordance['1492']['V-RAP-NPM'][] = array (
   'word' => 'εἰδότες',
@@ -4584,6 +5460,12 @@ $concordance['1492']['V-RAI-1S'][] = array (
   'morph' => 'V-RAI-1S',
   'ref' => 'ro 7:18',
 );
+$concordance['1492']['V-RAI-3S'][] = array (
+  'word' => 'οἶδεν',
+  'spa' => 'conoce',
+  'morph' => 'V-RAI-3S',
+  'ref' => 'ro 8:27',
+);
 $concordance['1497']['N-APN'][] = array (
   'word' => 'εἴδωλα',
   'spa' => 'imágenes',
@@ -4595,6 +5477,12 @@ $concordance['1504']['N-GSF'][] = array (
   'spa' => 'de figura',
   'morph' => 'N-GSF',
   'ref' => 'ro 1:23',
+);
+$concordance['1504']['N-GSF'][] = array (
+  'word' => 'εἰκόνος',
+  'spa' => 'figura',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:29',
 );
 $concordance['1510']['V-PAI-1S'][] = array (
   'word' => 'εἰμί',
@@ -4680,11 +5568,29 @@ $concordance['1511']['V-PAN'][] = array (
   'morph' => 'V-PAN',
   'ref' => 'ro 7:3',
 );
+$concordance['1511']['V-PAN'][] = array (
+  'word' => 'εἶναι',
+  'spa' => 'ser',
+  'morph' => 'V-PAN',
+  'ref' => 'ro 8:29',
+);
 $concordance['1512']['CONJ'][] = array (
   'word' => 'εἴπερ',
-  'spa' => 'ya que',
+  'spa' => 'si es',
   'morph' => 'CONJ',
   'ref' => 'ro 3:30',
+);
+$concordance['1512']['COND'][] = array (
+  'word' => 'εἴπερ',
+  'spa' => 'ya que',
+  'morph' => 'COND',
+  'ref' => 'ro 8:9',
+);
+$concordance['1512']['COND'][] = array (
+  'word' => 'εἴπερ',
+  'spa' => 'si es que',
+  'morph' => 'COND',
+  'ref' => 'ro 8:17',
 );
 $concordance['1515']['N-NSF'][] = array (
   'word' => 'εἰρήνη',
@@ -4697,6 +5603,12 @@ $concordance['1515']['N-NSF'][] = array (
   'spa' => 'paz',
   'morph' => 'N-NSF',
   'ref' => 'ro 2:10',
+);
+$concordance['1515']['N-NSF'][] = array (
+  'word' => 'εἰρήνη',
+  'spa' => 'paz',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:6',
 );
 $concordance['1515']['N-GSF'][] = array (
   'word' => 'εἰρήνης',
@@ -5034,6 +5946,42 @@ $concordance['1519']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 7:10',
 );
+$concordance['1519']['PREP'][] = array (
+  'word' => 'εἰς',
+  'spa' => 'hacia',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:7',
+);
+$concordance['1519']['PREP'][] = array (
+  'word' => 'εἰς',
+  'spa' => 'para',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:15',
+);
+$concordance['1519']['PREP'][] = array (
+  'word' => 'εἰς',
+  'spa' => 'hacia',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:18',
+);
+$concordance['1519']['PREP'][] = array (
+  'word' => 'εἰς',
+  'spa' => 'hacia',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:21',
+);
+$concordance['1519']['PREP'][] = array (
+  'word' => 'εἰς',
+  'spa' => 'para',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:28',
+);
+$concordance['1519']['PREP'][] = array (
+  'word' => 'εἰς',
+  'spa' => 'para',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:29',
+);
 $concordance['1520']['A-NSM'][] = array (
   'word' => 'εἷς',
   'spa' => 'uno',
@@ -5141,6 +6089,12 @@ $concordance['1526']['V-PAI-3P'][] = array (
   'spa' => 'son',
   'morph' => 'V-PAI-3P',
   'ref' => 'ro 2:14',
+);
+$concordance['1526']['V-PAI-3P'][] = array (
+  'word' => 'εἰσιν',
+  'spa' => 'son',
+  'morph' => 'V-PAI-3P',
+  'ref' => 'ro 8:14',
 );
 $concordance['1537']['PREP'][] = array (
   'word' => 'ἐκ',
@@ -5310,6 +6264,18 @@ $concordance['1537']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 7:24',
 );
+$concordance['1537']['PREP'][] = array (
+  'word' => 'ἐκ',
+  'spa' => 'de',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:11',
+);
+$concordance['1537']['PREP'][] = array (
+  'word' => 'ἐκ',
+  'spa' => 'de',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:11',
+);
 $concordance['1538']['A-DSM'][] = array (
   'word' => 'ἑκάστῳ',
   'spa' => 'a cada uno',
@@ -5352,6 +6318,12 @@ $concordance['1578']['V-AAI-3P'][] = array (
   'morph' => 'V-AAI-3P',
   'ref' => 'ro 3:12',
 );
+$concordance['1588']['A-GPM'][] = array (
+  'word' => 'ἐκλεκτῶν',
+  'spa' => 'elegidos',
+  'morph' => 'A-GPM',
+  'ref' => 'ro 8:33',
+);
 $concordance['1628']['V-FDI-2S'][] = array (
   'word' => 'ἐκφεύξῃ',
   'spa' => 'huirás',
@@ -5369,6 +6341,18 @@ $concordance['1632']['V-RPI-3S'][] = array (
   'spa' => 'fué derramado',
   'morph' => 'V-RPI-3S',
   'ref' => 'ro 5:5',
+);
+$concordance['1635']['A-NSF'][] = array (
+  'word' => 'ἐκοῦσα',
+  'spa' => 'voluntariamente',
+  'morph' => 'A-NSF',
+  'ref' => 'ro 8:20',
+);
+$concordance['1657']['N-ASF'][] = array (
+  'word' => 'ἐλευθερίαν',
+  'spa' => 'libertad',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:21',
 );
 $concordance['1658']['A-NPM'][] = array (
   'word' => 'ἐλεύθεροι',
@@ -5393,6 +6377,18 @@ $concordance['1659']['V-APP-NPM'][] = array (
   'spa' => 'habiendo sido librados',
   'morph' => 'V-APP-NPM',
   'ref' => 'ro 6:22',
+);
+$concordance['1659']['V-AAI-3S'][] = array (
+  'word' => 'ἠλευθέρωσεν',
+  'spa' => 'liberó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:2',
+);
+$concordance['1659']['V-FPI-3S'][] = array (
+  'word' => 'ἐλευθερωθήσεται',
+  'spa' => 'será librada',
+  'morph' => 'V-FPI-3S',
+  'ref' => 'ro 8:21',
 );
 $concordance['1672']['N-DPM'][] = array (
   'word' => 'Ἕλλησιν',
@@ -5430,6 +6426,18 @@ $concordance['1677']['V-PPI-3S'][] = array (
   'morph' => 'V-PPI-3S',
   'ref' => 'ro 5:13',
 );
+$concordance['1679']['V-PAI-3S'][] = array (
+  'word' => 'ἐλπίζει',
+  'spa' => 'espera',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:24',
+);
+$concordance['1679']['V-PAI-1P'][] = array (
+  'word' => 'ἐλπίζομεν',
+  'spa' => 'esperamos',
+  'morph' => 'V-PAI-1P',
+  'ref' => 'ro 8:25',
+);
 $concordance['1680']['N-ASF'][] = array (
   'word' => 'ἐλπίδα',
   'spa' => 'esperanza',
@@ -5454,11 +6462,35 @@ $concordance['1680']['N-DSF'][] = array (
   'morph' => 'N-DSF',
   'ref' => 'ro 5:2',
 );
+$concordance['1680']['N-DSF'][] = array (
+  'word' => 'ἐλπίδι',
+  'spa' => 'esperanza',
+  'morph' => 'N-DSF',
+  'ref' => 'ro 8:20',
+);
+$concordance['1680']['N-DSF'][] = array (
+  'word' => 'ἐλπίδι',
+  'spa' => 'esperanza',
+  'morph' => 'N-DSF',
+  'ref' => 'ro 8:24',
+);
 $concordance['1680']['N-NSF'][] = array (
   'word' => 'ἐλπὶς',
   'spa' => 'esperanza',
   'morph' => 'N-NSF',
   'ref' => 'ro 5:5',
+);
+$concordance['1680']['N-NSF'][] = array (
+  'word' => 'ἐλπὶς',
+  'spa' => 'esperanza',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:24',
+);
+$concordance['1680']['N-NSF'][] = array (
+  'word' => 'ἐλπίς',
+  'spa' => 'esperanza',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:24',
 );
 $concordance['1691']['P-1AS'][] = array (
   'word' => 'ἐμὲ',
@@ -6018,6 +7050,120 @@ $concordance['1722']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 7:23',
 );
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:1',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:2',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:3',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:3',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:3',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:4',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:8',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:9',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:9',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:9',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:10',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:11',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:11',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:15',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:23',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'entre',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:29',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:34',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:37',
+);
+$concordance['1722']['PREP'][] = array (
+  'word' => 'ἐν',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:39',
+);
 $concordance['1731']['V-PMI-3P'][] = array (
   'word' => 'ἐνδείκνυνται',
   'spa' => 'demuestran',
@@ -6048,11 +7194,29 @@ $concordance['1743']['V-API-3S'][] = array (
   'morph' => 'V-API-3S',
   'ref' => 'ro 4:20',
 );
+$concordance['1752']['ADV'][] = array (
+  'word' => 'ἔνεκεν',
+  'spa' => 'Por causa',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:36',
+);
 $concordance['1754']['V-IMI-3S'][] = array (
   'word' => 'ἐνηργεῖτο',
   'spa' => 'actuaban',
   'morph' => 'V-IMI-3S',
   'ref' => 'ro 7:5',
+);
+$concordance['1764']['V-RAP-NPN'][] = array (
+  'word' => 'ἐνεστῶτα',
+  'spa' => 'lo presente',
+  'morph' => 'V-RAP-NPN',
+  'ref' => 'ro 8:38',
+);
+$concordance['1774']['V-PAP-GSN'][] = array (
+  'word' => 'ἐνοικοῦντος',
+  'spa' => 'que habita',
+  'morph' => 'V-PAP-GSN',
+  'ref' => 'ro 8:11',
 );
 $concordance['1785']['N-GSF'][] = array (
   'word' => 'ἐντολῆς',
@@ -6089,6 +7253,18 @@ $concordance['1785']['N-NSF'][] = array (
   'spa' => 'mandamiento',
   'morph' => 'N-NSF',
   'ref' => 'ro 7:12',
+);
+$concordance['1793']['V-PAI-3S'][] = array (
+  'word' => 'ἐντυγχάνει',
+  'spa' => 'pide',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:27',
+);
+$concordance['1793']['V-PAI-3S'][] = array (
+  'word' => 'ἐντυγχάνει',
+  'spa' => 'pide',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:34',
 );
 $concordance['1799']['ADV'][] = array (
   'word' => 'ἐνώπιον',
@@ -6252,6 +7428,12 @@ $concordance['1909']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 7:1',
 );
+$concordance['1909']['PREP'][] = array (
+  'word' => 'ἐφ’',
+  'spa' => 'en',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:20',
+);
 $concordance['1921']['V-2AAP-NPM'][] = array (
   'word' => 'ἐπιγνόντες',
   'spa' => 'habiendo conocido',
@@ -6396,6 +7578,12 @@ $concordance['2041']['N-GPN'][] = array (
   'morph' => 'N-GPN',
   'ref' => 'ro 4:6',
 );
+$concordance['2045']['V-PAP-NSM'][] = array (
+  'word' => 'ἐραυνῶν',
+  'spa' => 'que escudriña',
+  'morph' => 'V-PAP-NSM',
+  'ref' => 'ro 8:27',
+);
 $concordance['2046']['V-FAI-1P'][] = array (
   'word' => 'ἐροῦμεν',
   'spa' => 'diremos',
@@ -6419,6 +7607,12 @@ $concordance['2046']['V-FAI-1P'][] = array (
   'spa' => 'diremos',
   'morph' => 'V-FAI-1P',
   'ref' => 'ro 7:7',
+);
+$concordance['2046']['V-FAI-1P'][] = array (
+  'word' => 'ἐροῦμεν',
+  'spa' => 'diremos',
+  'morph' => 'V-FAI-1P',
+  'ref' => 'ro 8:31',
 );
 $concordance['2046']['V-RPP-ASN-ATT'][] = array (
   'word' => 'εἰρημένον',
@@ -6474,6 +7668,18 @@ $concordance['2070']['V-PAI-1P'][] = array (
   'morph' => 'V-PAI-1P',
   'ref' => 'ro 6:15',
 );
+$concordance['2070']['V-PAI-1P'][] = array (
+  'word' => 'ἐσμὲν',
+  'spa' => 'somos',
+  'morph' => 'V-PAI-1P',
+  'ref' => 'ro 8:12',
+);
+$concordance['2070']['V-PAI-1P'][] = array (
+  'word' => 'ἐσμὲν',
+  'spa' => 'somos',
+  'morph' => 'V-PAI-1P',
+  'ref' => 'ro 8:16',
+);
 $concordance['2071']['V-FXI-3S'][] = array (
   'word' => 'ἔσται',
   'spa' => 'será',
@@ -6488,13 +7694,13 @@ $concordance['2071']['V-FXI-1P'][] = array (
 );
 $concordance['2075']['V-PAI-2P'][] = array (
   'word' => 'ἐστε',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'V-PAI-2P',
   'ref' => 'ro 1:6',
 );
 $concordance['2075']['V-PAI-2P'][] = array (
   'word' => 'ἐστε',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'V-PAI-2P',
   'ref' => 'ro 6:14',
 );
@@ -6503,6 +7709,12 @@ $concordance['2075']['V-PAI-2P'][] = array (
   'spa' => 'son',
   'morph' => 'V-PAI-2P',
   'ref' => 'ro 6:16',
+);
+$concordance['2075']['V-PAI-2P'][] = array (
+  'word' => 'ἐστὲ',
+  'spa' => 'están',
+  'morph' => 'V-PAI-2P',
+  'ref' => 'ro 8:9',
 );
 $concordance['2076']['V-PAI-3S'][] = array (
   'word' => 'ἐστιν',
@@ -6642,6 +7854,24 @@ $concordance['2076']['V-PAI-3S'][] = array (
   'morph' => 'V-PAI-3S',
   'ref' => 'ro 7:18',
 );
+$concordance['2076']['V-PAI-3S'][] = array (
+  'word' => 'ἔστιν',
+  'spa' => 'es',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:9',
+);
+$concordance['2076']['V-PAI-3S'][] = array (
+  'word' => 'ἔστιν',
+  'spa' => 'es',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:24',
+);
+$concordance['2076']['V-PAI-3S'][] = array (
+  'word' => 'ἐστιν',
+  'spa' => 'está',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:34',
+);
 $concordance['2080']['ADV'][] = array (
   'word' => 'ἔσω',
   'spa' => 'interior',
@@ -6683,6 +7913,12 @@ $concordance['2087']['A-DSM'][] = array (
   'spa' => 'para otro',
   'morph' => 'A-DSM',
   'ref' => 'ro 7:4',
+);
+$concordance['2087']['A-NSF'][] = array (
+  'word' => 'ἑτέρα',
+  'spa' => 'otra',
+  'morph' => 'A-NSF',
+  'ref' => 'ro 8:39',
 );
 $concordance['2089']['ADV'][] = array (
   'word' => 'ἔτι',
@@ -6798,6 +8034,12 @@ $concordance['2182']['N-APM'][] = array (
   'morph' => 'N-APM',
   'ref' => 'ro 1:30',
 );
+$concordance['2189']['N-NSF'][] = array (
+  'word' => 'ἔχθρα',
+  'spa' => 'enemistad',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:7',
+);
 $concordance['2190']['A-NPM'][] = array (
   'word' => 'ἐχθροὶ',
   'spa' => 'enemigos',
@@ -6828,6 +8070,12 @@ $concordance['2192']['V-PAP-NPM'][] = array (
   'morph' => 'V-PAP-NPM',
   'ref' => 'ro 2:14',
 );
+$concordance['2192']['V-PAP-NPM'][] = array (
+  'word' => 'ἔχοντες',
+  'spa' => 'teniendo',
+  'morph' => 'V-PAP-NPM',
+  'ref' => 'ro 8:23',
+);
 $concordance['2192']['V-PAP-ASM'][] = array (
   'word' => 'ἔχοντα',
   'spa' => 'teniendo',
@@ -6839,6 +8087,12 @@ $concordance['2192']['V-PAI-3S'][] = array (
   'spa' => 'tiene',
   'morph' => 'V-PAI-3S',
   'ref' => 'ro 4:2',
+);
+$concordance['2192']['V-PAI-3S'][] = array (
+  'word' => 'ἔχει',
+  'spa' => 'tiene',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:9',
 );
 $concordance['2192']['V-PAI-1P'][] = array (
   'word' => 'ἔχωμεν',
@@ -6930,6 +8184,24 @@ $concordance['2198']['V-IAI-1S'][] = array (
   'morph' => 'V-IAI-1S',
   'ref' => 'ro 7:9',
 );
+$concordance['2198']['V-PAN'][] = array (
+  'word' => 'ζῆν',
+  'spa' => 'vivir',
+  'morph' => 'V-PAN',
+  'ref' => 'ro 8:12',
+);
+$concordance['2198']['V-PAI-2P'][] = array (
+  'word' => 'ζῆτε',
+  'spa' => 'viven',
+  'morph' => 'V-PAI-2P',
+  'ref' => 'ro 8:13',
+);
+$concordance['2198']['V-FDI-2P'][] = array (
+  'word' => 'ζήσεσθε',
+  'spa' => 'vivirán',
+  'morph' => 'V-FDI-2P',
+  'ref' => 'ro 8:13',
+);
 $concordance['2212']['V-PAP-DPM'][] = array (
   'word' => 'ζητοῦσιν',
   'spa' => 'buscan',
@@ -6984,17 +8256,47 @@ $concordance['2222']['N-GSF'][] = array (
   'morph' => 'N-GSF',
   'ref' => 'ro 6:4',
 );
+$concordance['2222']['N-GSF'][] = array (
+  'word' => 'ζωῆς',
+  'spa' => 'vida',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:2',
+);
 $concordance['2222']['N-NSF'][] = array (
   'word' => 'ζωὴ',
   'spa' => 'vida',
   'morph' => 'N-NSF',
   'ref' => 'ro 6:23',
 );
+$concordance['2222']['N-NSF'][] = array (
+  'word' => 'ζωὴ',
+  'spa' => 'vida',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:6',
+);
+$concordance['2222']['N-NSF'][] = array (
+  'word' => 'ζωὴ',
+  'spa' => 'vida',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:10',
+);
+$concordance['2222']['N-NSF'][] = array (
+  'word' => 'ζωὴ',
+  'spa' => 'vida',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:38',
+);
 $concordance['2227']['V-PAP-GSM'][] = array (
   'word' => 'ζωοποιοῦντος',
   'spa' => 'que da vida',
   'morph' => 'V-PAP-GSM',
   'ref' => 'ro 4:17',
+);
+$concordance['2227']['V-FAI-3S'][] = array (
+  'word' => 'ζῳοποιήσει',
+  'spa' => 'dará vida',
+  'morph' => 'V-FAI-3S',
+  'ref' => 'ro 8:11',
 );
 $concordance['2228']['PRT'][] = array (
   'word' => 'ἢ',
@@ -7062,6 +8364,42 @@ $concordance['2228']['PRT'][] = array (
   'morph' => 'PRT',
   'ref' => 'ro 7:1',
 );
+$concordance['2228']['PRT'][] = array (
+  'word' => 'ἢ',
+  'spa' => 'o',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:35',
+);
+$concordance['2228']['PRT'][] = array (
+  'word' => 'ἢ',
+  'spa' => 'o',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:35',
+);
+$concordance['2228']['PRT'][] = array (
+  'word' => 'ἢ',
+  'spa' => 'o',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:35',
+);
+$concordance['2228']['PRT'][] = array (
+  'word' => 'ἢ',
+  'spa' => 'o',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:35',
+);
+$concordance['2228']['PRT'][] = array (
+  'word' => 'ἢ',
+  'spa' => 'o',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:35',
+);
+$concordance['2228']['PRT'][] = array (
+  'word' => 'ἢ',
+  'spa' => 'o',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:35',
+);
 $concordance['2235']['ADV'][] = array (
   'word' => 'ἤδη',
   'spa' => 'ya',
@@ -7098,11 +8436,41 @@ $concordance['2248']['P-1AP'][] = array (
   'morph' => 'P-1AP',
   'ref' => 'ro 7:6',
 );
+$concordance['2248']['P-1AP'][] = array (
+  'word' => 'ἡμᾶς',
+  'spa' => 'nosotros',
+  'morph' => 'P-1AP',
+  'ref' => 'ro 8:18',
+);
+$concordance['2248']['P-1AP'][] = array (
+  'word' => 'ἡμᾶς',
+  'spa' => 'a nosotros',
+  'morph' => 'P-1AP',
+  'ref' => 'ro 8:35',
+);
+$concordance['2248']['P-1AP'][] = array (
+  'word' => 'ἡμᾶς',
+  'spa' => 'a nosotros',
+  'morph' => 'P-1AP',
+  'ref' => 'ro 8:37',
+);
+$concordance['2248']['P-1AP'][] = array (
+  'word' => 'ἡμᾶς',
+  'spa' => 'a nosotros',
+  'morph' => 'P-1AP',
+  'ref' => 'ro 8:39',
+);
 $concordance['2249']['P-1NP'][] = array (
   'word' => 'ἡμεῖς',
   'spa' => 'nosotros',
   'morph' => 'P-1NP',
   'ref' => 'ro 6:4',
+);
+$concordance['2249']['P-1NP'][] = array (
+  'word' => 'ἡμεῖς',
+  'spa' => 'nosotros',
+  'morph' => 'P-1NP',
+  'ref' => 'ro 8:23',
 );
 $concordance['2250']['N-DSF'][] = array (
   'word' => 'ἡμέρᾳ',
@@ -7116,11 +8484,29 @@ $concordance['2250']['N-DSF'][] = array (
   'morph' => 'N-DSF',
   'ref' => 'ro 2:16',
 );
+$concordance['2250']['N-ASF'][] = array (
+  'word' => 'ἡμέραν',
+  'spa' => 'día',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:36',
+);
 $concordance['2254']['P-1DP'][] = array (
   'word' => 'ἡμῖν',
   'spa' => 'a nosotros',
   'morph' => 'P-1DP',
   'ref' => 'ro 5:5',
+);
+$concordance['2254']['P-1DP'][] = array (
+  'word' => 'ἡμῖν',
+  'spa' => 'nosotros',
+  'morph' => 'P-1DP',
+  'ref' => 'ro 8:4',
+);
+$concordance['2254']['P-1DP'][] = array (
+  'word' => 'ἡμῖν',
+  'spa' => 'a nosotros',
+  'morph' => 'P-1DP',
+  'ref' => 'ro 8:32',
 );
 $concordance['2257']['P-1GP'][] = array (
   'word' => 'ἡμῶν',
@@ -7242,6 +8628,54 @@ $concordance['2257']['P-1GP'][] = array (
   'morph' => 'P-1GP',
   'ref' => 'ro 7:25',
 );
+$concordance['2257']['P-1GP'][] = array (
+  'word' => 'ἡμῶν',
+  'spa' => 'nuestro',
+  'morph' => 'P-1GP',
+  'ref' => 'ro 8:16',
+);
+$concordance['2257']['P-1GP'][] = array (
+  'word' => 'ἡμῶν',
+  'spa' => 'nuestro',
+  'morph' => 'P-1GP',
+  'ref' => 'ro 8:23',
+);
+$concordance['2257']['P-1GP'][] = array (
+  'word' => 'ἡμῶν',
+  'spa' => 'de nosotros',
+  'morph' => 'P-1GP',
+  'ref' => 'ro 8:26',
+);
+$concordance['2257']['P-1GP'][] = array (
+  'word' => 'ἡμῶν',
+  'spa' => 'nosotros',
+  'morph' => 'P-1GP',
+  'ref' => 'ro 8:31',
+);
+$concordance['2257']['P-1GP'][] = array (
+  'word' => 'ἡμῶν',
+  'spa' => 'nosotros',
+  'morph' => 'P-1GP',
+  'ref' => 'ro 8:31',
+);
+$concordance['2257']['P-1GP'][] = array (
+  'word' => 'ἡμῶν',
+  'spa' => 'nosotros',
+  'morph' => 'P-1GP',
+  'ref' => 'ro 8:32',
+);
+$concordance['2257']['P-1GP'][] = array (
+  'word' => 'ἡμῶν',
+  'spa' => 'nosotros',
+  'morph' => 'P-1GP',
+  'ref' => 'ro 8:34',
+);
+$concordance['2257']['P-1GP'][] = array (
+  'word' => 'ἡμῶν',
+  'spa' => 'nuestro',
+  'morph' => 'P-1GP',
+  'ref' => 'ro 8:39',
+);
 $concordance['2258']['V-IAI-3S'][] = array (
   'word' => 'ἦν',
   'spa' => 'había',
@@ -7296,6 +8730,12 @@ $concordance['2288']['N-GSM'][] = array (
   'morph' => 'N-GSM',
   'ref' => 'ro 7:24',
 );
+$concordance['2288']['N-GSM'][] = array (
+  'word' => 'θανάτου',
+  'spa' => 'muerte',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:2',
+);
 $concordance['2288']['N-NSM'][] = array (
   'word' => 'θάνατος',
   'spa' => 'muerte',
@@ -7344,6 +8784,18 @@ $concordance['2288']['N-NSM'][] = array (
   'morph' => 'N-NSM',
   'ref' => 'ro 7:13',
 );
+$concordance['2288']['N-NSM'][] = array (
+  'word' => 'θάνατος',
+  'spa' => 'muerte',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:6',
+);
+$concordance['2288']['N-NSM'][] = array (
+  'word' => 'θάνατος',
+  'spa' => 'muerte',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:38',
+);
 $concordance['2288']['N-DSM'][] = array (
   'word' => 'θανάτῳ',
   'spa' => 'muerte',
@@ -7388,9 +8840,21 @@ $concordance['2288']['N-ASM'][] = array (
 );
 $concordance['2289']['V-API-2P'][] = array (
   'word' => 'ἐθανατώθητε',
-  'spa' => 'fueron muertos',
+  'spa' => 'fueron matados',
   'morph' => 'V-API-2P',
   'ref' => 'ro 7:4',
+);
+$concordance['2289']['V-PAI-2P'][] = array (
+  'word' => 'θανατοῦτε',
+  'spa' => 'matan',
+  'morph' => 'V-PAI-2P',
+  'ref' => 'ro 8:13',
+);
+$concordance['2289']['V-PPI-1P'][] = array (
+  'word' => 'θανατούμεθα',
+  'spa' => 'somos matados',
+  'morph' => 'V-PPI-1P',
+  'ref' => 'ro 8:36',
 );
 $concordance['2305']['N-NSF'][] = array (
   'word' => 'θειότης',
@@ -7668,6 +9132,72 @@ $concordance['2316']['N-GSM'][] = array (
   'morph' => 'N-GSM',
   'ref' => 'ro 7:25',
 );
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:7',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'de Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:9',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'de Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:14',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'de Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:14',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'de Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:16',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'de Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:17',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:19',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:21',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'de Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:33',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:34',
+);
+$concordance['2316']['N-GSM'][] = array (
+  'word' => 'θεοῦ',
+  'spa' => 'Dios',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:39',
+);
 $concordance['2316']['N-DSM'][] = array (
   'word' => 'θεῷ',
   'spa' => 'Dios',
@@ -7770,6 +9300,12 @@ $concordance['2316']['N-DSM'][] = array (
   'morph' => 'N-DSM',
   'ref' => 'ro 7:25',
 );
+$concordance['2316']['N-DSM'][] = array (
+  'word' => 'θεῷ',
+  'spa' => 'a Dios',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:8',
+);
 $concordance['2316']['N-NSM'][] = array (
   'word' => 'θεὸς',
   'spa' => 'Dios',
@@ -7854,6 +9390,24 @@ $concordance['2316']['N-NSM'][] = array (
   'morph' => 'N-NSM',
   'ref' => 'ro 5:8',
 );
+$concordance['2316']['N-NSM'][] = array (
+  'word' => 'θεὸς',
+  'spa' => 'Dios',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:3',
+);
+$concordance['2316']['N-NSM'][] = array (
+  'word' => 'θεὸς',
+  'spa' => 'Dios',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:31',
+);
+$concordance['2316']['N-NSM'][] = array (
+  'word' => 'θεὸς',
+  'spa' => 'Dios',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:33',
+);
 $concordance['2316']['N-ASM'][] = array (
   'word' => 'θεὸν',
   'spa' => 'Dios',
@@ -7896,6 +9450,24 @@ $concordance['2316']['N-ASM'][] = array (
   'morph' => 'N-ASM',
   'ref' => 'ro 5:1',
 );
+$concordance['2316']['N-ASM'][] = array (
+  'word' => 'θεὸν',
+  'spa' => 'Dios',
+  'morph' => 'N-ASM',
+  'ref' => 'ro 8:7',
+);
+$concordance['2316']['N-ASM'][] = array (
+  'word' => 'θεὸν',
+  'spa' => 'Dios',
+  'morph' => 'N-ASM',
+  'ref' => 'ro 8:27',
+);
+$concordance['2316']['N-ASM'][] = array (
+  'word' => 'θεὸν',
+  'spa' => 'Dios',
+  'morph' => 'N-ASM',
+  'ref' => 'ro 8:28',
+);
 $concordance['2319']['A-APM'][] = array (
   'word' => 'θεοστυγεῖς',
   'spa' => 'aborrecedores de Dios',
@@ -7932,6 +9504,12 @@ $concordance['2347']['N-NSF'][] = array (
   'morph' => 'N-NSF',
   'ref' => 'ro 5:3',
 );
+$concordance['2347']['N-NSF'][] = array (
+  'word' => 'θλῖψις',
+  'spa' => 'aflicción',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:35',
+);
 $concordance['2347']['N-DPF'][] = array (
   'word' => 'θλίψεσιν',
   'spa' => 'aflicciones',
@@ -7944,11 +9522,23 @@ $concordance['2349']['A-DSN'][] = array (
   'morph' => 'A-DSN',
   'ref' => 'ro 6:12',
 );
+$concordance['2349']['A-APN'][] = array (
+  'word' => 'θνητὰ',
+  'spa' => 'mortales',
+  'morph' => 'A-APN',
+  'ref' => 'ro 8:11',
+);
 $concordance['2372']['N-NSM'][] = array (
   'word' => 'θυμός',
   'spa' => 'indignación',
   'morph' => 'N-NSM',
   'ref' => 'ro 2:8',
+);
+$concordance['2398']['A-GSM'][] = array (
+  'word' => 'ἰδίου',
+  'spa' => 'propio',
+  'morph' => 'A-GSM',
+  'ref' => 'ro 8:32',
 );
 $concordance['2416']['V-PAI-2S'][] = array (
   'word' => 'ἱεροσυλεῖς',
@@ -8058,6 +9648,24 @@ $concordance['2424']['N-DSM'][] = array (
   'morph' => 'N-DSM',
   'ref' => 'ro 6:23',
 );
+$concordance['2424']['N-DSM'][] = array (
+  'word' => 'Ἰησοῦ',
+  'spa' => 'Jesús',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:1',
+);
+$concordance['2424']['N-DSM'][] = array (
+  'word' => 'Ἰησοῦ',
+  'spa' => 'Jesús',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:2',
+);
+$concordance['2424']['N-DSM'][] = array (
+  'word' => 'Ἰησοῦ',
+  'spa' => 'Jesús',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:39',
+);
 $concordance['2424']['N-ASM'][] = array (
   'word' => 'Ἰησοῦν',
   'spa' => 'a Jesús',
@@ -8069,6 +9677,18 @@ $concordance['2424']['N-ASM'][] = array (
   'spa' => 'Jesús',
   'morph' => 'N-ASM',
   'ref' => 'ro 6:3',
+);
+$concordance['2424']['N-ASM'][] = array (
+  'word' => 'Ἰησοῦν',
+  'spa' => 'Jesús',
+  'morph' => 'N-ASM',
+  'ref' => 'ro 8:11',
+);
+$concordance['2424']['N-ASM'][] = array (
+  'word' => 'Ἰησοῦν',
+  'spa' => 'Jesús',
+  'morph' => 'N-ASM',
+  'ref' => 'ro 8:11',
 );
 $concordance['2435']['N-ASN'][] = array (
   'word' => 'ἱλαστήριον',
@@ -8153,6 +9773,18 @@ $concordance['2443']['CONJ'][] = array (
   'spa' => 'para que',
   'morph' => 'CONJ',
   'ref' => 'ro 7:13',
+);
+$concordance['2443']['CONJ'][] = array (
+  'word' => 'ἵνα',
+  'spa' => 'para que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:4',
+);
+$concordance['2443']['CONJ'][] = array (
+  'word' => 'ἵνα',
+  'spa' => 'para que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:17',
 );
 $concordance['2447']['N-NSM'][] = array (
   'word' => 'ἰὸς',
@@ -8262,6 +9894,12 @@ $concordance['2525']['V-FPI-3P'][] = array (
   'morph' => 'V-FPI-3P',
   'ref' => 'ro 5:19',
 );
+$concordance['2526']['ADV'][] = array (
+  'word' => 'καθὸ',
+  'spa' => 'conforme',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:26',
+);
 $concordance['2529']['V-PPI-3S'][] = array (
   'word' => 'καθορᾶται',
   'spa' => 'es vista con claridad',
@@ -8321,6 +9959,12 @@ $concordance['2531']['ADV'][] = array (
   'spa' => 'como',
   'morph' => 'ADV',
   'ref' => 'ro 4:17',
+);
+$concordance['2531']['ADV'][] = array (
+  'word' => 'καθὼς',
+  'spa' => 'como',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:36',
 );
 $concordance['2532']['CONJ'][] = array (
   'word' => 'καὶ',
@@ -8982,6 +10626,120 @@ $concordance['2532']['CONJ'][] = array (
   'morph' => 'CONJ',
   'ref' => 'ro 7:23',
 );
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:2',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:3',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:6',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:11',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:17',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:17',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:21',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:22',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:23',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:23',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:26',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:29',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:30',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:30',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:30',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:30',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:32',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καί',
+  'spa' => 'y',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:34',
+);
+$concordance['2532']['CONJ'][] = array (
+  'word' => 'καὶ',
+  'spa' => 'también',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:34',
+);
 $concordance['2538']['N-DSF'][] = array (
   'word' => 'καινότητι',
   'spa' => 'novedad',
@@ -9005,6 +10763,12 @@ $concordance['2540']['N-ASM'][] = array (
   'spa' => 'tiempo',
   'morph' => 'N-ASM',
   'ref' => 'ro 5:6',
+);
+$concordance['2540']['N-GSM'][] = array (
+  'word' => 'καιροῦ',
+  'spa' => 'tiempo',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:18',
 );
 $concordance['2549']['N-DSF'][] = array (
   'word' => 'κακίᾳ',
@@ -9053,6 +10817,18 @@ $concordance['2564']['V-PAP-GSM'][] = array (
   'spa' => 'que llama',
   'morph' => 'V-PAP-GSM',
   'ref' => 'ro 4:17',
+);
+$concordance['2564']['V-AAI-3S'][] = array (
+  'word' => 'ἐκάλεσεν',
+  'spa' => 'llamó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:30',
+);
+$concordance['2564']['V-AAI-3S'][] = array (
+  'word' => 'ἐκάλεσεν',
+  'spa' => 'llamó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:30',
 );
 $concordance['2570']['A-NSM'][] = array (
   'word' => 'καλός',
@@ -9113,6 +10889,12 @@ $concordance['2588']['N-GSF'][] = array (
   'spa' => 'corazón',
   'morph' => 'N-GSF',
   'ref' => 'ro 6:17',
+);
+$concordance['2588']['N-APF'][] = array (
+  'word' => 'καρδίας',
+  'spa' => 'corazones',
+  'morph' => 'N-APF',
+  'ref' => 'ro 8:27',
 );
 $concordance['2590']['N-ASM'][] = array (
   'word' => 'καρπὸν',
@@ -9252,6 +11034,66 @@ $concordance['2596']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 7:22',
 );
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'según',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:4',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'según',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:4',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'según',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:5',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'según',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:5',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'según',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:12',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'según',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:13',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'según',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:27',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'según',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:28',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'καθ’',
+  'spa' => 'contra',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:31',
+);
+$concordance['2596']['PREP'][] = array (
+  'word' => 'κατὰ',
+  'spa' => 'contra',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:33',
+);
 $concordance['2605']['V-PPI-3S'][] = array (
   'word' => 'καταγγέλλεται',
   'spa' => 'es anunciada',
@@ -9276,11 +11118,29 @@ $concordance['2631']['N-ASN'][] = array (
   'morph' => 'N-ASN',
   'ref' => 'ro 5:18',
 );
+$concordance['2631']['N-NSN'][] = array (
+  'word' => 'κατάκριμα',
+  'spa' => 'condenación',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:1',
+);
 $concordance['2632']['V-PAI-2S'][] = array (
   'word' => 'κατακρίνεις',
   'spa' => 'condenas',
   'morph' => 'V-PAI-2S',
   'ref' => 'ro 2:1',
+);
+$concordance['2632']['V-AAI-3S'][] = array (
+  'word' => 'κατέκρινεν',
+  'spa' => 'condenó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:3',
+);
+$concordance['2632']['V-FAP-NSM'][] = array (
+  'word' => 'κατακρινῶν',
+  'spa' => 'que condena',
+  'morph' => 'V-FAP-NSM',
+  'ref' => 'ro 8:34',
 );
 $concordance['2637']['A-APM'][] = array (
   'word' => 'καταλάλους',
@@ -9498,6 +11358,12 @@ $concordance['2784']['V-PAP-NSM'][] = array (
   'morph' => 'V-PAP-NSM',
   'ref' => 'ro 2:21',
 );
+$concordance['2794']['N-NSM'][] = array (
+  'word' => 'κίνδυνος',
+  'spa' => 'peligro',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:35',
+);
 $concordance['2813']['V-PAN'][] = array (
   'word' => 'κλέπτειν',
   'spa' => 'hurtar',
@@ -9522,6 +11388,18 @@ $concordance['2818']['N-NPM'][] = array (
   'morph' => 'N-NPM',
   'ref' => 'ro 4:14',
 );
+$concordance['2818']['N-NPM'][] = array (
+  'word' => 'κληρονόμοι',
+  'spa' => 'herederos',
+  'morph' => 'N-NPM',
+  'ref' => 'ro 8:17',
+);
+$concordance['2818']['N-NPM'][] = array (
+  'word' => 'κληρονόμοι',
+  'spa' => 'herederos',
+  'morph' => 'N-NPM',
+  'ref' => 'ro 8:17',
+);
 $concordance['2822']['A-NSM'][] = array (
   'word' => 'κλητὸς',
   'spa' => 'llamado',
@@ -9539,6 +11417,12 @@ $concordance['2822']['A-DPM'][] = array (
   'spa' => 'llamados',
   'morph' => 'A-DPM',
   'ref' => 'ro 1:7',
+);
+$concordance['2822']['A-DPM'][] = array (
+  'word' => 'κλητοῖς',
+  'spa' => 'llamados',
+  'morph' => 'A-DPM',
+  'ref' => 'ro 8:28',
 );
 $concordance['2889']['N-DSM'][] = array (
   'word' => 'κόσμῳ',
@@ -9581,6 +11465,12 @@ $concordance['2889']['N-NSM'][] = array (
   'spa' => 'mundo',
   'morph' => 'N-NSM',
   'ref' => 'ro 3:19',
+);
+$concordance['2896']['V-PAI-1P'][] = array (
+  'word' => 'κράζομεν',
+  'spa' => 'gritamos',
+  'morph' => 'V-PAI-1P',
+  'ref' => 'ro 8:15',
 );
 $concordance['2917']['N-NSN'][] = array (
   'word' => 'κρίμα',
@@ -9690,11 +11580,41 @@ $concordance['2937']['N-GSF'][] = array (
   'morph' => 'N-GSF',
   'ref' => 'ro 1:20',
 );
+$concordance['2937']['N-GSF'][] = array (
+  'word' => 'κτίσεως',
+  'spa' => 'creación',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:19',
+);
 $concordance['2937']['N-DSF'][] = array (
   'word' => 'κτίσει',
   'spa' => 'creación',
   'morph' => 'N-DSF',
   'ref' => 'ro 1:25',
+);
+$concordance['2937']['N-NSF'][] = array (
+  'word' => 'κτίσις',
+  'spa' => 'creación',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:20',
+);
+$concordance['2937']['N-NSF'][] = array (
+  'word' => 'κτίσις',
+  'spa' => 'creación',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:21',
+);
+$concordance['2937']['N-NSF'][] = array (
+  'word' => 'κτίσις',
+  'spa' => 'creación',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:22',
+);
+$concordance['2937']['N-NSF'][] = array (
+  'word' => 'κτίσις',
+  'spa' => 'creación',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:39',
 );
 $concordance['2961']['V-PAI-3S'][] = array (
   'word' => 'κυριεύει',
@@ -9768,6 +11688,12 @@ $concordance['2962']['N-DSM'][] = array (
   'morph' => 'N-DSM',
   'ref' => 'ro 6:23',
 );
+$concordance['2962']['N-DSM'][] = array (
+  'word' => 'κυρίῳ',
+  'spa' => 'Señor',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:39',
+);
 $concordance['2967']['V-API-1S'][] = array (
   'word' => 'ἐκωλύθην',
   'spa' => 'fui impedido',
@@ -9821,6 +11747,18 @@ $concordance['2983']['V-2AAP-NSF'][] = array (
   'spa' => 'habiendo tomado',
   'morph' => 'V-2AAP-NSF',
   'ref' => 'ro 7:11',
+);
+$concordance['2983']['V-2AAI-2P'][] = array (
+  'word' => 'ἐλάβετε',
+  'spa' => 'recibieron',
+  'morph' => 'V-2AAI-2P',
+  'ref' => 'ro 8:15',
+);
+$concordance['2983']['V-2AAI-2P'][] = array (
+  'word' => 'ἐλάβετε',
+  'spa' => 'recibieron',
+  'morph' => 'V-2AAI-2P',
+  'ref' => 'ro 8:15',
 );
 $concordance['2995']['N-NSM'][] = array (
   'word' => 'λάρυγξ',
@@ -9894,9 +11832,15 @@ $concordance['3004']['V-IAI-3S'][] = array (
   'morph' => 'V-IAI-3S',
   'ref' => 'ro 7:7',
 );
+$concordance['3042']['N-NSM'][] = array (
+  'word' => 'λιμὸς',
+  'spa' => 'hambre',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:35',
+);
 $concordance['3049']['V-PMI-2S'][] = array (
   'word' => 'λογίζῃ',
-  'spa' => 'piensas',
+  'spa' => 'tienes en cuenta',
   'morph' => 'V-PMI-2S',
   'ref' => 'ro 2:3',
 );
@@ -9908,7 +11852,7 @@ $concordance['3049']['V-FPI-3S'][] = array (
 );
 $concordance['3049']['V-PMI-1P'][] = array (
   'word' => 'λογιζόμεθα',
-  'spa' => 'pensamos',
+  'spa' => 'tenemos en cuenta',
   'morph' => 'V-PMI-1P',
   'ref' => 'ro 3:28',
 );
@@ -9983,6 +11927,18 @@ $concordance['3049']['V-PMM-2P'][] = array (
   'spa' => 'tengan en cuenta',
   'morph' => 'V-PMM-2P',
   'ref' => 'ro 6:11',
+);
+$concordance['3049']['V-PMI-1S'][] = array (
+  'word' => 'Λογίζομαι',
+  'spa' => 'Tengo en cuenta',
+  'morph' => 'V-PMI-1S',
+  'ref' => 'ro 8:18',
+);
+$concordance['3049']['V-API-1P'][] = array (
+  'word' => 'ἐλογίσθημεν',
+  'spa' => 'somos tenidos en cuenta',
+  'morph' => 'V-API-1P',
+  'ref' => 'ro 8:36',
 );
 $concordance['3051']['N-APN'][] = array (
   'word' => 'λόγια',
@@ -10062,6 +12018,12 @@ $concordance['3123']['ADV'][] = array (
   'morph' => 'ADV',
   'ref' => 'ro 5:17',
 );
+$concordance['3123']['ADV'][] = array (
+  'word' => 'μᾶλλον',
+  'spa' => 'más',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:34',
+);
 $concordance['3140']['V-PPP-NSF'][] = array (
   'word' => 'μαρτυρουμένη',
   'spa' => 'testificada',
@@ -10074,11 +12036,23 @@ $concordance['3144']['N-NSM'][] = array (
   'morph' => 'N-NSM',
   'ref' => 'ro 1:9',
 );
+$concordance['3153']['N-DSF'][] = array (
+  'word' => 'ματαιότητι',
+  'spa' => 'vanidad',
+  'morph' => 'N-DSF',
+  'ref' => 'ro 8:20',
+);
 $concordance['3154']['V-API-3P'][] = array (
   'word' => 'ἐματαιώθησαν',
   'spa' => 'fueron hechos vanos',
   'morph' => 'V-API-3P',
   'ref' => 'ro 1:21',
+);
+$concordance['3162']['N-NSF'][] = array (
+  'word' => 'μάχαιρα',
+  'spa' => 'espada',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:35',
 );
 $concordance['3165']['P-1AS'][] = array (
   'word' => 'με',
@@ -10109,6 +12083,24 @@ $concordance['3195']['V-PAP-GSM'][] = array (
   'spa' => 'estando a punto de suceder',
   'morph' => 'V-PAP-GSM',
   'ref' => 'ro 5:14',
+);
+$concordance['3195']['V-PAI-2P'][] = array (
+  'word' => 'μέλλετε',
+  'spa' => 'están a punto de',
+  'morph' => 'V-PAI-2P',
+  'ref' => 'ro 8:13',
+);
+$concordance['3195']['V-PAP-ASF'][] = array (
+  'word' => 'μέλλουσαν',
+  'spa' => 'que está apunto de',
+  'morph' => 'V-PAP-ASF',
+  'ref' => 'ro 8:18',
+);
+$concordance['3195']['V-PAP-NPN'][] = array (
+  'word' => 'μέλλοντα',
+  'spa' => 'lo que está a punto ser',
+  'morph' => 'V-PAP-NPN',
+  'ref' => 'ro 8:38',
 );
 $concordance['3196']['N-APN'][] = array (
   'word' => 'μέλη',
@@ -10199,6 +12191,18 @@ $concordance['3303']['PRT'][] = array (
   'spa' => 'pues',
   'morph' => 'PRT',
   'ref' => 'ro 7:25',
+);
+$concordance['3303']['PRT'][] = array (
+  'word' => 'μὲν',
+  'spa' => 'ciertamente',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:10',
+);
+$concordance['3303']['PRT'][] = array (
+  'word' => 'μὲν',
+  'spa' => 'pues',
+  'morph' => 'PRT',
+  'ref' => 'ro 8:17',
 );
 $concordance['3324']['A-APM'][] = array (
   'word' => 'μεστοὺς',
@@ -10392,6 +12396,12 @@ $concordance['3361']['PRT-N'][] = array (
   'morph' => 'PRT-N',
   'ref' => 'ro 7:13',
 );
+$concordance['3361']['PRT-N'][] = array (
+  'word' => 'μὴ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:4',
+);
 $concordance['3366']['CONJ'][] = array (
   'word' => 'μηδὲ',
   'spa' => 'ní',
@@ -10518,6 +12528,12 @@ $concordance['3440']['ADV'][] = array (
   'morph' => 'ADV',
   'ref' => 'ro 5:11',
 );
+$concordance['3440']['ADV'][] = array (
+  'word' => 'μόνον',
+  'spa' => 'sólo',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:23',
+);
 $concordance['3446']['N-ASF'][] = array (
   'word' => 'μόρφωσιν',
   'spa' => 'forma',
@@ -10638,6 +12654,18 @@ $concordance['3498']['A-GPM'][] = array (
   'morph' => 'A-GPM',
   'ref' => 'ro 7:4',
 );
+$concordance['3498']['A-GPM'][] = array (
+  'word' => 'νεκρῶν',
+  'spa' => 'muertos',
+  'morph' => 'A-GPM',
+  'ref' => 'ro 8:11',
+);
+$concordance['3498']['A-GPM'][] = array (
+  'word' => 'νεκρῶν',
+  'spa' => 'muertos',
+  'morph' => 'A-GPM',
+  'ref' => 'ro 8:11',
+);
 $concordance['3498']['A-APM'][] = array (
   'word' => 'νεκροὺς',
   'spa' => 'muertos',
@@ -10655,6 +12683,12 @@ $concordance['3498']['A-NSF'][] = array (
   'spa' => 'muerto',
   'morph' => 'A-NSF',
   'ref' => 'ro 7:8',
+);
+$concordance['3498']['A-NSN'][] = array (
+  'word' => 'νεκρὸν',
+  'spa' => 'muerto',
+  'morph' => 'A-NSN',
+  'ref' => 'ro 8:10',
 );
 $concordance['3499']['V-RPP-ASN'][] = array (
   'word' => 'νενεκρωμένον',
@@ -10763,6 +12797,12 @@ $concordance['3551']['N-DSM'][] = array (
   'spa' => 'a la ley',
   'morph' => 'N-DSM',
   'ref' => 'ro 7:25',
+);
+$concordance['3551']['N-DSM'][] = array (
+  'word' => 'νόμῳ',
+  'spa' => 'ley',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:7',
 );
 $concordance['3551']['N-GSM'][] = array (
   'word' => 'νόμου',
@@ -10938,6 +12978,24 @@ $concordance['3551']['N-GSM'][] = array (
   'morph' => 'N-GSM',
   'ref' => 'ro 7:9',
 );
+$concordance['3551']['N-GSM'][] = array (
+  'word' => 'νόμου',
+  'spa' => 'ley',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:2',
+);
+$concordance['3551']['N-GSM'][] = array (
+  'word' => 'νόμου',
+  'spa' => 'ley',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:3',
+);
+$concordance['3551']['N-GSM'][] = array (
+  'word' => 'νόμου',
+  'spa' => 'ley',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:4',
+);
 $concordance['3551']['N-ASM'][] = array (
   'word' => 'νόμον',
   'spa' => 'ley',
@@ -11064,6 +13122,12 @@ $concordance['3551']['N-NSM'][] = array (
   'morph' => 'N-NSM',
   'ref' => 'ro 7:14',
 );
+$concordance['3551']['N-NSM'][] = array (
+  'word' => 'νόμος',
+  'spa' => 'ley',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:2',
+);
 $concordance['3563']['N-ASM'][] = array (
   'word' => 'νοῦν',
   'spa' => 'mente',
@@ -11111,6 +13175,24 @@ $concordance['3568']['ADV'][] = array (
   'spa' => 'ahora',
   'morph' => 'ADV',
   'ref' => 'ro 6:21',
+);
+$concordance['3568']['ADV'][] = array (
+  'word' => 'νῦν',
+  'spa' => 'ahora',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:1',
+);
+$concordance['3568']['ADV'][] = array (
+  'word' => 'νῦν',
+  'spa' => 'ahora',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:18',
+);
+$concordance['3568']['ADV'][] = array (
+  'word' => 'νῦν',
+  'spa' => 'ahora',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:22',
 );
 $concordance['3570']['ADV'][] = array (
   'word' => 'Νυνὶ',
@@ -11183,6 +13265,12 @@ $concordance['3588']['T-GPM'][] = array (
   'spa' => 'los',
   'morph' => 'T-GPM',
   'ref' => 'ro 4:11',
+);
+$concordance['3588']['T-GPM'][] = array (
+  'word' => 'τῶν',
+  'spa' => 'de los',
+  'morph' => 'T-GPM',
+  'ref' => 'ro 8:19',
 );
 $concordance['3588']['T-GSM'][] = array (
   'word' => 'τοῦ',
@@ -11610,6 +13698,114 @@ $concordance['3588']['T-GSM'][] = array (
   'morph' => 'T-GSM',
   'ref' => 'ro 7:25',
 );
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'la',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:2',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'de la',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:2',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'de la',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:3',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'de la',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:4',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'de',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:7',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'el',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:11',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'el',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:11',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'para',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:12',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:18',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'de',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:19',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'de',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:21',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'el',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:22',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:29',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'al',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:32',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'de',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:34',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:35',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:37',
+);
+$concordance['3588']['T-GSM'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'de',
+  'morph' => 'T-GSM',
+  'ref' => 'ro 8:39',
+);
 $concordance['3588']['T-DPN'][] = array (
   'word' => 'τοῖς',
   'spa' => 'las',
@@ -11694,6 +13890,48 @@ $concordance['3588']['T-GSN'][] = array (
   'morph' => 'T-GSN',
   'ref' => 'ro 7:24',
 );
+$concordance['3588']['T-GSN'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSN',
+  'ref' => 'ro 8:2',
+);
+$concordance['3588']['T-GSN'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSN',
+  'ref' => 'ro 8:5',
+);
+$concordance['3588']['T-GSN'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSN',
+  'ref' => 'ro 8:6',
+);
+$concordance['3588']['T-GSN'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSN',
+  'ref' => 'ro 8:13',
+);
+$concordance['3588']['T-GSN'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSN',
+  'ref' => 'ro 8:23',
+);
+$concordance['3588']['T-GSN'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSN',
+  'ref' => 'ro 8:23',
+);
+$concordance['3588']['T-GSN'][] = array (
+  'word' => 'τοῦ',
+  'spa' => 'del',
+  'morph' => 'T-GSN',
+  'ref' => 'ro 8:27',
+);
 $concordance['3588']['T-DPM'][] = array (
   'word' => 'τοῖς',
   'spa' => 'los',
@@ -11759,6 +13997,30 @@ $concordance['3588']['T-DPM'][] = array (
   'spa' => 'los',
   'morph' => 'T-DPM',
   'ref' => 'ro 4:24',
+);
+$concordance['3588']['T-DPM'][] = array (
+  'word' => 'τοῖς',
+  'spa' => 'a los',
+  'morph' => 'T-DPM',
+  'ref' => 'ro 8:1',
+);
+$concordance['3588']['T-DPM'][] = array (
+  'word' => 'τοῖς',
+  'spa' => 'los',
+  'morph' => 'T-DPM',
+  'ref' => 'ro 8:4',
+);
+$concordance['3588']['T-DPM'][] = array (
+  'word' => 'τοῖς',
+  'spa' => 'a los',
+  'morph' => 'T-DPM',
+  'ref' => 'ro 8:28',
+);
+$concordance['3588']['T-DPM'][] = array (
+  'word' => 'τοῖς',
+  'spa' => 'a los',
+  'morph' => 'T-DPM',
+  'ref' => 'ro 8:28',
 );
 $concordance['3588']['T-DSM'][] = array (
   'word' => 'τῷ',
@@ -11930,7 +14192,7 @@ $concordance['3588']['T-DSM'][] = array (
 );
 $concordance['3588']['T-DSM'][] = array (
   'word' => 'τῷ',
-  'spa' => 'a la',
+  'spa' => 'para la',
   'morph' => 'T-DSM',
   'ref' => 'ro 7:4',
 );
@@ -11999,6 +14261,18 @@ $concordance['3588']['T-DSM'][] = array (
   'spa' => 'en',
   'morph' => 'T-DSM',
   'ref' => 'ro 7:25',
+);
+$concordance['3588']['T-DSM'][] = array (
+  'word' => 'τῷ',
+  'spa' => 'a la',
+  'morph' => 'T-DSM',
+  'ref' => 'ro 8:7',
+);
+$concordance['3588']['T-DSM'][] = array (
+  'word' => 'τῷ',
+  'spa' => 'el',
+  'morph' => 'T-DSM',
+  'ref' => 'ro 8:39',
 );
 $concordance['3588']['T-NSF'][] = array (
   'word' => 'ἡ',
@@ -12263,6 +14537,30 @@ $concordance['3588']['T-NSF'][] = array (
   'spa' => 'el',
   'morph' => 'T-NSF',
   'ref' => 'ro 7:20',
+);
+$concordance['3588']['T-NSF'][] = array (
+  'word' => 'ἡ',
+  'spa' => 'el',
+  'morph' => 'T-NSF',
+  'ref' => 'ro 8:19',
+);
+$concordance['3588']['T-NSF'][] = array (
+  'word' => 'ἡ',
+  'spa' => 'la',
+  'morph' => 'T-NSF',
+  'ref' => 'ro 8:20',
+);
+$concordance['3588']['T-NSF'][] = array (
+  'word' => 'ἡ',
+  'spa' => 'la',
+  'morph' => 'T-NSF',
+  'ref' => 'ro 8:21',
+);
+$concordance['3588']['T-NSF'][] = array (
+  'word' => 'ἡ',
+  'spa' => 'la',
+  'morph' => 'T-NSF',
+  'ref' => 'ro 8:22',
 );
 $concordance['3588']['T-NSM'][] = array (
   'word' => 'ὁ',
@@ -12546,6 +14844,60 @@ $concordance['3588']['T-NSM'][] = array (
   'morph' => 'T-NSM',
   'ref' => 'ro 7:14',
 );
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'la',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:2',
+);
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'el',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:3',
+);
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'el',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:11',
+);
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'el',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:15',
+);
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'el',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:27',
+);
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'el',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:31',
+);
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'el',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:33',
+);
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'el',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:34',
+);
+$concordance['3588']['T-NSM'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'el',
+  'morph' => 'T-NSM',
+  'ref' => 'ro 8:34',
+);
 $concordance['3588']['T-DSN'][] = array (
   'word' => 'τῷ',
   'spa' => 'el',
@@ -12659,6 +15011,12 @@ $concordance['3588']['T-DSN'][] = array (
   'spa' => 'el',
   'morph' => 'T-DSN',
   'ref' => 'ro 6:12',
+);
+$concordance['3588']['T-DSN'][] = array (
+  'word' => 'τῷ',
+  'spa' => 'al',
+  'morph' => 'T-DSN',
+  'ref' => 'ro 8:16',
 );
 $concordance['3588']['T-GPF'][] = array (
   'word' => 'τῶν',
@@ -12815,6 +15173,24 @@ $concordance['3588']['T-ASN'][] = array (
   'spa' => 'lo',
   'morph' => 'T-ASN',
   'ref' => 'ro 7:21',
+);
+$concordance['3588']['T-ASN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'la',
+  'morph' => 'T-ASN',
+  'ref' => 'ro 8:4',
+);
+$concordance['3588']['T-ASN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'lo',
+  'morph' => 'T-ASN',
+  'ref' => 'ro 8:26',
+);
+$concordance['3588']['T-ASN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'el',
+  'morph' => 'T-ASN',
+  'ref' => 'ro 8:29',
 );
 $concordance['3588']['T-GSF'][] = array (
   'word' => 'τῆς',
@@ -13098,6 +15474,90 @@ $concordance['3588']['T-GSF'][] = array (
   'morph' => 'T-GSF',
   'ref' => 'ro 7:23',
 );
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:2',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'del',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:2',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:3',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:5',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:6',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:7',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:19',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:21',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:21',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:21',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'de la',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:29',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'el',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:35',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'el',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:39',
+);
+$concordance['3588']['T-GSF'][] = array (
+  'word' => 'τῆς',
+  'spa' => 'el',
+  'morph' => 'T-GSF',
+  'ref' => 'ro 8:39',
+);
 $concordance['3588']['T-NSN'][] = array (
   'word' => 'τὸ',
   'spa' => 'lo',
@@ -13235,6 +15695,72 @@ $concordance['3588']['T-NSN'][] = array (
   'spa' => 'lo',
   'morph' => 'T-NSN',
   'ref' => 'ro 7:21',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'Τὸ',
+  'spa' => 'lo',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:3',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'la',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:6',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'la',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:6',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'la',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:7',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'el',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:10',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'el',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:10',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'el',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:11',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'el',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:16',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'el',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:26',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'el',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:26',
+);
+$concordance['3588']['T-NSN'][] = array (
+  'word' => 'τὸ',
+  'spa' => 'la',
+  'morph' => 'T-NSN',
+  'ref' => 'ro 8:27',
 );
 $concordance['3588']['T-ASF'][] = array (
   'word' => 'τὴν',
@@ -13428,6 +15954,48 @@ $concordance['3588']['T-ASF'][] = array (
   'morph' => 'T-ASF',
   'ref' => 'ro 7:14',
 );
+$concordance['3588']['T-ASF'][] = array (
+  'word' => 'τὴν',
+  'spa' => 'al',
+  'morph' => 'T-ASF',
+  'ref' => 'ro 8:3',
+);
+$concordance['3588']['T-ASF'][] = array (
+  'word' => 'τὴν',
+  'spa' => 'a la',
+  'morph' => 'T-ASF',
+  'ref' => 'ro 8:18',
+);
+$concordance['3588']['T-ASF'][] = array (
+  'word' => 'τὴν',
+  'spa' => 'la',
+  'morph' => 'T-ASF',
+  'ref' => 'ro 8:19',
+);
+$concordance['3588']['T-ASF'][] = array (
+  'word' => 'τὴν',
+  'spa' => 'la',
+  'morph' => 'T-ASF',
+  'ref' => 'ro 8:21',
+);
+$concordance['3588']['T-ASF'][] = array (
+  'word' => 'τὴν',
+  'spa' => 'el',
+  'morph' => 'T-ASF',
+  'ref' => 'ro 8:23',
+);
+$concordance['3588']['T-ASF'][] = array (
+  'word' => 'τὴν',
+  'spa' => 'la',
+  'morph' => 'T-ASF',
+  'ref' => 'ro 8:23',
+);
+$concordance['3588']['T-ASF'][] = array (
+  'word' => 'τὴν',
+  'spa' => 'el',
+  'morph' => 'T-ASF',
+  'ref' => 'ro 8:36',
+);
 $concordance['3588']['T-NPN'][] = array (
   'word' => 'τὰ',
   'spa' => 'las cosas',
@@ -13463,6 +16031,12 @@ $concordance['3588']['T-NPN'][] = array (
   'spa' => 'las',
   'morph' => 'T-NPN',
   'ref' => 'ro 7:5',
+);
+$concordance['3588']['T-NPN'][] = array (
+  'word' => 'τὰ',
+  'spa' => 'los',
+  'morph' => 'T-NPN',
+  'ref' => 'ro 8:18',
 );
 $concordance['3588']['T-ASM'][] = array (
   'word' => 'τὸν',
@@ -13601,6 +16175,30 @@ $concordance['3588']['T-ASM'][] = array (
   'spa' => 'el',
   'morph' => 'T-ASM',
   'ref' => 'ro 7:22',
+);
+$concordance['3588']['T-ASM'][] = array (
+  'word' => 'τὸν',
+  'spa' => 'al',
+  'morph' => 'T-ASM',
+  'ref' => 'ro 8:3',
+);
+$concordance['3588']['T-ASM'][] = array (
+  'word' => 'τὸν',
+  'spa' => 'a',
+  'morph' => 'T-ASM',
+  'ref' => 'ro 8:11',
+);
+$concordance['3588']['T-ASM'][] = array (
+  'word' => 'τὸν',
+  'spa' => 'el',
+  'morph' => 'T-ASM',
+  'ref' => 'ro 8:20',
+);
+$concordance['3588']['T-ASM'][] = array (
+  'word' => 'τὸν',
+  'spa' => 'a',
+  'morph' => 'T-ASM',
+  'ref' => 'ro 8:28',
 );
 $concordance['3588']['T-DPF'][] = array (
   'word' => 'ταῖς',
@@ -13770,6 +16368,30 @@ $concordance['3588']['T-APN'][] = array (
   'morph' => 'T-APN',
   'ref' => 'ro 6:19',
 );
+$concordance['3588']['T-APN'][] = array (
+  'word' => 'τὰ',
+  'spa' => 'las cosas',
+  'morph' => 'T-APN',
+  'ref' => 'ro 8:5',
+);
+$concordance['3588']['T-APN'][] = array (
+  'word' => 'τὰ',
+  'spa' => 'las cosas',
+  'morph' => 'T-APN',
+  'ref' => 'ro 8:5',
+);
+$concordance['3588']['T-APN'][] = array (
+  'word' => 'τὰ',
+  'spa' => 'a los',
+  'morph' => 'T-APN',
+  'ref' => 'ro 8:11',
+);
+$concordance['3588']['T-APN'][] = array (
+  'word' => 'τὰ',
+  'spa' => 'las',
+  'morph' => 'T-APN',
+  'ref' => 'ro 8:32',
+);
 $concordance['3588']['T-DSF'][] = array (
   'word' => 'τῇ',
   'spa' => 'a la',
@@ -13932,6 +16554,36 @@ $concordance['3588']['T-DSF'][] = array (
   'morph' => 'T-DSF',
   'ref' => 'ro 7:25',
 );
+$concordance['3588']['T-DSF'][] = array (
+  'word' => 'τῇ',
+  'spa' => 'la',
+  'morph' => 'T-DSF',
+  'ref' => 'ro 8:3',
+);
+$concordance['3588']['T-DSF'][] = array (
+  'word' => 'τῇ',
+  'spa' => 'a la',
+  'morph' => 'T-DSF',
+  'ref' => 'ro 8:12',
+);
+$concordance['3588']['T-DSF'][] = array (
+  'word' => 'τῇ',
+  'spa' => 'a',
+  'morph' => 'T-DSF',
+  'ref' => 'ro 8:20',
+);
+$concordance['3588']['T-DSF'][] = array (
+  'word' => 'τῇ',
+  'spa' => 'en',
+  'morph' => 'T-DSF',
+  'ref' => 'ro 8:24',
+);
+$concordance['3588']['T-DSF'][] = array (
+  'word' => 'τῇ',
+  'spa' => 'la',
+  'morph' => 'T-DSF',
+  'ref' => 'ro 8:26',
+);
 $concordance['3588']['T-APM'][] = array (
   'word' => 'τοὺς',
   'spa' => 'las',
@@ -14052,6 +16704,24 @@ $concordance['3588']['T-NPM'][] = array (
   'morph' => 'T-NPM',
   'ref' => 'ro 5:19',
 );
+$concordance['3588']['T-NPM'][] = array (
+  'word' => 'οἱ',
+  'spa' => 'los',
+  'morph' => 'T-NPM',
+  'ref' => 'ro 8:5',
+);
+$concordance['3588']['T-NPM'][] = array (
+  'word' => 'οἱ',
+  'spa' => 'los',
+  'morph' => 'T-NPM',
+  'ref' => 'ro 8:5',
+);
+$concordance['3588']['T-NPM'][] = array (
+  'word' => 'οἱ',
+  'spa' => 'los',
+  'morph' => 'T-NPM',
+  'ref' => 'ro 8:8',
+);
 $concordance['3588']['T-GPN'][] = array (
   'word' => 'τῶν',
   'spa' => 'los',
@@ -14063,6 +16733,24 @@ $concordance['3588']['T-GPN'][] = array (
   'spa' => 'de las',
   'morph' => 'T-GPN',
   'ref' => 'ro 3:27',
+);
+$concordance['3588']['T-GPN'][] = array (
+  'word' => 'τῶν',
+  'spa' => 'de los',
+  'morph' => 'T-GPN',
+  'ref' => 'ro 8:21',
+);
+$concordance['3588']['T-APF'][] = array (
+  'word' => 'τὰς',
+  'spa' => 'las',
+  'morph' => 'T-APF',
+  'ref' => 'ro 8:13',
+);
+$concordance['3588']['T-APF'][] = array (
+  'word' => 'τὰς',
+  'spa' => 'los',
+  'morph' => 'T-APF',
+  'ref' => 'ro 8:27',
 );
 $concordance['3595']['N-ASM'][] = array (
   'word' => 'ὁδηγὸν',
@@ -14100,11 +16788,29 @@ $concordance['3611']['V-PAI-3S'][] = array (
   'morph' => 'V-PAI-3S',
   'ref' => 'ro 7:18',
 );
+$concordance['3611']['V-PAI-3S'][] = array (
+  'word' => 'οἰκεῖ',
+  'spa' => 'habita',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:9',
+);
+$concordance['3611']['V-PAI-3S'][] = array (
+  'word' => 'οἰκεῖ',
+  'spa' => 'habita',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:11',
+);
 $concordance['3650']['A-DSM'][] = array (
   'word' => 'ὅλῳ',
   'spa' => 'todo',
   'morph' => 'A-DSM',
   'ref' => 'ro 1:8',
+);
+$concordance['3650']['A-ASF'][] = array (
+  'word' => 'ὅλην',
+  'spa' => 'todo',
+  'morph' => 'A-ASF',
+  'ref' => 'ro 8:36',
 );
 $concordance['3667']['N-DSN'][] = array (
   'word' => 'ὁμοιώματι',
@@ -14123,6 +16829,12 @@ $concordance['3667']['N-DSN'][] = array (
   'spa' => 'semejanza',
   'morph' => 'N-DSN',
   'ref' => 'ro 6:5',
+);
+$concordance['3667']['N-DSN'][] = array (
+  'word' => 'ὁμοιώματι',
+  'spa' => 'semejanza',
+  'morph' => 'N-DSN',
+  'ref' => 'ro 8:3',
 );
 $concordance['3668']['ADV'][] = array (
   'word' => 'ὁμοίως',
@@ -14286,6 +16998,18 @@ $concordance['3739']['R-ASN'][] = array (
   'morph' => 'R-ASN',
   'ref' => 'ro 7:20',
 );
+$concordance['3739']['R-ASN'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'lo que',
+  'morph' => 'R-ASN',
+  'ref' => 'ro 8:24',
+);
+$concordance['3739']['R-ASN'][] = array (
+  'word' => 'ὁ',
+  'spa' => 'lo que',
+  'morph' => 'R-ASN',
+  'ref' => 'ro 8:25',
+);
 $concordance['3739']['R-GSM'][] = array (
   'word' => 'οὗ',
   'spa' => 'de quien',
@@ -14394,6 +17118,24 @@ $concordance['3739']['R-NSM'][] = array (
   'morph' => 'R-NSM',
   'ref' => 'ro 5:14',
 );
+$concordance['3739']['R-NSM'][] = array (
+  'word' => 'ὅς',
+  'spa' => 'quien',
+  'morph' => 'R-NSM',
+  'ref' => 'ro 8:32',
+);
+$concordance['3739']['R-NSM'][] = array (
+  'word' => 'ὁς',
+  'spa' => 'quien',
+  'morph' => 'R-NSM',
+  'ref' => 'ro 8:34',
+);
+$concordance['3739']['R-NSM'][] = array (
+  'word' => 'ὃς',
+  'spa' => 'quien',
+  'morph' => 'R-NSM',
+  'ref' => 'ro 8:34',
+);
 $concordance['3739']['R-ASF'][] = array (
   'word' => 'ἣν',
   'spa' => 'la cual',
@@ -14423,6 +17165,18 @@ $concordance['3739']['R-DSN'][] = array (
   'spa' => 'a quien',
   'morph' => 'R-DSN',
   'ref' => 'ro 6:16',
+);
+$concordance['3739']['R-DSN'][] = array (
+  'word' => 'ᾧ',
+  'spa' => 'lo que',
+  'morph' => 'R-DSN',
+  'ref' => 'ro 8:3',
+);
+$concordance['3739']['R-DSN'][] = array (
+  'word' => 'ᾧ',
+  'spa' => 'el que',
+  'morph' => 'R-DSN',
+  'ref' => 'ro 8:15',
 );
 $concordance['3739']['R-GPM'][] = array (
   'word' => 'ὧν',
@@ -14472,6 +17226,30 @@ $concordance['3739']['R-DSF'][] = array (
   'morph' => 'R-DSF',
   'ref' => 'ro 5:2',
 );
+$concordance['3739']['R-APM'][] = array (
+  'word' => 'οὓς',
+  'spa' => 'a los que',
+  'morph' => 'R-APM',
+  'ref' => 'ro 8:29',
+);
+$concordance['3739']['R-APM'][] = array (
+  'word' => 'οὓς',
+  'spa' => 'a los que',
+  'morph' => 'R-APM',
+  'ref' => 'ro 8:30',
+);
+$concordance['3739']['R-APM'][] = array (
+  'word' => 'οὓς',
+  'spa' => 'a los que',
+  'morph' => 'R-APM',
+  'ref' => 'ro 8:30',
+);
+$concordance['3739']['R-APM'][] = array (
+  'word' => 'οὓς',
+  'spa' => 'a los que',
+  'morph' => 'R-APM',
+  'ref' => 'ro 8:30',
+);
 $concordance['3745']['K-NPM'][] = array (
   'word' => 'Ὅσοι',
   'spa' => 'Los que',
@@ -14489,6 +17267,12 @@ $concordance['3745']['K-NPM'][] = array (
   'spa' => 'los que',
   'morph' => 'K-NPM',
   'ref' => 'ro 6:3',
+);
+$concordance['3745']['K-NPM'][] = array (
+  'word' => 'ὅσοι',
+  'spa' => 'los que',
+  'morph' => 'K-NPM',
+  'ref' => 'ro 8:14',
 );
 $concordance['3745']['K-APN'][] = array (
   'word' => 'ὅσα',
@@ -14717,6 +17501,60 @@ $concordance['3754']['CONJ'][] = array (
   'spa' => 'que',
   'morph' => 'CONJ',
   'ref' => 'ro 7:21',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:16',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:18',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:21',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:22',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:27',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:28',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'porque',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:29',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:36',
+);
+$concordance['3754']['CONJ'][] = array (
+  'word' => 'ὅτι',
+  'spa' => 'que',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
 );
 $concordance['3756']['PRT-N'][] = array (
   'word' => 'οὐ',
@@ -15048,6 +17886,90 @@ $concordance['3756']['PRT-N'][] = array (
   'morph' => 'PRT-N',
   'ref' => 'ro 7:20',
 );
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐχ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:7',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:8',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐκ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:9',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐκ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:9',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐκ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:9',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:12',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:15',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐκ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:18',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐχ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:20',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:23',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐκ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:24',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:25',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'ουκ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:26',
+);
+$concordance['3756']['PRT-N'][] = array (
+  'word' => 'οὐκ',
+  'spa' => 'no',
+  'morph' => 'PRT-N',
+  'ref' => 'ro 8:32',
+);
 $concordance['3757']['ADV'][] = array (
   'word' => 'οὗ',
   'spa' => 'donde',
@@ -15078,9 +18000,15 @@ $concordance['3761']['ADV'][] = array (
   'morph' => 'ADV',
   'ref' => 'ro 4:15',
 );
+$concordance['3761']['ADV'][] = array (
+  'word' => 'οὐδὲ',
+  'spa' => 'tampoco',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:7',
+);
 $concordance['3762']['A-NSN'][] = array (
   'word' => 'Οὐδὲν',
-  'spa' => '-',
+  'spa' => 'Ninguna',
   'morph' => 'A-NSN',
   'ref' => 'ro 8:1',
 );
@@ -15234,11 +18162,83 @@ $concordance['3767']['CONJ'][] = array (
   'morph' => 'CONJ',
   'ref' => 'ro 7:25',
 );
+$concordance['3767']['CONJ'][] = array (
+  'word' => 'οὖν',
+  'spa' => 'pues',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:12',
+);
+$concordance['3767']['CONJ'][] = array (
+  'word' => 'οὖν',
+  'spa' => 'pues',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:31',
+);
 $concordance['3772']['N-GSM'][] = array (
   'word' => 'οὐρανοῦ',
   'spa' => 'el cielo',
   'morph' => 'N-GSM',
   'ref' => 'ro 1:18',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:38',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:39',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:39',
+);
+$concordance['3777']['CONJ'][] = array (
+  'word' => 'οὔτε',
+  'spa' => 'ni',
+  'morph' => 'CONJ',
+  'ref' => 'ro 8:39',
 );
 $concordance['3778']['D-NPM'][] = array (
   'word' => 'οὗτοι',
@@ -15246,11 +18246,23 @@ $concordance['3778']['D-NPM'][] = array (
   'morph' => 'D-NPM',
   'ref' => 'ro 2:14',
 );
+$concordance['3778']['D-NPM'][] = array (
+  'word' => 'οὗτοι',
+  'spa' => 'estos',
+  'morph' => 'D-NPM',
+  'ref' => 'ro 8:14',
+);
 $concordance['3778']['D-NSM'][] = array (
   'word' => 'οὗτος',
   'spa' => 'esta',
   'morph' => 'D-NSM',
   'ref' => 'ro 4:9',
+);
+$concordance['3778']['D-NSM'][] = array (
+  'word' => 'οὗτος',
+  'spa' => 'éste',
+  'morph' => 'D-NSM',
+  'ref' => 'ro 8:9',
 );
 $concordance['3778']['D-ASF'][] = array (
   'word' => 'ταύτην',
@@ -15336,11 +18348,23 @@ $concordance['3780']['PRT-I'][] = array (
   'morph' => 'PRT-I',
   'ref' => 'ro 3:29',
 );
+$concordance['3780']['PRT-I'][] = array (
+  'word' => 'οὐχὶ',
+  'spa' => 'no',
+  'morph' => 'PRT-I',
+  'ref' => 'ro 8:32',
+);
 $concordance['3781']['N-NSM'][] = array (
   'word' => 'ὀφειλέτης',
   'spa' => 'deudor',
   'morph' => 'N-NSM',
   'ref' => 'ro 1:14',
+);
+$concordance['3781']['N-NPM'][] = array (
+  'word' => 'ὀφειλέται',
+  'spa' => 'deudores',
+  'morph' => 'N-NPM',
+  'ref' => 'ro 8:12',
 );
 $concordance['3783']['N-ASN'][] = array (
   'word' => 'ὀφείλημα',
@@ -15366,6 +18390,12 @@ $concordance['3804']['N-NPN'][] = array (
   'morph' => 'N-NPN',
   'ref' => 'ro 7:5',
 );
+$concordance['3804']['N-NPN'][] = array (
+  'word' => 'παθήματα',
+  'spa' => 'sufrimientos',
+  'morph' => 'N-NPN',
+  'ref' => 'ro 8:18',
+);
 $concordance['3806']['N-APN'][] = array (
   'word' => 'πάθη',
   'spa' => 'pasiones',
@@ -15389,6 +18419,12 @@ $concordance['3821']['N-DSF'][] = array (
   'spa' => 'en antigüedad',
   'morph' => 'N-DSF',
   'ref' => 'ro 7:6',
+);
+$concordance['3825']['ADV'][] = array (
+  'word' => 'πάλιν',
+  'spa' => 'de nuevo',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:15',
 );
 $concordance['3842']['ADV'][] = array (
   'word' => 'πάντοτε',
@@ -15479,6 +18515,12 @@ $concordance['3860']['V-AAI-3S'][] = array (
   'spa' => 'entregó',
   'morph' => 'V-AAI-3S',
   'ref' => 'ro 1:28',
+);
+$concordance['3860']['V-AAI-3S'][] = array (
+  'word' => 'παρέδωκεν',
+  'spa' => 'entregó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:32',
 );
 $concordance['3860']['V-API-3S'][] = array (
   'word' => 'παρεδόθη',
@@ -15600,6 +18642,12 @@ $concordance['3956']['A-DPN'][] = array (
   'morph' => 'A-DPN',
   'ref' => 'ro 1:5',
 );
+$concordance['3956']['A-DPN'][] = array (
+  'word' => 'πᾶσιν',
+  'spa' => 'todas',
+  'morph' => 'A-DPN',
+  'ref' => 'ro 8:37',
+);
 $concordance['3956']['A-DPM'][] = array (
   'word' => 'πᾶσιν',
   'spa' => 'a todos',
@@ -15623,6 +18671,12 @@ $concordance['3956']['A-GPM'][] = array (
   'spa' => 'de todos',
   'morph' => 'A-GPM',
   'ref' => 'ro 4:16',
+);
+$concordance['3956']['A-GPM'][] = array (
+  'word' => 'πάντων',
+  'spa' => 'todos',
+  'morph' => 'A-GPM',
+  'ref' => 'ro 8:32',
 );
 $concordance['3956']['A-DSM'][] = array (
   'word' => 'παντὶ',
@@ -15744,11 +18798,29 @@ $concordance['3956']['A-NSF'][] = array (
   'morph' => 'A-NSF',
   'ref' => 'ro 3:20',
 );
+$concordance['3956']['A-NSF'][] = array (
+  'word' => 'πᾶσα',
+  'spa' => 'toda',
+  'morph' => 'A-NSF',
+  'ref' => 'ro 8:22',
+);
 $concordance['3956']['A-DSN'][] = array (
   'word' => 'παντὶ',
   'spa' => 'para toda',
   'morph' => 'A-DSN',
   'ref' => 'ro 4:16',
+);
+$concordance['3956']['A-APN'][] = array (
+  'word' => 'πάντα',
+  'spa' => 'todas las cosas',
+  'morph' => 'A-APN',
+  'ref' => 'ro 8:28',
+);
+$concordance['3956']['A-APN'][] = array (
+  'word' => 'πάντα',
+  'spa' => 'todas las cosas',
+  'morph' => 'A-APN',
+  'ref' => 'ro 8:32',
 );
 $concordance['3962']['N-GSM'][] = array (
   'word' => 'πατρὸς',
@@ -15804,6 +18876,12 @@ $concordance['3962']['N-NSM'][] = array (
   'morph' => 'N-NSM',
   'ref' => 'ro 4:16',
 );
+$concordance['3962']['N-NSM'][] = array (
+  'word' => 'πατήρ',
+  'spa' => 'Padre',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:15',
+);
 $concordance['3972']['N-NSM'][] = array (
   'word' => 'Παῦλος',
   'spa' => 'Paulo',
@@ -15822,6 +18900,18 @@ $concordance['3982']['V-2RAI-2S'][] = array (
   'morph' => 'V-2RAI-2S',
   'ref' => 'ro 2:19',
 );
+$concordance['3982']['V-RPI-1S'][] = array (
+  'word' => 'πέπεισμαι',
+  'spa' => 'estoy persuadido',
+  'morph' => 'V-RPI-1S',
+  'ref' => 'ro 8:38',
+);
+$concordance['3992']['V-AAP-NSM'][] = array (
+  'word' => 'πέμψας',
+  'spa' => 'habiendo enviado',
+  'morph' => 'V-AAP-NSM',
+  'ref' => 'ro 8:3',
+);
 $concordance['4012']['PREP'][] = array (
   'word' => 'περὶ',
   'spa' => 'acerca de',
@@ -15834,11 +18924,23 @@ $concordance['4012']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 1:8',
 );
+$concordance['4012']['PREP'][] = array (
+  'word' => 'περὶ',
+  'spa' => 'acerca de',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:3',
+);
 $concordance['4043']['V-AAS-1P'][] = array (
   'word' => 'περιπατήσωμεν',
   'spa' => 'caminaremos',
   'morph' => 'V-AAS-1P',
   'ref' => 'ro 6:4',
+);
+$concordance['4043']['V-PAP-DPM'][] = array (
+  'word' => 'περιπατοῦσιν',
+  'spa' => 'caminan',
+  'morph' => 'V-PAP-DPM',
+  'ref' => 'ro 8:4',
 );
 $concordance['4050']['N-ASF'][] = array (
   'word' => 'περισσείαν',
@@ -16230,6 +19332,12 @@ $concordance['4137']['V-RPP-APM'][] = array (
   'morph' => 'V-RPP-APM',
   'ref' => 'ro 1:29',
 );
+$concordance['4137']['V-APS-3S'][] = array (
+  'word' => 'πληρωθῇ',
+  'spa' => 'se cumpliera',
+  'morph' => 'V-APS-3S',
+  'ref' => 'ro 8:4',
+);
 $concordance['4149']['N-GSM'][] = array (
   'word' => 'πλούτου',
   'spa' => 'riqueza',
@@ -16241,6 +19349,36 @@ $concordance['4151']['N-ASN'][] = array (
   'spa' => 'Espíritu',
   'morph' => 'N-ASN',
   'ref' => 'ro 1:4',
+);
+$concordance['4151']['N-ASN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'Espíritu',
+  'morph' => 'N-ASN',
+  'ref' => 'ro 8:4',
+);
+$concordance['4151']['N-ASN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'Espíritu',
+  'morph' => 'N-ASN',
+  'ref' => 'ro 8:5',
+);
+$concordance['4151']['N-ASN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'el Espíritu',
+  'morph' => 'N-ASN',
+  'ref' => 'ro 8:9',
+);
+$concordance['4151']['N-ASN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'espíritu',
+  'morph' => 'N-ASN',
+  'ref' => 'ro 8:15',
+);
+$concordance['4151']['N-ASN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'espíritu',
+  'morph' => 'N-ASN',
+  'ref' => 'ro 8:15',
 );
 $concordance['4151']['N-DSN'][] = array (
   'word' => 'πνεύματι',
@@ -16254,6 +19392,30 @@ $concordance['4151']['N-DSN'][] = array (
   'morph' => 'N-DSN',
   'ref' => 'ro 2:29',
 );
+$concordance['4151']['N-DSN'][] = array (
+  'word' => 'πνεύματι',
+  'spa' => 'el Espíritu',
+  'morph' => 'N-DSN',
+  'ref' => 'ro 8:9',
+);
+$concordance['4151']['N-DSN'][] = array (
+  'word' => 'πνεύματι',
+  'spa' => 'por el Espíritu',
+  'morph' => 'N-DSN',
+  'ref' => 'ro 8:13',
+);
+$concordance['4151']['N-DSN'][] = array (
+  'word' => 'πνεύματι',
+  'spa' => 'por el Espíritu',
+  'morph' => 'N-DSN',
+  'ref' => 'ro 8:14',
+);
+$concordance['4151']['N-DSN'][] = array (
+  'word' => 'πνεύματι',
+  'spa' => 'espíritu',
+  'morph' => 'N-DSN',
+  'ref' => 'ro 8:16',
+);
 $concordance['4151']['N-GSN'][] = array (
   'word' => 'πνεύματος',
   'spa' => 'del Espíritu',
@@ -16265,6 +19427,78 @@ $concordance['4151']['N-GSN'][] = array (
   'spa' => 'de espíritu',
   'morph' => 'N-GSN',
   'ref' => 'ro 7:6',
+);
+$concordance['4151']['N-GSN'][] = array (
+  'word' => 'πνεύματος',
+  'spa' => 'Espíritu',
+  'morph' => 'N-GSN',
+  'ref' => 'ro 8:2',
+);
+$concordance['4151']['N-GSN'][] = array (
+  'word' => 'πνεύματος',
+  'spa' => 'Espíritu',
+  'morph' => 'N-GSN',
+  'ref' => 'ro 8:5',
+);
+$concordance['4151']['N-GSN'][] = array (
+  'word' => 'πνεύματος',
+  'spa' => 'Espíritu',
+  'morph' => 'N-GSN',
+  'ref' => 'ro 8:6',
+);
+$concordance['4151']['N-GSN'][] = array (
+  'word' => 'πνεύματος',
+  'spa' => 'Espíritu',
+  'morph' => 'N-GSN',
+  'ref' => 'ro 8:11',
+);
+$concordance['4151']['N-GSN'][] = array (
+  'word' => 'πνεύματος',
+  'spa' => 'Espíritu',
+  'morph' => 'N-GSN',
+  'ref' => 'ro 8:23',
+);
+$concordance['4151']['N-GSN'][] = array (
+  'word' => 'πνεύματος',
+  'spa' => 'Espíritu',
+  'morph' => 'N-GSN',
+  'ref' => 'ro 8:27',
+);
+$concordance['4151']['N-NSN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'el Espíritu',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:9',
+);
+$concordance['4151']['N-NSN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'espíritu',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:10',
+);
+$concordance['4151']['N-NSN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'Espíritu',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:11',
+);
+$concordance['4151']['N-NSN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'Espíritu',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:16',
+);
+$concordance['4151']['N-NSN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'Espíritu',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:26',
+);
+$concordance['4151']['N-NSN'][] = array (
+  'word' => 'πνεῦμα',
+  'spa' => 'Espíritu',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:26',
 );
 $concordance['4152']['A-ASN'][] = array (
   'word' => 'πνευματικὸν',
@@ -16452,6 +19686,12 @@ $concordance['4183']['A-APM'][] = array (
   'morph' => 'A-APM',
   'ref' => 'ro 5:15',
 );
+$concordance['4183']['A-DPM'][] = array (
+  'word' => 'πολλοῖς',
+  'spa' => 'muchos',
+  'morph' => 'A-DPM',
+  'ref' => 'ro 8:29',
+);
 $concordance['4189']['N-DSF'][] = array (
   'word' => 'πονηρίᾳ',
   'spa' => 'maldad',
@@ -16487,6 +19727,12 @@ $concordance['4228']['N-NPM'][] = array (
   'spa' => 'pies',
   'morph' => 'N-NPM',
   'ref' => 'ro 3:15',
+);
+$concordance['4234']['N-APF'][] = array (
+  'word' => 'πράξεις',
+  'spa' => 'prácticas',
+  'morph' => 'N-APF',
+  'ref' => 'ro 8:13',
 );
 $concordance['4238']['V-PAP-NPM'][] = array (
   'word' => 'πράσσοντες',
@@ -16542,11 +19788,23 @@ $concordance['4256']['V-ADI-1P'][] = array (
   'morph' => 'V-ADI-1P',
   'ref' => 'ro 3:9',
 );
+$concordance['4263']['N-NPN'][] = array (
+  'word' => 'πρόβατα',
+  'spa' => 'ovejas',
+  'morph' => 'N-NPN',
+  'ref' => 'ro 8:36',
+);
 $concordance['4266']['V-RAP-GPN'][] = array (
   'word' => 'προγεγονότων',
   'spa' => 'sucedidos anteriormente',
   'morph' => 'V-RAP-GPN',
   'ref' => 'ro 3:25',
+);
+$concordance['4267']['V-AAI-3S'][] = array (
+  'word' => 'προέγνω',
+  'spa' => 'de antemano conoció',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:29',
 );
 $concordance['4279']['V-ADI-3S'][] = array (
   'word' => 'προεπηγγείλατο',
@@ -16560,11 +19818,29 @@ $concordance['4284']['V-PMI-1P'][] = array (
   'morph' => 'V-PMI-1P',
   'ref' => 'ro 3:9',
 );
+$concordance['4286']['N-ASF'][] = array (
+  'word' => 'πρόθεσιν',
+  'spa' => 'propósito',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:28',
+);
 $concordance['4289']['A-NSN'][] = array (
   'word' => 'πρόθυμον',
   'spa' => 'dispuesto',
   'morph' => 'A-NSN',
   'ref' => 'ro 1:15',
+);
+$concordance['4309']['V-AAI-3S'][] = array (
+  'word' => 'προώρισεν',
+  'spa' => 'prefijó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:29',
+);
+$concordance['4309']['V-AAI-3S'][] = array (
+  'word' => 'προώρισεν',
+  'spa' => 'prefijó',
+  'morph' => 'V-AAI-3S',
+  'ref' => 'ro 8:30',
 );
 $concordance['4314']['PREP'][] = array (
   'word' => 'πρὸς',
@@ -16596,6 +19872,18 @@ $concordance['4314']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 5:1',
 );
+$concordance['4314']['PREP'][] = array (
+  'word' => 'πρὸς',
+  'spa' => 'en frente',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:18',
+);
+$concordance['4314']['PREP'][] = array (
+  'word' => 'πρὸς',
+  'spa' => 'en frente',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:31',
+);
 $concordance['4318']['N-ASF'][] = array (
   'word' => 'προσαγωγὴν',
   'spa' => 'acceso',
@@ -16607,6 +19895,12 @@ $concordance['4335']['N-GPF'][] = array (
   'spa' => 'oraciones',
   'morph' => 'N-GPF',
   'ref' => 'ro 1:10',
+);
+$concordance['4336']['V-ADS-1P'][] = array (
+  'word' => 'προσευξώμεθα',
+  'spa' => 'oraremos',
+  'morph' => 'V-ADS-1P',
+  'ref' => 'ro 8:26',
 );
 $concordance['4382']['N-NSF'][] = array (
   'word' => 'προσωπολημψία',
@@ -16668,6 +19962,12 @@ $concordance['4412']['ADV'][] = array (
   'morph' => 'ADV',
   'ref' => 'ro 3:2',
 );
+$concordance['4416']['A-ASM'][] = array (
+  'word' => 'πρωτότοκον',
+  'spa' => 'primogénito',
+  'morph' => 'A-ASM',
+  'ref' => 'ro 8:29',
+);
 $concordance['4458']['PRT'][] = array (
   'word' => 'πῶς',
   'spa' => 'quizas',
@@ -16691,6 +19991,12 @@ $concordance['4459']['ADV-I'][] = array (
   'spa' => '¿Cómo',
   'morph' => 'ADV-I',
   'ref' => 'ro 6:2',
+);
+$concordance['4459']['ADV-I'][] = array (
+  'word' => 'πῶς',
+  'spa' => '¿Cómo',
+  'morph' => 'ADV-I',
+  'ref' => 'ro 8:32',
 );
 $concordance['4506']['V-FDI-3S'][] = array (
   'word' => 'ῥύσεται',
@@ -16728,6 +20034,30 @@ $concordance['4561']['N-ASF'][] = array (
   'morph' => 'N-ASF',
   'ref' => 'ro 4:1',
 );
+$concordance['4561']['N-ASF'][] = array (
+  'word' => 'σάρκα',
+  'spa' => 'carne',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:4',
+);
+$concordance['4561']['N-ASF'][] = array (
+  'word' => 'σάρκα',
+  'spa' => 'carne',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:5',
+);
+$concordance['4561']['N-ASF'][] = array (
+  'word' => 'σάρκα',
+  'spa' => 'carne',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:12',
+);
+$concordance['4561']['N-ASF'][] = array (
+  'word' => 'σάρκα',
+  'spa' => 'carne',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:13',
+);
 $concordance['4561']['N-DSF'][] = array (
   'word' => 'σαρκὶ',
   'spa' => 'carne',
@@ -16752,6 +20082,30 @@ $concordance['4561']['N-DSF'][] = array (
   'morph' => 'N-DSF',
   'ref' => 'ro 7:25',
 );
+$concordance['4561']['N-DSF'][] = array (
+  'word' => 'σαρκί',
+  'spa' => 'carne',
+  'morph' => 'N-DSF',
+  'ref' => 'ro 8:3',
+);
+$concordance['4561']['N-DSF'][] = array (
+  'word' => 'σαρκὶ',
+  'spa' => 'la carne',
+  'morph' => 'N-DSF',
+  'ref' => 'ro 8:8',
+);
+$concordance['4561']['N-DSF'][] = array (
+  'word' => 'σαρκὶ',
+  'spa' => 'la carne',
+  'morph' => 'N-DSF',
+  'ref' => 'ro 8:9',
+);
+$concordance['4561']['N-DSF'][] = array (
+  'word' => 'σαρκὶ',
+  'spa' => 'carne',
+  'morph' => 'N-DSF',
+  'ref' => 'ro 8:12',
+);
 $concordance['4561']['N-NSF'][] = array (
   'word' => 'σὰρξ',
   'spa' => 'carne',
@@ -16763,6 +20117,36 @@ $concordance['4561']['N-GSF'][] = array (
   'spa' => 'carne',
   'morph' => 'N-GSF',
   'ref' => 'ro 6:19',
+);
+$concordance['4561']['N-GSF'][] = array (
+  'word' => 'σαρκός',
+  'spa' => 'carne',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:3',
+);
+$concordance['4561']['N-GSF'][] = array (
+  'word' => 'σαρκὸς',
+  'spa' => 'de carne',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:3',
+);
+$concordance['4561']['N-GSF'][] = array (
+  'word' => 'σαρκὸς',
+  'spa' => 'carne',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:5',
+);
+$concordance['4561']['N-GSF'][] = array (
+  'word' => 'σαρκὸς',
+  'spa' => 'carne',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:6',
+);
+$concordance['4561']['N-GSF'][] = array (
+  'word' => 'σαρκὸς',
+  'spa' => 'carne',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:7',
 );
 $concordance['4564']['N-GSF'][] = array (
   'word' => 'Σάρρας',
@@ -16793,6 +20177,12 @@ $concordance['4571']['P-2AS'][] = array (
   'spa' => 'a ti',
   'morph' => 'P-2AS',
   'ref' => 'ro 4:17',
+);
+$concordance['4571']['P-2AS'][] = array (
+  'word' => 'σε',
+  'spa' => 'a ti',
+  'morph' => 'P-2AS',
+  'ref' => 'ro 8:2',
 );
 $concordance['4572']['F-2ASM'][] = array (
   'word' => 'σεαυτὸν',
@@ -16872,6 +20262,12 @@ $concordance['4675']['P-2GS'][] = array (
   'morph' => 'P-2GS',
   'ref' => 'ro 4:18',
 );
+$concordance['4675']['P-2GS'][] = array (
+  'word' => 'σοῦ',
+  'spa' => 'tuya',
+  'morph' => 'P-2GS',
+  'ref' => 'ro 8:36',
+);
 $concordance['4680']['A-DPM'][] = array (
   'word' => 'σοφοῖς',
   'spa' => 'a sabios',
@@ -16908,11 +20304,29 @@ $concordance['4690']['N-NSN'][] = array (
   'morph' => 'N-NSN',
   'ref' => 'ro 4:18',
 );
+$concordance['4726']['N-DPM'][] = array (
+  'word' => 'στεναγμοῖς',
+  'spa' => 'por gemidos',
+  'morph' => 'N-DPM',
+  'ref' => 'ro 8:26',
+);
+$concordance['4727']['V-PAI-1P'][] = array (
+  'word' => 'στενάζομεν',
+  'spa' => 'gemimos',
+  'morph' => 'V-PAI-1P',
+  'ref' => 'ro 8:23',
+);
 $concordance['4730']['N-NSF'][] = array (
   'word' => 'στενοχωρία',
   'spa' => 'angustia',
   'morph' => 'N-NSF',
   'ref' => 'ro 2:9',
+);
+$concordance['4730']['N-NSF'][] = array (
+  'word' => 'στενοχωρία',
+  'spa' => 'angustia',
+  'morph' => 'N-NSF',
+  'ref' => 'ro 8:35',
 );
 $concordance['4741']['V-APN'][] = array (
   'word' => 'στηριχθῆναι',
@@ -16950,6 +20364,12 @@ $concordance['4771']['P-2NS'][] = array (
   'morph' => 'P-2NS',
   'ref' => 'ro 2:17',
 );
+$concordance['4789']['A-NPM'][] = array (
+  'word' => 'συγκληρονόμοι',
+  'spa' => 'herederos juntamente con',
+  'morph' => 'A-NPM',
+  'ref' => 'ro 8:17',
+);
 $concordance['4800']['V-FAI-1P'][] = array (
   'word' => 'συζήσομεν',
   'spa' => 'viviremos junto',
@@ -16962,11 +20382,29 @@ $concordance['4828']['V-PAP-GSF'][] = array (
   'morph' => 'V-PAP-GSF',
   'ref' => 'ro 2:15',
 );
+$concordance['4828']['V-PAI-3S'][] = array (
+  'word' => 'συμμαρτυρεῖ',
+  'spa' => 'testifica juntamente',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:16',
+);
+$concordance['4832']['A-APM'][] = array (
+  'word' => 'συμμόρφους',
+  'spa' => 'a la misma forma',
+  'morph' => 'A-APM',
+  'ref' => 'ro 8:29',
+);
 $concordance['4837']['V-APN'][] = array (
   'word' => 'συμπαρακληθῆναι',
   'spa' => 'ser juntamente consolados',
   'morph' => 'V-APN',
   'ref' => 'ro 1:12',
+);
+$concordance['4841']['V-PAI-1P'][] = array (
+  'word' => 'συμπάσχομεν',
+  'spa' => 'sufrimos juntamente',
+  'morph' => 'V-PAI-1P',
+  'ref' => 'ro 8:17',
 );
 $concordance['4852']['V-PAI-1S'][] = array (
   'word' => 'σύμφημι',
@@ -16986,11 +20424,35 @@ $concordance['4862']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 6:8',
 );
+$concordance['4862']['PREP'][] = array (
+  'word' => 'σὺν',
+  'spa' => 'con',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:32',
+);
+$concordance['4878']['V-PMI-3S'][] = array (
+  'word' => 'συναντιλαμβάνεται',
+  'spa' => 'ayuda',
+  'morph' => 'V-PMI-3S',
+  'ref' => 'ro 8:26',
+);
+$concordance['4888']['V-APS-1P'][] = array (
+  'word' => 'συνδοξασθῶμεν',
+  'spa' => 'fueremos glorificados juntamente',
+  'morph' => 'V-APS-1P',
+  'ref' => 'ro 8:17',
+);
 $concordance['4893']['N-GSF'][] = array (
   'word' => 'συνειδήσεως',
   'spa' => 'conciencia',
   'morph' => 'N-GSF',
   'ref' => 'ro 2:15',
+);
+$concordance['4903']['V-PAI-3S'][] = array (
+  'word' => 'συνεργεῖ',
+  'spa' => 'colabora',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:28',
 );
 $concordance['4909']['V-PAI-3P'][] = array (
   'word' => 'συνευδοκοῦσιν',
@@ -17034,11 +20496,29 @@ $concordance['4938']['N-NSN'][] = array (
   'morph' => 'N-NSN',
   'ref' => 'ro 3:16',
 );
+$concordance['4944']['V-PAI-3S'][] = array (
+  'word' => 'συνωδίνει',
+  'spa' => 'tiene dolores de parto juntamente',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:22',
+);
 $concordance['4957']['V-API-3S'][] = array (
   'word' => 'συνεσταυρώθη',
   'spa' => 'fue crucificado junto',
   'morph' => 'V-API-3S',
   'ref' => 'ro 6:6',
+);
+$concordance['4959']['V-PAI-3S'][] = array (
+  'word' => 'συστενάζει',
+  'spa' => 'gime juntamente',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:22',
+);
+$concordance['4967']['N-GSF'][] = array (
+  'word' => 'σφαγῆς',
+  'spa' => 'de matanza',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:36',
 );
 $concordance['4973']['N-ASF'][] = array (
   'word' => 'σφραγῖδα',
@@ -17058,11 +20538,23 @@ $concordance['4982']['V-FPI-1P'][] = array (
   'morph' => 'V-FPI-1P',
   'ref' => 'ro 5:10',
 );
+$concordance['4982']['V-API-1P'][] = array (
+  'word' => 'ἐσώθημεν',
+  'spa' => 'fuimos salvados',
+  'morph' => 'V-API-1P',
+  'ref' => 'ro 8:24',
+);
 $concordance['4983']['N-APN'][] = array (
   'word' => 'σώματα',
   'spa' => 'cuerpos',
   'morph' => 'N-APN',
   'ref' => 'ro 1:24',
+);
+$concordance['4983']['N-APN'][] = array (
+  'word' => 'σώματα',
+  'spa' => 'cuerpos',
+  'morph' => 'N-APN',
+  'ref' => 'ro 8:11',
 );
 $concordance['4983']['N-ASN'][] = array (
   'word' => 'σῶμα',
@@ -17075,6 +20567,12 @@ $concordance['4983']['N-NSN'][] = array (
   'spa' => 'cuerpo',
   'morph' => 'N-NSN',
   'ref' => 'ro 6:6',
+);
+$concordance['4983']['N-NSN'][] = array (
+  'word' => 'σῶμα',
+  'spa' => 'cuerpo',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:10',
 );
 $concordance['4983']['N-DSN'][] = array (
   'word' => 'σώματι',
@@ -17094,6 +20592,18 @@ $concordance['4983']['N-GSN'][] = array (
   'morph' => 'N-GSN',
   'ref' => 'ro 7:24',
 );
+$concordance['4983']['N-GSN'][] = array (
+  'word' => 'σώματος',
+  'spa' => 'cuerpo',
+  'morph' => 'N-GSN',
+  'ref' => 'ro 8:13',
+);
+$concordance['4983']['N-GSN'][] = array (
+  'word' => 'σώματος',
+  'spa' => 'cuerpo',
+  'morph' => 'N-GSN',
+  'ref' => 'ro 8:23',
+);
 $concordance['4991']['N-ASF'][] = array (
   'word' => 'σωτηρίαν',
   'spa' => 'salvación',
@@ -17111,6 +20621,12 @@ $concordance['5005']['A-NSM'][] = array (
   'spa' => 'miserable',
   'morph' => 'A-NSM',
   'ref' => 'ro 7:24',
+);
+$concordance['5023']['D-APN'][] = array (
+  'word' => 'ταῦτα',
+  'spa' => 'a estas cosas',
+  'morph' => 'D-APN',
+  'ref' => 'ro 8:31',
 );
 $concordance['5028']['N-NSM'][] = array (
   'word' => 'τάφος',
@@ -17196,6 +20712,24 @@ $concordance['5037']['PRT'][] = array (
   'morph' => 'PRT',
   'ref' => 'ro 7:7',
 );
+$concordance['5043']['N-NPN'][] = array (
+  'word' => 'τέκνα',
+  'spa' => 'niños',
+  'morph' => 'N-NPN',
+  'ref' => 'ro 8:16',
+);
+$concordance['5043']['N-NPN'][] = array (
+  'word' => 'τέκνα',
+  'spa' => 'niños',
+  'morph' => 'N-NPN',
+  'ref' => 'ro 8:17',
+);
+$concordance['5043']['N-GPN'][] = array (
+  'word' => 'τέκνων',
+  'spa' => 'niños',
+  'morph' => 'N-GPN',
+  'ref' => 'ro 8:21',
+);
 $concordance['5055']['V-PAP-NSF'][] = array (
   'word' => 'τελοῦσα',
   'spa' => 'que cumple',
@@ -17274,6 +20808,24 @@ $concordance['5100']['X-NSM'][] = array (
   'morph' => 'X-NSM',
   'ref' => 'ro 5:7',
 );
+$concordance['5100']['X-NSM'][] = array (
+  'word' => 'τις',
+  'spa' => 'alguno',
+  'morph' => 'X-NSM',
+  'ref' => 'ro 8:9',
+);
+$concordance['5100']['X-NSM'][] = array (
+  'word' => 'τίς',
+  'spa' => '¿Qué',
+  'morph' => 'X-NSM',
+  'ref' => 'ro 8:24',
+);
+$concordance['5100']['X-NSF'][] = array (
+  'word' => 'τις',
+  'spa' => 'alguna',
+  'morph' => 'X-NSF',
+  'ref' => 'ro 8:39',
+);
 $concordance['5101']['I-NSN'][] = array (
   'word' => 'Τί',
   'spa' => '¿Qué',
@@ -17297,6 +20849,12 @@ $concordance['5101']['I-NSN'][] = array (
   'spa' => '¿Qué',
   'morph' => 'I-NSN',
   'ref' => 'ro 6:15',
+);
+$concordance['5101']['I-NSN'][] = array (
+  'word' => 'τί',
+  'spa' => 'cúal',
+  'morph' => 'I-NSN',
+  'ref' => 'ro 8:27',
 );
 $concordance['5101']['I-NSF'][] = array (
   'word' => 'τίς',
@@ -17340,6 +20898,18 @@ $concordance['5101']['I-ASN'][] = array (
   'morph' => 'I-ASN',
   'ref' => 'ro 7:7',
 );
+$concordance['5101']['I-ASN'][] = array (
+  'word' => 'τί',
+  'spa' => 'qué',
+  'morph' => 'I-ASN',
+  'ref' => 'ro 8:26',
+);
+$concordance['5101']['I-ASN'][] = array (
+  'word' => 'Τί',
+  'spa' => '¿Qué',
+  'morph' => 'I-ASN',
+  'ref' => 'ro 8:31',
+);
 $concordance['5101']['I-ASM'][] = array (
   'word' => 'τίνα',
   'spa' => '¿Qué',
@@ -17351,6 +20921,30 @@ $concordance['5101']['I-NSM'][] = array (
   'spa' => '¿Quién',
   'morph' => 'I-NSM',
   'ref' => 'ro 7:24',
+);
+$concordance['5101']['I-NSM'][] = array (
+  'word' => 'τίς',
+  'spa' => '¿Quién',
+  'morph' => 'I-NSM',
+  'ref' => 'ro 8:31',
+);
+$concordance['5101']['I-NSM'][] = array (
+  'word' => 'τίς',
+  'spa' => '¿Quién',
+  'morph' => 'I-NSM',
+  'ref' => 'ro 8:33',
+);
+$concordance['5101']['I-NSM'][] = array (
+  'word' => 'τίς',
+  'spa' => '¿Quién',
+  'morph' => 'I-NSM',
+  'ref' => 'ro 8:34',
+);
+$concordance['5101']['I-NSM'][] = array (
+  'word' => 'τίς',
+  'spa' => '¿Quién',
+  'morph' => 'I-NSM',
+  'ref' => 'ro 8:35',
 );
 $concordance['5108']['D-APN'][] = array (
   'word' => 'τοιαῦτα',
@@ -17454,11 +21048,35 @@ $concordance['5124']['D-ASN'][] = array (
   'morph' => 'D-ASN',
   'ref' => 'ro 7:20',
 );
+$concordance['5125']['D-DPN'][] = array (
+  'word' => 'τούτοις',
+  'spa' => 'estas cosas',
+  'morph' => 'D-DPN',
+  'ref' => 'ro 8:37',
+);
 $concordance['5127']['D-GSM'][] = array (
   'word' => 'τούτου',
   'spa' => 'este',
   'morph' => 'D-GSM',
   'ref' => 'ro 7:24',
+);
+$concordance['5128']['D-APM'][] = array (
+  'word' => 'τούτους',
+  'spa' => 'a estos',
+  'morph' => 'D-APM',
+  'ref' => 'ro 8:30',
+);
+$concordance['5128']['D-APM'][] = array (
+  'word' => 'τούτους',
+  'spa' => 'a estos',
+  'morph' => 'D-APM',
+  'ref' => 'ro 8:30',
+);
+$concordance['5128']['D-APM'][] = array (
+  'word' => 'τούτους',
+  'spa' => 'a estos',
+  'morph' => 'D-APM',
+  'ref' => 'ro 8:30',
 );
 $concordance['5158']['N-ASM'][] = array (
   'word' => 'τρόπον',
@@ -17490,6 +21108,18 @@ $concordance['5197']['N-APM'][] = array (
   'morph' => 'N-APM',
   'ref' => 'ro 1:30',
 );
+$concordance['5206']['N-GSF'][] = array (
+  'word' => 'υἱοθεσίας',
+  'spa' => 'de adopción',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:15',
+);
+$concordance['5206']['N-ASF'][] = array (
+  'word' => 'υἱοθεσίαν',
+  'spa' => 'adopción',
+  'morph' => 'N-ASF',
+  'ref' => 'ro 8:23',
+);
 $concordance['5207']['N-GSM'][] = array (
   'word' => 'υἱοῦ',
   'spa' => 'Hijo',
@@ -17513,6 +21143,36 @@ $concordance['5207']['N-GSM'][] = array (
   'spa' => 'Hijo',
   'morph' => 'N-GSM',
   'ref' => 'ro 5:10',
+);
+$concordance['5207']['N-GSM'][] = array (
+  'word' => 'υἱοῦ',
+  'spa' => 'Hijo',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:29',
+);
+$concordance['5207']['N-GSM'][] = array (
+  'word' => 'υἱοῦ',
+  'spa' => 'Hijo',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:32',
+);
+$concordance['5207']['N-ASM'][] = array (
+  'word' => 'υἱὸν',
+  'spa' => 'Hijo',
+  'morph' => 'N-ASM',
+  'ref' => 'ro 8:3',
+);
+$concordance['5207']['N-NPM'][] = array (
+  'word' => 'υἱοὶ',
+  'spa' => 'hijos',
+  'morph' => 'N-NPM',
+  'ref' => 'ro 8:14',
+);
+$concordance['5207']['N-GPM'][] = array (
+  'word' => 'υἱῶν',
+  'spa' => 'hijos',
+  'morph' => 'N-GPM',
+  'ref' => 'ro 8:19',
 );
 $concordance['5209']['P-2AP'][] = array (
   'word' => 'ὑμᾶς',
@@ -17574,6 +21234,12 @@ $concordance['5210']['P-2NP'][] = array (
   'morph' => 'P-2NP',
   'ref' => 'ro 7:4',
 );
+$concordance['5210']['P-2NP'][] = array (
+  'word' => 'ὑμεῖς',
+  'spa' => 'Ustedes',
+  'morph' => 'P-2NP',
+  'ref' => 'ro 8:9',
+);
 $concordance['5213']['P-2DP'][] = array (
   'word' => 'ὑμῖν',
   'spa' => 'a ustedes',
@@ -17603,6 +21269,30 @@ $concordance['5213']['P-2DP'][] = array (
   'spa' => 'a ustedes',
   'morph' => 'P-2DP',
   'ref' => 'ro 1:15',
+);
+$concordance['5213']['P-2DP'][] = array (
+  'word' => 'ὑμῖν',
+  'spa' => 'ustedes',
+  'morph' => 'P-2DP',
+  'ref' => 'ro 8:9',
+);
+$concordance['5213']['P-2DP'][] = array (
+  'word' => 'ὑμῖν',
+  'spa' => 'ustedes',
+  'morph' => 'P-2DP',
+  'ref' => 'ro 8:10',
+);
+$concordance['5213']['P-2DP'][] = array (
+  'word' => 'ὑμῖν',
+  'spa' => 'ustedes',
+  'morph' => 'P-2DP',
+  'ref' => 'ro 8:11',
+);
+$concordance['5213']['P-2DP'][] = array (
+  'word' => 'ὑμῖν',
+  'spa' => 'ustedes',
+  'morph' => 'P-2DP',
+  'ref' => 'ro 8:11',
 );
 $concordance['5216']['P-2GP'][] = array (
   'word' => 'ὑμῶν',
@@ -17675,6 +21365,12 @@ $concordance['5216']['P-2GP'][] = array (
   'spa' => 'de ustedes',
   'morph' => 'P-2GP',
   'ref' => 'ro 6:22',
+);
+$concordance['5216']['P-2GP'][] = array (
+  'word' => 'ὑμῶν',
+  'spa' => 'de ustedes',
+  'morph' => 'P-2GP',
+  'ref' => 'ro 8:11',
 );
 $concordance['5218']['N-ASF'][] = array (
   'word' => 'ὑπακοὴν',
@@ -17760,17 +21456,53 @@ $concordance['5228']['PREP'][] = array (
   'morph' => 'PREP',
   'ref' => 'ro 5:8',
 );
+$concordance['5228']['PREP'][] = array (
+  'word' => 'ὑπὲρ',
+  'spa' => 'por',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:27',
+);
+$concordance['5228']['PREP'][] = array (
+  'word' => 'ὑπὲρ',
+  'spa' => 'por',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:31',
+);
+$concordance['5228']['PREP'][] = array (
+  'word' => 'ὑπὲρ',
+  'spa' => 'por',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:32',
+);
+$concordance['5228']['PREP'][] = array (
+  'word' => 'ὑπὲρ',
+  'spa' => 'por',
+  'morph' => 'PREP',
+  'ref' => 'ro 8:34',
+);
 $concordance['5236']['N-ASF'][] = array (
   'word' => 'ὑπερβολὴν',
   'spa' => 'excesivamente',
   'morph' => 'N-ASF',
   'ref' => 'ro 7:13',
 );
+$concordance['5241']['V-PAI-3S'][] = array (
+  'word' => 'ὑπερεντυγχάνει',
+  'spa' => 'intercede',
+  'morph' => 'V-PAI-3S',
+  'ref' => 'ro 8:26',
+);
 $concordance['5244']['A-APM'][] = array (
   'word' => 'ὑπερηφάνους',
   'spa' => 'orgullosos',
   'morph' => 'A-APM',
   'ref' => 'ro 1:30',
+);
+$concordance['5245']['V-PAI-1P'][] = array (
+  'word' => 'ὑπερνικῶμεν',
+  'spa' => 'vencemos abrumadoramente',
+  'morph' => 'V-PAI-1P',
+  'ref' => 'ro 8:37',
 );
 $concordance['5248']['V-AAI-3S'][] = array (
   'word' => 'ὑπερεπερίσσευσεν',
@@ -17850,11 +21582,41 @@ $concordance['5281']['N-NSF'][] = array (
   'morph' => 'N-NSF',
   'ref' => 'ro 5:4',
 );
+$concordance['5281']['N-GSF'][] = array (
+  'word' => 'ὑπομονῆς',
+  'spa' => 'de perserverancia',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:25',
+);
+$concordance['5293']['V-PPI-3S'][] = array (
+  'word' => 'ὑποτάσσεται',
+  'spa' => 'se somete',
+  'morph' => 'V-PPI-3S',
+  'ref' => 'ro 8:7',
+);
+$concordance['5293']['V-2API-3S'][] = array (
+  'word' => 'ὑπετάγη',
+  'spa' => 'fue sometida',
+  'morph' => 'V-2API-3S',
+  'ref' => 'ro 8:20',
+);
+$concordance['5293']['V-AAP-ASM'][] = array (
+  'word' => 'ὑποτάξαντα',
+  'spa' => 'que sometió',
+  'morph' => 'V-AAP-ASM',
+  'ref' => 'ro 8:20',
+);
 $concordance['5302']['V-PPI-3P'][] = array (
   'word' => 'ὑστεροῦνται',
   'spa' => 'están faltos',
   'morph' => 'V-PPI-3P',
   'ref' => 'ro 3:23',
+);
+$concordance['5313']['N-NSN'][] = array (
+  'word' => 'ὕψωμα',
+  'spa' => 'altura',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:39',
 );
 $concordance['5316']['V-2APS-3S'][] = array (
   'word' => 'φανῇ',
@@ -17898,6 +21660,12 @@ $concordance['5335']['V-PAP-NPM'][] = array (
   'morph' => 'V-PAP-NPM',
   'ref' => 'ro 1:22',
 );
+$concordance['5339']['V-ADI-3S'][] = array (
+  'word' => 'ἐφείσατο',
+  'spa' => 'escatimó',
+  'morph' => 'V-ADI-3S',
+  'ref' => 'ro 8:32',
+);
 $concordance['5346']['V-PAI-3P'][] = array (
   'word' => 'φασίν',
   'spa' => 'dicen',
@@ -17916,11 +21684,23 @@ $concordance['5355']['N-GSM'][] = array (
   'morph' => 'N-GSM',
   'ref' => 'ro 1:29',
 );
+$concordance['5356']['N-GSF'][] = array (
+  'word' => 'φθορᾶς',
+  'spa' => 'corrupción',
+  'morph' => 'N-GSF',
+  'ref' => 'ro 8:21',
+);
 $concordance['5401']['N-NSM'][] = array (
   'word' => 'φόβος',
   'spa' => 'miedo',
   'morph' => 'N-NSM',
   'ref' => 'ro 3:18',
+);
+$concordance['5401']['N-ASM'][] = array (
+  'word' => 'φόβον',
+  'spa' => 'miedo',
+  'morph' => 'N-ASM',
+  'ref' => 'ro 8:15',
 );
 $concordance['5408']['N-GSM'][] = array (
   'word' => 'φόνου',
@@ -17933,6 +21713,36 @@ $concordance['5420']['V-2APS-3S'][] = array (
   'spa' => 'fuere cerrada',
   'morph' => 'V-2APS-3S',
   'ref' => 'ro 3:19',
+);
+$concordance['5426']['V-PAI-3P'][] = array (
+  'word' => 'φρονοῦσιν',
+  'spa' => 'piensan',
+  'morph' => 'V-PAI-3P',
+  'ref' => 'ro 8:5',
+);
+$concordance['5427']['N-NSN'][] = array (
+  'word' => 'φρόνημα',
+  'spa' => 'maneda de pensar',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:6',
+);
+$concordance['5427']['N-NSN'][] = array (
+  'word' => 'φρόνημα',
+  'spa' => 'maneda de pensar',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:6',
+);
+$concordance['5427']['N-NSN'][] = array (
+  'word' => 'φρόνημα',
+  'spa' => 'maneda de pensar',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:7',
+);
+$concordance['5427']['N-NSN'][] = array (
+  'word' => 'φρόνημα',
+  'spa' => 'maneda de pensar',
+  'morph' => 'N-NSN',
+  'ref' => 'ro 8:27',
 );
 $concordance['5442']['V-PAS-3S'][] = array (
   'word' => 'φυλάσσῃ',
@@ -17975,6 +21785,12 @@ $concordance['5457']['N-ASN'][] = array (
   'spa' => 'luz',
   'morph' => 'N-ASN',
   'ref' => 'ro 2:19',
+);
+$concordance['5483']['V-FDI-3S'][] = array (
+  'word' => 'χαρίσεται',
+  'spa' => 'concederá',
+  'morph' => 'V-FDI-3S',
+  'ref' => 'ro 8:32',
 );
 $concordance['5485']['N-ASF'][] = array (
   'word' => 'χάριν',
@@ -18222,6 +22038,24 @@ $concordance['5547']['N-GSM'][] = array (
   'morph' => 'N-GSM',
   'ref' => 'ro 7:25',
 );
+$concordance['5547']['N-GSM'][] = array (
+  'word' => 'Χριστοῦ',
+  'spa' => 'del Ungido',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:9',
+);
+$concordance['5547']['N-GSM'][] = array (
+  'word' => 'Χριστοῦ',
+  'spa' => 'el Ungido',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:17',
+);
+$concordance['5547']['N-GSM'][] = array (
+  'word' => 'Χριστοῦ',
+  'spa' => 'Ungido',
+  'morph' => 'N-GSM',
+  'ref' => 'ro 8:35',
+);
 $concordance['5547']['N-DSM'][] = array (
   'word' => 'Χριστῷ',
   'spa' => 'Ungido',
@@ -18245,6 +22079,24 @@ $concordance['5547']['N-DSM'][] = array (
   'spa' => 'Ungido',
   'morph' => 'N-DSM',
   'ref' => 'ro 6:23',
+);
+$concordance['5547']['N-DSM'][] = array (
+  'word' => 'Χριστῷ',
+  'spa' => 'Ungido',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:1',
+);
+$concordance['5547']['N-DSM'][] = array (
+  'word' => 'Χριστῷ',
+  'spa' => 'Ungido',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:2',
+);
+$concordance['5547']['N-DSM'][] = array (
+  'word' => 'Χριστῷ',
+  'spa' => 'Ungido',
+  'morph' => 'N-DSM',
+  'ref' => 'ro 8:39',
 );
 $concordance['5547']['N-NSM'][] = array (
   'word' => 'Χριστὸς',
@@ -18270,17 +22122,47 @@ $concordance['5547']['N-NSM'][] = array (
   'morph' => 'N-NSM',
   'ref' => 'ro 6:9',
 );
+$concordance['5547']['N-NSM'][] = array (
+  'word' => 'Χριστὸς',
+  'spa' => 'el Ungido',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:10',
+);
+$concordance['5547']['N-NSM'][] = array (
+  'word' => 'Χριστὸς',
+  'spa' => 'el Ungido',
+  'morph' => 'N-NSM',
+  'ref' => 'ro 8:34',
+);
 $concordance['5547']['N-ASM'][] = array (
   'word' => 'Χριστὸν',
   'spa' => 'Ungido',
   'morph' => 'N-ASM',
   'ref' => 'ro 6:3',
 );
+$concordance['5547']['N-ASM'][] = array (
+  'word' => 'Χριστὸν',
+  'spa' => 'al Ungido',
+  'morph' => 'N-ASM',
+  'ref' => 'ro 8:11',
+);
 $concordance['5550']['N-ASM'][] = array (
   'word' => 'χρόνον',
   'spa' => 'tiempo',
   'morph' => 'N-ASM',
   'ref' => 'ro 7:1',
+);
+$concordance['5563']['V-FAI-3S'][] = array (
+  'word' => 'χωρίσει',
+  'spa' => 'separará',
+  'morph' => 'V-FAI-3S',
+  'ref' => 'ro 8:35',
+);
+$concordance['5563']['V-AAN'][] = array (
+  'word' => 'χωρίσαι',
+  'spa' => 'separar',
+  'morph' => 'V-AAN',
+  'ref' => 'ro 8:39',
 );
 $concordance['5565']['ADV'][] = array (
   'word' => 'χωρὶς',
@@ -18360,6 +22242,12 @@ $concordance['5607']['V-PAP-DPM'][] = array (
   'morph' => 'V-PAP-DPM',
   'ref' => 'ro 1:7',
 );
+$concordance['5607']['V-PAP-DPM'][] = array (
+  'word' => 'οὖσιν',
+  'spa' => 'son',
+  'morph' => 'V-PAP-DPM',
+  'ref' => 'ro 8:28',
+);
 $concordance['5607']['V-PAP-DSM'][] = array (
   'word' => 'ὄντι',
   'spa' => 'estando',
@@ -18401,6 +22289,18 @@ $concordance['5607']['V-PAP-NPM'][] = array (
   'spa' => 'siendo',
   'morph' => 'V-PAP-NPM',
   'ref' => 'ro 5:10',
+);
+$concordance['5607']['V-PAP-NPM'][] = array (
+  'word' => 'ὄντες',
+  'spa' => 'que son',
+  'morph' => 'V-PAP-NPM',
+  'ref' => 'ro 8:5',
+);
+$concordance['5607']['V-PAP-NPM'][] = array (
+  'word' => 'ὄντες',
+  'spa' => 'que están',
+  'morph' => 'V-PAP-NPM',
+  'ref' => 'ro 8:8',
 );
 $concordance['5607']['V-PAP-GSM'][] = array (
   'word' => 'ὄντος',
@@ -18449,6 +22349,18 @@ $concordance['5613']['ADV'][] = array (
   'spa' => 'como',
   'morph' => 'ADV',
   'ref' => 'ro 5:18',
+);
+$concordance['5613']['ADV'][] = array (
+  'word' => 'ὡς',
+  'spa' => 'como',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:36',
+);
+$concordance['5615']['ADV'][] = array (
+  'word' => 'Ὡσαύτως',
+  'spa' => 'igualmente',
+  'morph' => 'ADV',
+  'ref' => 'ro 8:26',
 );
 $concordance['5616']['ADV'][] = array (
   'word' => 'ὡσεὶ',

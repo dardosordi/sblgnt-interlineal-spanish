@@ -3698,7 +3698,7 @@ $concordance['314']['VAAI3P'][] = array (
 );
 $concordance['345']['VPUP-PDM'][] = array (
   'word' => 'ἀνακειμένοις',
-  'spa' => 'que estan reclinados',
+  'spa' => 'que están reclinados',
   'morph' => 'VPUP-PDM',
   'ref' => 'jn 6:11',
 );
@@ -6482,25 +6482,25 @@ $concordance['769']['NNSF'][] = array (
 );
 $concordance['770']['VIAI3S'][] = array (
   'word' => 'ἠσθένει',
-  'spa' => 'estaba enfermo',
+  'spa' => 'estaba debilitado',
   'morph' => 'VIAI3S',
   'ref' => 'jn 4:46',
 );
 $concordance['770']['VIAI3S'][] = array (
   'word' => 'ἠσθένει',
-  'spa' => 'estaba enfermo',
+  'spa' => 'estaba debilitado',
   'morph' => 'VIAI3S',
   'ref' => 'jn 11:2',
 );
 $concordance['770']['VPAP-PGM'][] = array (
   'word' => 'ἀσθενούντων',
-  'spa' => 'que estan enfermos',
+  'spa' => 'que están debilitados',
   'morph' => 'VPAP-PGM',
   'ref' => 'jn 5:3',
 );
 $concordance['770']['VPAP-PGM'][] = array (
   'word' => 'ἀσθενούντων',
-  'spa' => 'que estan enfermos',
+  'spa' => 'que están debilitados',
   'morph' => 'VPAP-PGM',
   'ref' => 'jn 6:2',
 );
@@ -6512,19 +6512,19 @@ $concordance['770']['VPAP-SNM'][] = array (
 );
 $concordance['770']['VPAP-SNM'][] = array (
   'word' => 'ἀσθενῶν',
-  'spa' => 'estando enfermo',
+  'spa' => 'estando debilitado',
   'morph' => 'VPAP-SNM',
   'ref' => 'jn 11:1',
 );
 $concordance['770']['VPAI3S'][] = array (
   'word' => 'ἀσθενεῖ',
-  'spa' => 'esta enfermo',
+  'spa' => 'está debilitado',
   'morph' => 'VPAI3S',
   'ref' => 'jn 11:3',
 );
 $concordance['770']['VPAI3S'][] = array (
   'word' => 'ἀσθενεῖ',
-  'spa' => 'esta enfermo',
+  'spa' => 'está debilitado',
   'morph' => 'VPAI3S',
   'ref' => 'jn 11:6',
 );
@@ -21692,7 +21692,7 @@ $concordance['1525']['VAAI3P'][] = array (
 );
 $concordance['1526']['VPAI3P'][] = array (
   'word' => 'εἰσιν',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'VPAI3P',
   'ref' => 'jn 4:35',
 );
@@ -29510,13 +29510,13 @@ $concordance['2075']['VPAI2P'][] = array (
 );
 $concordance['2075']['VPAI2P'][] = array (
   'word' => 'ἐστε',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'VPAI2P',
   'ref' => 'jn 13:10',
 );
 $concordance['2075']['VPAI2P'][] = array (
   'word' => 'ἐστε',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'VPAI2P',
   'ref' => 'jn 13:11',
 );
@@ -29534,7 +29534,7 @@ $concordance['2075']['VPAI2P'][] = array (
 );
 $concordance['2075']['VPAI2P'][] = array (
   'word' => 'ἐστε',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'VPAI2P',
   'ref' => 'jn 15:3',
 );
@@ -29552,7 +29552,7 @@ $concordance['2075']['VPAI2P'][] = array (
 );
 $concordance['2075']['VPAI2P'][] = array (
   'word' => 'ἐστε',
-  'spa' => 'estan',
+  'spa' => 'están',
   'morph' => 'VPAI2P',
   'ref' => 'jn 15:27',
 );
@@ -50480,7 +50480,7 @@ $concordance['3195']['VIAI3S'][] = array (
 );
 $concordance['3195']['VPAI3P'][] = array (
   'word' => 'μέλλουσιν',
-  'spa' => 'estan a punto de',
+  'spa' => 'están a punto de',
   'morph' => 'VPAI3P',
   'ref' => 'jn 6:15',
 );
@@ -92102,7 +92102,7 @@ $concordance['5602']['BP'][] = array (
 );
 $concordance['5607']['VPAP-SNM'][] = array (
   'word' => 'ὢν',
-  'spa' => 'que esta',
+  'spa' => 'que está',
   'morph' => 'VPAP-SNM',
   'ref' => 'jn 1:18',
 );
@@ -92174,7 +92174,7 @@ $concordance['5607']['VPAP-SNM'][] = array (
 );
 $concordance['5607']['VPAP-SNM'][] = array (
   'word' => 'ὢν',
-  'spa' => 'que esta',
+  'spa' => 'que está',
   'morph' => 'VPAP-SNM',
   'ref' => 'jn 12:17',
 );
@@ -92234,7 +92234,7 @@ $concordance['5607']['VPAP-PNM'][] = array (
 );
 $concordance['5607']['VPAP-PNM'][] = array (
   'word' => 'ὄντες',
-  'spa' => 'que estan',
+  'spa' => 'que están',
   'morph' => 'VPAP-PNM',
   'ref' => 'jn 11:31',
 );
