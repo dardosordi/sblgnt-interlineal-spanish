@@ -7064,7 +7064,7 @@ $concordance['1632']['VAAN'][] = array (
 );
 $concordance['1632']['VRPI3S'][] = array (
   'word' => 'ἐκκέχυται',
-  'spa' => 'fué derramado',
+  'spa' => 'fue derramado',
   'morph' => 'VRPI3S',
   'ref' => 'ro 5:5',
 );
@@ -22712,13 +22712,13 @@ $concordance['4479']['NNSF'][] = array (
 );
 $concordance['4482']['VAPI3S'][] = array (
   'word' => 'ἐρρέθη',
-  'spa' => 'fué dicho',
+  'spa' => 'fue dicho',
   'morph' => 'VAPI3S',
   'ref' => 'ro 9:12',
 );
 $concordance['4482']['VAPI3S'][] = array (
   'word' => 'ἐρρέθη',
-  'spa' => 'fué dicho',
+  'spa' => 'fue dicho',
   'morph' => 'VAPI3S',
   'ref' => 'ro 9:26',
 );

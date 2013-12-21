@@ -16532,37 +16532,37 @@ $concordance['1391']['N-DSF'][] = array (
 );
 $concordance['1392']['V-API-3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'V-API-3S',
   'ref' => 'jn 7:39',
 );
 $concordance['1392']['V-API-3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'V-API-3S',
   'ref' => 'jn 12:16',
 );
 $concordance['1392']['V-API-3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'V-API-3S',
   'ref' => 'jn 13:31',
 );
 $concordance['1392']['V-API-3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'V-API-3S',
   'ref' => 'jn 13:31',
 );
 $concordance['1392']['V-API-3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'V-API-3S',
   'ref' => 'jn 13:32',
 );
 $concordance['1392']['V-API-3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'V-API-3S',
   'ref' => 'jn 15:8',
 );
@@ -78824,7 +78824,7 @@ $concordance['4095']['V-2AAS-1S'][] = array (
 );
 $concordance['4097']['V-API-3S'][] = array (
   'word' => 'ἐπράθη',
-  'spa' => 'fué vendido',
+  'spa' => 'fue vendido',
   'morph' => 'V-API-3S',
   'ref' => 'jn 12:5',
 );
@@ -84944,7 +84944,7 @@ $concordance['4951']['V-PAP-NSM'][] = array (
 );
 $concordance['4957']['V-APP-GSM'][] = array (
   'word' => 'συσταυρωθέντος',
-  'spa' => 'que fué crucificado junto',
+  'spa' => 'que fue crucificado junto',
   'morph' => 'V-APP-GSM',
   'ref' => 'jn 19:32',
 );

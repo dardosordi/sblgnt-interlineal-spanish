@@ -3932,7 +3932,7 @@ $concordance['384']['VPAP-PNM'][] = array (
 );
 $concordance['385']['VAPI3S'][] = array (
   'word' => 'ἀνεσπάσθη',
-  'spa' => 'fué sacado hacia arriba',
+  'spa' => 'fue sacado hacia arriba',
   'morph' => 'VAPI3S',
   'ref' => 'ac 11:10',
 );
@@ -7376,7 +7376,7 @@ $concordance['649']['VPAI1S'][] = array (
 );
 $concordance['649']['VAPI3S'][] = array (
   'word' => 'ἀπεστάλη',
-  'spa' => 'fué enviada',
+  'spa' => 'fue enviada',
   'morph' => 'VAPI3S',
   'ref' => 'ac 28:28',
 );
@@ -27260,7 +27260,7 @@ $concordance['1521']['VPPN'][] = array (
 );
 $concordance['1522']['VAPI3S'][] = array (
   'word' => 'εἰσηκούσθη',
-  'spa' => 'fué escuchada',
+  'spa' => 'fue escuchada',
   'morph' => 'VAPI3S',
   'ref' => 'ac 10:31',
 );
@@ -29030,7 +29030,7 @@ $concordance['1632']['VAAI3S'][] = array (
 );
 $concordance['1632']['VRPI3S'][] = array (
   'word' => 'ἐκκέχυται',
-  'spa' => 'fué derramado',
+  'spa' => 'fue derramado',
   'morph' => 'VRPI3S',
   'ref' => 'ac 10:45',
 );
@@ -31700,7 +31700,7 @@ $concordance['1821']['VAAI3P'][] = array (
 );
 $concordance['1821']['VAPI3S'][] = array (
   'word' => 'ἐξαπεστάλη',
-  'spa' => 'fué enviada',
+  'spa' => 'fue enviada',
   'morph' => 'VAPI3S',
   'ref' => 'ac 13:26',
 );
@@ -99752,7 +99752,7 @@ $concordance['4851']['VPAP-PGN'][] = array (
 );
 $concordance['4856']['VAPI3S'][] = array (
   'word' => 'συνεφωνήθη',
-  'spa' => 'fué concordado',
+  'spa' => 'fue concordado',
   'morph' => 'VAPI3S',
   'ref' => 'ac 5:9',
 );
@@ -109076,7 +109076,7 @@ $concordance['5536']['NNPN'][] = array (
 );
 $concordance['5537']['VAPI3S'][] = array (
   'word' => 'ἐχρηματίσθη',
-  'spa' => 'fué advertido',
+  'spa' => 'fue advertido',
   'morph' => 'VAPI3S',
   'ref' => 'ac 10:22',
 );

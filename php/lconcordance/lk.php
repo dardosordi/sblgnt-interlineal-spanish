@@ -3608,7 +3608,7 @@ $concordance['380']['VAAP-SNM'][] = array (
 );
 $concordance['381']['VAPI3S'][] = array (
   'word' => 'ἀνήφθη',
-  'spa' => 'fué encendido',
+  'spa' => 'fue encendido',
   'morph' => 'VAPI3S',
   'ref' => 'lk 12:49',
 );
@@ -4742,7 +4742,7 @@ $concordance['459']['JGPM'][] = array (
 );
 $concordance['461']['VAPI3S'][] = array (
   'word' => 'ἀνωρθώθη',
-  'spa' => 'fué enderezada',
+  'spa' => 'fue enderezada',
   'morph' => 'VAPI3S',
   'ref' => 'lk 13:13',
 );
@@ -4868,13 +4868,13 @@ $concordance['488']['VFPI3S'][] = array (
 );
 $concordance['492']['VAAI3S'][] = array (
   'word' => 'ἀντιπαρῆλθεν',
-  'spa' => 'fué por el otro lado',
+  'spa' => 'fue por el otro lado',
   'morph' => 'VAAI3S',
   'ref' => 'lk 10:31',
 );
 $concordance['492']['VAAI3S'][] = array (
   'word' => 'ἀντιπαρῆλθεν',
-  'spa' => 'fué por el otro lado',
+  'spa' => 'fue por el otro lado',
   'morph' => 'VAAI3S',
   'ref' => 'lk 10:32',
 );
@@ -6176,13 +6176,13 @@ $concordance['588']['VAMP-SNM'][] = array (
 );
 $concordance['589']['VAAI3S'][] = array (
   'word' => 'ἀπεδήμησεν',
-  'spa' => 'se fué del pueblo',
+  'spa' => 'se fue del pueblo',
   'morph' => 'VAAI3S',
   'ref' => 'lk 15:13',
 );
 $concordance['589']['VAAI3S'][] = array (
   'word' => 'ἀπεδήμησεν',
-  'spa' => 'se fué del pueblo',
+  'spa' => 'se fue del pueblo',
   'morph' => 'VAAI3S',
   'ref' => 'lk 20:9',
 );
@@ -7130,7 +7130,7 @@ $concordance['649']['VAPI1S'][] = array (
 );
 $concordance['649']['VAPI3S'][] = array (
   'word' => 'ἀπεστάλη',
-  'spa' => 'fué enviado',
+  'spa' => 'fue enviado',
   'morph' => 'VAPI3S',
   'ref' => 'lk 1:26',
 );
@@ -30128,7 +30128,7 @@ $concordance['1521']['VAAI3P'][] = array (
 );
 $concordance['1522']['VAPI3S'][] = array (
   'word' => 'εἰσηκούσθη',
-  'spa' => 'fué escuchada',
+  'spa' => 'fue escuchada',
   'morph' => 'VAPI3S',
   'ref' => 'lk 1:13',
 );
@@ -50198,7 +50198,7 @@ $concordance['2507']['VAAP-SNM'][] = array (
 );
 $concordance['2511']['VAPI3S'][] = array (
   'word' => 'ἐκαθαρίσθη',
-  'spa' => 'fué limpiado',
+  'spa' => 'fue limpiado',
   'morph' => 'VAPI3S',
   'ref' => 'lk 4:27',
 );
@@ -97064,7 +97064,7 @@ $concordance['3986']['NDPM'][] = array (
 );
 $concordance['3992']['VAPI3S'][] = array (
   'word' => 'ἐπέμφθη',
-  'spa' => 'fué enviado',
+  'spa' => 'fue enviado',
   'morph' => 'VAPI3S',
   'ref' => 'lk 4:26',
 );

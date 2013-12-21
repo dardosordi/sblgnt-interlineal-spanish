@@ -3686,7 +3686,7 @@ $concordance['577']['V-2AAP-NSM'][] = array (
 );
 $concordance['589']['V-AAI-3S'][] = array (
   'word' => 'ἀπεδήμησεν',
-  'spa' => 'se fué del pueblo',
+  'spa' => 'se fue del pueblo',
   'morph' => 'V-AAI-3S',
   'ref' => 'mk 12:1',
 );
@@ -29072,7 +29072,7 @@ $concordance['2511']['V-APM-2S'][] = array (
 );
 $concordance['2511']['V-API-3S'][] = array (
   'word' => 'ἐκαθαρίσθη',
-  'spa' => 'fué limpiado',
+  'spa' => 'fue limpiado',
   'morph' => 'V-API-3S',
   'ref' => 'mk 1:42',
 );

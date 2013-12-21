@@ -5966,13 +5966,13 @@ $concordance['586']['V-PAI-2P'][] = array (
 );
 $concordance['589']['V-AAI-3S'][] = array (
   'word' => 'ἀπεδήμησεν',
-  'spa' => 'se fué del pueblo',
+  'spa' => 'se fue del pueblo',
   'morph' => 'V-AAI-3S',
   'ref' => 'mt 21:33',
 );
 $concordance['589']['V-AAI-3S'][] = array (
   'word' => 'ἀπεδήμησεν',
-  'spa' => 'se fué del pueblo',
+  'spa' => 'se fue del pueblo',
   'morph' => 'V-AAI-3S',
   'ref' => 'mt 25:15',
 );
@@ -45710,7 +45710,7 @@ $concordance['2511']['V-APM-2S'][] = array (
 );
 $concordance['2511']['V-API-3S'][] = array (
   'word' => 'ἐκαθαρίσθη',
-  'spa' => 'fué limpiada',
+  'spa' => 'fue limpiada',
   'morph' => 'V-API-3S',
   'ref' => 'mt 8:3',
 );
@@ -54332,7 +54332,7 @@ $concordance['2632']['V-FAI-3S'][] = array (
 );
 $concordance['2632']['V-API-3S'][] = array (
   'word' => 'κατεκρίθη',
-  'spa' => 'fué condenado',
+  'spa' => 'fue condenado',
   'morph' => 'V-API-3S',
   'ref' => 'mt 27:3',
 );
@@ -97682,115 +97682,115 @@ $concordance['4478']['N-PRI'][] = array (
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 1:22',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 2:15',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 2:17',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 2:23',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 4:14',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 8:17',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 12:17',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 13:35',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 21:4',
 );
 $concordance['4483']['V-APP-NSN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSN',
   'ref' => 'mt 27:9',
 );
 $concordance['4483']['V-APP-NSM'][] = array (
   'word' => 'ῥηθεὶς',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-NSM',
   'ref' => 'mt 3:3',
 );
 $concordance['4483']['V-API-3S'][] = array (
   'word' => 'ἐρρέθη',
-  'spa' => 'fué dicho',
+  'spa' => 'fue dicho',
   'morph' => 'V-API-3S',
   'ref' => 'mt 5:21',
 );
 $concordance['4483']['V-API-3S'][] = array (
   'word' => 'ἐρρέθη',
-  'spa' => 'fué dicho',
+  'spa' => 'fue dicho',
   'morph' => 'V-API-3S',
   'ref' => 'mt 5:27',
 );
 $concordance['4483']['V-API-3S'][] = array (
   'word' => 'Ἐρρέθη',
-  'spa' => 'Fué dicho',
+  'spa' => 'Fue dicho',
   'morph' => 'V-API-3S',
   'ref' => 'mt 5:31',
 );
 $concordance['4483']['V-API-3S'][] = array (
   'word' => 'ἐρρέθη',
-  'spa' => 'fué dicho',
+  'spa' => 'fue dicho',
   'morph' => 'V-API-3S',
   'ref' => 'mt 5:33',
 );
 $concordance['4483']['V-API-3S'][] = array (
   'word' => 'ἐρρέθη',
-  'spa' => 'fué dicho',
+  'spa' => 'fue dicho',
   'morph' => 'V-API-3S',
   'ref' => 'mt 5:38',
 );
 $concordance['4483']['V-API-3S'][] = array (
   'word' => 'ἐρρέθη',
-  'spa' => 'fué dicho',
+  'spa' => 'fue dicho',
   'morph' => 'V-API-3S',
   'ref' => 'mt 5:43',
 );
 $concordance['4483']['V-APP-ASN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicho',
+  'spa' => 'que fue dicho',
   'morph' => 'V-APP-ASN',
   'ref' => 'mt 22:31',
 );
 $concordance['4483']['V-APP-ASN'][] = array (
   'word' => 'ῥηθὲν',
-  'spa' => 'que fué dicha',
+  'spa' => 'que fue dicha',
   'morph' => 'V-APP-ASN',
   'ref' => 'mt 24:15',
 );

@@ -16532,37 +16532,37 @@ $concordance['1391']['NDSF'][] = array (
 );
 $concordance['1392']['VAPI3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'VAPI3S',
   'ref' => 'jn 7:39',
 );
 $concordance['1392']['VAPI3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'VAPI3S',
   'ref' => 'jn 12:16',
 );
 $concordance['1392']['VAPI3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'VAPI3S',
   'ref' => 'jn 13:31',
 );
 $concordance['1392']['VAPI3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'VAPI3S',
   'ref' => 'jn 13:31',
 );
 $concordance['1392']['VAPI3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'VAPI3S',
   'ref' => 'jn 13:32',
 );
 $concordance['1392']['VAPI3S'][] = array (
   'word' => 'ἐδοξάσθη',
-  'spa' => 'fué glorificado',
+  'spa' => 'fue glorificado',
   'morph' => 'VAPI3S',
   'ref' => 'jn 15:8',
 );
@@ -78824,7 +78824,7 @@ $concordance['4095']['VAAS1S'][] = array (
 );
 $concordance['4097']['VAPI3S'][] = array (
   'word' => 'ἐπράθη',
-  'spa' => 'fué vendido',
+  'spa' => 'fue vendido',
   'morph' => 'VAPI3S',
   'ref' => 'jn 12:5',
 );
@@ -84944,7 +84944,7 @@ $concordance['4951']['VPAP-PNM'][] = array (
 );
 $concordance['4957']['VAPP-SGM'][] = array (
   'word' => 'συσταυρωθέντος',
-  'spa' => 'que fué crucificado junto',
+  'spa' => 'que fue crucificado junto',
   'morph' => 'VAPP-SGM',
   'ref' => 'jn 19:32',
 );
