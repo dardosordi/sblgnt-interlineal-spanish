@@ -1790,7 +1790,7 @@ $concordance['575']['PREP'][] = array (
 );
 $concordance['575']['PREP'][] = array (
   'word' => 'ἀπὸ',
-  'spa' => 'de',
+  'spa' => 'desde',
   'morph' => 'PREP',
   'ref' => 'ro 9:3',
 );
