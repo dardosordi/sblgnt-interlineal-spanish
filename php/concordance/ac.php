@@ -14198,7 +14198,7 @@ $concordance['1012']['N-ASF'][] = array (
 );
 $concordance['1013']['N-GSN'][] = array (
   'word' => 'βουλήματος',
-  'spa' => 'propósito',
+  'spa' => 'voluntad',
   'morph' => 'N-GSN',
   'ref' => 'ac 27:43',
 );
@@ -37184,7 +37184,7 @@ $concordance['2171']['N-ASF'][] = array (
 );
 $concordance['2172']['V-ADO-1S'][] = array (
   'word' => 'εὐξαίμην',
-  'spa' => 'Oraría',
+  'spa' => 'Desearía',
   'morph' => 'V-ADO-1S',
   'ref' => 'ac 26:29',
 );
@@ -75794,7 +75794,7 @@ $concordance['3588']['T-GSN'][] = array (
 );
 $concordance['3588']['T-GSN'][] = array (
   'word' => 'τοῦ',
-  'spa' => 'el',
+  'spa' => 'la',
   'morph' => 'T-GSN',
   'ref' => 'ac 27:43',
 );

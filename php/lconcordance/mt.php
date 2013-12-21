@@ -81308,7 +81308,7 @@ $concordance['3588']['DGPN'][] = array (
 );
 $concordance['3588']['DGPN'][] = array (
   'word' => 'τῶν',
-  'spa' => 'los',
+  'spa' => 'las',
   'morph' => 'DGPN',
   'ref' => 'mt 18:7',
 );
@@ -98870,7 +98870,7 @@ $concordance['4625']['NNSN'][] = array (
 );
 $concordance['4625']['NGPN'][] = array (
   'word' => 'σκανδάλων',
-  'spa' => 'tropiezos',
+  'spa' => 'causas de tropiezo',
   'morph' => 'NGPN',
   'ref' => 'mt 18:7',
 );
@@ -107708,7 +107708,7 @@ $concordance['5346']['VPAI3S'][] = array (
 );
 $concordance['5348']['VAAI3S'][] = array (
   'word' => 'ἔφθασεν',
-  'spa' => 'vino',
+  'spa' => 'llegó',
   'morph' => 'VAAI3S',
   'ref' => 'mt 12:28',
 );

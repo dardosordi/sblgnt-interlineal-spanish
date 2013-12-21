@@ -14198,7 +14198,7 @@ $concordance['1012']['NASF'][] = array (
 );
 $concordance['1013']['NGSN'][] = array (
   'word' => 'βουλήματος',
-  'spa' => 'propósito',
+  'spa' => 'voluntad',
   'morph' => 'NGSN',
   'ref' => 'ac 27:43',
 );
@@ -37184,7 +37184,7 @@ $concordance['2171']['NASF'][] = array (
 );
 $concordance['2172']['VAMO1S'][] = array (
   'word' => 'Εὐξαίμην',
-  'spa' => 'Oraría',
+  'spa' => 'Desearía',
   'morph' => 'VAMO1S',
   'ref' => 'ac 26:29',
 );
@@ -75692,7 +75692,7 @@ $concordance['3588']['DGSN'][] = array (
 );
 $concordance['3588']['DGSN'][] = array (
   'word' => 'τοῦ',
-  'spa' => 'el',
+  'spa' => 'la',
   'morph' => 'DGSN',
   'ref' => 'ac 27:43',
 );

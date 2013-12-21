@@ -114188,7 +114188,7 @@ $concordance['5346']['VIAI3S'][] = array (
 );
 $concordance['5348']['VAAI3S'][] = array (
   'word' => 'ἔφθασεν',
-  'spa' => 'vino',
+  'spa' => 'llegó',
   'morph' => 'VAAI3S',
   'ref' => 'lk 11:20',
 );
