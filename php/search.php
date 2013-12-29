@@ -1,7 +1,6 @@
 <?php
 /*
 @TODO
-- implementar matcheo morph
 - operador proximidad
 - listas para strongs
 - regexp para texto
@@ -178,6 +177,7 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0) {
 	}
 	return false;
 }
+
 function match_word($word, $matcher) {
 	$match = true;
 	foreach ($matcher as $key => $value) {
@@ -212,15 +212,45 @@ function match_key($word, $key, $value) {
 		case 'greek':
 		case 'g':
 			return stripos($word['greek'], $value) !== false;
+		case 'morph':
+		case 'pos':
+		case 'm':
+			$values = explode(',', $value);
+			foreach($values as $v) {
+				if (match_pos($word['morph'], $v)) {
+					return true;
+				}
+			}
+			return false;
 		default:
 			die("Search field $key not available\n");
 	}
 }
+
+function match_pos($pos, $matcher) {
+	$pos = str_split($pos);
+	$matcher = str_split(strtoupper($matcher));
+
+	for ($i = 0; $i < count($matcher) ; $i++) {
+		if (!isset($pos[$i])) {
+			return false;
+		}
+		if (in_array($matcher, array('?','.','?'))) {
+			continue;
+		}
+		if ($pos[$i] != $matcher[$i]) {
+			return false;
+		}
+	}
+
+	return true;
+}
+
 if ($is_cli) {
 	exit(0);
 }
 $title = $page_title = 'Buscar';
-$content = '';
+$content = '<div class="interlineal">';
 foreach($found as $ref => $verse_data) {
 	list($book, $chapter, $verse) = parse_ref($ref);
 	$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
@@ -281,6 +311,8 @@ foreach($found as $ref => $verse_data) {
 	}
 	$content .= '</div>';
 }
+
+$content .= '</div>';
 ?>
 <html>
 <head>
