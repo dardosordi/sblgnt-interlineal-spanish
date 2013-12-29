@@ -68516,7 +68516,7 @@ $concordance['3361']['BN'][] = array (
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'Μὴ',
-  'spa' => 'No',
+  'spa' => 'Acaso',
   'morph' => 'TN',
   'ref' => 'lk 5:34',
 );
@@ -68534,7 +68534,7 @@ $concordance['3361']['TN'][] = array (
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'TN',
   'ref' => 'lk 17:9',
 );
@@ -68546,7 +68546,7 @@ $concordance['3361']['TN'][] = array (
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'μή',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'TN',
   'ref' => 'lk 22:35',
 );

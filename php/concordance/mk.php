@@ -41102,7 +41102,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'No',
+  'spa' => 'Acaso',
   'morph' => 'PRT-N',
   'ref' => 'mk 2:19',
 );

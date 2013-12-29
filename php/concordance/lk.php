@@ -67838,7 +67838,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'No',
+  'spa' => 'Acaso',
   'morph' => 'PRT-N',
   'ref' => 'lk 5:34',
 );
@@ -68312,7 +68312,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'PRT-N',
   'ref' => 'lk 17:9',
 );
@@ -68522,7 +68522,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'PRT-N',
   'ref' => 'lk 22:35',
 );

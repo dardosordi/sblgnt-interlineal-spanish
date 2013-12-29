@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="8583" sizex="1290" sizey="69378" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="14984" sizex="1290" sizey="69896" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="10:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \_unknown_char_style \fig \vp \_hidden_note \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -4442,7 +4442,7 @@
   f="0000000000000000100001" sn="1333" w="1" ty="1"
   fp=";">
   </S>
-  <S s="μὴ" k="μὴ" t="no" a="no"
+  <S s="μὴ" k="μὴ" t="acaso" a="acaso"
   f="0000000000000000000001" sn="1334" w="1" ty="1">
   </S>
   <S s="δύναται" k="δύναται" t="puede" a="puede"
@@ -6942,7 +6942,7 @@
   f="0000000000000000100001" sn="2096" w="1" ty="1"
   fp=";">
   </S>
-  <S s="μὴ" k="μὴ" t="no" a="no"
+  <S s="μὴ" k="μὴ" t="acaso" a="acaso"
   f="0000010000000000010001" sn="2097" w="1" ty="1"
   c="4:12"
   m="\v 12 ">
@@ -8123,7 +8123,7 @@
   f="0000000000000000100001" sn="2452" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μή" k="Μή" t="No" a="No"
+  <S s="Μή" k="Μή" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="2453" w="1" ty="1">
   </S>
   <S s="τις" k="τις" t="alguien" a="alguien"
@@ -15913,7 +15913,7 @@
   f="0000000000000000100001" sn="4818" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="4819" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="también" a="también"
@@ -17801,11 +17801,11 @@
   <S s="ἔλθῃ" k="ἔλθῃ" t="venga" a="venga"
   f="0000000000000000000001" sn="5384" w="1" ty="1">
   </S>
-  <S s="⸀μὴ" k="μὴ" t="⸀no" a="no"
+  <S s="⸀μὴ" k="μὴ" t="⸀acaso" a="acaso"
   f="0000000000000000000001" sn="5385" w="1" ty="1"
   pp="⸀">
   </S>
-  <S s="πλείονα" k="πλείονα" t="más que" a="más que"
+  <S s="πλείονα" k="πλείονα" t="más" a="más"
   f="0000000000000000000001" sn="5386" w="1" ty="1">
   </S>
   <S s="⸀σημεῖα" k="σημεῖα" t="⸀señales" a="señales"
@@ -18038,7 +18038,7 @@
   f="0000000000000000100001" sn="5455" w="1" ty="1"
   fp=";">
   </S>
-  <S s="μὴ" k="μὴ" t="no" a="no"
+  <S s="μὴ" k="μὴ" t="acaso" a="acaso"
   f="0000000000000000000001" sn="5456" w="1" ty="1">
   </S>
   <S s="εἰς" k="εἰς" t="hacia" a="hacia"
@@ -18423,7 +18423,7 @@
   f="0000000000000000100001" sn="5570" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="5571" w="1" ty="1">
   </S>
   <S s="γὰρ" k="γὰρ" t="← porque" a="← porque"
@@ -18697,7 +18697,7 @@
   f="0000000000000000100001" sn="5650" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="5651" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="también" a="también"
@@ -18710,7 +18710,7 @@
   f="0000000000000000100001" sn="5654" w="1" ty="1"
   fp=";">
   </S>
-  <S s="μή" k="μή" t="no" a="no"
+  <S s="μή" k="μή" t="acaso" a="acaso"
   f="0000010000000000010001" sn="5655" w="1" ty="1"
   c="7:48"
   m="\v 48 ">
@@ -18831,7 +18831,7 @@
   f="0000000000000000100001" sn="5690" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000010000000000010001" sn="5691" w="1" ty="1"
   c="7:51"
   m="\v 51 ">
@@ -18903,7 +18903,7 @@
   f="0000000000000000100001" sn="5711" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="5712" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="también" a="también"
@@ -21555,7 +21555,7 @@
   f="0000000000000000100001" sn="6510" w="1" ty="1"
   fp="·">
   </S>
-  <S s="μὴ" k="μὴ" t="no" a="no"
+  <S s="μὴ" k="μὴ" t="acaso" a="acaso"
   f="0000010000000000010001" sn="6511" w="1" ty="1"
   c="8:53"
   m="\v 53 ">
@@ -23529,7 +23529,7 @@
   f="0000000000000000100001" sn="7098" w="1" ty="1"
   fp=";">
   </S>
-  <S s="μὴ" k="μὴ" t="no" a="no"
+  <S s="μὴ" k="μὴ" t="acaso" a="acaso"
   f="0000000000000000000001" sn="7099" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="también" a="también"
@@ -24196,7 +24196,7 @@
   f="0000000000000000100001" sn="7297" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="7298" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="también" a="también"
@@ -25482,7 +25482,7 @@
   f="0000000000000000100001" sn="7684" w="1" ty="1"
   fp="·">
   </S>
-  <S s="μὴ" k="μὴ" t="no" a="no"
+  <S s="μὴ" k="μὴ" t="acaso" a="acaso"
   f="0000000000000000000001" sn="7685" w="1" ty="1">
   </S>
   <S s="δαιμόνιον" k="δαιμόνιον" t="demonio" a="demonio"
@@ -43055,7 +43055,7 @@
   f="0000000000000000100001" sn="12976" w="1" ty="1"
   fp="⸃·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="12977" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="también" a="también"
@@ -43552,7 +43552,7 @@
   f="0000000000000000100001" sn="13124" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="13125" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="también" a="también"
@@ -49718,7 +49718,7 @@
   f="0000000000000000000001" sn="14983" w="1" ty="1"
   fp=",">
   </S>
-  <S s="μή" k="μή" t="no" a="no"
+  <S s="μή" k="μή" t="acaso" a="acaso"
   f="0000000000000000000001" sn="14984" w="1" ty="1">
   </S>
   <S s="τι" k="τι" t="algo" a="algo"

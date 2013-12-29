@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="4108" sizex="1290" sizey="92910" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="17224" sizex="1290" sizey="93058" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="19:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -13311,7 +13311,7 @@
   f="0000000000000000100001" sn="4031" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Μὴ" k="Μὴ" t="No" a="No"
+  <S s="Μὴ" k="Μὴ" t="Acaso" a="Acaso"
   f="0000000000000000000001" sn="4032" w="1" ty="1">
   </S>
   <S s="δύνασθε" k="δύνασθε" t="pueden" a="pueden"
@@ -44986,7 +44986,7 @@
   f="0000000000000000100001" sn="13568" w="1" ty="1"
   fp=";">
   </S>
-  <S s="μὴ" k="μὴ" t="no" a="no"
+  <S s="μὴ" k="μὴ" t="acaso" a="acaso"
   f="0000010000000000010001" sn="13569" w="1" ty="1"
   c="17:9"
   m="\v 9 ">
@@ -57234,7 +57234,7 @@
   f="0000000000000000000001" sn="17223" w="1" ty="1"
   fp=",">
   </S>
-  <S s="μή" k="μή" t="no" a="no"
+  <S s="μή" k="μή" t="acaso" a="acaso"
   f="0000000000000000000001" sn="17224" w="1" ty="1">
   </S>
   <S s="τινος" k="τινος" t="algo" a="algo"

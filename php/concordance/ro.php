@@ -14966,7 +14966,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'PRT-N',
   'ref' => 'ro 3:3',
 );
@@ -14978,7 +14978,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'PRT-N',
   'ref' => 'ro 3:5',
 );
@@ -15092,7 +15092,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'PRT-N',
   'ref' => 'ro 9:14',
 );
@@ -15104,7 +15104,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'PRT-N',
   'ref' => 'ro 9:20',
 );

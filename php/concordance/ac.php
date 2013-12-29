@@ -61094,13 +61094,13 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'PRT-N',
   'ref' => 'ac 7:28',
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μὴ',
-  'spa' => 'No',
+  'spa' => 'Acaso',
   'morph' => 'PRT-N',
   'ref' => 'ac 7:42',
 );
@@ -67796,7 +67796,7 @@ $concordance['3588']['T-ASN'][] = array (
 );
 $concordance['3588']['T-ASN'][] = array (
   'word' => 'τὸ',
-  'spa' => 'lo',
+  'spa' => 'el',
   'morph' => 'T-ASN',
   'ref' => 'ac 10:47',
 );

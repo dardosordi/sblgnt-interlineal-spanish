@@ -61388,13 +61388,13 @@ $concordance['3361']['CSC'][] = array (
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'TN',
   'ref' => 'ac 7:28',
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'Μὴ',
-  'spa' => 'No',
+  'spa' => 'Acaso',
   'morph' => 'TN',
   'ref' => 'ac 7:42',
 );
@@ -67772,7 +67772,7 @@ $concordance['3588']['DASN'][] = array (
 );
 $concordance['3588']['DASN'][] = array (
   'word' => 'τὸ',
-  'spa' => 'lo',
+  'spa' => 'el',
   'morph' => 'DASN',
   'ref' => 'ac 10:47',
 );

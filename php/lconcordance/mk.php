@@ -41534,7 +41534,7 @@ $concordance['3361']['BN'][] = array (
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'Μὴ',
-  'spa' => 'No',
+  'spa' => 'Acaso',
   'morph' => 'TN',
   'ref' => 'mk 2:19',
 );

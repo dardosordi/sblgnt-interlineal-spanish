@@ -62684,13 +62684,13 @@ $concordance['3361']['TN'][] = array (
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'Μὴ',
-  'spa' => 'No',
+  'spa' => 'Acaso',
   'morph' => 'TN',
   'ref' => 'mt 9:15',
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'TN',
   'ref' => 'mt 11:23',
 );
