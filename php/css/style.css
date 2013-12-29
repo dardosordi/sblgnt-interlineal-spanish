@@ -289,6 +289,15 @@ sub {
 	font-weight: bold;
 }
 
+.search-result {
+	margin-bottom: 1em;
+	border-bottom: 1px solid #000;
+}
+
+.search-result:hover {
+	background: #eee;
+}
+
 /* Core qTip styles */
 .qtip, .qtip{
 	position: absolute;
