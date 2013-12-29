@@ -2,7 +2,8 @@
 
 /*
 @TODO
-- implmeentar matcheo morph
+- seleccion de libros
+- implementar matcheo morph
 - operador proximidad
 - listas para strongs
 - regexp para texto
