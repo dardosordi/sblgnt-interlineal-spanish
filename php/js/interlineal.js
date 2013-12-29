@@ -80,7 +80,7 @@ $(function() {
 		$(e).attr('title', spa.text() + ' [' + morph.attr('title') + '. G' + strongs.text() + ', ' + strongs.attr('title') + ']');
 	});
 
-	var matches = /G([0-9]+)/.exec(document.referrer);
+	var matches = /G([0-9]+)\.html/.exec(document.referrer);
 	if (matches) {
 		$('.strongs a').each(function (i, e) {
 			if ($(e).text() == matches[1]) {
