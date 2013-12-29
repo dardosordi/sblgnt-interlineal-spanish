@@ -18148,8 +18148,11 @@
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="μήγε">
-      <RS n="5" a="nó" df="0"
-      cDT="2013-12-14T19:46:20Z" wC="dardo:sophie"/>
+      <RS n="0" a="nó" df="1"
+      cDT="2013-12-14T19:46:20Z" wC="dardo:sophie"
+      dDT="2013-12-29T01:28:26Z"/>
+      <RS n="6" a="no" df="0"
+      cDT="2013-12-29T01:28:31Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="μήποτέ">
       <RS n="1" a="no sea que" df="0"
@@ -33242,9 +33245,8 @@
       <RS n="1" a="prisiónes" df="1"
       cDT="2013-12-14T19:46:22Z" wC="dardo:sophie"
       dDT="2013-12-29T00:29:15Z"/>
-      <RS n="1" a="prisiones" df="1"
-      cDT="2013-12-29T00:29:20Z" wC="dardo:sophie"
-      dDT="2013-12-29T00:29:22Z"/>
+      <RS n="1" a="prisiones" df="0"
+      cDT="2013-12-29T01:25:41Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="φυλακήν">
       <RS n="6" a="prisión" df="0"
@@ -33258,8 +33260,9 @@
       <RS n="1" a="prisiónes" df="1"
       cDT="2013-12-14T19:46:13Z" wC="dardo:sophie"
       dDT="2013-12-29T00:31:46Z"/>
-      <RS n="1" a="prisiones" df="0"
-      cDT="2013-12-29T00:31:50Z" wC="dardo:sophie"/>
+      <RS n="1" a="prisiones" df="1"
+      cDT="2013-12-29T00:31:50Z" wC="dardo:sophie"
+      dDT="2013-12-29T00:31:51Z"/>
     </TU>
     <TU f="0" k="φυλακτήρια">
       <RS n="1" a="guardas" df="0"

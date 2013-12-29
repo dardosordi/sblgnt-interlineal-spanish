@@ -67844,13 +67844,13 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'PRT-N',
   'ref' => 'lk 5:36',
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'PRT-N',
   'ref' => 'lk 5:37',
 );
@@ -68054,7 +68054,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'PRT-N',
   'ref' => 'lk 10:6',
 );
@@ -68246,7 +68246,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'PRT-N',
   'ref' => 'lk 13:9',
 );
@@ -68288,7 +68288,7 @@ $concordance['3361']['PRT-N'][] = array (
 );
 $concordance['3361']['PRT-N'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'PRT-N',
   'ref' => 'lk 14:32',
 );

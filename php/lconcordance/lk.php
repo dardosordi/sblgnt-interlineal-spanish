@@ -68552,31 +68552,31 @@ $concordance['3361']['TN'][] = array (
 );
 $concordance['3361']['T'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'T',
   'ref' => 'lk 5:36',
 );
 $concordance['3361']['T'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'T',
   'ref' => 'lk 5:37',
 );
 $concordance['3361']['T'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'T',
   'ref' => 'lk 10:6',
 );
 $concordance['3361']['T'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'T',
   'ref' => 'lk 13:9',
 );
 $concordance['3361']['T'][] = array (
   'word' => 'μήγε',
-  'spa' => 'nó',
+  'spa' => 'no',
   'morph' => 'T',
   'ref' => 'lk 14:32',
 );
