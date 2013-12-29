@@ -11,13 +11,14 @@ function parse_query($query) {
 	return $tree;
 }
 
-function match_verse(&$verse_data, $parsed_query, $offset = 0) {
-	for($i = $offset; $i < count($verse_data); ++$i) {
+function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0) {
+	$len = count($verse_data);
+	for($i = $offset; $i < $len; ++$i) {
 		$word = &$verse_data[$i];
-		if (match_word($word, $parsed_query[0])) {
+		if (match_word($word, $parsed_query[$match_offset])) {
 			$word['match'] = true;
-			if (!empty($parsed_query[1])) {
-				return match_verse($verse_data, array_slice($parsed_query, 1), $i + 1);
+			if (!empty($parsed_query[$match_offset+1])) {
+				return match_verse($verse_data, $parsed_query, 1, $i + 1, $match_offset + 1);
 			}
 			return true;
 		}
@@ -25,21 +26,21 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0) {
 	return false;
 }
 
-function match_word($word, $matcher) {
-	$match = true;
+function match_word(&$word, &$matcher) {
 	foreach ($matcher as $key => $value) {
 		$modifier = null;
-		if (!preg_match('/[a-z0-9_]/', $key[0])) {
+		if (!ctype_alpha($key[0])) {
 			$modifier = $key[0];
 			$key = substr($key, 1);
 		}
-		if (strpos($modifier, '~!') !== false) {
-			$match = !match_key($word, $key, $value);
+		if ($modifier && strpos($modifier, '~!') !== false) {
+			if (match_key($word, $key, $value)) {
+				return false;
+			}
 		} else {
-			$match = match_key($word, $key, $value);
-		}
-		if (!$match) {
-			return false;
+			if (!match_key($word, $key, $value)) {
+				return false;
+			}
 		}
 	}
 	return true;
@@ -85,8 +86,8 @@ function match_key($word, $key, $value) {
 function match_pos($pos, $matcher) {
 	$pos = str_split($pos);
 	$matcher = str_split(strtoupper($matcher));
-
-	for ($i = 0; $i < count($matcher) ; $i++) {
+	$len = count($matcher);
+	for ($i = 0; $i < $len ; $i++) {
 		if (!isset($pos[$i])) {
 			return false;
 		}
