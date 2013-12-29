@@ -212,6 +212,13 @@ function match_key($word, $key, $value) {
 		case 'greek':
 		case 'g':
 			return stripos($word['greek'], $value) !== false;
+		case 'lemma':
+		case 'l':
+			return stripos($word['lemma'], $value) !== false;
+		case 'translit':
+		case 'tr':
+		case 't':
+			return stripos($word['translit'], $value) !== false;
 		case 'morph':
 		case 'pos':
 		case 'm':
