@@ -22796,19 +22796,19 @@ $concordance['1161']['CONJ'][] = array (
 );
 $concordance['1162']['N-NSF'][] = array (
   'word' => 'δέησις',
-  'spa' => 'oración',
+  'spa' => 'ruego',
   'morph' => 'N-NSF',
   'ref' => 'lk 1:13',
 );
 $concordance['1162']['N-DPF'][] = array (
   'word' => 'δεήσεσιν',
-  'spa' => 'oraciónes',
+  'spa' => 'ruegos',
   'morph' => 'N-DPF',
   'ref' => 'lk 2:37',
 );
 $concordance['1162']['N-APF'][] = array (
   'word' => 'δεήσεις',
-  'spa' => 'oraciónes',
+  'spa' => 'ruegos',
   'morph' => 'N-APF',
   'ref' => 'lk 5:33',
 );
@@ -25550,7 +25550,7 @@ $concordance['1410']['V-PMP-NSM'][] = array (
 );
 $concordance['1410']['V-IMI-3S'][] = array (
   'word' => 'ἐδύνατο',
-  'spa' => 'podia',
+  'spa' => 'podía',
   'morph' => 'V-IMI-3S',
   'ref' => 'lk 1:22',
 );
@@ -30128,7 +30128,7 @@ $concordance['1521']['V-2AAI-3P'][] = array (
 );
 $concordance['1522']['V-API-3S'][] = array (
   'word' => 'εἰσηκούσθη',
-  'spa' => 'fue escuchada',
+  'spa' => 'fue escuchado',
   'morph' => 'V-API-3S',
   'ref' => 'lk 1:13',
 );
@@ -76598,7 +76598,7 @@ $concordance['3588']['T-NSF'][] = array (
 );
 $concordance['3588']['T-NSF'][] = array (
   'word' => 'ἡ',
-  'spa' => 'la',
+  'spa' => 'el',
   'morph' => 'T-NSF',
   'ref' => 'lk 1:13',
 );
@@ -105410,7 +105410,7 @@ $concordance['4674']['S-2NSN'][] = array (
 );
 $concordance['4675']['P-2GS'][] = array (
   'word' => 'σου',
-  'spa' => 'tuya',
+  'spa' => 'tuyo',
   'morph' => 'P-2GS',
   'ref' => 'lk 1:13',
 );
@@ -107900,7 +107900,7 @@ $concordance['4993']['V-PAP-ASM'][] = array (
 );
 $concordance['5009']['N-DPN'][] = array (
   'word' => 'ταμείοις',
-  'spa' => 'habitaciónes privadas',
+  'spa' => 'habitaciones privadas',
   'morph' => 'N-DPN',
   'ref' => 'lk 12:3',
 );
@@ -114620,7 +114620,7 @@ $concordance['5438']['N-APF'][] = array (
 );
 $concordance['5438']['N-APF'][] = array (
   'word' => 'φυλακάς',
-  'spa' => 'prisiónes',
+  'spa' => 'prisiones',
   'morph' => 'N-APF',
   'ref' => 'lk 21:12',
 );

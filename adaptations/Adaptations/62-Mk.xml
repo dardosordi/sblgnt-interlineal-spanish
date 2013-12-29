@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="1558" sizex="1290" sizey="54134" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="3268" sizex="1290" sizey="54282" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="11:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \h \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -6308,7 +6308,6 @@
   pp="⸀">
   </S>
   <S s="καὶ" k="καὶ" t="y" a="y"
-
   f="0000000000000000000001" sn="1876" w="1" ty="1">
   </S>
   <S s="διὰ" k="διὰ" t="por" a="por"
@@ -8393,7 +8392,7 @@
   <S s="τὴν" k="τὴν" t="la" a="la"
   f="0000000000000000000001" sn="2492" w="1" ty="1">
   </S>
-  <S s="κατοίκησιν" k="κατοίκησιν" t="resitencia" a="resitencia"
+  <S s="κατοίκησιν" k="κατοίκησιν" t="residencia" a="residencia"
   f="0000000000000000000001" sn="2493" w="1" ty="1">
   </S>
   <S s="εἶχεν" k="εἶχεν" t="tenía" a="tenía"
@@ -8426,7 +8425,7 @@
   <S s="οὐδεὶς" k="οὐδεὶς" t="nadie" a="nadie"
   f="0000000000000000000001" sn="2502" w="1" ty="1">
   </S>
-  <S s="ἐδύνατο" k="ἐδύνατο" t="podia" a="podia"
+  <S s="ἐδύνατο" k="ἐδύνατο" t="podía" a="podía"
   f="0000000000000000000001" sn="2503" w="1" ty="1">
   </S>
   <S s="αὐτὸν" k="αὐτὸν" t="a él" a="a él"
@@ -9168,7 +9167,6 @@
   c="5:17"
   m="\v 17 ">
   </S>
-
   <S s="ἤρξαντο" k="ἤρξαντο" t="comenzaron" a="comenzaron"
   f="0000000000000000000001" sn="2724" w="1" ty="1">
   </S>
@@ -10979,7 +10977,7 @@
   <S s="οὐκ" k="οὐκ" t="no" a="no"
   f="0000000000000000000001" sn="3267" w="1" ty="1">
   </S>
-  <S s="ἐδύνατο" k="ἐδύνατο" t="podia" a="podia"
+  <S s="ἐδύνατο" k="ἐδύνατο" t="podía" a="podía"
   f="0000000000000000000001" sn="3268" w="1" ty="1">
   </S>
   <S s="ἐκεῖ" k="ἐκεῖ" t="allí" a="allí"
@@ -17156,7 +17154,6 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="5109" w="1" ty="1">
   </S>
-
   <S s="ἀπεκατέστη" k="ἀπεκατέστη" t="restauró" a="restauró"
   f="0000000000000000000001" sn="5110" w="1" ty="1">
   </S>
@@ -23664,7 +23661,6 @@
   </S>
   <S s="εἶπεν·" k="εἶπεν" t="dijo:" a="dijo"
   f="0000000000000000100001" sn="7057" w="1" ty="1"
-
   fp="·">
   </S>
   <S s="⸂Φωνήσατε" k="Φωνήσατε" t="⸂Llamen" a="Llamen"
@@ -37504,7 +37500,6 @@
   </S>
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="11189" w="1" ty="1">
-
   </S>
   <S s="σκληροκαρδίαν" k="σκληροκαρδίαν" t="dureza de corazón" a="dureza de corazón"
   f="0000000000000000000001" sn="11190" w="1" ty="1">

@@ -23900,13 +23900,13 @@ $concordance['1410']['VPUI1P'][] = array (
 );
 $concordance['1410']['VIUI3S'][] = array (
   'word' => 'ἐδύνατο',
-  'spa' => 'podia',
+  'spa' => 'podía',
   'morph' => 'VIUI3S',
   'ref' => 'mt 22:46',
 );
 $concordance['1410']['VIUI3S'][] = array (
   'word' => 'ἐδύνατο',
-  'spa' => 'podia',
+  'spa' => 'podía',
   'morph' => 'VIUI3S',
   'ref' => 'mt 26:9',
 );
@@ -101684,7 +101684,7 @@ $concordance['5009']['NASN'][] = array (
 );
 $concordance['5009']['NDPN'][] = array (
   'word' => 'ταμείοις',
-  'spa' => 'habitaciónes privadas',
+  'spa' => 'habitaciones privadas',
   'morph' => 'NDPN',
   'ref' => 'mt 24:26',
 );

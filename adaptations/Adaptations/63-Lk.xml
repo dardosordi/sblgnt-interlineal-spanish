@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="9322" sizex="1290" sizey="92392" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="16315" sizex="1290" sizey="93058" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="19:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -600,16 +600,16 @@
   <S s="διότι" k="διότι" t="porque" a="porque"
   f="0000000000000000000001" sn="178" w="1" ty="1">
   </S>
-  <S s="εἰσηκούσθη" k="εἰσηκούσθη" t="fue escuchada" a="fue escuchada"
+  <S s="εἰσηκούσθη" k="εἰσηκούσθη" t="fue escuchado" a="fue escuchado"
   f="0000000000000000000001" sn="179" w="1" ty="1">
   </S>
-  <S s="ἡ" k="ἡ" t="la" a="la"
+  <S s="ἡ" k="ἡ" t="el" a="el"
   f="0000000000000000000001" sn="180" w="1" ty="1">
   </S>
-  <S s="δέησίς" k="δέησίς" t="oración" a="oración"
+  <S s="δέησίς" k="δέησίς" t="ruego" a="ruego"
   f="0000000000000000000001" sn="181" w="1" ty="1">
   </S>
-  <S s="σου," k="σου" t="tuya," a="tuya"
+  <S s="σου," k="σου" t="tuyo," a="tuyo"
   f="0000000000000000000001" sn="182" w="1" ty="1"
   fp=",">
   </S>
@@ -1182,7 +1182,7 @@
   <S s="οὐκ" k="οὐκ" t="no" a="no"
   f="0000000000000000000001" sn="357" w="1" ty="1">
   </S>
-  <S s="⸀ἐδύνατο" k="ἐδύνατο" t="⸀podia" a="podia"
+  <S s="⸀ἐδύνατο" k="ἐδύνατο" t="⸀podía" a="podía"
   f="0000000000000000000001" sn="358" w="1" ty="1"
   pp="⸀">
   </S>
@@ -1712,7 +1712,6 @@
   </S>
   <S s="δώσει" k="δώσει" t="dará" a="dará"
   f="0000000000000000000001" sn="517" w="1" ty="1">
-
   </S>
   <S s="αὐτῷ" k="αὐτῷ" t="a él" a="a él"
   f="0000000000000000000001" sn="518" w="1" ty="1">
@@ -5903,7 +5902,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="1787" w="1" ty="1">
   </S>
-  <S s="δεήσεσιν" k="δεήσεσιν" t="oraciónes" a="oraciónes"
+  <S s="δεήσεσιν" k="δεήσεσιν" t="ruegos" a="ruegos"
   f="0000000000000000000001" sn="1788" w="1" ty="1">
   </S>
   <S s="λατρεύουσα" k="λατρεύουσα" t="sirviendo" a="sirviendo"
@@ -6895,7 +6894,6 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000010000000000010001" sn="2087" w="1" ty="1"
   c="3:3"
-
   m="\v 3 ">
   </S>
   <S s="ἦλθεν" k="ἦλθεν" t="vino" a="vino"
@@ -13252,7 +13250,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="4013" w="1" ty="1">
   </S>
-  <S s="δεήσεις" k="δεήσεις" t="oraciónes" a="oraciónes"
+  <S s="δεήσεις" k="δεήσεις" t="ruegos" a="ruegos"
   f="0000000000000000000001" sn="4014" w="1" ty="1">
   </S>
   <S s="ποιοῦνται," k="ποιοῦνται" t="hacen," a="hacen"
@@ -20516,7 +20514,6 @@
   fp=",">
   </S>
   <S s="οἳ" k="οἳ" t="quienes" a="quienes"
-
   f="0000000000000000000001" sn="6196" w="1" ty="1">
   </S>
   <S s="πρὸς" k="πρὸς" t="hacia" a="hacia"
@@ -33178,7 +33175,7 @@
   <S s="τοῖς" k="τοῖς" t="las" a="las"
   f="0000000000000000000001" sn="10012" w="1" ty="1">
   </S>
-  <S s="ταμείοις" k="ταμείοις" t="habitaciónes privadas" a="habitaciónes privadas"
+  <S s="ταμείοις" k="ταμείοις" t="habitaciones privadas" a="habitaciones privadas"
   f="0000000000000000000001" sn="10013" w="1" ty="1">
   </S>
   <S s="κηρυχθήσεται" k="κηρυχθήσεται" t="será proclamado" a="será proclamado"
@@ -39962,7 +39959,6 @@
   f="0000000000000000000001" sn="12051" w="1" ty="1">
   </S>
   <S s="ἀνάγκασον" k="ἀνάγκασον" t="obliga" a="obliga"
-
   f="0000000000000000000001" sn="12052" w="1" ty="1">
   </S>
   <S s="εἰσελθεῖν," k="εἰσελθεῖν" t="entrar," a="entrar"
@@ -44481,7 +44477,6 @@
   <S s="οὐδ’" k="οὐδ" t="ni" a="ni"
   f="0000000000000000100001" sn="13416" w="1" ty="1"
   fp="’">
-
   </S>
   <S s="ἐάν" k="ἐάν" t="sea" a="sea"
   f="0000000000000000000001" sn="13417" w="1" ty="1">
@@ -46213,7 +46208,6 @@
   f="0000000000000000000001" sn="13931" w="1" ty="1">
   </S>
   <S s="ψυχὴν" k="ψυχὴν" t="vida" a="vida"
-
   f="0000000000000000000001" sn="13932" w="1" ty="1">
   </S>
   <S s="αὐτοῦ" k="αὐτοῦ" t="de él" a="de él"
@@ -54208,7 +54202,7 @@
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="16314" w="1" ty="1">
   </S>
-  <S s="φυλακάς," k="φυλακάς" t="prisiónes," a="prisiónes"
+  <S s="φυλακάς," k="φυλακάς" t="prisiones," a="prisiones"
   f="0000000000000000000001" sn="16315" w="1" ty="1"
   fp=",">
   </S>
@@ -55032,7 +55026,6 @@
   </S>
   <S s="καὶ" k="καὶ" t="y" a="y"
   f="0000000000000000000001" sn="16563" w="1" ty="1">
-
   </S>
   <S s="πάντα" k="πάντα" t="todos" a="todos"
   f="0000000000000000000001" sn="16564" w="1" ty="1">

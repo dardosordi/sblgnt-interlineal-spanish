@@ -16940,7 +16940,7 @@ $concordance['1410']['VIUI3S'][] = array (
 );
 $concordance['1410']['VIUI3S'][] = array (
   'word' => 'ἐδύνατο',
-  'spa' => 'podia',
+  'spa' => 'podía',
   'morph' => 'VIUI3S',
   'ref' => 'jn 11:37',
 );

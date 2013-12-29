@@ -14966,13 +14966,13 @@ $concordance['1410']['V-IMI-3P-ATT'][] = array (
 );
 $concordance['1410']['V-IMI-3S'][] = array (
   'word' => 'ἐδύνατο',
-  'spa' => 'podia',
+  'spa' => 'podía',
   'morph' => 'V-IMI-3S',
   'ref' => 'mk 5:3',
 );
 $concordance['1410']['V-IMI-3S'][] = array (
   'word' => 'ἐδύνατο',
-  'spa' => 'podia',
+  'spa' => 'podía',
   'morph' => 'V-IMI-3S',
   'ref' => 'mk 6:5',
 );
@@ -36728,7 +36728,7 @@ $concordance['2723']['V-PAI-3P'][] = array (
 );
 $concordance['2731']['N-ASF'][] = array (
   'word' => 'κατοίκησιν',
-  'spa' => 'resitencia',
+  'spa' => 'residencia',
   'morph' => 'N-ASF',
   'ref' => 'mk 5:3',
 );
