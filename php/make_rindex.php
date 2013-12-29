@@ -25,6 +25,8 @@ foreach($books as $book => $book_data) {
 $filename = $xml_path . $books[$book]['xml'];
 $morphdb_filename = $moprhdb_path . $book . '.php';
 $book_index = $index_path . $book . '.php';
+$book_index_js = $index_path . $book . '.json';
+$book_index_ser = $index_path . $book . '.ser';
 
 if (!file_exists($filename)) {
 	continue;
@@ -130,8 +132,11 @@ foreach($xml->xpath('//S') as $S) {
 ksort($index);
 
 echo "Built $book\n";
-$out = "<?php\n\n";
 
+file_put_contents($book_index_js, json_encode($index[$book]));
+file_put_contents($book_index_ser, serialize($index[$book]));
+
+$out = "<?php\n\n";
 foreach($index as $b => $book) {
 	foreach ($book as $c => $chapter) {
 		foreach ($chapter as $v => $verse) {
@@ -143,7 +148,6 @@ foreach($index as $b => $book) {
 }
 
 file_put_contents($book_index, $out);
-
 
 }
 

@@ -55,6 +55,8 @@ $available_books = array();
 
 foreach($books as $book => $book_data) {
 	$index_filename = $index_path . $book . '.php';
+	$index_filename_js = $index_path . $book . '.json';
+	$index_filename_ser = $index_path . $book . '.ser';
 
 	if (!file_exists($index_filename)) {
 		continue;
@@ -70,7 +72,7 @@ foreach($books as $book => $book_data) {
 	}
 
 	$index = array();
-	include $index_filename;
+	$index[$book] = json_decode(file_get_contents($index_filename_js), true);
 
 	foreach($index[$book] as $c => $chapter) {
 		foreach ($chapter as $v => $verse) {
