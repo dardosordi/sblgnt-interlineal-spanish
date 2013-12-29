@@ -71,13 +71,8 @@ function match_key($word, $key, $value) {
 		case 'morph':
 		case 'pos':
 		case 'm':
-			$values = explode(',', $value);
-			foreach($values as $v) {
-				if (match_pos($word['morph'], $v)) {
-					return true;
-				}
-			}
-			return false;
+			$rx = '/^('.str_replace(array('?', '*', ','), array('.', '.', '|'), $value).')/i';
+			return preg_match($rx, $word['morph']);
 		default:
 			die("Search field $key not available\n");
 	}
@@ -91,7 +86,7 @@ function match_pos($pos, $matcher) {
 		if (!isset($pos[$i])) {
 			return false;
 		}
-		if (in_array($matcher, array('?','.','?'))) {
+		if (in_array($matcher, array('?','.','*'))) {
 			continue;
 		}
 		if ($pos[$i] != $matcher[$i]) {
