@@ -14,12 +14,17 @@ include 'breaks.php';
 include 'translit.php';
 include 'helpers.php';
 include 'config.php';
+
+include 'search_utils.php';
 include 'parsetok.php';
+
 ini_set('memory_limit', '256M');
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';
 $moprhdb_path = dirname(__FILE__) . '/morph/';
+$index_path   = dirname(__FILE__) . '/rindex/';
 if ($use_logos) {
 	$moprhdb_path = dirname(__FILE__) . '/lmorph/';
+	$index_path   = dirname(__FILE__) . '/lindex/';
 }
 $is_cli = PHP_SAPI == 'cli';
 $query = '';
@@ -43,219 +48,46 @@ if ($is_cli) {
 	$show_spa = isset($_GET['spa']) ? $_GET['spa'] : true;
 	$show_greek = isset($_GET['greek']) ? $_GET['greek'] : true;
 }
+
 $parsed_query = parse_query($query);
 $found = array();
 $available_books = array();
+
 foreach($books as $book => $book_data) {
-$filename = $xml_path . $books[$book]['xml'];
-$morphdb_filename = $moprhdb_path . $book . '.php';
-if (!file_exists($filename)) {
-	continue;
-}
-$available_books[] = $book;
-if (empty($query)) {
-	continue;
-}
-if (!empty($selected_books) && !in_array($book, $selected_books)) {
-	continue;
-}
-$xml = simplexml_load_file($filename);
-$morphdb = array();
-include($morphdb_filename);
-$current_book = 1;
-$current_chapter = 0;
-$current_verse = 0;
-$current_word = -1;
-$concordance = array();
-$verse_data = array();
-foreach($xml->xpath('//S') as $S) {
-	if (isset($S['m'])) {
-		$mark = (string)$S['m'];
-		$matches = array();
-		if (preg_match('/\\\\h/', $mark, $matches)) {
-			$is_title = 1;
-		}
-		if (preg_match('/\\\\c ([0-9]+)/', $mark, $matches)) {
-			if (!empty($verse_data)) {
-				if (match_verse($verse_data, $parsed_query)) {
-					if ($is_cli) {
-						echo "$book $current_chapter:$current_verse\n";
-					}
-					$found["$book $current_chapter:$current_verse"] = $verse_data;
-				}
-			}
-			$current_chapter = $matches[1];
-			$current_word = -1;
-			$is_title = 0;
-			$verse_data = array();
-		}
-		if (preg_match('/\\\\v ([0-9]+)/', $mark, $matches)) {
-			if (!empty($verse_data)) {
-				if (match_verse($verse_data, $parsed_query)) {
-					if ($is_cli) {
-						echo "$book $current_chapter:$current_verse\n";
-					}
-					$found["$book $current_chapter:$current_verse"] = $verse_data;
-				}
-			}
-			$current_verse = $matches[1];
-			$current_word = -1;
-			$is_title = 0;
-			$verse_data = array();
-			if ($is_cli) {
-				echo "$book $current_chapter:$current_verse\r";
-			}
-		}
-	}
-	++$current_word;
-	if (!isset($S['f']) || substr((string)$S['f'], -1, 1) == "0") {
-		//echo "//MISSING NUMBRER: $book $current_chapter:$current_verse\n";
-		//file_put_contents('php://stderr', "//MISSING NUMBRER: $book $current_chapter:$current_verse.$current_word $text\n");
+	$index_filename = $index_path . $book . '.php';
+
+	if (!file_exists($index_filename)) {
 		continue;
 	}
-	$strongs_number = null;
-	$morph = null;
-	if ($current_chapter && $current_verse) {
-		$morph = '---';
-		if (isset($morphdb[$book][$current_chapter][$current_verse][$current_word])) {
-			$morph = $morphdb[$book][$current_chapter][$current_verse][$current_word]['morph'];
-			$strongs_number = $morphdb[$book][$current_chapter][$current_verse][$current_word]['strongs'];
-		}
-	}
-	if (empty($spa)) {
-		$spa = '-';
-	}
-	if ($strongs_number) {
-		$s = (string)$S['s'];
-		$k = (string)$S['k'];
-		$t = (string)$S['t'];
-		$a = (string)$S['a'];
-		$translit = translit($k);
-		$spa = $t ? $t : '-';
-		$lemma = $strongs['greek'][$strongs_number]['lemma'];
-		$verse_data[] = array(
-			'spa' => $spa,
-			'greek' => $s,
-			'lemma' => $lemma,
-			'translit' => $translit,
-			'strong' => "G$strongs_number",
-			'morph' => $morph,
-		);
-		//echo "$book $current_chapter:$current_verse $k G$strongs_number $morph $lemma \"$spa\"\n";
-	}
-}
-if (!empty($verse_data)) {
-	if (match_verse($verse_data, $parsed_query)) {
-		if ($is_cli) {
-			echo "$book $current_chapter:$current_verse\n";
-		}
-		$found["$book $current_chapter:$current_verse"] = $verse_data;
-	}
-}
-//break;
-}
-function parse_query($query) {
-	$tokens = getTokens(
-		$string = $query,
-		$offset = 0,
-		$stringDelimiters = '\'"',
-		$keywordDelimiter = ':'
-	);
-	$tree = generateTree($tokens);
-	return $tree;
-}
-function match_verse(&$verse_data, $parsed_query, $offset = 0) {
-	for($i = $offset; $i < count($verse_data); ++$i) {
-		$word = &$verse_data[$i];
-		if (match_word($word, $parsed_query[0])) {
-			$word['match'] = true;
-			if (!empty($parsed_query[1])) {
-				return match_verse($verse_data, array_slice($parsed_query, 1), $i + 1);
-			}
-			return true;
-		}
-	}
-	return false;
-}
 
-function match_word($word, $matcher) {
-	$match = true;
-	foreach ($matcher as $key => $value) {
-		$modifier = null;
-		if (!preg_match('/[a-z0-9_]/', $key[0])) {
-			$modifier = $key[0];
-			$key = substr($key, 1);
-		}
-		if (strpos($modifier, '~!') !== false) {
-			$match = !match_key($word, $key, $value);
-		} else {
-			$match = match_key($word, $key, $value);
-		}
-		if (!$match) {
-			return false;
-		}
+	$available_books[] = $book;
+	if (empty($query)) {
+		continue;
 	}
-	return true;
-}
-function match_key($word, $key, $value) {
-	switch($key) {
-		case 'strongs':
-		case 'strong':
-		case 's':
-			return $word['strong'] == $value;
-		case 'spa':
-		case 'translation':
-		case 'a':
-			return stripos($word['spa'], $value) !== false;
-		case 'grc':
-		case 'grk':
-		case 'greek':
-		case 'g':
-			return stripos($word['greek'], $value) !== false;
-		case 'lemma':
-		case 'l':
-			return stripos($word['lemma'], $value) !== false;
-		case 'translit':
-		case 'tr':
-		case 't':
-			return stripos($word['translit'], $value) !== false;
-		case 'morph':
-		case 'pos':
-		case 'm':
-			$values = explode(',', $value);
-			foreach($values as $v) {
-				if (match_pos($word['morph'], $v)) {
-					return true;
+
+	if (!empty($selected_books) && !in_array($book, $selected_books)) {
+		continue;
+	}
+
+	$index = array();
+	include $index_filename;
+
+	foreach($index[$book] as $c => $chapter) {
+		foreach ($chapter as $v => $verse) {
+			if (match_verse($verse, $parsed_query)) {
+				if ($is_cli) {
+					echo "$book $c:$v\n";
 				}
+				$found["$book $c:$v"] = $verse;
 			}
-			return false;
-		default:
-			die("Search field $key not available\n");
-	}
-}
-
-function match_pos($pos, $matcher) {
-	$pos = str_split($pos);
-	$matcher = str_split(strtoupper($matcher));
-
-	for ($i = 0; $i < count($matcher) ; $i++) {
-		if (!isset($pos[$i])) {
-			return false;
-		}
-		if (in_array($matcher, array('?','.','?'))) {
-			continue;
-		}
-		if ($pos[$i] != $matcher[$i]) {
-			return false;
 		}
 	}
-
-	return true;
 }
 
 if ($is_cli) {
 	exit(0);
 }
+
 $title = $page_title = 'Buscar';
 $content = '<div class="interlineal">';
 foreach($found as $ref => $verse_data) {

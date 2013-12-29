@@ -11,6 +11,13 @@ lconcordance.php: ${BOOKS} ${LMORPH} make_lconcordance.php
 	php make_lconcordance.php
 
 
+rindex.php: ${BOOKS} ${LMORPH} make_rindex.php
+	php make_rindex.php
+
+lindex.php: ${BOOKS} ${LMORPH} make_lindex.php
+	php make_lindex.php
+
+
 concordance.txt: ${BOOKS} ${MORPH}
 	php make_parsed.php > concordance.txt
 
