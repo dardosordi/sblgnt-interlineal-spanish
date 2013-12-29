@@ -51,6 +51,7 @@ function match_key($word, $key, $value) {
 		case 'strongs':
 		case 'strong':
 		case 's':
+			return in_array($word['strong'], explode(',',$value));
 			return $word['strong'] == $value;
 		case 'spa':
 		case 'translation':
