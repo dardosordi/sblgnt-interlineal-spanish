@@ -108,6 +108,10 @@ function getTokens(
 }
 
 function generateTree($tokens) {
+	if (empty($tokens)) {
+		return array();
+	}
+
 	$is_group = false;
 	$group = array();
 	$tree = array();
