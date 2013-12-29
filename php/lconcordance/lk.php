@@ -68522,7 +68522,7 @@ $concordance['3361']['TN'][] = array (
 );
 $concordance['3361']['TN'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'TN',
   'ref' => 'lk 10:15',
 );

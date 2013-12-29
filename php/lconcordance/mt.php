@@ -62714,13 +62714,13 @@ $concordance['3361']['TN'][] = array (
 );
 $concordance['3361']['TI'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'TI',
   'ref' => 'mt 7:9',
 );
 $concordance['3361']['TI'][] = array (
   'word' => 'μὴ',
-  'spa' => 'no',
+  'spa' => 'acaso',
   'morph' => 'TI',
   'ref' => 'mt 7:10',
 );
