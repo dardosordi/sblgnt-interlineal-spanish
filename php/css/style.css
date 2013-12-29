@@ -283,6 +283,12 @@ sub {
 	margin-left: 2px;
 }
 
+.count {
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
 /* Core qTip styles */
 .qtip, .qtip{
 	position: absolute;
@@ -441,6 +447,7 @@ sub {
 .qtip .block {
 	margin-bottom: 1em;
 }
+
 
 /* Print */
 

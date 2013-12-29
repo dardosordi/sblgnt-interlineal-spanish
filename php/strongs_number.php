@@ -120,13 +120,20 @@ if (isset($strongs[$lang][$number])) {
 			$current_book = '';
 			$current_chapter = '';
 
-			foreach($refs[$key] as $ref) {
+			$count = 1;
+			foreach($refs[$key] as $i => $ref) {
+				$next = $i+1;
+				if (isset($refs[$key][$next]) && $refs[$key][$next] == $ref) {
+					$count++;
+					continue;
+				}
+
 				list($book, $chapter, $verse) = parse_ref($ref);
 
 				$verse_ref = ($book == $current_book ? '' : $book . ' ') . ($book == $current_book && $chapter == $current_chapter ? '' : $chapter.':') . $verse;
 
 				$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
-				$link = sprintf('<a href="%s" target="_blank">%s</a>', $url, ucwords($verse_ref));
+				$link = sprintf('<a href="%s" target="_blank">%s%s</a>', $url, ucwords($verse_ref), $count > 1 ? "<sup class=\"count\"> x$count</sup>" : '');
 
 				$separator = $chapter == $current_chapter ? ', ' : '; ';
 				$separator = $book == $current_book ? $separator : "</li><li class=\"book $book\">";
@@ -135,6 +142,7 @@ if (isset($strongs[$lang][$number])) {
 
 				$current_book = $book;
 				$current_chapter = $chapter;
+				$count = 1;
 			}
 			$word_refs .= '</li>';
 
