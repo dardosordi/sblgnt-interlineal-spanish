@@ -11,6 +11,7 @@
 */
 
 error_reporting(E_ALL);
+set_time_limit(0);
 
 include 'rmac.php';
 include 'strongs_greek.php';
