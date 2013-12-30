@@ -18,42 +18,40 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 
 	$continue = true;
 	$invert = false;
-	$backwards = false;
 	if (!empty($parsed_query[$match_offset]['operator'])) {
-		if (strpos('+', $parsed_query[$match_offset]['operator']) !== false) {
+		$operator = $parsed_query[$match_offset]['operator'];
+
+		if (strpos($operator, '+') !== false) {
 			$continue = false;
 		}
 
-		if (strpos('^', $parsed_query[$match_offset]['operator']) !== false) {
+		if (strpos($operator, '^') !== false) {
 			$continue = false;
 			$offset = 0;
 		}
 
-		if (strpos('$', $parsed_query[$match_offset]['operator']) !== false) {
+		if (strpos($operator, '$') !== false) {
 			$continue = false;
 			end($verse_data);
 			$offset = key($verse_data);
 		}
-	}
 
+		if (strpos($operator, '!') !== false) {
+			$invert = true;
+		}
+
+		if (strpos($operator, '<') !== false) {
+			$offset = 0;
+		}
+	}
 
 	for($i = $offset; $i < $len; ++$i) {
 		$word = &$verse_data[$i];
-
-		if (match_word($word, $parsed_query[$match_offset])) {
+		if (match_word($word, $parsed_query[$match_offset]) xor $invert) {
 			$word['match'] = true;
 			if (!empty($parsed_query[$match_offset+1])) {
-				if (!empty($parsed_query[$match_offset+1]['operator'])) {
-					if (strpos('<', $parsed_query[$match_offset+1]['operator']) !== false) {
-						$backwards = true;
-					}
-				}
-
-				$next_offset = $i + 1;
-				if ($backwards) {
-					$next_offset = 0;
-				}
-				return match_verse($verse_data, $parsed_query, $next_offset, $match_offset + 1);
+				$next = $parsed_query[$match_offset+1];
+				return match_verse($verse_data, $parsed_query, $i + 1, $match_offset + 1);
 			}
 
 
@@ -65,9 +63,9 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 			}
 
 			$match_count = 1;
-			if (empty($all_ops) || (strpos('<', $all_ops) === false)
-				&& (strpos('^', $all_ops) === false)
-				&& (strpos('$', $all_ops) === false)) {
+			if (empty($all_ops) || (strpos($all_ops, '<') === false)
+				&& (strpos($all_ops, '^') === false)
+				&& (strpos($all_ops, '$') === false)) {
 					$match_count += match_verse($verse_data, $parsed_query, $i + 1, 0);
 			}
 
@@ -92,7 +90,7 @@ function match_word(&$word, &$matcher) {
 			$modifier = $key[0];
 			$key = substr($key, 1);
 		}
-		if ($modifier && strpos($modifier, '~!') !== false) {
+		if ($modifier && strpos($modifier, '!') !== false) {
 			if (match_key($word, $key, $value)) {
 				return false;
 			}
