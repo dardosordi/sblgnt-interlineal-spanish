@@ -16,7 +16,7 @@ include 'helpers.php';
 include 'config.php';
 
 include 'search_utils.php';
-include 'parsetok.php';
+
 
 ini_set('memory_limit', '256M');
 $xml_path = dirname(dirname(__FILE__)) . '/adaptations/Adaptations/';

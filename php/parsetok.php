@@ -141,6 +141,13 @@ function generateTree($tokens) {
 				continue;
 			}
 
+			if ($value == '$') {
+				end($tree);
+				$i = key($tree);
+				$tree[$i]['operator'] = isset($tree[$i]['operator']) ? $tree[$i]['operator'] . $value : $value;
+				continue;
+			}
+
 			$group['operator'] = $value;
 			continue;
 		}

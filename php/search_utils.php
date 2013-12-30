@@ -1,5 +1,7 @@
 <?php
 
+include 'parsetok.php';
+
 function parse_query($query) {
 	$tokens = getTokens(
 		$string = $query,
@@ -13,21 +15,62 @@ function parse_query($query) {
 
 function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0) {
 	$len = count($verse_data);
+
+	$continue = true;
+	$invert = false;
+	$backwards = false;
+	if (!empty($parsed_query[$match_offset]['operator'])) {
+		if (strpos('+', $parsed_query[$match_offset]['operator']) !== false) {
+			$continue = false;
+		}
+
+		if (strpos('^', $parsed_query[$match_offset]['operator']) !== false) {
+			$continue = false;
+			$offset = 0;
+		}
+
+		if (strpos('$', $parsed_query[$match_offset]['operator']) !== false) {
+			$continue = false;
+			end($verse_data);
+			$offset = key($verse_data);
+		}
+	}
+
+
 	for($i = $offset; $i < $len; ++$i) {
 		$word = &$verse_data[$i];
+
 		if (match_word($word, $parsed_query[$match_offset])) {
 			$word['match'] = true;
 			if (!empty($parsed_query[$match_offset+1])) {
-				return match_verse($verse_data, $parsed_query, $i + 1, $match_offset + 1);
+				if (!empty($parsed_query[$match_offset+1]['operator'])) {
+					if (strpos('<', $parsed_query[$match_offset+1]['operator']) !== false) {
+						$backwards = true;
+					}
+				}
+
+				$next_offset = $i + 1;
+				if ($backwards) {
+					$next_offset = 0;
+				}
+				return match_verse($verse_data, $parsed_query, $next_offset, $match_offset + 1);
 			}
 			return true;
+		}
+
+		if (!$continue) {
+			break;
 		}
 	}
 	return false;
 }
 
 function match_word(&$word, &$matcher) {
+
 	foreach ($matcher as $key => $value) {
+		if ($key == 'operator') {
+			continue;
+		}
 		$modifier = null;
 		if (!ctype_alpha($key[0])) {
 			$modifier = $key[0];
@@ -64,11 +107,11 @@ function match_key($word, $key, $value) {
 			return stripos($word['greek'], $value) !== false;
 		case 'lemma':
 		case 'l':
-			return stripos($word['lemma'], $value) !== false;
+			return strtolower($word['lemma']) == $value;
 		case 'translit':
 		case 'tr':
 		case 't':
-			return stripos($word['translit'], $value) !== false;
+			return strtolower($word['translit']) == str_replace(array('ô', 'ê'), array('ō', 'ē'), $value);
 		case 'morph':
 		case 'pos':
 		case 'm':
