@@ -102,7 +102,7 @@ $content .= '<div class="interlineal">';
 foreach($found as $ref => $verse_data) {
 	list($book, $chapter, $verse) = parse_ref($ref);
 	$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
-	$content .= '<div class="search-result">';
+	$content .= sprintf('<div class="search-result book %s">', $book);
 	$content .= '<span class="verse-text">';
 	$content .= '<span class="block">';
 	if ($show_strongs) {
@@ -169,6 +169,8 @@ $content .= '</div>';
 <link rel="stylesheet" type="text/css" href="/css/style.css"/>
 <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/js/interlineal.js"></script>
+<script type="text/javascript" src="/js/highcharts.min.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
 </head>
 <body>
 <div id="content">
