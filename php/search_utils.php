@@ -18,7 +18,7 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 		if (match_word($word, $parsed_query[$match_offset])) {
 			$word['match'] = true;
 			if (!empty($parsed_query[$match_offset+1])) {
-				return match_verse($verse_data, $parsed_query, 1, $i + 1, $match_offset + 1);
+				return match_verse($verse_data, $parsed_query, $i + 1, $match_offset + 1);
 			}
 			return true;
 		}
