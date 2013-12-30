@@ -9796,8 +9796,11 @@
       cDT="2013-12-14T19:46:30Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="δόξητε">
-      <RS n="1" a="supongan" df="0"
-      cDT="2013-12-14T19:46:29Z" wC="dardo:sophie"/>
+      <RS n="1" a="supongan" df="1"
+      cDT="2013-12-14T19:46:29Z" wC="dardo:sophie"
+      dDT="2013-12-30T04:31:26Z"/>
+      <RS n="1" a="supusieren" df="0"
+      cDT="2013-12-30T04:31:31Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="δόξῃ">
       <RS n="1" a="supusiere" df="0"
@@ -15579,8 +15582,11 @@
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κοίνου">
-      <RS n="2" a="común" df="0"
-      cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
+      <RS n="1" a="común" df="1"
+      cDT="2013-12-30T04:28:23Z" wC="dardo:sophie"
+      dDT="2013-12-30T04:28:24Z"/>
+      <RS n="1" a="contamines" df="0"
+      cDT="2013-12-30T04:28:17Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κοίτην">
       <RS n="2" a="cama" df="0"
@@ -34230,7 +34236,7 @@
       cDT="2013-12-30T04:20:48Z" wC="dardo:sophie"
       dDT="2013-12-30T04:20:50Z"/>
       <RS n="1" a="separe" df="0"
-      cDT="2013-12-30T04:20:53Z" wC="dardo:sophie"/>
+      cDT="2013-12-30T04:31:21Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="χωρισθεὶς">
       <RS n="1" a="habiendo partido" df="0"

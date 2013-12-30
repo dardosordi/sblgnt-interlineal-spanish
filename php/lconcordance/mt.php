@@ -23402,7 +23402,7 @@ $concordance['1377']['VFAI2P'][] = array (
 );
 $concordance['1380']['VAAS2P'][] = array (
   'word' => 'δόξητε',
-  'spa' => 'supongan',
+  'spa' => 'supusieren',
   'morph' => 'VAAS2P',
   'ref' => 'mt 3:9',
 );

@@ -54716,13 +54716,13 @@ $concordance['2839']['JNSN'][] = array (
 );
 $concordance['2840']['VPAM2S'][] = array (
   'word' => 'κοίνου',
-  'spa' => 'común',
+  'spa' => 'contamines',
   'morph' => 'VPAM2S',
   'ref' => 'ac 10:15',
 );
 $concordance['2840']['VPAM2S'][] = array (
   'word' => 'κοίνου',
-  'spa' => 'común',
+  'spa' => 'contamines',
   'morph' => 'VPAM2S',
   'ref' => 'ac 11:9',
 );

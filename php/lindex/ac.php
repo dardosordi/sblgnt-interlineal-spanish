@@ -51193,7 +51193,7 @@ $index['ac'][10][15][12] = array (
   'morph' => 'BN',
 );
 $index['ac'][10][15][13] = array (
-  'spa' => 'común.',
+  'spa' => 'contamines.',
   'greek' => 'κοίνου.',
   'lemma' => 'κοινόω',
   'translit' => 'koinou',
@@ -57129,7 +57129,7 @@ $index['ac'][11][9][13] = array (
   'morph' => 'BN',
 );
 $index['ac'][11][9][14] = array (
-  'spa' => 'común.',
+  'spa' => 'contamines.',
   'greek' => 'κοίνου.',
   'lemma' => 'κοινόω',
   'translit' => 'koinou',

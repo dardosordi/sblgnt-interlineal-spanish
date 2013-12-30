@@ -8217,7 +8217,7 @@ $index['mt'][3][9][1] = array (
   'morph' => 'PRT-N',
 );
 $index['mt'][3][9][2] = array (
-  'spa' => 'supongan',
+  'spa' => 'supusieren',
   'greek' => 'δόξητε',
   'lemma' => 'δοκέω',
   'translit' => 'doxēte',

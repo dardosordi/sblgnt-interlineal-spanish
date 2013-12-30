@@ -54716,13 +54716,13 @@ $concordance['2839']['A-ASM'][] = array (
 );
 $concordance['2840']['V-PAM-2S'][] = array (
   'word' => 'κοίνου',
-  'spa' => 'común',
+  'spa' => 'contamines',
   'morph' => 'V-PAM-2S',
   'ref' => 'ac 10:15',
 );
 $concordance['2840']['V-PAM-2S'][] = array (
   'word' => 'κοίνου',
-  'spa' => 'común',
+  'spa' => 'contamines',
   'morph' => 'V-PAM-2S',
   'ref' => 'ac 11:9',
 );
