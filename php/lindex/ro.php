@@ -12107,9 +12107,9 @@ $index['ro'][4][8][1] = array (
 $index['ro'][4][8][2] = array (
   'spa' => '⸀de quien',
   'greek' => '⸀οὗ',
-  'lemma' => 'οὐ',
+  'lemma' => 'ὅ',
   'translit' => 'hou',
-  'strong' => 'G3756',
+  'strong' => 'G3739',
   'morph' => 'RR-GSM',
 );
 $index['ro'][4][8][3] = array (
