@@ -45,6 +45,9 @@ $(function() {
                 dataLabels: {
                     enabled: true
                 }
+            }.
+            series: {
+                pointWidth: 100
             }
         },
         legend: {

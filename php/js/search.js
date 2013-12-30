@@ -5,11 +5,22 @@ $(function() {
 		return;
 	}
 
+	var books_enabled = books;
+	var selected = $('.books input[checked=checked]');
+
+	if (selected.length) {
+		books_enabled = {};
+		selected.each(function(i, e) {
+			var key = $(e).attr('value');
+			books_enabled[key] = books[key];
+		});
+	}
+
 	$(".result").after('<div id="chart"></div>');
 
 	var categories = [];
 	var series = [{name: 'Resultados', data: []}];
-	for (var x in books) {
+	for (var x in books_enabled) {
 		categories.push(books[x]);
 		var count = 0;
 		$('.book.'+x).each(function() {
@@ -49,6 +60,9 @@ $(function() {
                 dataLabels: {
                     enabled: true
                 }
+            },
+            series: {
+                pointWidth: 100
             }
         },
         legend: {

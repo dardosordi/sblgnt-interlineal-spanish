@@ -181,7 +181,7 @@ $content .= '</div>';
 <form action="<?= $_SERVER['PHP_SELF']?>" style="text-align:center;margin:0 0 4em;">
 	<input type="text" name="q" value="<?= h($query) ?>" style="width:600px;">
 	<button type="submit">Buscar</button>
-	<div>
+	<div class="books">
 	<? foreach($available_books as $book):
 		$book_data = $books[$book];
 	?>
