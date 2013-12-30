@@ -21036,6 +21036,12 @@ $concordance['3739']['R-ASM'][] = array (
   'morph' => 'R-ASM',
   'ref' => 'ro 10:14',
 );
+$concordance['3739']['R-GSN'][] = array (
+  'word' => 'οὗ',
+  'spa' => 'de quien',
+  'morph' => 'R-GSN',
+  'ref' => 'ro 4:8',
+);
 $concordance['3739']['R-DPM'][] = array (
   'word' => 'οἷς',
   'spa' => 'a quienes',
@@ -21605,12 +21611,6 @@ $concordance['3756']['PRT-N'][] = array (
   'spa' => 'no',
   'morph' => 'PRT-N',
   'ref' => 'ro 4:4',
-);
-$concordance['3756']['PRT-N'][] = array (
-  'word' => 'οὗ',
-  'spa' => 'de quien',
-  'morph' => 'PRT-N',
-  'ref' => 'ro 4:8',
 );
 $concordance['3756']['PRT-N'][] = array (
   'word' => 'οὐ',

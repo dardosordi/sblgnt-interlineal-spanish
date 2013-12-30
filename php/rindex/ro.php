@@ -12107,10 +12107,10 @@ $index['ro'][4][8][1] = array (
 $index['ro'][4][8][2] = array (
   'spa' => '⸀de quien',
   'greek' => '⸀οὗ',
-  'lemma' => 'οὐ',
+  'lemma' => 'ὅ',
   'translit' => 'hou',
-  'strong' => 'G3756',
-  'morph' => 'PRT-N',
+  'strong' => 'G3739',
+  'morph' => 'R-GSN',
 );
 $index['ro'][4][8][3] = array (
   'spa' => 'no',
