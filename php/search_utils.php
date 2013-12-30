@@ -65,7 +65,7 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 			}
 
 			$match_count = 1;
-			if ((strpos('<', $all_ops) === false)
+			if (empty($all_ops) || (strpos('<', $all_ops) === false)
 				&& (strpos('^', $all_ops) === false)
 				&& (strpos('$', $all_ops) === false)) {
 					$match_count += match_verse($verse_data, $parsed_query, $i + 1, 0);
