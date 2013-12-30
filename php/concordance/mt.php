@@ -108962,7 +108962,7 @@ $concordance['5562']['V-PAM-3S'][] = array (
 );
 $concordance['5563']['V-PAM-3S'][] = array (
   'word' => 'χωριζέτω',
-  'spa' => 'separé',
+  'spa' => 'separe',
   'morph' => 'V-PAM-3S',
   'ref' => 'mt 19:6',
 );

@@ -50801,7 +50801,7 @@ $index['mk'][10][9][6] = array (
   'morph' => 'BN',
 );
 $index['mk'][10][9][7] = array (
-  'spa' => 'separé.',
+  'spa' => 'separe.',
   'greek' => 'χωριζέτω.',
   'lemma' => 'χωρίζω',
   'translit' => 'chōrizetō',

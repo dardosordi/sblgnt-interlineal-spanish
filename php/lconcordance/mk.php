@@ -67160,7 +67160,7 @@ $concordance['5562']['VPAN'][] = array (
 );
 $concordance['5563']['VPAM3S'][] = array (
   'word' => 'χωριζέτω',
-  'spa' => 'separé',
+  'spa' => 'separe',
   'morph' => 'VPAM3S',
   'ref' => 'mk 10:9',
 );

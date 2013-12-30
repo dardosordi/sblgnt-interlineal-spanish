@@ -88193,7 +88193,7 @@ $index['mt'][19][6][13] = array (
   'morph' => 'BN',
 );
 $index['mt'][19][6][14] = array (
-  'spa' => 'separé.',
+  'spa' => 'separe.',
   'greek' => 'χωριζέτω.',
   'lemma' => 'χωρίζω',
   'translit' => 'chōrizetō',
