@@ -91,7 +91,14 @@ if ($is_cli) {
 }
 
 $title = $page_title = 'Buscar';
-$content = '<div class="interlineal">';
+
+$content = '';
+
+if (!empty($query)) {
+	$content .= sprintf('<div class="result">Se encontraron <b>%d</b> resultados.</div>', count($found));
+}
+
+$content .= '<div class="interlineal">';
 foreach($found as $ref => $verse_data) {
 	list($book, $chapter, $verse) = parse_ref($ref);
 	$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
