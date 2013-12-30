@@ -19,7 +19,7 @@ $(function() {
 	$(".result").after('<div id="chart"></div>');
 
 	var categories = [];
-	var series = [{name: 'Resultados', data: []}];
+	var series = [{name: 'Encontrados', data: []}];
 	for (var x in books_enabled) {
 		categories.push(books[x]);
 		var count = 0;
@@ -34,7 +34,7 @@ $(function() {
             type: 'column'
         },
         title: {
-            text: 'Encontrados'
+            text: 'Resultado'
         },
         xAxis: {
             categories: categories,
@@ -45,7 +45,7 @@ $(function() {
         yAxis: {
             min: 0,
             title: {
-                text: 'Versículos',
+                text: 'Ocurrencias',
                 align: 'high'
             },
             labels: {

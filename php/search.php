@@ -53,6 +53,9 @@ $parsed_query = parse_query($query);
 $found = array();
 $available_books = array();
 
+$total_found = 0;
+$total_verses = 0;
+
 foreach($books as $book => $book_data) {
 	$index_filename = $index_path . $book . '.php';
 	$index_filename_js = $index_path . $book . '.json';
@@ -81,6 +84,8 @@ foreach($books as $book => $book_data) {
 					echo "$book $c:$v x$count\n";
 				}
 				$found["$book $c:$v"] = array($count, $verse);
+				$total_found += $count;
+				++$total_verses;
 			}
 		}
 	}
@@ -95,7 +100,7 @@ $title = $page_title = 'Buscar';
 $content = '';
 
 if (!empty($query)) {
-	$content .= sprintf('<div class="result">Se encontraron <b>%d</b> resultados.</div>', count($found));
+	$content .= sprintf('<div class="result">Se encontraron <b>%d</b> ocurrencias en <b>%d</b> versículos.</div>', $total_found, $total_verses);
 }
 
 $content .= '<div class="interlineal">';
