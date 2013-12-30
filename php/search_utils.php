@@ -48,10 +48,13 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 	for($i = $offset; $i < $len; ++$i) {
 		$word = &$verse_data[$i];
 		if (match_word($word, $parsed_query[$match_offset]) xor $invert) {
-			$word['match'] = true;
+
 			if (!empty($parsed_query[$match_offset+1])) {
-				$next = $parsed_query[$match_offset+1];
-				return match_verse($verse_data, $parsed_query, $i + 1, $match_offset + 1);
+				if (match_verse($verse_data, $parsed_query, $i + 1, $match_offset + 1)) {
+					$word['match'] = true;
+					return true;
+				}
+				return false;
 			}
 
 
@@ -69,6 +72,7 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 					$match_count += match_verse($verse_data, $parsed_query, $i + 1, 0);
 			}
 
+			$word['match'] = true;
 			return $match_count;
 		}
 
