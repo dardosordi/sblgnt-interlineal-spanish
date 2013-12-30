@@ -50,9 +50,9 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 		if (match_word($word, $parsed_query[$match_offset]) xor $invert) {
 
 			if (!empty($parsed_query[$match_offset+1])) {
-				if (match_verse($verse_data, $parsed_query, $i + 1, $match_offset + 1)) {
+				if ($match_count = match_verse($verse_data, $parsed_query, $i + 1, $match_offset + 1)) {
 					$word['match'] = true;
-					return true;
+					return $match_count;
 				}
 				return false;
 			}
