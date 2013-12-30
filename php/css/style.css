@@ -234,6 +234,10 @@ ul.refs li {
 	background: #eef;
 }
 
+.highlight.marked {
+	outline: solid 3px #ff6;
+}
+
 #panel {
 	position: fixed;
 	top: 5px;
