@@ -55,7 +55,23 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 				}
 				return match_verse($verse_data, $parsed_query, $next_offset, $match_offset + 1);
 			}
-			return true;
+
+
+			$all_ops = '';
+			foreach($parsed_query as $matcher) {
+				if (!empty($matcher['operator'])) {
+					$all_ops .= $matcher['operator'];
+				}
+			}
+
+			$match_count = 1;
+			if ((strpos('<', $all_ops) === false)
+				&& (strpos('^', $all_ops) === false)
+				&& (strpos('$', $all_ops) === false)) {
+					$match_count += match_verse($verse_data, $parsed_query, $i + 1, 0);
+			}
+
+			return $match_count;
 		}
 
 		if (!$continue) {

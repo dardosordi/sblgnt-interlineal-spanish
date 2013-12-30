@@ -76,11 +76,11 @@ foreach($books as $book => $book_data) {
 
 	foreach($index[$book] as $c => $chapter) {
 		foreach ($chapter as $v => $verse) {
-			if (match_verse($verse, $parsed_query)) {
+			if ($count = match_verse($verse, $parsed_query)) {
 				if ($is_cli) {
-					echo "$book $c:$v\n";
+					echo "$book $c:$v x$count\n";
 				}
-				$found["$book $c:$v"] = $verse;
+				$found["$book $c:$v"] = array($count, $verse);
 			}
 		}
 	}
@@ -99,10 +99,12 @@ if (!empty($query)) {
 }
 
 $content .= '<div class="interlineal">';
-foreach($found as $ref => $verse_data) {
+foreach($found as $ref => $item) {
+	list($count, $verse_data) = $item;
+
 	list($book, $chapter, $verse) = parse_ref($ref);
 	$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
-	$content .= sprintf('<div class="search-result book %s">', $book);
+	$content .= sprintf('<div class="search-result book %s" data-count="%d">', $book, $count);
 	$content .= '<span class="verse-text">';
 	$content .= '<span class="block">';
 	if ($show_strongs) {
@@ -112,7 +114,7 @@ foreach($found as $ref => $verse_data) {
 		$content .= '<span class="morph">&nbsp;</span>';
 	}
 	if ($show_greek) {
-		$content .= sprintf('<span class="verse"><a href="%s" target="_blank">%s</a></span>', $url, ucfirst($ref));
+		$content .= sprintf('<span class="verse"><a href="%s" target="_blank">%s</a> %s</span>', $url, ucfirst($ref), $count > 1 ? " x$count" : '');
 	}
 	if ($show_translit) {
 		$content .= '<span class="translit">&nbsp;</span>';

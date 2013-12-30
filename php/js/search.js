@@ -11,7 +11,11 @@ $(function() {
 	var series = [{name: 'Resultados', data: []}];
 	for (var x in books) {
 		categories.push(books[x]);
-		series[0].data.push($('.book.'+x).length);
+		var count = 0;
+		$('.book.'+x).each(function() {
+			count += parseInt($(this).attr('data-count'));
+		});
+		series[0].data.push(count);
 	}
 
     $('#chart').highcharts({
