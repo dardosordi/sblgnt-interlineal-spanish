@@ -37772,7 +37772,7 @@ $concordance['2198']['V-PAP-ASM'][] = array (
 );
 $concordance['2198']['V-PAP-ASM'][] = array (
   'word' => 'ζῶντα',
-  'spa' => 'viviente',
+  'spa' => 'Viviente',
   'morph' => 'V-PAP-ASM',
   'ref' => 'ac 14:15',
 );

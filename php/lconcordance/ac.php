@@ -37772,7 +37772,7 @@ $concordance['2198']['VPAP-SAM'][] = array (
 );
 $concordance['2198']['VPAP-SAM'][] = array (
   'word' => 'ζῶντα',
-  'spa' => 'viviente',
+  'spa' => 'Viviente',
   'morph' => 'VPAP-SAM',
   'ref' => 'ac 14:15',
 );

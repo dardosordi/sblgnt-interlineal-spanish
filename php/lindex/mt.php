@@ -75793,7 +75793,7 @@ $index['mt'][16][16][13] = array (
   'morph' => 'DGSM',
 );
 $index['mt'][16][16][14] = array (
-  'spa' => 'viviente.',
+  'spa' => 'Viviente.',
   'greek' => 'ζῶντος.',
   'lemma' => 'ζάω',
   'translit' => 'zōntos',

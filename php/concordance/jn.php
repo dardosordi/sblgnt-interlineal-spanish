@@ -31454,13 +31454,13 @@ $concordance['2193']['CONJ'][] = array (
 );
 $concordance['2198']['V-PAP-ASN'][] = array (
   'word' => 'ζῶν',
-  'spa' => 'viviendo',
+  'spa' => 'que vive',
   'morph' => 'V-PAP-ASN',
   'ref' => 'jn 4:10',
 );
 $concordance['2198']['V-PAP-ASN'][] = array (
   'word' => 'ζῶν',
-  'spa' => 'viviendo',
+  'spa' => 'que vive',
   'morph' => 'V-PAP-ASN',
   'ref' => 'jn 4:11',
 );
@@ -31490,13 +31490,13 @@ $concordance['2198']['V-FAI-3P'][] = array (
 );
 $concordance['2198']['V-PAP-NSM'][] = array (
   'word' => 'ζῶν',
-  'spa' => 'viviendo',
+  'spa' => 'que vive',
   'morph' => 'V-PAP-NSM',
   'ref' => 'jn 6:51',
 );
 $concordance['2198']['V-PAP-NSM'][] = array (
   'word' => 'ζῶν',
-  'spa' => 'viviendo',
+  'spa' => 'Viviente',
   'morph' => 'V-PAP-NSM',
   'ref' => 'jn 6:57',
 );
@@ -87926,7 +87926,7 @@ $concordance['5204']['N-GSN'][] = array (
 );
 $concordance['5204']['N-GSN'][] = array (
   'word' => 'ὕδατος',
-  'spa' => 'de agua',
+  'spa' => 'agua',
   'morph' => 'N-GSN',
   'ref' => 'jn 7:38',
 );

@@ -11162,7 +11162,7 @@ $concordance['2198']['VPAP-SGM'][] = array (
 );
 $concordance['2198']['VPAP-SGM'][] = array (
   'word' => 'ζῶντος',
-  'spa' => 'viviente',
+  'spa' => 'Viviente',
   'morph' => 'VPAP-SGM',
   'ref' => 'ro 9:26',
 );

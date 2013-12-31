@@ -33217,7 +33217,7 @@ $index['ro'][9][26][15] = array (
   'morph' => 'N-GSM',
 );
 $index['ro'][9][26][16] = array (
-  'spa' => 'viviente.',
+  'spa' => 'Viviente.',
   'greek' => 'ζῶντος.',
   'lemma' => 'ζάω',
   'translit' => 'zōntos',

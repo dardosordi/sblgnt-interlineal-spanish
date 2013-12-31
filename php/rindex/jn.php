@@ -16593,7 +16593,7 @@ $index['jn'][4][10][28] = array (
   'morph' => 'N-ASN',
 );
 $index['jn'][4][10][29] = array (
-  'spa' => 'viviendo.',
+  'spa' => 'que vive.',
   'greek' => 'ζῶν.',
   'lemma' => 'ζάω',
   'translit' => 'zōn',
@@ -16753,7 +16753,7 @@ $index['jn'][4][11][18] = array (
   'morph' => 'T-ASN',
 );
 $index['jn'][4][11][19] = array (
-  'spa' => 'viviendo?',
+  'spa' => 'que vive?',
   'greek' => 'ζῶν;',
   'lemma' => 'ζάω',
   'translit' => 'zōn',
@@ -36049,7 +36049,7 @@ $index['jn'][6][51][4] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][6][51][5] = array (
-  'spa' => 'viviendo',
+  'spa' => 'que vive',
   'greek' => 'ζῶν',
   'lemma' => 'ζάω',
   'translit' => 'zōn',
@@ -37089,7 +37089,7 @@ $index['jn'][6][57][3] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][6][57][4] = array (
-  'spa' => 'viviendo',
+  'spa' => 'Viviente',
   'greek' => 'ζῶν',
   'lemma' => 'ζάω',
   'translit' => 'zōn',
@@ -44185,7 +44185,7 @@ $index['jn'][7][38][13] = array (
   'morph' => 'V-FAI-3P',
 );
 $index['jn'][7][38][14] = array (
-  'spa' => 'de agua',
+  'spa' => 'agua',
   'greek' => 'ὕδατος',
   'lemma' => 'ὕδωρ',
   'translit' => 'hudatos',

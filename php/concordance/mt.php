@@ -39554,7 +39554,7 @@ $concordance['2198']['V-FDI-3S'][] = array (
 );
 $concordance['2198']['V-PAP-GSM'][] = array (
   'word' => 'ζῶντος',
-  'spa' => 'viviente',
+  'spa' => 'Viviente',
   'morph' => 'V-PAP-GSM',
   'ref' => 'mt 16:16',
 );

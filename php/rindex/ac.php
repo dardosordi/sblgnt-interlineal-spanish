@@ -73673,7 +73673,7 @@ $index['ac'][14][15][20] = array (
   'morph' => 'N-ASM',
 );
 $index['ac'][14][15][21] = array (
-  'spa' => 'viviente',
+  'spa' => 'Viviente',
   'greek' => 'ζῶντα',
   'lemma' => 'ζάω',
   'translit' => 'zōnta',
