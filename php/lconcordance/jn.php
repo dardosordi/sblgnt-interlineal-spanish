@@ -83234,55 +83234,55 @@ $concordance['4571']['RP2AS'][] = array (
 );
 $concordance['4572']['RF2GSM'][] = array (
   'word' => 'σεαυτοῦ',
-  'spa' => 'tí mismo',
+  'spa' => 'ti mismo',
   'morph' => 'RF2GSM',
   'ref' => 'jn 1:22',
 );
 $concordance['4572']['RF2GSM'][] = array (
   'word' => 'σεαυτοῦ',
-  'spa' => 'tí mismo',
+  'spa' => 'ti mismo',
   'morph' => 'RF2GSM',
   'ref' => 'jn 8:13',
 );
 $concordance['4572']['RF2GSM'][] = array (
   'word' => 'σεαυτοῦ',
-  'spa' => 'tí mismo',
+  'spa' => 'ti mismo',
   'morph' => 'RF2GSM',
   'ref' => 'jn 18:34',
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'jn 7:4',
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'jn 8:53',
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'jn 10:33',
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'jn 14:22',
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'jn 21:18',
 );
 $concordance['4572']['RF2DSM'][] = array (
   'word' => 'σεαυτῷ',
-  'spa' => 'tí mismo',
+  'spa' => 'ti mismo',
   'morph' => 'RF2DSM',
   'ref' => 'jn 17:5',
 );

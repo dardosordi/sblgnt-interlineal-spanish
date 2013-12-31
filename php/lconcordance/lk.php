@@ -104432,7 +104432,7 @@ $concordance['4571']['RP2AS'][] = array (
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'lk 4:9',
 );
@@ -104444,7 +104444,7 @@ $concordance['4572']['RF2ASM'][] = array (
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'lk 5:14',
 );
@@ -104462,7 +104462,7 @@ $concordance['4572']['RF2ASM'][] = array (
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'lk 23:39',
 );
@@ -109718,7 +109718,7 @@ $concordance['5101']['RI-NSM'][] = array (
 );
 $concordance['5101']['RI-NSM'][] = array (
   'word' => 'τίς',
-  'spa' => '¿qué',
+  'spa' => '¿Qué',
   'morph' => 'RI-NSM',
   'ref' => 'lk 14:31',
 );

@@ -47905,7 +47905,7 @@ $index['ac'][9][34][12] = array (
   'morph' => 'VAAM2S',
 );
 $index['ac'][9][34][13] = array (
-  'spa' => 'a tí mismo:',
+  'spa' => 'a ti mismo:',
   'greek' => 'σεαυτῷ·',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seautōi',
@@ -62697,7 +62697,7 @@ $index['ac'][12][15][4] = array (
   'morph' => 'VAAI3P',
 );
 $index['ac'][12][15][5] = array (
-  'spa' => 'estás fuera de tí.',
+  'spa' => 'estás fuera de ti.',
   'greek' => 'Μαίνῃ.',
   'lemma' => 'μαίνομαι',
   'translit' => 'mainēi',
@@ -85121,7 +85121,7 @@ $index['ac'][16][28][8] = array (
   'morph' => 'VAAS2S',
 );
 $index['ac'][16][28][9] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτῷ',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seautōi',
@@ -131833,7 +131833,7 @@ $index['ac'][26][1][8] = array (
   'morph' => 'P',
 );
 $index['ac'][26][1][9] = array (
-  'spa' => 'tí mismo',
+  'spa' => 'ti mismo',
   'greek' => 'σεαυτοῦ',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seautou',
@@ -135337,7 +135337,7 @@ $index['ac'][26][24][9] = array (
   'morph' => 'VPAI3S',
 );
 $index['ac'][26][24][10] = array (
-  'spa' => 'estás fuera de tí,',
+  'spa' => 'estás fuera de ti,',
   'greek' => 'Μαίνῃ,',
   'lemma' => 'μαίνομαι',
   'translit' => 'mainēi',

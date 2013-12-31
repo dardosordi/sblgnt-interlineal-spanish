@@ -27818,25 +27818,25 @@ $concordance['4571']['RP2AS'][] = array (
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'ro 2:1',
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'ro 2:19',
 );
 $concordance['4572']['RF2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'RF2ASM',
   'ref' => 'ro 2:21',
 );
 $concordance['4572']['RF2DSM'][] = array (
   'word' => 'σεαυτῷ',
-  'spa' => 'para tí mismo',
+  'spa' => 'para ti mismo',
   'morph' => 'RF2DSM',
   'ref' => 'ro 2:5',
 );

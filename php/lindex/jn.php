@@ -2561,7 +2561,7 @@ $index['jn'][1][22][13] = array (
   'morph' => 'P',
 );
 $index['jn'][1][22][14] = array (
-  'spa' => 'tí mismo?',
+  'spa' => 'ti mismo?',
   'greek' => 'σεαυτοῦ;',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seautou',
@@ -39593,7 +39593,7 @@ $index['jn'][7][4][15] = array (
   'morph' => 'VAAM2S',
 );
 $index['jn'][7][4][16] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -46097,7 +46097,7 @@ $index['jn'][8][13][6] = array (
   'morph' => 'P',
 );
 $index['jn'][8][13][7] = array (
-  'spa' => 'tí mismo',
+  'spa' => 'ti mismo',
   'greek' => 'σεαυτοῦ',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seautou',
@@ -52193,7 +52193,7 @@ $index['jn'][8][53][14] = array (
   'morph' => 'RI-ASM',
 );
 $index['jn'][8][53][15] = array (
-  'spa' => '⸀a tí mismo',
+  'spa' => '⸀a ti mismo',
   'greek' => '⸀σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -62985,7 +62985,7 @@ $index['jn'][10][33][18] = array (
   'morph' => 'VPAI2S',
 );
 $index['jn'][10][33][19] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -87249,7 +87249,7 @@ $index['jn'][14][22][12] = array (
   'morph' => 'VPAN',
 );
 $index['jn'][14][22][13] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -97985,7 +97985,7 @@ $index['jn'][17][5][6] = array (
   'morph' => 'P',
 );
 $index['jn'][17][5][7] = array (
-  'spa' => 'tí mismo',
+  'spa' => 'ti mismo',
   'greek' => 'σεαυτῷ',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seautōi',
@@ -106297,7 +106297,7 @@ $index['jn'][18][34][2] = array (
   'morph' => 'P',
 );
 $index['jn'][18][34][3] = array (
-  'spa' => 'tí mismo⸃',
+  'spa' => 'ti mismo⸃',
   'greek' => 'σεαυτοῦ⸃',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seautou',
@@ -122145,7 +122145,7 @@ $index['jn'][21][18][7] = array (
   'morph' => 'VIAI2S',
 );
 $index['jn'][21][18][8] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',

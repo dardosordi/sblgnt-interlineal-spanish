@@ -10489,7 +10489,7 @@ $index['mt'][4][6][8] = array (
   'morph' => 'V-2AAM-2S',
 );
 $index['mt'][4][6][9] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -29481,7 +29481,7 @@ $index['mt'][8][4][9] = array (
   'morph' => 'V-PAM-2S',
 );
 $index['mt'][8][4][10] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',

@@ -58718,13 +58718,13 @@ $concordance['3102']['N-NSF'][] = array (
 );
 $concordance['3105']['V-PMI-2S'][] = array (
   'word' => 'μαίνῃ',
-  'spa' => 'estás fuera de tí',
+  'spa' => 'estás fuera de ti',
   'morph' => 'V-PMI-2S',
   'ref' => 'ac 12:15',
 );
 $concordance['3105']['V-PMI-2S'][] = array (
   'word' => 'μαίνῃ',
-  'spa' => 'estás fuera de tí',
+  'spa' => 'estás fuera de ti',
   'morph' => 'V-PMI-2S',
   'ref' => 'ac 26:24',
 );
@@ -97700,19 +97700,19 @@ $concordance['4571']['P-2AS'][] = array (
 );
 $concordance['4572']['F-2DSM'][] = array (
   'word' => 'σεαυτῷ',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'F-2DSM',
   'ref' => 'ac 9:34',
 );
 $concordance['4572']['F-2DSM'][] = array (
   'word' => 'σεαυτῷ',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'F-2DSM',
   'ref' => 'ac 16:28',
 );
 $concordance['4572']['F-2GSM'][] = array (
   'word' => 'σεαυτοῦ',
-  'spa' => 'tí mismo',
+  'spa' => 'ti mismo',
   'morph' => 'F-2GSM',
   'ref' => 'ac 26:1',
 );

@@ -5249,7 +5249,7 @@ $index['mk'][1][44][8] = array (
   'morph' => 'V-PAM-2S',
 );
 $index['mk'][1][44][9] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -85249,7 +85249,7 @@ $index['mk'][15][30][0] = array (
   'morph' => 'V-AAM-2S',
 );
 $index['mk'][15][30][1] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',

@@ -61718,7 +61718,7 @@ $concordance['4571']['P-2AS'][] = array (
 );
 $concordance['4572']['F-2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'F-2ASM',
   'ref' => 'mk 1:44',
 );
@@ -61730,7 +61730,7 @@ $concordance['4572']['F-2ASM'][] = array (
 );
 $concordance['4572']['F-2ASM'][] = array (
   'word' => 'σεαυτὸν',
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'morph' => 'F-2ASM',
   'ref' => 'mk 15:30',
 );

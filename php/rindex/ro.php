@@ -4457,7 +4457,7 @@ $index['ro'][2][1][13] = array (
   'morph' => 'A-ASM',
 );
 $index['ro'][2][1][14] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -5065,7 +5065,7 @@ $index['ro'][2][5][8] = array (
   'morph' => 'V-PAI-2S',
 );
 $index['ro'][2][5][9] = array (
-  'spa' => 'para tí mismo',
+  'spa' => 'para ti mismo',
   'greek' => 'σεαυτῷ',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seautōi',
@@ -6665,7 +6665,7 @@ $index['ro'][2][19][1] = array (
   'morph' => 'PRT',
 );
 $index['ro'][2][19][2] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -6881,7 +6881,7 @@ $index['ro'][2][21][3] = array (
   'morph' => 'A-ASM',
 );
 $index['ro'][2][21][4] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',

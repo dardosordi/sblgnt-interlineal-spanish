@@ -22177,7 +22177,7 @@ $index['lk'][4][9][20] = array (
   'morph' => 'VAAM2S',
 );
 $index['lk'][4][9][21] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -29225,7 +29225,7 @@ $index['lk'][5][14][8] = array (
   'morph' => 'VAAM2S',
 );
 $index['lk'][5][14][9] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
@@ -97417,7 +97417,7 @@ $index['lk'][14][31][0] = array (
   'morph' => 'CLD',
 );
 $index['lk'][14][31][1] = array (
-  'spa' => '¿qué',
+  'spa' => '¿Qué',
   'greek' => 'τίς',
   'lemma' => 'τίς',
   'translit' => 'tis',
@@ -147081,7 +147081,7 @@ $index['lk'][23][39][13] = array (
   'morph' => 'VAAM2S',
 );
 $index['lk'][23][39][14] = array (
-  'spa' => 'a tí mismo',
+  'spa' => 'a ti mismo',
   'greek' => 'σεαυτὸν',
   'lemma' => 'σεαυτοῦ',
   'translit' => 'seauton',
