@@ -61,7 +61,7 @@ SourceLanguageCode	grc
 TargetLanguageCode	es
 GlossesLanguageCode	es
 FreeTranslationLanguageCode	es
-LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/61-Mt.xml
+LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/66-Ro.xml
 LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
 LastInterlinearRTFOutputPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/_INTERLINEAR_RTF_OUTPUTS
 LastSourceTextExportPath	
@@ -78,7 +78,6 @@ LastKBExportPath
 LastKBLIFTExportPath	
 FoldersProtectedFromNavigation	
 KeepPhraseBoxMidscreen	1
-DoLegacyLowerCaseLookup	0
 PunctuationPairsSourceSet(stores space for an empty cell)	‘;.,·:"!()<>⟦⟧[]“”—’⸀⸁⸂⸄⸃⸅
 PunctuationPairsTargetSet(stores space for an empty cell)	‘?.,::"!()<>⟦⟧[]“”— ⸀⸁⸂⸄⸃⸅
 PunctuationTwoCharacterPairsSourceSet(ditto)	
@@ -91,22 +90,22 @@ AutoInsertionsHighlightColor	16750539
 GuessHighlightColor	8434943
 BackupDocumentFlag	0
 WorkflowProfile	0
+CollabAIProjectName	
 CollaboratingWithParatext	0
 CollaboratingWithBibledit	0
 CollabProjectForSourceInputs	
 CollabProjectForTargetExports	
 CollabProjectForFreeTransExports	
-CollabAIProjectName	
 CollaborationEditor	Bibledit
+CollabExpectsFreeTrans	0
 CollabSourceLangName	
 CollabTargetLangName	
-CollabExpectsFreeTrans	0
 CollabBookSelected	
 CollabByChapterOnly	1
 CollabChapterSelected	
 UseAdaptationsGuesser	1
 GuessingLevel	50
-AllowCConUnchangedGuesserOutput	0
+AllowGuesseronUnchangedCCOutput	0
 RTL_Layout	0
 SFMafterNewlines	0
 SourceIsRTL	0
