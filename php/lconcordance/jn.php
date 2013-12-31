@@ -15686,13 +15686,13 @@ $concordance['1320']['NNSM'][] = array (
 );
 $concordance['1320']['NNSM'][] = array (
   'word' => 'διδάσκαλος',
-  'spa' => 'maestro',
+  'spa' => 'Maestro',
   'morph' => 'NNSM',
   'ref' => 'jn 13:13',
 );
 $concordance['1320']['NNSM'][] = array (
   'word' => 'διδάσκαλος',
-  'spa' => 'maestro',
+  'spa' => 'Maestro',
   'morph' => 'NNSM',
   'ref' => 'jn 13:14',
 );
@@ -45542,7 +45542,7 @@ $concordance['2962']['NVSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'Κύριε',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'NVSM',
   'ref' => 'jn 12:21',
 );
@@ -45602,7 +45602,7 @@ $concordance['2962']['NVSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'Κύριε',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'NVSM',
   'ref' => 'jn 20:15',
 );
@@ -45674,13 +45674,13 @@ $concordance['2962']['NASM'][] = array (
 );
 $concordance['2962']['NNSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NNSM',
   'ref' => 'jn 13:13',
 );
 $concordance['2962']['NNSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NNSM',
   'ref' => 'jn 13:14',
 );
@@ -68198,7 +68198,7 @@ $concordance['3739']['RR-ASM'][] = array (
 );
 $concordance['3739']['RR-ASM'][] = array (
   'word' => 'ὃν',
-  'spa' => 'que',
+  'spa' => 'quien',
   'morph' => 'RR-ASM',
   'ref' => 'jn 11:3',
 );
@@ -91754,7 +91754,7 @@ $concordance['5547']['NNSM'][] = array (
 );
 $concordance['5547']['NNSM'][] = array (
   'word' => 'χριστὸς',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NNSM',
   'ref' => 'jn 11:27',
 );

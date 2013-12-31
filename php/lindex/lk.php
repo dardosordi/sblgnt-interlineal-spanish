@@ -1897,7 +1897,7 @@ $index['lk'][1][16][6] = array (
   'morph' => 'P',
 );
 $index['lk'][1][16][7] = array (
-  'spa' => 'al Señor',
+  'spa' => 'el Señor',
   'greek' => 'κύριον',
   'lemma' => 'κύριος',
   'translit' => 'kurion',
@@ -5625,7 +5625,7 @@ $index['lk'][1][43][8] = array (
   'morph' => 'DGSM',
 );
 $index['lk'][1][43][9] = array (
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'greek' => 'κυρίου',
   'lemma' => 'κύριος',
   'translit' => 'kuriou',
@@ -28329,7 +28329,7 @@ $index['lk'][5][8][15] = array (
   'morph' => 'VPAI1S',
 );
 $index['lk'][5][8][16] = array (
-  'spa' => 'señor:',
+  'spa' => 'Señor:',
   'greek' => 'κύριε·',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -39793,7 +39793,7 @@ $index['lk'][6][46][4] = array (
   'morph' => 'NVSM',
 );
 $index['lk'][6][46][5] = array (
-  'spa' => 'señor,',
+  'spa' => 'Señor,',
   'greek' => 'κύριε,',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -65249,7 +65249,7 @@ $index['lk'][9][61][5] = array (
   'morph' => 'RP2DS',
 );
 $index['lk'][9][61][6] = array (
-  'spa' => 'señor:',
+  'spa' => 'Señor:',
   'greek' => 'κύριε·',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -65545,7 +65545,7 @@ $index['lk'][10][1][4] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][10][1][5] = array (
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'greek' => 'κύριος',
   'lemma' => 'κύριος',
   'translit' => 'kurios',
@@ -68449,7 +68449,7 @@ $index['lk'][10][21][12] = array (
   'morph' => 'RP2DS',
 );
 $index['lk'][10][21][13] = array (
-  'spa' => 'padre',
+  'spa' => 'Padre',
   'greek' => 'πάτερ',
   'lemma' => 'πατήρ',
   'translit' => 'pater',
@@ -68457,7 +68457,7 @@ $index['lk'][10][21][13] = array (
   'morph' => 'NVSM',
 );
 $index['lk'][10][21][14] = array (
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'greek' => 'κύριε',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -71617,7 +71617,7 @@ $index['lk'][10][41][4] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][10][41][5] = array (
-  'spa' => '⸀señor:',
+  'spa' => '⸀Señor:',
   'greek' => '⸀κύριος·',
   'lemma' => 'κύριος',
   'translit' => 'kurios',
@@ -77409,7 +77409,7 @@ $index['lk'][11][39][2] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][11][39][3] = array (
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'greek' => 'κύριος',
   'lemma' => 'κύριος',
   'translit' => 'kurios',
@@ -91249,7 +91249,7 @@ $index['lk'][13][23][7] = array (
   'morph' => 'DNPM',
 );
 $index['lk'][13][23][8] = array (
-  'spa' => 'que se salvan?',
+  'spa' => 'que son salvados?',
   'greek' => 'σῳζόμενοι;',
   'lemma' => 'σῴζω',
   'translit' => 'sōizomenoi',
@@ -91569,7 +91569,7 @@ $index['lk'][13][25][18] = array (
   'morph' => 'VPAP-PNM',
 );
 $index['lk'][13][25][19] = array (
-  'spa' => '⸀Señor,',
+  'spa' => '⸀señor,',
   'greek' => '⸀Κύριε,',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -96225,7 +96225,7 @@ $index['lk'][14][22][3] = array (
   'morph' => 'NNSM',
 );
 $index['lk'][14][22][4] = array (
-  'spa' => 'Señor,',
+  'spa' => 'señor,',
   'greek' => 'Κύριε,',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -111809,7 +111809,7 @@ $index['lk'][17][37][4] = array (
   'morph' => 'BI',
 );
 $index['lk'][17][37][5] = array (
-  'spa' => 'señor?',
+  'spa' => 'Señor?',
   'greek' => 'κύριε;',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -119353,7 +119353,7 @@ $index['lk'][19][16][4] = array (
   'morph' => 'VPAP-SNM',
 );
 $index['lk'][19][16][5] = array (
-  'spa' => 'Señor,',
+  'spa' => 'señor,',
   'greek' => 'Κύριε,',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -119761,7 +119761,7 @@ $index['lk'][19][20][4] = array (
   'morph' => 'VPAP-SNM',
 );
 $index['lk'][19][20][5] = array (
-  'spa' => 'Señor,',
+  'spa' => 'señor,',
   'greek' => 'Κύριε,',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -120457,7 +120457,7 @@ $index['lk'][19][25][2] = array (
   'morph' => 'RP3DSM',
 );
 $index['lk'][19][25][3] = array (
-  'spa' => 'Señor,',
+  'spa' => 'señor,',
   'greek' => 'Κύριε,',
   'lemma' => 'κύριος',
   'translit' => 'kurie',
@@ -128393,7 +128393,7 @@ $index['lk'][20][42][9] = array (
   'morph' => 'DDSM',
 );
 $index['lk'][20][42][10] = array (
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'greek' => 'κυρίῳ',
   'lemma' => 'κύριος',
   'translit' => 'kuriōi',

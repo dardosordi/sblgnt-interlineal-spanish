@@ -551,9 +551,9 @@
       cDT="2013-12-14T19:46:31Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Δαυίδ">
-      <RS n="8" a="de David" df="0"
+      <RS n="11" a="de David" df="0"
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
-      <RS n="8" a="De David" df="0"
+      <RS n="5" a="De David" df="0"
       cDT="2013-12-14T19:46:25Z" wC="dardo:sophie"/>
       <RS n="1" a="David" df="0"
       cDT="2013-12-14T19:46:25Z" wC="dardo:sophie"/>
@@ -1484,12 +1484,17 @@
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Κύριε">
-      <RS n="79" a="Señor" df="0"
+      <RS n="66" a="Señor" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
+      <RS n="11" a="señor" df="0"
+      cDT="2013-12-31T20:21:06Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Κύριοι">
-      <RS n="1" a="Señores" df="0"
-      cDT="2013-12-14T19:46:12Z" wC="dardo:sophie"/>
+      <RS n="1" a="Señores" df="1"
+      cDT="2013-12-14T19:46:12Z" wC="dardo:sophie"
+      dDT="2013-12-31T20:36:04Z"/>
+      <RS n="1" a="señores" df="0"
+      cDT="2013-12-31T20:36:10Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Κύριον">
       <RS n="2" a="al Señor" df="0"
@@ -4837,9 +4842,9 @@
       cDT="2013-12-14T19:46:31Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="αὐτῶν">
-      <RS n="224" a="de ellos" df="0"
+      <RS n="225" a="de ellos" df="0"
       cDT="2013-12-14T19:46:07Z" wC="dardo:sophie"/>
-      <RS n="10" a="a ellos" df="0"
+      <RS n="9" a="a ellos" df="0"
       cDT="2013-12-14T19:46:08Z" wC="dardo:sophie"/>
       <RS n="131" a="ellos" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
@@ -8604,8 +8609,10 @@
       cDT="2013-12-14T19:46:08Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="διδάσκαλος">
-      <RS n="13" a="maestro" df="0"
+      <RS n="11" a="maestro" df="0"
       cDT="2013-12-14T19:46:15Z" wC="dardo:sophie"/>
+      <RS n="1" a="Maestro" df="0"
+      cDT="2013-12-31T20:02:25Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="διδάσκειν">
       <RS n="11" a="enseñar" df="0"
@@ -15662,7 +15669,7 @@
       cDT="2013-12-30T04:28:23Z" wC="dardo:sophie"
       dDT="2013-12-30T04:28:24Z"/>
       <RS n="1" a="contamines" df="0"
-      cDT="2013-12-30T04:28:17Z" wC="dardo:sophie"/>
+      cDT="2013-12-31T19:13:49Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κοίτην">
       <RS n="2" a="cama" df="0"
@@ -16394,11 +16401,11 @@
       cDT="2013-12-14T19:46:30Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κυρίῳ">
-      <RS n="19" a="Señor" df="0"
+      <RS n="14" a="Señor" df="0"
       cDT="2013-12-14T19:46:08Z" wC="dardo:sophie"/>
       <RS n="1" a="el Señor" df="0"
       cDT="2013-12-14T19:46:12Z" wC="dardo:sophie"/>
-      <RS n="3" a="señor" df="0"
+      <RS n="7" a="señor" df="0"
       cDT="2013-12-14T19:46:13Z" wC="dardo:sophie"/>
       <RS n="1" a="al Señor" df="0"
       cDT="2013-12-14T19:46:20Z" wC="dardo:sophie"/>
@@ -16584,9 +16591,9 @@
       cDT="2013-12-14T19:46:22Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κύριε">
-      <RS n="15" a="Señor" df="0"
+      <RS n="24" a="Señor" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
-      <RS n="16" a="señor" df="0"
+      <RS n="3" a="señor" df="0"
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κύριοι">
@@ -16594,19 +16601,21 @@
       cDT="2013-12-14T19:46:12Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κύριον">
-      <RS n="22" a="Señor" df="0"
+      <RS n="21" a="Señor" df="0"
       cDT="2013-12-14T19:46:08Z" wC="dardo:sophie"/>
-      <RS n="7" a="al Señor" df="0"
+      <RS n="6" a="al Señor" df="0"
       cDT="2013-12-14T19:46:20Z" wC="dardo:sophie"/>
-      <RS n="6" a="señor" df="0"
+      <RS n="7" a="señor" df="0"
       cDT="2013-12-14T19:46:21Z" wC="dardo:sophie"/>
+      <RS n="1" a="el Señor" df="0"
+      cDT="2013-12-31T19:08:24Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κύριος">
-      <RS n="11" a="el Señor" df="0"
+      <RS n="17" a="el Señor" df="0"
       cDT="2013-12-14T19:46:08Z" wC="dardo:sophie"/>
-      <RS n="30" a="Señor" df="0"
+      <RS n="33" a="Señor" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
-      <RS n="44" a="señor" df="0"
+      <RS n="31" a="señor" df="0"
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κύριόν">
@@ -16614,9 +16623,9 @@
       cDT="2013-12-14T19:46:17Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κύριός">
-      <RS n="4" a="Señor" df="0"
+      <RS n="5" a="Señor" df="0"
       cDT="2013-12-14T19:46:17Z" wC="dardo:sophie"/>
-      <RS n="4" a="señor" df="0"
+      <RS n="3" a="señor" df="0"
       cDT="2013-12-14T19:46:21Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κύψας">
@@ -18241,7 +18250,7 @@
       <RS n="21" a="no" df="0"
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
       <RS n="1" a="acaso" df="0"
-      cDT="2013-12-29T08:06:54Z" wC="dardo:sophie"/>
+      cDT="2013-12-31T19:11:19Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="μήγε">
       <RS n="0" a="nó" df="1"
@@ -20758,7 +20767,7 @@
       cDT="2013-12-14T19:46:20Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="οἱ">
-      <RS n="700" a="los" df="0"
+      <RS n="699" a="los" df="0"
       cDT="2013-12-14T19:46:07Z" wC="dardo:sophie"/>
       <RS n="87" a="ellos" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
@@ -21144,7 +21153,7 @@
       cDT="2013-12-14T19:46:12Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="οὕτως">
-      <RS n="108" a="así" df="0"
+      <RS n="107" a="así" df="0"
       cDT="2013-12-14T19:46:07Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="οὖν">
@@ -21394,9 +21403,9 @@
       cDT="2013-12-14T19:46:20Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="πάτερ">
-      <RS n="6" a="Padre" df="0"
+      <RS n="8" a="Padre" df="0"
       cDT="2013-12-14T19:46:16Z" wC="dardo:sophie"/>
-      <RS n="4" a="padre" df="0"
+      <RS n="2" a="padre" df="0"
       cDT="2013-12-14T19:46:21Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="πέδαις">
@@ -23030,10 +23039,16 @@
       cDT="2013-12-14T19:46:07Z" wC="dardo:sophie"/>
       <RS n="11" a="con" df="0"
       cDT="2013-12-14T19:46:07Z" wC="dardo:sophie"/>
-      <RS n="39" a="de" df="0"
+      <RS n="37" a="de" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
       <RS n="1" a="del" df="0"
       cDT="2013-12-14T19:46:15Z" wC="dardo:sophie"/>
+      <RS n="1" a="desce" df="1"
+      cDT="2013-12-31T19:02:17Z" wC="dardo:sophie"
+      dDT="2013-12-31T19:02:18Z"/>
+      <RS n="1" a="desde" df="1"
+      cDT="2013-12-31T19:05:18Z" wC="dardo:sophie"
+      dDT="2013-12-31T19:05:18Z"/>
     </TU>
     <TU f="0" k="παρῃτημένον">
       <RS n="2" a="excusado" df="0"
@@ -24669,7 +24684,7 @@
       <RS n="1" a="llenas" df="0"
       cDT="2013-12-31T18:28:42Z" wC="dardo:sophie"/>
       <RS n="1" a="llenos" df="0"
-      cDT="2013-12-31T18:28:50Z" wC="dardo:sophie"/>
+      cDT="2013-12-31T18:49:42Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="πληρώματος">
       <RS n="1" a="llenura" df="0"
@@ -30760,8 +30775,11 @@
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="σῳζόμενοι">
-      <RS n="1" a="que se salvan" df="0"
-      cDT="2013-12-14T19:46:21Z" wC="dardo:sophie"/>
+      <RS n="1" a="que se salvan" df="1"
+      cDT="2013-12-14T19:46:21Z" wC="dardo:sophie"
+      dDT="2013-12-31T20:26:15Z"/>
+      <RS n="1" a="que son salvados" df="0"
+      cDT="2013-12-31T20:26:23Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="σῴζεσθαι">
       <RS n="1" a="ser salvados" df="0"
@@ -32772,9 +32790,9 @@
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="υἱὸς">
-      <RS n="101" a="hijo" df="0"
+      <RS n="98" a="hijo" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
-      <RS n="12" a="Hijo" df="0"
+      <RS n="15" a="Hijo" df="0"
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="υἱῶν">
@@ -34270,8 +34288,10 @@
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="χριστὸς">
-      <RS n="16" a="ungido" df="0"
+      <RS n="15" a="ungido" df="0"
       cDT="2013-12-14T19:46:15Z" wC="dardo:sophie"/>
+      <RS n="1" a="Ungido" df="0"
+      cDT="2013-12-31T20:11:41Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="χρονίζειν">
       <RS n="1" a="tardar" df="0"
@@ -36897,7 +36917,7 @@
     </TU>
     <TU f="0" k="ἀναφάναντες">
       <RS n="1" a="habiendo visto" df="0"
-      cDT="2013-12-14T19:46:12Z" wC="dardo:sophie"/>
+      cDT="2013-12-31T19:59:08Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἀναφέρει">
       <RS n="2" a="trae hacia arriba" df="0"
@@ -44154,7 +44174,7 @@
     </TU>
     <TU f="0" k="ἐλθόντι">
       <RS n="1" a="habiendo venido" df="0"
-      cDT="2013-12-14T19:46:29Z" wC="dardo:sophie"/>
+      cDT="2013-12-31T20:06:18Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ἐλθόντος">
       <RS n="4" a="habiendo venido" df="0"
@@ -54398,7 +54418,7 @@
       cDT="2013-12-14T19:46:08Z" wC="dardo:sophie"/>
       <RS n="6" a="la cual" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
-      <RS n="46" a="quien" df="0"
+      <RS n="47" a="quien" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
       <RS n="10" a="al que" df="0"
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
@@ -54406,7 +54426,7 @@
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
       <RS n="2" a="el cual" df="0"
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
-      <RS n="17" a="que" df="0"
+      <RS n="16" a="que" df="0"
       cDT="2013-12-14T19:46:15Z" wC="dardo:sophie"/>
       <RS n="5" a="uno" df="0"
       cDT="2013-12-14T19:46:22Z" wC="dardo:sophie"/>

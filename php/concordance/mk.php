@@ -37586,13 +37586,13 @@ $concordance['2962']['N-NSM'][] = array (
 );
 $concordance['2962']['N-NSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'N-NSM',
   'ref' => 'mk 5:19',
 );
 $concordance['2962']['N-NSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'N-NSM',
   'ref' => 'mk 11:3',
 );
@@ -37604,25 +37604,25 @@ $concordance['2962']['N-NSM'][] = array (
 );
 $concordance['2962']['N-NSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'el Señor',
   'morph' => 'N-NSM',
   'ref' => 'mk 12:29',
 );
 $concordance['2962']['N-NSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'el Señor',
   'morph' => 'N-NSM',
   'ref' => 'mk 12:29',
 );
 $concordance['2962']['N-NSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'el Señor',
   'morph' => 'N-NSM',
   'ref' => 'mk 12:36',
 );
 $concordance['2962']['N-NSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'el Señor',
   'morph' => 'N-NSM',
   'ref' => 'mk 13:20',
 );
@@ -37634,7 +37634,7 @@ $concordance['2962']['N-NSM'][] = array (
 );
 $concordance['2962']['N-NSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'N-NSM',
   'ref' => 'mk 16:19',
 );
@@ -37658,7 +37658,7 @@ $concordance['2962']['N-ASM'][] = array (
 );
 $concordance['2962']['N-DSM'][] = array (
   'word' => 'κυρίῳ',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'N-DSM',
   'ref' => 'mk 12:36',
 );

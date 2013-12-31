@@ -62108,7 +62108,7 @@ $concordance['2962']['NGSM'][] = array (
 );
 $concordance['2962']['NGSM'][] = array (
   'word' => 'κυρίου',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NGSM',
   'ref' => 'lk 1:43',
 );
@@ -62228,7 +62228,7 @@ $concordance['2962']['NGSM'][] = array (
 );
 $concordance['2962']['NASM'][] = array (
   'word' => 'κύριον',
-  'spa' => 'al Señor',
+  'spa' => 'el Señor',
   'morph' => 'NASM',
   'ref' => 'lk 1:16',
 );
@@ -62324,7 +62324,7 @@ $concordance['2962']['NDSM'][] = array (
 );
 $concordance['2962']['NDSM'][] = array (
   'word' => 'κυρίῳ',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'NDSM',
   'ref' => 'lk 20:42',
 );
@@ -62384,19 +62384,19 @@ $concordance['2962']['NNSM'][] = array (
 );
 $concordance['2962']['NNSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NNSM',
   'ref' => 'lk 10:1',
 );
 $concordance['2962']['NNSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NNSM',
   'ref' => 'lk 10:41',
 );
 $concordance['2962']['NNSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NNSM',
   'ref' => 'lk 11:39',
 );
@@ -62516,7 +62516,7 @@ $concordance['2962']['NNSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'κύριε',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NVSM',
   'ref' => 'lk 5:8',
 );
@@ -62534,7 +62534,7 @@ $concordance['2962']['NVSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'κύριε',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NVSM',
   'ref' => 'lk 6:46',
 );
@@ -62558,7 +62558,7 @@ $concordance['2962']['NVSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'κύριε',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NVSM',
   'ref' => 'lk 9:61',
 );
@@ -62570,7 +62570,7 @@ $concordance['2962']['NVSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'κύριε',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NVSM',
   'ref' => 'lk 10:21',
 );
@@ -62606,19 +62606,19 @@ $concordance['2962']['NVSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'Κύριε',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'NVSM',
   'ref' => 'lk 13:25',
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'Κύριε',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'NVSM',
   'ref' => 'lk 14:22',
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'κύριε',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NVSM',
   'ref' => 'lk 17:37',
 );
@@ -62636,7 +62636,7 @@ $concordance['2962']['NVSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'Κύριε',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'NVSM',
   'ref' => 'lk 19:16',
 );
@@ -62648,13 +62648,13 @@ $concordance['2962']['NVSM'][] = array (
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'Κύριε',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'NVSM',
   'ref' => 'lk 19:20',
 );
 $concordance['2962']['NVSM'][] = array (
   'word' => 'Κύριε',
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'morph' => 'NVSM',
   'ref' => 'lk 19:25',
 );
@@ -96848,7 +96848,7 @@ $concordance['3962']['NNPM'][] = array (
 );
 $concordance['3962']['NVSM'][] = array (
   'word' => 'πάτερ',
-  'spa' => 'padre',
+  'spa' => 'Padre',
   'morph' => 'NVSM',
   'ref' => 'lk 10:21',
 );
@@ -107726,7 +107726,7 @@ $concordance['4982']['VFAI3S'][] = array (
 );
 $concordance['4982']['VPPP-PNM'][] = array (
   'word' => 'σῳζόμενοι',
-  'spa' => 'que se salvan',
+  'spa' => 'que son salvados',
   'morph' => 'VPPP-PNM',
   'ref' => 'lk 13:23',
 );

@@ -8849,7 +8849,7 @@ $index['ac'][2][34][13] = array (
   'morph' => 'T-DSM',
 );
 $index['ac'][2][34][14] = array (
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'greek' => 'κυρίῳ',
   'lemma' => 'κύριος',
   'translit' => 'kuriōi',
@@ -9041,7 +9041,7 @@ $index['ac'][2][36][7] = array (
   'morph' => 'CONJ',
 );
 $index['ac'][2][36][8] = array (
-  'spa' => 'Señor',
+  'spa' => 'señor',
   'greek' => 'κύριον',
   'lemma' => 'κύριος',
   'translit' => 'kurion',
@@ -85313,7 +85313,7 @@ $index['ac'][16][30][4] = array (
   'morph' => 'V-IAI-3S',
 );
 $index['ac'][16][30][5] = array (
-  'spa' => 'Señores,',
+  'spa' => 'señores,',
   'greek' => 'Κύριοι,',
   'lemma' => 'κύριος',
   'translit' => 'kurioi',
@@ -90617,7 +90617,7 @@ $index['ac'][17][24][15] = array (
   'morph' => 'V-PAP-NSM',
 );
 $index['ac'][17][24][16] = array (
-  'spa' => 'Señor⸃',
+  'spa' => 'señor⸃',
   'greek' => 'κύριος⸃',
   'lemma' => 'κύριος',
   'translit' => 'kurios',
@@ -133865,7 +133865,7 @@ $index['ac'][26][15][7] = array (
   'morph' => 'CONJ',
 );
 $index['ac'][26][15][8] = array (
-  'spa' => '⸀Señor',
+  'spa' => '⸀el Señor',
   'greek' => '⸀κύριος',
   'lemma' => 'κύριος',
   'translit' => 'kurios',

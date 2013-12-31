@@ -122,11 +122,21 @@ function match_key($word, $key, $value) {
 		case 'translation':
 		case 'a':
 			return stripos($word['spa'], $value) !== false;
+
+		case 'SPA':
+		case 'Translation':
+		case 'A':
+			return strpos($word['spa'], $value) !== false;
 		case 'grc':
 		case 'grk':
 		case 'greek':
 		case 'g':
 			return stripos($word['greek'], $value) !== false;
+		case 'igrc':
+		case 'igrk':
+		case 'igreek':
+		case 'ig':
+			return stripos(strip_diacritics($word['greek']), $value) !== false;
 		case 'lemma':
 		case 'l':
 			return strtolower($word['lemma']) == $value;
