@@ -121,7 +121,6 @@ function generateTree($tokens) {
 		if (!is_array($value)) {
 			if ($value == '(') {
 				$is_group = true;
-				$group = array();
 				continue;
 			}
 
@@ -148,7 +147,7 @@ function generateTree($tokens) {
 				continue;
 			}
 
-			$group['operator'] = $value;
+			$group['operator'] = isset($group['operator']) ? $group['operator'] . $value : $value;
 			continue;
 		}
 
