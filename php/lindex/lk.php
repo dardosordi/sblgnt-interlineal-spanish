@@ -10777,7 +10777,7 @@ $index['lk'][2][11][6] = array (
   'morph' => 'VPAI3S',
 );
 $index['lk'][2][11][7] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -10785,7 +10785,7 @@ $index['lk'][2][11][7] = array (
   'morph' => 'NNSM',
 );
 $index['lk'][2][11][8] = array (
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'greek' => 'κύριος',
   'lemma' => 'κύριος',
   'translit' => 'kurios',
@@ -12929,7 +12929,7 @@ $index['lk'][2][26][16] = array (
   'morph' => 'DASM',
 );
 $index['lk'][2][26][17] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -12993,7 +12993,7 @@ $index['lk'][2][27][5] = array (
   'morph' => 'P',
 );
 $index['lk'][2][27][6] = array (
-  'spa' => 'lo',
+  'spa' => 'el',
   'greek' => 'τὸ',
   'lemma' => 'ὁ',
   'translit' => 'to',
@@ -18497,7 +18497,7 @@ $index['lk'][3][15][17] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][3][15][18] = array (
-  'spa' => 'ungido,',
+  'spa' => 'Ungido,',
   'greek' => 'χριστός,',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -26569,7 +26569,7 @@ $index['lk'][4][41][12] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][4][41][13] = array (
-  'spa' => 'hijo',
+  'spa' => 'Hijo',
   'greek' => 'υἱὸς',
   'lemma' => 'υἱός',
   'translit' => 'huios',
@@ -26665,7 +26665,7 @@ $index['lk'][4][41][24] = array (
   'morph' => 'DASM',
 );
 $index['lk'][4][41][25] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -55521,7 +55521,7 @@ $index['lk'][8][49][16] = array (
   'morph' => 'DASM',
 );
 $index['lk'][8][49][17] = array (
-  'spa' => 'maestro.',
+  'spa' => 'Maestro.',
   'greek' => 'διδάσκαλον.',
   'lemma' => 'διδάσκαλος',
   'translit' => 'didaskalon',
@@ -59225,7 +59225,7 @@ $index['lk'][9][20][13] = array (
   'morph' => 'DASM',
 );
 $index['lk'][9][20][14] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -128281,7 +128281,7 @@ $index['lk'][20][41][6] = array (
   'morph' => 'DASM',
 );
 $index['lk'][20][41][7] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -134721,7 +134721,7 @@ $index['lk'][22][11][8] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][22][11][9] = array (
-  'spa' => 'maestro:',
+  'spa' => 'Maestro:',
   'greek' => 'διδάσκαλος·',
   'lemma' => 'διδάσκαλος',
   'translit' => 'didaskalos',
@@ -141769,7 +141769,7 @@ $index['lk'][22][67][4] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][22][67][5] = array (
-  'spa' => 'ungido,',
+  'spa' => 'Ungido,',
   'greek' => 'χριστός,',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -142561,7 +142561,7 @@ $index['lk'][23][2][18] = array (
   'morph' => 'RF3ASM',
 );
 $index['lk'][23][2][19] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -146673,7 +146673,7 @@ $index['lk'][23][35][18] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][23][35][19] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -147065,7 +147065,7 @@ $index['lk'][23][39][11] = array (
   'morph' => 'DNSM',
 );
 $index['lk'][23][39][12] = array (
-  'spa' => 'ungido?',
+  'spa' => 'Ungido?',
   'greek' => 'χριστός;',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -152377,7 +152377,7 @@ $index['lk'][24][26][4] = array (
   'morph' => 'DASM',
 );
 $index['lk'][24][26][5] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -154769,7 +154769,7 @@ $index['lk'][24][46][7] = array (
   'morph' => 'DASM',
 );
 $index['lk'][24][46][8] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',

@@ -2289,7 +2289,7 @@ $index['jn'][1][20][11] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][1][20][12] = array (
-  'spa' => 'ungido.',
+  'spa' => 'Ungido.',
   'greek' => 'χριστός.',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -2857,7 +2857,7 @@ $index['jn'][1][25][13] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][1][25][14] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -5073,7 +5073,7 @@ $index['jn'][1][41][16] = array (
   'morph' => 'V-PPP-NSN',
 );
 $index['jn'][1][41][17] = array (
-  'spa' => 'ungido).',
+  'spa' => 'Ungido).',
   'greek' => 'χριστός).',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -10257,7 +10257,7 @@ $index['jn'][3][2][13] = array (
   'morph' => 'V-2RAI-2S',
 );
 $index['jn'][3][2][14] = array (
-  'spa' => 'maestro:',
+  'spa' => 'Maestro:',
   'greek' => 'διδάσκαλος·',
   'lemma' => 'διδάσκαλος',
   'translit' => 'didaskalos',
@@ -14129,7 +14129,7 @@ $index['jn'][3][28][9] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][3][28][10] = array (
-  'spa' => 'ungido,',
+  'spa' => 'Ungido,',
   'greek' => 'χριστός,',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -18769,7 +18769,7 @@ $index['jn'][4][25][9] = array (
   'morph' => 'V-PPP-NSM',
 );
 $index['jn'][4][25][10] = array (
-  'spa' => 'ungido:',
+  'spa' => 'Ungido:',
   'greek' => 'χριστός·',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -19313,7 +19313,7 @@ $index['jn'][4][29][12] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][4][29][13] = array (
-  'spa' => 'ungido?',
+  'spa' => 'Ungido?',
   'greek' => 'χριστός;',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -42369,7 +42369,7 @@ $index['jn'][7][26][16] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][7][26][17] = array (
-  'spa' => 'ungido?',
+  'spa' => 'Ungido?',
   'greek' => 'χριστός;',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -42433,7 +42433,7 @@ $index['jn'][7][27][6] = array (
   'morph' => 'CONJ',
 );
 $index['jn'][7][27][7] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -43041,7 +43041,7 @@ $index['jn'][7][31][10] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][7][31][11] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -44521,7 +44521,7 @@ $index['jn'][7][41][4] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][7][41][5] = array (
-  'spa' => 'ungido:',
+  'spa' => 'Ungido:',
   'greek' => 'χριστός·',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -44601,7 +44601,7 @@ $index['jn'][7][41][14] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][7][41][15] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -44769,7 +44769,7 @@ $index['jn'][7][42][18] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][7][42][19] = array (
-  'spa' => 'ungido⸃?',
+  'spa' => 'Ungido⸃?',
   'greek' => 'χριστός⸃;',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -48289,7 +48289,7 @@ $index['jn'][8][27][2] = array (
   'morph' => 'CONJ',
 );
 $index['jn'][8][27][3] = array (
-  'spa' => 'de el',
+  'spa' => 'del',
   'greek' => 'τὸν',
   'lemma' => 'ὁ',
   'translit' => 'ton',
@@ -56169,7 +56169,7 @@ $index['jn'][9][22][18] = array (
   'morph' => 'V-AAS-3S',
 );
 $index['jn'][9][22][19] = array (
-  'spa' => 'ungido,',
+  'spa' => 'Ungido,',
   'greek' => 'χριστόν,',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -61825,7 +61825,7 @@ $index['jn'][10][24][17] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][10][24][18] = array (
-  'spa' => 'ungido,',
+  'spa' => 'Ungido,',
   'greek' => 'χριστός,',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -67537,7 +67537,7 @@ $index['jn'][11][28][12] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][11][28][13] = array (
-  'spa' => 'maestro',
+  'spa' => 'Maestro',
   'greek' => 'διδάσκαλος',
   'lemma' => 'διδάσκαλος',
   'translit' => 'didaskalos',
@@ -76281,7 +76281,7 @@ $index['jn'][12][34][11] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][12][34][12] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -119001,7 +119001,7 @@ $index['jn'][20][31][8] = array (
   'morph' => 'T-NSM',
 );
 $index['jn'][20][31][9] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',

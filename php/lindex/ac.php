@@ -8361,7 +8361,7 @@ $index['ac'][2][31][5] = array (
   'morph' => 'DGSM',
 );
 $index['ac'][2][31][6] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστοῦ',
   'lemma' => 'Χριστός',
   'translit' => 'christou',
@@ -9041,7 +9041,7 @@ $index['ac'][2][36][7] = array (
   'morph' => 'CLK',
 );
 $index['ac'][2][36][8] = array (
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'greek' => 'κύριον',
   'lemma' => 'κύριος',
   'translit' => 'kurion',
@@ -9065,7 +9065,7 @@ $index['ac'][2][36][10] = array (
   'morph' => 'CLK',
 );
 $index['ac'][2][36][11] = array (
-  'spa' => 'ungido⸃',
+  'spa' => 'Ungido⸃',
   'greek' => 'χριστὸν⸃',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -13425,7 +13425,7 @@ $index['ac'][3][18][11] = array (
   'morph' => 'DASM',
 );
 $index['ac'][3][18][12] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -13649,7 +13649,7 @@ $index['ac'][3][20][13] = array (
   'morph' => 'RP2DP',
 );
 $index['ac'][3][20][14] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -18457,7 +18457,7 @@ $index['ac'][4][26][17] = array (
   'morph' => 'DGSM',
 );
 $index['ac'][4][26][18] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστοῦ',
   'lemma' => 'Χριστός',
   'translit' => 'christou',
@@ -26329,7 +26329,7 @@ $index['ac'][5][42][13] = array (
   'morph' => 'VPMP-PNM',
 );
 $index['ac'][5][42][14] = array (
-  'spa' => '⸂de el',
+  'spa' => '⸂al',
   'greek' => '⸂τὸν',
   'lemma' => 'ὁ',
   'translit' => 'ton',
@@ -26337,7 +26337,7 @@ $index['ac'][5][42][14] = array (
   'morph' => 'DASM',
 );
 $index['ac'][5][42][15] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -38161,7 +38161,7 @@ $index['ac'][8][5][10] = array (
   'morph' => 'DASM',
 );
 $index['ac'][8][5][11] = array (
-  'spa' => 'ungido.',
+  'spa' => 'Ungido.',
   'greek' => 'χριστόν.',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -46273,7 +46273,7 @@ $index['ac'][9][22][16] = array (
   'morph' => 'DNSM',
 );
 $index['ac'][9][22][17] = array (
-  'spa' => 'ungido.',
+  'spa' => 'Ungido.',
   'greek' => 'χριστός.',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -87025,7 +87025,7 @@ $index['ac'][17][3][4] = array (
   'morph' => 'DASM',
 );
 $index['ac'][17][3][5] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -87121,7 +87121,7 @@ $index['ac'][17][3][16] = array (
   'morph' => 'DNSM',
 );
 $index['ac'][17][3][17] = array (
-  'spa' => 'ungido,',
+  'spa' => 'Ungido,',
   'greek' => 'χριστός,',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
@@ -92841,7 +92841,7 @@ $index['ac'][18][5][21] = array (
   'morph' => 'DASM',
 );
 $index['ac'][18][5][22] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -96185,7 +96185,7 @@ $index['ac'][18][28][11] = array (
   'morph' => 'DASM',
 );
 $index['ac'][18][28][12] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸν',
   'lemma' => 'Χριστός',
   'translit' => 'christon',
@@ -135137,7 +135137,7 @@ $index['ac'][26][23][2] = array (
   'morph' => 'DNSM',
 );
 $index['ac'][26][23][3] = array (
-  'spa' => 'ungido,',
+  'spa' => 'Ungido,',
   'greek' => 'χριστός,',
   'lemma' => 'Χριστός',
   'translit' => 'christos',

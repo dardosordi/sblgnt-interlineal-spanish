@@ -30638,7 +30638,7 @@ $concordance['5547']['N-NSM'][] = array (
 );
 $concordance['5547']['N-NSM'][] = array (
   'word' => 'Χριστὸς',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'N-NSM',
   'ref' => 'ro 9:5',
 );

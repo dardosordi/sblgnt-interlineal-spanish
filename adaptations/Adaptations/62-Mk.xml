@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="7912" sizex="1290" sizey="54430" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="10681" sizex="1290" sizey="54578" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="11:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \h \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -28,7 +28,7 @@
   <S s="Ἰησοῦ" k="Ἰησοῦ" t="de Jesús" a="de Jesús"
   f="0000000000000000000001" sn="5" w="1" ty="1">
   </S>
-  <S s="⸀χριστοῦ." k="χριστοῦ" t="⸀el ungido." a="el ungido"
+  <S s="⸀χριστοῦ." k="χριστοῦ" t="⸀el Ungido." a="el Ungido"
   f="0000000000000000100001" sn="6" w="1" ty="1"
   pp="⸀" fp=".">
   </S>
@@ -10170,7 +10170,7 @@
   <S s="τὸν" k="τὸν" t="al" a="al"
   f="0000000000000000000001" sn="3026" w="1" ty="1">
   </S>
-  <S s="διδάσκαλον;" k="διδάσκαλον" t="maestro?" a="maestro"
+  <S s="διδάσκαλον;" k="διδάσκαλον" t="Maestro?" a="Maestro"
   f="0000000000000000100001" sn="3027" w="1" ty="1"
   fp=";">
   </S>
@@ -17432,7 +17432,7 @@
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="5192" w="1" ty="1">
   </S>
-  <S s="χριστός." k="χριστός" t="ungido." a="ungido"
+  <S s="χριστός." k="χριστός" t="Ungido." a="Ungido"
   f="0000000000000000100001" sn="5193" w="1" ty="1"
   fp=".">
   </S>
@@ -20388,7 +20388,7 @@
   <S s="ὅτι" k="ὅτι" t="que" a="que"
   f="0000000000000000000001" sn="6076" w="1" ty="1">
   </S>
-  <S s="χριστοῦ" k="χριστοῦ" t="del ungido" a="del ungido"
+  <S s="χριστοῦ" k="χριστοῦ" t="del Ungido" a="del Ungido"
   f="0000000000000000000001" sn="6077" w="1" ty="1">
   </S>
   <S s="ἐστε," k="ἐστε" t="son," a="son"
@@ -27610,7 +27610,7 @@
   f="0000000000000000000001" sn="8226" w="1" ty="1"
   fp=",">
   </S>
-  <S s="διδάσκαλε," k="διδάσκαλε" t="maestro," a="maestro"
+  <S s="διδάσκαλε," k="διδάσκαλε" t="Maestro," a="Maestro"
   f="0000000000000000000001" sn="8227" w="1" ty="1"
   fp=",">
   </S>
@@ -27648,7 +27648,7 @@
   <S s="πλὴν" k="πλὴν" t="excepto" a="excepto"
   f="0000000000000000000001" sn="8238" w="1" ty="1">
   </S>
-  <S s="αὐτοῦ·" k="αὐτοῦ" t="él:" a="él"
+  <S s="αὐτοῦ·" k="αὐτοῦ" t="Él:" a="Él"
   f="0000000000000000100001" sn="8239" w="1" ty="1"
   fp="·">
   </S>
@@ -27880,7 +27880,7 @@
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="8310" w="1" ty="1">
   </S>
-  <S s="χριστὸς" k="χριστὸς" t="ungido" a="ungido"
+  <S s="χριστὸς" k="χριστὸς" t="Ungido" a="Ungido"
   f="0000000000000000000001" sn="8311" w="1" ty="1">
   </S>
   <S s="υἱὸς" k="υἱὸς" t="hijo" a="hijo"
@@ -29612,7 +29612,7 @@
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="8831" w="1" ty="1">
   </S>
-  <S s="⸀χριστός," k="χριστός" t="⸀ungido," a="ungido"
+  <S s="⸀χριστός," k="χριστός" t="⸀Ungido," a="Ungido"
   f="0000000000000000000001" sn="8832" w="1" ty="1"
   pp="⸀" fp=",">
   </S>
@@ -31258,7 +31258,7 @@
   <S s="Ὁ" k="Ὁ" t="El" a="El"
   f="0000000000000000000001" sn="9323" w="1" ty="1">
   </S>
-  <S s="διδάσκαλος" k="διδάσκαλος" t="maestro" a="maestro"
+  <S s="διδάσκαλος" k="διδάσκαλος" t="Maestro" a="Maestro"
   f="0000000000000000000001" sn="9324" w="1" ty="1">
   </S>
   <S s="λέγει·" k="λέγει" t="dice:" a="dice"
@@ -33755,13 +33755,13 @@
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="10069" w="1" ty="1">
   </S>
-  <S s="χριστὸς" k="χριστὸς" t="ungido" a="ungido"
+  <S s="χριστὸς" k="χριστὸς" t="Ungido" a="Ungido"
   f="0000000000000000000001" sn="10070" w="1" ty="1">
   </S>
   <S s="ὁ" k="ὁ" t="el" a="el"
   f="0000000000000000000001" sn="10071" w="1" ty="1">
   </S>
-  <S s="υἱὸς" k="υἱὸς" t="hijo" a="hijo"
+  <S s="υἱὸς" k="υἱὸς" t="Hijo" a="Hijo"
   f="0000000000000000000001" sn="10072" w="1" ty="1">
   </S>
   <S s="τοῦ" k="τοῦ" t="del" a="del"
@@ -35807,7 +35807,7 @@
   c="15:32"
   m="\v 32 ">
   </S>
-  <S s="χριστὸς" k="χριστὸς" t="ungido" a="ungido"
+  <S s="χριστὸς" k="χριστὸς" t="Ungido" a="Ungido"
   f="0000000000000000000001" sn="10681" w="1" ty="1">
   </S>
   <S s="ὁ" k="ὁ" t="el" a="el"

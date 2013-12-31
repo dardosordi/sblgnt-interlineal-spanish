@@ -24278,7 +24278,7 @@ $concordance['1320']['NASM'][] = array (
 );
 $concordance['1320']['NASM'][] = array (
   'word' => 'διδάσκαλον',
-  'spa' => 'maestro',
+  'spa' => 'Maestro',
   'morph' => 'NASM',
   'ref' => 'lk 8:49',
 );
@@ -24290,7 +24290,7 @@ $concordance['1320']['NNSM'][] = array (
 );
 $concordance['1320']['NNSM'][] = array (
   'word' => 'διδάσκαλος',
-  'spa' => 'maestro',
+  'spa' => 'Maestro',
   'morph' => 'NNSM',
   'ref' => 'lk 22:11',
 );
@@ -62360,7 +62360,7 @@ $concordance['2962']['NNSM'][] = array (
 );
 $concordance['2962']['NNSM'][] = array (
   'word' => 'κύριος',
-  'spa' => 'señor',
+  'spa' => 'Señor',
   'morph' => 'NNSM',
   'ref' => 'lk 2:11',
 );
@@ -78326,7 +78326,7 @@ $concordance['3588']['DASN'][] = array (
 );
 $concordance['3588']['DASN'][] = array (
   'word' => 'τὸ',
-  'spa' => 'lo',
+  'spa' => 'el',
   'morph' => 'DASN',
   'ref' => 'lk 2:27',
 );
@@ -111260,7 +111260,7 @@ $concordance['5207']['NNSM'][] = array (
 );
 $concordance['5207']['NNSM'][] = array (
   'word' => 'υἱὸς',
-  'spa' => 'hijo',
+  'spa' => 'Hijo',
   'morph' => 'NNSM',
   'ref' => 'lk 4:41',
 );
@@ -115586,73 +115586,73 @@ $concordance['5543']['JNSM'][] = array (
 );
 $concordance['5547']['NNSM'][] = array (
   'word' => 'χριστὸς',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NNSM',
   'ref' => 'lk 2:11',
 );
 $concordance['5547']['NNSM'][] = array (
   'word' => 'χριστός',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NNSM',
   'ref' => 'lk 3:15',
 );
 $concordance['5547']['NNSM'][] = array (
   'word' => 'χριστός',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NNSM',
   'ref' => 'lk 22:67',
 );
 $concordance['5547']['NNSM'][] = array (
   'word' => 'χριστὸς',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NNSM',
   'ref' => 'lk 23:35',
 );
 $concordance['5547']['NNSM'][] = array (
   'word' => 'χριστός',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NNSM',
   'ref' => 'lk 23:39',
 );
 $concordance['5547']['NASM'][] = array (
   'word' => 'χριστὸν',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NASM',
   'ref' => 'lk 2:26',
 );
 $concordance['5547']['NASM'][] = array (
   'word' => 'χριστὸν',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NASM',
   'ref' => 'lk 4:41',
 );
 $concordance['5547']['NASM'][] = array (
   'word' => 'χριστὸν',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NASM',
   'ref' => 'lk 9:20',
 );
 $concordance['5547']['NASM'][] = array (
   'word' => 'χριστὸν',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NASM',
   'ref' => 'lk 20:41',
 );
 $concordance['5547']['NASM'][] = array (
   'word' => 'χριστὸν',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NASM',
   'ref' => 'lk 23:2',
 );
 $concordance['5547']['NASM'][] = array (
   'word' => 'χριστὸν',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NASM',
   'ref' => 'lk 24:26',
 );
 $concordance['5547']['NASM'][] = array (
   'word' => 'χριστὸν',
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'morph' => 'NASM',
   'ref' => 'lk 24:46',
 );

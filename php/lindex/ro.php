@@ -30465,7 +30465,7 @@ $index['ro'][9][5][6] = array (
   'morph' => 'DNSM',
 );
 $index['ro'][9][5][7] = array (
-  'spa' => 'ungido',
+  'spa' => 'Ungido',
   'greek' => 'χριστὸς',
   'lemma' => 'Χριστός',
   'translit' => 'christos',
