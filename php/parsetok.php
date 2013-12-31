@@ -83,7 +83,7 @@ function getTokens(
     foreach ($token_strings as $token_str) {
         // clean $token_str
         $token_str = trim(stripslashes($token_str), $spaces);
-        $str_value = trim($token_str, $delimiters);
+        $str_value = trim($token_str, $stringDelimiters);
 
         // is it a token name?
         if (':' === substr($token_str, -1, 1)) {
