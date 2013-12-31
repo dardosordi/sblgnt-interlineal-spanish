@@ -155,14 +155,14 @@ function match_key($word, $key, $value) {
 }
 
 function match_pos($pos, $matcher) {
-	$pos = str_split($pos);
-	$matcher = str_split(strtoupper($matcher));
-	$len = count($matcher);
+	$pos = $pos;
+	$matcher = strtoupper($matcher);
+	$len = strlen($matcher);
 	for ($i = 0; $i < $len ; $i++) {
 		if (!isset($pos[$i])) {
 			return false;
 		}
-		if (in_array($matcher, array('?','.','*'))) {
+		if (in_array($matcher[$i], array('?','.','*'))) {
 			continue;
 		}
 		if ($pos[$i] != $matcher[$i]) {
