@@ -2,7 +2,7 @@ BOOKS=../adaptations/Adaptations/*.xml
 MORPH=morph/*.php
 LMORPH=lmorph/*.php
 
-all: concordance index
+all: lconcordance.php lindex.php concordance.php rindex.php
 
 concordance: lconcordance.php concordance.php
 
