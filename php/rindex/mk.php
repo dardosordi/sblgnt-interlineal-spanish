@@ -31345,7 +31345,7 @@ $index['mk'][6][43][4] = array (
   'morph' => 'N-GPM',
 );
 $index['mk'][6][43][5] = array (
-  'spa' => 'repletos⸃',
+  'spa' => 'llenos⸃',
   'greek' => 'πληρώματα⸃',
   'lemma' => 'πλήρωμα',
   'translit' => 'plērōmata',
@@ -40265,7 +40265,7 @@ $index['mk'][8][20][8] = array (
   'morph' => 'N-GPF',
 );
 $index['mk'][8][20][9] = array (
-  'spa' => 'repletas',
+  'spa' => 'llenas',
   'greek' => 'πληρώματα',
   'lemma' => 'πλήρωμα',
   'translit' => 'plērōmata',

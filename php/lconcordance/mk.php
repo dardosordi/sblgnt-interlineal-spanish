@@ -58694,13 +58694,13 @@ $concordance['4138']['NNSN'][] = array (
 );
 $concordance['4138']['NAPN'][] = array (
   'word' => 'πληρώματα',
-  'spa' => 'repletos',
+  'spa' => 'llenos',
   'morph' => 'NAPN',
   'ref' => 'mk 6:43',
 );
 $concordance['4138']['NAPN'][] = array (
   'word' => 'πληρώματα',
-  'spa' => 'repletas',
+  'spa' => 'llenas',
   'morph' => 'NAPN',
   'ref' => 'mk 8:20',
 );

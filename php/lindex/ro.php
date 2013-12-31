@@ -27633,7 +27633,7 @@ $index['ro'][8][23][5] = array (
   'morph' => 'RP3NPMP',
 );
 $index['ro'][8][23][6] = array (
-  'spa' => 'el',
+  'spa' => 'la',
   'greek' => 'τὴν',
   'lemma' => 'ὁ',
   'translit' => 'tēn',
@@ -27641,7 +27641,7 @@ $index['ro'][8][23][6] = array (
   'morph' => 'DASF',
 );
 $index['ro'][8][23][7] = array (
-  'spa' => 'primer fruto',
+  'spa' => 'primicia',
   'greek' => 'ἀπαρχὴν',
   'lemma' => 'ἀπαρχή',
   'translit' => 'aparchēn',
@@ -36801,10 +36801,4634 @@ $index['ro'][10][21][16] = array (
   'morph' => 'VPAP-SAM',
 );
 $index['ro'][11][1][0] = array (
-  'spa' => '-',
+  'spa' => 'Digo',
   'greek' => 'Λέγω',
   'lemma' => 'λέγω',
   'translit' => 'legō',
   'strong' => 'G3004',
+  'morph' => 'VPAI1S',
+);
+$index['ro'][11][1][1] = array (
+  'spa' => 'pues,',
+  'greek' => 'οὖν,',
+  'lemma' => 'οὖν',
+  'translit' => 'oun',
+  'strong' => 'G3767',
+  'morph' => 'CLI',
+);
+$index['ro'][11][1][2] = array (
+  'spa' => 'acaso',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'TN',
+);
+$index['ro'][11][1][3] = array (
+  'spa' => 'rechazó',
+  'greek' => 'ἀπώσατο',
+  'lemma' => 'ἀπωθέω',
+  'translit' => 'apōsato',
+  'strong' => 'G683',
+  'morph' => 'VAMI3S',
+);
+$index['ro'][11][1][4] = array (
+  'spa' => 'el',
+  'greek' => 'ὁ',
+  'lemma' => 'ὁ',
+  'translit' => 'ho',
+  'strong' => 'G3588',
+  'morph' => 'DNSM',
+);
+$index['ro'][11][1][5] = array (
+  'spa' => 'Dios',
+  'greek' => 'θεὸς',
+  'lemma' => 'θεός',
+  'translit' => 'theos',
+  'strong' => 'G2316',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][1][6] = array (
+  'spa' => 'al',
+  'greek' => 'τὸν',
+  'lemma' => 'ὁ',
+  'translit' => 'ton',
+  'strong' => 'G3588',
+  'morph' => 'DASM',
+);
+$index['ro'][11][1][7] = array (
+  'spa' => 'pueblo',
+  'greek' => 'λαὸν',
+  'lemma' => 'λαός',
+  'translit' => 'laon',
+  'strong' => 'G2992',
+  'morph' => 'NASM',
+);
+$index['ro'][11][1][8] = array (
+  'spa' => 'de él?',
+  'greek' => 'αὐτοῦ;',
+  'lemma' => 'αὐτός',
+  'translit' => 'autou',
+  'strong' => 'G846',
+  'morph' => 'RP3GSM',
+);
+$index['ro'][11][1][9] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][1][10] = array (
+  'spa' => 'suceda:',
+  'greek' => 'γένοιτο·',
+  'lemma' => 'γίνομαι',
+  'translit' => 'genoito',
+  'strong' => 'G1096',
+  'morph' => 'VAMO3S',
+);
+$index['ro'][11][1][11] = array (
+  'spa' => 'también',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'BE',
+);
+$index['ro'][11][1][12] = array (
+  'spa' => '← porque',
+  'greek' => 'γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][1][13] = array (
+  'spa' => 'yo',
+  'greek' => 'ἐγὼ',
+  'lemma' => 'ἐγώ',
+  'translit' => 'egō',
+  'strong' => 'G1473',
+  'morph' => 'RP1NS',
+);
+$index['ro'][11][1][14] = array (
+  'spa' => 'Israelita',
+  'greek' => 'Ἰσραηλίτης',
+  'lemma' => 'Ἰσραηλίτης',
+  'translit' => 'israēlitēs',
+  'strong' => 'G2475',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][1][15] = array (
+  'spa' => 'soy,',
+  'greek' => 'εἰμί,',
+  'lemma' => 'εἰμί',
+  'translit' => 'eimi',
+  'strong' => 'G1510',
+  'morph' => 'VPAI1S',
+);
+$index['ro'][11][1][16] = array (
+  'spa' => 'de',
+  'greek' => 'ἐκ',
+  'lemma' => 'ἐκ',
+  'translit' => 'ek',
+  'strong' => 'G1537',
+  'morph' => 'P',
+);
+$index['ro'][11][1][17] = array (
+  'spa' => 'semilla',
+  'greek' => 'σπέρματος',
+  'lemma' => 'σπέρμα',
+  'translit' => 'spermatos',
+  'strong' => 'G4690',
+  'morph' => 'NGSN',
+);
+$index['ro'][11][1][18] = array (
+  'spa' => 'de Abraham,',
+  'greek' => 'Ἀβραάμ,',
+  'lemma' => 'Ἀβραάμ',
+  'translit' => 'abraam',
+  'strong' => 'G11',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][1][19] = array (
+  'spa' => 'de tribu',
+  'greek' => 'φυλῆς',
+  'lemma' => 'φυλή',
+  'translit' => 'phulēs',
+  'strong' => 'G5443',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][1][20] = array (
+  'spa' => 'de Benjamin.',
+  'greek' => 'Βενιαμίν.',
+  'lemma' => 'Βενιαμίν',
+  'translit' => 'beniamin',
+  'strong' => 'G958',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][2][0] = array (
+  'spa' => 'no',
+  'greek' => 'οὐκ',
+  'lemma' => 'οὐ',
+  'translit' => 'ouk',
+  'strong' => 'G3756',
+  'morph' => 'BN',
+);
+$index['ro'][11][2][1] = array (
+  'spa' => 'rechazó',
+  'greek' => 'ἀπώσατο',
+  'lemma' => 'ἀπωθέω',
+  'translit' => 'apōsato',
+  'strong' => 'G683',
+  'morph' => 'VAMI3S',
+);
+$index['ro'][11][2][2] = array (
+  'spa' => 'el',
+  'greek' => 'ὁ',
+  'lemma' => 'ὁ',
+  'translit' => 'ho',
+  'strong' => 'G3588',
+  'morph' => 'DNSM',
+);
+$index['ro'][11][2][3] = array (
+  'spa' => 'Dios',
+  'greek' => 'θεὸς',
+  'lemma' => 'θεός',
+  'translit' => 'theos',
+  'strong' => 'G2316',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][2][4] = array (
+  'spa' => 'al',
+  'greek' => 'τὸν',
+  'lemma' => 'ὁ',
+  'translit' => 'ton',
+  'strong' => 'G3588',
+  'morph' => 'DASM',
+);
+$index['ro'][11][2][5] = array (
+  'spa' => 'pueblo',
+  'greek' => 'λαὸν',
+  'lemma' => 'λαός',
+  'translit' => 'laon',
+  'strong' => 'G2992',
+  'morph' => 'NASM',
+);
+$index['ro'][11][2][6] = array (
+  'spa' => 'de él',
+  'greek' => 'αὐτοῦ',
+  'lemma' => 'αὐτός',
+  'translit' => 'autou',
+  'strong' => 'G846',
+  'morph' => 'RP3GSM',
+);
+$index['ro'][11][2][7] = array (
+  'spa' => 'al que',
+  'greek' => 'ὃν',
+  'lemma' => 'ὅ',
+  'translit' => 'hon',
+  'strong' => 'G3739',
+  'morph' => 'RR-ASM',
+);
+$index['ro'][11][2][8] = array (
+  'spa' => 'de antemano conoció.',
+  'greek' => 'προέγνω.',
+  'lemma' => 'προγινώσκω',
+  'translit' => 'proegnō',
+  'strong' => 'G4267',
+  'morph' => 'VAAI3S',
+);
+$index['ro'][11][2][9] = array (
+  'spa' => 'o',
+  'greek' => 'ἢ',
+  'lemma' => 'ἤ',
+  'translit' => 'ē',
+  'strong' => 'G2228',
+  'morph' => 'CLD',
+);
+$index['ro'][11][2][10] = array (
+  'spa' => 'no',
+  'greek' => 'οὐκ',
+  'lemma' => 'οὐ',
+  'translit' => 'ouk',
+  'strong' => 'G3756',
+  'morph' => 'BN',
+);
+$index['ro'][11][2][11] = array (
+  'spa' => 'saben',
+  'greek' => 'οἴδατε',
+  'lemma' => 'εἶδον',
+  'translit' => 'oidate',
+  'strong' => 'G1492',
+  'morph' => 'VRAI2P',
+);
+$index['ro'][11][2][12] = array (
+  'spa' => 'en',
+  'greek' => 'ἐν',
+  'lemma' => 'ἐν',
+  'translit' => 'en',
+  'strong' => 'G1722',
+  'morph' => 'P',
+);
+$index['ro'][11][2][13] = array (
+  'spa' => 'Elías',
+  'greek' => 'Ἠλίᾳ',
+  'lemma' => 'Ἡλίας',
+  'translit' => 'ēliai',
+  'strong' => 'G2243',
+  'morph' => 'NDSM',
+);
+$index['ro'][11][2][14] = array (
+  'spa' => 'lo qué',
+  'greek' => 'τί',
+  'lemma' => 'τίς',
+  'translit' => 'ti',
+  'strong' => 'G5101',
+  'morph' => 'RI-ASN',
+);
+$index['ro'][11][2][15] = array (
+  'spa' => 'dice',
+  'greek' => 'λέγει',
+  'lemma' => 'λέγω',
+  'translit' => 'legei',
+  'strong' => 'G3004',
+  'morph' => 'VPAI3S',
+);
+$index['ro'][11][2][16] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][2][17] = array (
+  'spa' => 'escritura,',
+  'greek' => 'γραφή,',
+  'lemma' => 'γραφή',
+  'translit' => 'graphē',
+  'strong' => 'G1124',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][2][18] = array (
+  'spa' => 'como',
+  'greek' => 'ὡς',
+  'lemma' => 'ὡς',
+  'translit' => 'hōs',
+  'strong' => 'G5613',
+  'morph' => 'CSC',
+);
+$index['ro'][11][2][19] = array (
+  'spa' => 'pide',
+  'greek' => 'ἐντυγχάνει',
+  'lemma' => 'ἐντυγχάνω',
+  'translit' => 'entugchanei',
+  'strong' => 'G1793',
+  'morph' => 'VPAI3S',
+);
+$index['ro'][11][2][20] = array (
+  'spa' => 'a',
+  'greek' => 'τῷ',
+  'lemma' => 'ὁ',
+  'translit' => 'tōi',
+  'strong' => 'G3588',
+  'morph' => 'DDSM',
+);
+$index['ro'][11][2][21] = array (
+  'spa' => 'Dios',
+  'greek' => 'θεῷ',
+  'lemma' => 'θεός',
+  'translit' => 'theōi',
+  'strong' => 'G2316',
+  'morph' => 'NDSM',
+);
+$index['ro'][11][2][22] = array (
+  'spa' => 'contra',
+  'greek' => 'κατὰ',
+  'lemma' => 'κατά',
+  'translit' => 'kata',
+  'strong' => 'G2596',
+  'morph' => 'P',
+);
+$index['ro'][11][2][23] = array (
+  'spa' => 'de',
+  'greek' => 'τοῦ',
+  'lemma' => 'ὁ',
+  'translit' => 'tou',
+  'strong' => 'G3588',
+  'morph' => 'DGSM',
+);
+$index['ro'][11][2][24] = array (
+  'spa' => '⸀Israél?',
+  'greek' => '⸀Ἰσραήλ;',
+  'lemma' => 'Ἰσραήλ',
+  'translit' => 'israēl',
+  'strong' => 'G2474',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][3][0] = array (
+  'spa' => 'Señor,',
+  'greek' => 'Κύριε,',
+  'lemma' => 'κύριος',
+  'translit' => 'kurie',
+  'strong' => 'G2962',
+  'morph' => 'NVSM',
+);
+$index['ro'][11][3][1] = array (
+  'spa' => 'a los',
+  'greek' => 'τοὺς',
+  'lemma' => 'ὁ',
+  'translit' => 'tous',
+  'strong' => 'G3588',
+  'morph' => 'DAPM',
+);
+$index['ro'][11][3][2] = array (
+  'spa' => 'profetas',
+  'greek' => 'προφήτας',
+  'lemma' => 'προφήτης',
+  'translit' => 'prophētas',
+  'strong' => 'G4396',
+  'morph' => 'NAPM',
+);
+$index['ro'][11][3][3] = array (
+  'spa' => 'tuyos',
+  'greek' => 'σου',
+  'lemma' => 'σοῦ',
+  'translit' => 'sou',
+  'strong' => 'G4675',
+  'morph' => 'RP2GS',
+);
+$index['ro'][11][3][4] = array (
+  'spa' => 'mataron,',
+  'greek' => 'ἀπέκτειναν,',
+  'lemma' => 'ἀποκτείνω',
+  'translit' => 'apekteinan',
+  'strong' => 'G615',
+  'morph' => 'VAAI3P',
+);
+$index['ro'][11][3][5] = array (
+  'spa' => '⸀los',
+  'greek' => '⸀τὰ',
+  'lemma' => 'ὁ',
+  'translit' => 'ta',
+  'strong' => 'G3588',
+  'morph' => 'DAPN',
+);
+$index['ro'][11][3][6] = array (
+  'spa' => 'altares',
+  'greek' => 'θυσιαστήριά',
+  'lemma' => 'θυσιαστήριον',
+  'translit' => 'thusiastēria',
+  'strong' => 'G2379',
+  'morph' => 'NAPN',
+);
+$index['ro'][11][3][7] = array (
+  'spa' => 'tuyos',
+  'greek' => 'σου',
+  'lemma' => 'σοῦ',
+  'translit' => 'sou',
+  'strong' => 'G4675',
+  'morph' => 'RP2GS',
+);
+$index['ro'][11][3][8] = array (
+  'spa' => 'derribaron,',
+  'greek' => 'κατέσκαψαν,',
+  'lemma' => 'κατασκάπτω',
+  'translit' => 'kateskapsan',
+  'strong' => 'G2679',
+  'morph' => 'VAAI3P',
+);
+$index['ro'][11][3][9] = array (
+  'spa' => 'y yo',
+  'greek' => 'κἀγὼ',
+  'lemma' => 'κἀγώ',
+  'translit' => 'kagō',
+  'strong' => 'G2504',
+  'morph' => 'RP1NS',
+);
+$index['ro'][11][3][10] = array (
+  'spa' => 'fuí dejado',
+  'greek' => 'ὑπελείφθην',
+  'lemma' => 'ὑπολείπω',
+  'translit' => 'hupeleiphthēn',
+  'strong' => 'G5275',
+  'morph' => 'VAPI1S',
+);
+$index['ro'][11][3][11] = array (
+  'spa' => 'sólo,',
+  'greek' => 'μόνος,',
+  'lemma' => 'μόνος',
+  'translit' => 'monos',
+  'strong' => 'G3441',
+  'morph' => 'JNSM',
+);
+$index['ro'][11][3][12] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][3][13] = array (
+  'spa' => 'buscan',
+  'greek' => 'ζητοῦσιν',
+  'lemma' => 'ζητέω',
+  'translit' => 'zētousin',
+  'strong' => 'G2212',
+  'morph' => 'VPAI3P',
+);
+$index['ro'][11][3][14] = array (
+  'spa' => 'la',
+  'greek' => 'τὴν',
+  'lemma' => 'ὁ',
+  'translit' => 'tēn',
+  'strong' => 'G3588',
+  'morph' => 'DASF',
+);
+$index['ro'][11][3][15] = array (
+  'spa' => 'vida',
+  'greek' => 'ψυχήν',
+  'lemma' => 'ψυχή',
+  'translit' => 'psuchēn',
+  'strong' => 'G5590',
+  'morph' => 'NASF',
+);
+$index['ro'][11][3][16] = array (
+  'spa' => 'mía.',
+  'greek' => 'μου.',
+  'lemma' => 'μοῦ',
+  'translit' => 'mou',
+  'strong' => 'G3450',
+  'morph' => 'RP1GS',
+);
+$index['ro'][11][4][0] = array (
+  'spa' => 'pero',
+  'greek' => 'ἀλλὰ',
+  'lemma' => 'ἀλλά',
+  'translit' => 'alla',
+  'strong' => 'G235',
+  'morph' => 'CLC',
+);
+$index['ro'][11][4][1] = array (
+  'spa' => '¿Qué',
+  'greek' => 'τί',
+  'lemma' => 'τίς',
+  'translit' => 'ti',
+  'strong' => 'G5101',
+  'morph' => 'RI-ASN',
+);
+$index['ro'][11][4][2] = array (
+  'spa' => 'dice',
+  'greek' => 'λέγει',
+  'lemma' => 'λέγω',
+  'translit' => 'legei',
+  'strong' => 'G3004',
+  'morph' => 'VPAI3S',
+);
+$index['ro'][11][4][3] = array (
+  'spa' => 'a él',
+  'greek' => 'αὐτῷ',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōi',
+  'strong' => 'G846',
+  'morph' => 'RP3DSM',
+);
+$index['ro'][11][4][4] = array (
+  'spa' => 'la',
+  'greek' => 'ὁ',
+  'lemma' => 'ὁ',
+  'translit' => 'ho',
+  'strong' => 'G3588',
+  'morph' => 'DNSM',
+);
+$index['ro'][11][4][5] = array (
+  'spa' => 'respuesta divina?',
+  'greek' => 'χρηματισμός;',
+  'lemma' => 'χρηματισμός',
+  'translit' => 'chrēmatismos',
+  'strong' => 'G5538',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][4][6] = array (
+  'spa' => 'Dejé',
+  'greek' => 'Κατέλιπον',
+  'lemma' => 'καταλείπω',
+  'translit' => 'katelipon',
+  'strong' => 'G2641',
+  'morph' => 'VAAI1S',
+);
+$index['ro'][11][4][7] = array (
+  'spa' => 'para mí mismo',
+  'greek' => 'ἐμαυτῷ',
+  'lemma' => 'ἐμαυτοῦ',
+  'translit' => 'emautōi',
+  'strong' => 'G1683',
+  'morph' => 'RF1DSM',
+);
+$index['ro'][11][4][8] = array (
+  'spa' => 'siete mil',
+  'greek' => 'ἑπτακισχιλίους',
+  'lemma' => 'ἑπτακισχίλιοι',
+  'translit' => 'heptakischilious',
+  'strong' => 'G2035',
+  'morph' => 'JAPM',
+);
+$index['ro'][11][4][9] = array (
+  'spa' => 'varones,',
+  'greek' => 'ἄνδρας,',
+  'lemma' => 'ἀνήρ',
+  'translit' => 'andras',
+  'strong' => 'G435',
+  'morph' => 'NAPM',
+);
+$index['ro'][11][4][10] = array (
+  'spa' => 'los cuales',
+  'greek' => 'οἵτινες',
+  'lemma' => 'ὅτι',
+  'translit' => 'hoitines',
+  'strong' => 'G3748',
+  'morph' => 'RR-NPM',
+);
+$index['ro'][11][4][11] = array (
+  'spa' => 'no',
+  'greek' => 'οὐκ',
+  'lemma' => 'οὐ',
+  'translit' => 'ouk',
+  'strong' => 'G3756',
+  'morph' => 'BN',
+);
+$index['ro'][11][4][12] = array (
+  'spa' => 'doblaron',
+  'greek' => 'ἔκαμψαν',
+  'lemma' => 'κάμπτω',
+  'translit' => 'ekampsan',
+  'strong' => 'G2578',
+  'morph' => 'VAAI3P',
+);
+$index['ro'][11][4][13] = array (
+  'spa' => 'rodilla',
+  'greek' => 'γόνυ',
+  'lemma' => 'γόνυ',
+  'translit' => 'gonu',
+  'strong' => 'G1119',
+  'morph' => 'NASN',
+);
+$index['ro'][11][4][14] = array (
+  'spa' => 'al',
+  'greek' => 'τῇ',
+  'lemma' => 'ὁ',
+  'translit' => 'tēi',
+  'strong' => 'G3588',
+  'morph' => 'DDSF',
+);
+$index['ro'][11][4][15] = array (
+  'spa' => 'Baal.',
+  'greek' => 'Βάαλ.',
+  'lemma' => 'Βάαλ',
+  'translit' => 'baal',
+  'strong' => 'G896',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][5][0] = array (
+  'spa' => 'así',
+  'greek' => 'οὕτως',
+  'lemma' => 'οὕτως',
+  'translit' => 'houtōs',
+  'strong' => 'G3779',
+  'morph' => 'B',
+);
+$index['ro'][11][5][1] = array (
+  'spa' => 'pues',
+  'greek' => 'οὖν',
+  'lemma' => 'οὖν',
+  'translit' => 'oun',
+  'strong' => 'G3767',
+  'morph' => 'CLI',
+);
+$index['ro'][11][5][2] = array (
+  'spa' => 'también',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'BE',
+);
+$index['ro'][11][5][3] = array (
+  'spa' => 'en',
+  'greek' => 'ἐν',
+  'lemma' => 'ἐν',
+  'translit' => 'en',
+  'strong' => 'G1722',
+  'morph' => 'P',
+);
+$index['ro'][11][5][4] = array (
+  'spa' => 'el',
+  'greek' => 'τῷ',
+  'lemma' => 'ὁ',
+  'translit' => 'tōi',
+  'strong' => 'G3588',
+  'morph' => 'DDSM',
+);
+$index['ro'][11][5][5] = array (
+  'spa' => 'ahora',
+  'greek' => 'νῦν',
+  'lemma' => 'νῦν',
+  'translit' => 'nun',
+  'strong' => 'G3568',
+  'morph' => 'B',
+);
+$index['ro'][11][5][6] = array (
+  'spa' => 'tiempo',
+  'greek' => 'καιρῷ',
+  'lemma' => 'καιρός',
+  'translit' => 'kairōi',
+  'strong' => 'G2540',
+  'morph' => 'NDSM',
+);
+$index['ro'][11][5][7] = array (
+  'spa' => 'remanente',
+  'greek' => 'λεῖμμα',
+  'lemma' => 'λεῖμμα',
+  'translit' => 'leimma',
+  'strong' => 'G3005',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][5][8] = array (
+  'spa' => 'según',
+  'greek' => 'κατ’',
+  'lemma' => 'κατά',
+  'translit' => 'kat',
+  'strong' => 'G2596',
+  'morph' => 'P',
+);
+$index['ro'][11][5][9] = array (
+  'spa' => 'elección',
+  'greek' => 'ἐκλογὴν',
+  'lemma' => 'ἐκλογή',
+  'translit' => 'eklogēn',
+  'strong' => 'G1589',
+  'morph' => 'NASF',
+);
+$index['ro'][11][5][10] = array (
+  'spa' => 'de gracia',
+  'greek' => 'χάριτος',
+  'lemma' => 'χάρις',
+  'translit' => 'charitos',
+  'strong' => 'G5485',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][5][11] = array (
+  'spa' => 'ha sucedido:',
+  'greek' => 'γέγονεν·',
+  'lemma' => 'γίνομαι',
+  'translit' => 'gegonen',
+  'strong' => 'G1096',
+  'morph' => 'VRAI3S',
+);
+$index['ro'][11][6][0] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][6][1] = array (
+  'spa' => '← y',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLN',
+);
+$index['ro'][11][6][2] = array (
+  'spa' => 'gracia,',
+  'greek' => 'χάριτι,',
+  'lemma' => 'χάρις',
+  'translit' => 'chariti',
+  'strong' => 'G5485',
+  'morph' => 'NDSF',
+);
+$index['ro'][11][6][3] = array (
+  'spa' => 'ya no',
+  'greek' => 'οὐκέτι',
+  'lemma' => 'οὐκέτι',
+  'translit' => 'ouketi',
+  'strong' => 'G3765',
+  'morph' => 'BN',
+);
+$index['ro'][11][6][4] = array (
+  'spa' => 'de',
+  'greek' => 'ἐξ',
+  'lemma' => 'ἐκ',
+  'translit' => 'ex',
+  'strong' => 'G1537',
+  'morph' => 'P',
+);
+$index['ro'][11][6][5] = array (
+  'spa' => 'obras,',
+  'greek' => 'ἔργων,',
+  'lemma' => 'ἔργον',
+  'translit' => 'ergōn',
+  'strong' => 'G2041',
+  'morph' => 'NGPN',
+);
+$index['ro'][11][6][6] = array (
+  'spa' => 'porque',
+  'greek' => 'ἐπεὶ',
+  'lemma' => 'ἐπεί',
+  'translit' => 'epei',
+  'strong' => 'G1893',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][6][7] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][6][8] = array (
+  'spa' => 'gracia',
+  'greek' => 'χάρις',
+  'lemma' => 'χάρις',
+  'translit' => 'charis',
+  'strong' => 'G5485',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][6][9] = array (
+  'spa' => 'ya no',
+  'greek' => 'οὐκέτι',
+  'lemma' => 'οὐκέτι',
+  'translit' => 'ouketi',
+  'strong' => 'G3765',
+  'morph' => 'BN',
+);
+$index['ro'][11][6][10] = array (
+  'spa' => 'se hace',
+  'greek' => 'γίνεται',
+  'lemma' => 'γίνομαι',
+  'translit' => 'ginetai',
+  'strong' => 'G1096',
+  'morph' => 'VPUI3S',
+);
+$index['ro'][11][6][11] = array (
+  'spa' => '⸀gracia.',
+  'greek' => '⸀χάρις.',
+  'lemma' => 'χάρις',
+  'translit' => 'charis',
+  'strong' => 'G5485',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][7][0] = array (
+  'spa' => '¿Qué',
+  'greek' => 'τί',
+  'lemma' => 'τίς',
+  'translit' => 'ti',
+  'strong' => 'G5101',
+  'morph' => 'RI-NSN',
+);
+$index['ro'][11][7][1] = array (
+  'spa' => 'pues?',
+  'greek' => 'οὖν;',
+  'lemma' => 'οὖν',
+  'translit' => 'oun',
+  'strong' => 'G3767',
+  'morph' => 'CLI',
+);
+$index['ro'][11][7][2] = array (
+  'spa' => 'lo que',
+  'greek' => 'ὃ',
+  'lemma' => 'ὅ',
+  'translit' => 'ho',
+  'strong' => 'G3739',
+  'morph' => 'RR-ASN',
+);
+$index['ro'][11][7][3] = array (
+  'spa' => 'busca',
+  'greek' => 'ἐπιζητεῖ',
+  'lemma' => 'ἐπιζητέω',
+  'translit' => 'epizētei',
+  'strong' => 'G1934',
+  'morph' => 'VPAI3S',
+);
+$index['ro'][11][7][4] = array (
+  'spa' => 'Israél,',
+  'greek' => 'Ἰσραήλ,',
+  'lemma' => 'Ἰσραήλ',
+  'translit' => 'israēl',
+  'strong' => 'G2474',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][7][5] = array (
+  'spa' => 'esto',
+  'greek' => 'τοῦτο',
+  'lemma' => 'τοῦτο',
+  'translit' => 'touto',
+  'strong' => 'G5124',
+  'morph' => 'RD-ASN',
+);
+$index['ro'][11][7][6] = array (
+  'spa' => 'no',
+  'greek' => 'οὐκ',
+  'lemma' => 'οὐ',
+  'translit' => 'ouk',
+  'strong' => 'G3756',
+  'morph' => 'BN',
+);
+$index['ro'][11][7][7] = array (
+  'spa' => 'obtuvo,',
+  'greek' => 'ἐπέτυχεν,',
+  'lemma' => 'ἐπιτυγχάνω',
+  'translit' => 'epetuchen',
+  'strong' => 'G2013',
+  'morph' => 'VAAI3S',
+);
+$index['ro'][11][7][8] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][7][9] = array (
+  'spa' => '← pero',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLC',
+);
+$index['ro'][11][7][10] = array (
+  'spa' => 'elección',
+  'greek' => 'ἐκλογὴ',
+  'lemma' => 'ἐκλογή',
+  'translit' => 'eklogē',
+  'strong' => 'G1589',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][7][11] = array (
+  'spa' => 'obtuvo:',
+  'greek' => 'ἐπέτυχεν·',
+  'lemma' => 'ἐπιτυγχάνω',
+  'translit' => 'epetuchen',
+  'strong' => 'G2013',
+  'morph' => 'VAAI3S',
+);
+$index['ro'][11][7][12] = array (
+  'spa' => 'los',
+  'greek' => 'οἱ',
+  'lemma' => 'ὁ',
+  'translit' => 'hoi',
+  'strong' => 'G3588',
+  'morph' => 'DNPM',
+);
+$index['ro'][11][7][13] = array (
+  'spa' => '← pero',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLC',
+);
+$index['ro'][11][7][14] = array (
+  'spa' => 'restantes',
+  'greek' => 'λοιποὶ',
+  'lemma' => 'λοιπός',
+  'translit' => 'loipoi',
+  'strong' => 'G3062',
+  'morph' => 'JNPM',
+);
+$index['ro'][11][7][15] = array (
+  'spa' => 'fueron endurecidos,',
+  'greek' => 'ἐπωρώθησαν,',
+  'lemma' => 'πωρόω',
+  'translit' => 'epōrōthēsan',
+  'strong' => 'G4456',
+  'morph' => 'VAPI3P',
+);
+$index['ro'][11][8][0] = array (
+  'spa' => '⸀como',
+  'greek' => '⸀καθὼς',
+  'lemma' => 'καθώς',
+  'translit' => 'kathōs',
+  'strong' => 'G2531',
+  'morph' => 'CAM',
+);
+$index['ro'][11][8][1] = array (
+  'spa' => 'está escrito:',
+  'greek' => 'γέγραπται·',
+  'lemma' => 'γράφω',
+  'translit' => 'gegraptai',
+  'strong' => 'G1125',
+  'morph' => 'VRPI3S',
+);
+$index['ro'][11][8][2] = array (
+  'spa' => 'Dio',
+  'greek' => 'Ἔδωκεν',
+  'lemma' => 'δίδωμι',
+  'translit' => 'edōken',
+  'strong' => 'G1325',
+  'morph' => 'VAAI3S',
+);
+$index['ro'][11][8][3] = array (
+  'spa' => 'a ellos',
+  'greek' => 'αὐτοῖς',
+  'lemma' => 'αὐτός',
+  'translit' => 'autois',
+  'strong' => 'G846',
+  'morph' => 'RP3DPM',
+);
+$index['ro'][11][8][4] = array (
+  'spa' => 'el',
+  'greek' => 'ὁ',
+  'lemma' => 'ὁ',
+  'translit' => 'ho',
+  'strong' => 'G3588',
+  'morph' => 'DNSM',
+);
+$index['ro'][11][8][5] = array (
+  'spa' => 'Dios',
+  'greek' => 'θεὸς',
+  'lemma' => 'θεός',
+  'translit' => 'theos',
+  'strong' => 'G2316',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][8][6] = array (
+  'spa' => 'espíritu',
+  'greek' => 'πνεῦμα',
+  'lemma' => 'πνεῦμα',
+  'translit' => 'pneuma',
+  'strong' => 'G4151',
+  'morph' => 'NASN',
+);
+$index['ro'][11][8][7] = array (
+  'spa' => 'de estupor,',
+  'greek' => 'κατανύξεως,',
+  'lemma' => 'κατάνυξις',
+  'translit' => 'katanuxeōs',
+  'strong' => 'G2659',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][8][8] = array (
+  'spa' => 'ojos',
+  'greek' => 'ὀφθαλμοὺς',
+  'lemma' => 'ὀφθαλμός',
+  'translit' => 'ophthalmous',
+  'strong' => 'G3788',
+  'morph' => 'NAPM',
+);
+$index['ro'][11][8][9] = array (
+  'spa' => 'para',
+  'greek' => 'τοῦ',
+  'lemma' => 'ὁ',
+  'translit' => 'tou',
+  'strong' => 'G3588',
+  'morph' => 'DGSN',
+);
+$index['ro'][11][8][10] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][8][11] = array (
+  'spa' => 'ver',
+  'greek' => 'βλέπειν',
+  'lemma' => 'βλέπω',
+  'translit' => 'blepein',
+  'strong' => 'G991',
+  'morph' => 'VPAN',
+);
+$index['ro'][11][8][12] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][8][13] = array (
+  'spa' => 'oídos',
+  'greek' => 'ὦτα',
+  'lemma' => 'οὖς',
+  'translit' => 'ōta',
+  'strong' => 'G3775',
+  'morph' => 'NAPN',
+);
+$index['ro'][11][8][14] = array (
+  'spa' => 'para',
+  'greek' => 'τοῦ',
+  'lemma' => 'ὁ',
+  'translit' => 'tou',
+  'strong' => 'G3588',
+  'morph' => 'DGSN',
+);
+$index['ro'][11][8][15] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][8][16] = array (
+  'spa' => 'escuchar,',
+  'greek' => 'ἀκούειν,',
+  'lemma' => 'ἀκούω',
+  'translit' => 'akouein',
+  'strong' => 'G191',
+  'morph' => 'VPAN',
+);
+$index['ro'][11][8][17] = array (
+  'spa' => 'hasta',
+  'greek' => 'ἕως',
+  'lemma' => 'ἕως',
+  'translit' => 'heōs',
+  'strong' => 'G2193',
+  'morph' => 'P',
+);
+$index['ro'][11][8][18] = array (
+  'spa' => 'el',
+  'greek' => 'τῆς',
+  'lemma' => 'ὁ',
+  'translit' => 'tēs',
+  'strong' => 'G3588',
+  'morph' => 'DGSF',
+);
+$index['ro'][11][8][19] = array (
+  'spa' => 'hoy',
+  'greek' => 'σήμερον',
+  'lemma' => 'σήμερον',
+  'translit' => 'sēmeron',
+  'strong' => 'G4594',
+  'morph' => 'B',
+);
+$index['ro'][11][8][20] = array (
+  'spa' => 'día.',
+  'greek' => 'ἡμέρας.',
+  'lemma' => 'ἡμέρα',
+  'translit' => 'hēmeras',
+  'strong' => 'G2250',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][9][0] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][9][1] = array (
+  'spa' => 'David',
+  'greek' => 'Δαυὶδ',
+  'lemma' => 'Δαβίδ',
+  'translit' => 'dauid',
+  'strong' => 'G1138',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][9][2] = array (
+  'spa' => 'dice:',
+  'greek' => 'λέγει·',
+  'lemma' => 'λέγω',
+  'translit' => 'legei',
+  'strong' => 'G3004',
+  'morph' => 'VPAI3S',
+);
+$index['ro'][11][9][3] = array (
+  'spa' => 'Sea',
+  'greek' => 'Γενηθήτω',
+  'lemma' => 'γίνομαι',
+  'translit' => 'genēthētō',
+  'strong' => 'G1096',
+  'morph' => 'VAPM3S',
+);
+$index['ro'][11][9][4] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][9][5] = array (
+  'spa' => 'mesa',
+  'greek' => 'τράπεζα',
+  'lemma' => 'τράπεζα',
+  'translit' => 'trapeza',
+  'strong' => 'G5132',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][9][6] = array (
+  'spa' => 'de ellos',
+  'greek' => 'αὐτῶν',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][9][7] = array (
+  'spa' => 'por',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][9][8] = array (
+  'spa' => 'trampa',
+  'greek' => 'παγίδα',
+  'lemma' => 'παγίς',
+  'translit' => 'pagida',
+  'strong' => 'G3803',
+  'morph' => 'NASF',
+);
+$index['ro'][11][9][9] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][9][10] = array (
+  'spa' => 'por',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][9][11] = array (
+  'spa' => 'red',
+  'greek' => 'θήραν',
+  'lemma' => 'θήρα',
+  'translit' => 'thēran',
+  'strong' => 'G2339',
+  'morph' => 'NASF',
+);
+$index['ro'][11][9][12] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][9][13] = array (
+  'spa' => 'para',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][9][14] = array (
+  'spa' => 'causa de tropiezo',
+  'greek' => 'σκάνδαλον',
+  'lemma' => 'σκάνδαλον',
+  'translit' => 'skandalon',
+  'strong' => 'G4625',
+  'morph' => 'NASN',
+);
+$index['ro'][11][9][15] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][9][16] = array (
+  'spa' => 'para',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][9][17] = array (
+  'spa' => 'retribución',
+  'greek' => 'ἀνταπόδομα',
+  'lemma' => 'ἀνταπόδομα',
+  'translit' => 'antapodoma',
+  'strong' => 'G468',
+  'morph' => 'NASN',
+);
+$index['ro'][11][9][18] = array (
+  'spa' => 'a ellos,',
+  'greek' => 'αὐτοῖς,',
+  'lemma' => 'αὐτός',
+  'translit' => 'autois',
+  'strong' => 'G846',
+  'morph' => 'RP3DPM',
+);
+$index['ro'][11][10][0] = array (
+  'spa' => 'sean oscurecidos',
+  'greek' => 'σκοτισθήτωσαν',
+  'lemma' => 'σκοτίζω',
+  'translit' => 'skotisthētōsan',
+  'strong' => 'G4654',
+  'morph' => 'VAPM3P',
+);
+$index['ro'][11][10][1] = array (
+  'spa' => 'los',
+  'greek' => 'οἱ',
+  'lemma' => 'ὁ',
+  'translit' => 'hoi',
+  'strong' => 'G3588',
+  'morph' => 'DNPM',
+);
+$index['ro'][11][10][2] = array (
+  'spa' => 'ojos',
+  'greek' => 'ὀφθαλμοὶ',
+  'lemma' => 'ὀφθαλμός',
+  'translit' => 'ophthalmoi',
+  'strong' => 'G3788',
+  'morph' => 'NNPM',
+);
+$index['ro'][11][10][3] = array (
+  'spa' => 'de ellos',
+  'greek' => 'αὐτῶν',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][10][4] = array (
+  'spa' => 'para',
+  'greek' => 'τοῦ',
+  'lemma' => 'ὁ',
+  'translit' => 'tou',
+  'strong' => 'G3588',
+  'morph' => 'DGSN',
+);
+$index['ro'][11][10][5] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][10][6] = array (
+  'spa' => 'ver,',
+  'greek' => 'βλέπειν,',
+  'lemma' => 'βλέπω',
+  'translit' => 'blepein',
+  'strong' => 'G991',
+  'morph' => 'VPAN',
+);
+$index['ro'][11][10][7] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][10][8] = array (
+  'spa' => 'la',
+  'greek' => 'τὸν',
+  'lemma' => 'ὁ',
+  'translit' => 'ton',
+  'strong' => 'G3588',
+  'morph' => 'DASM',
+);
+$index['ro'][11][10][9] = array (
+  'spa' => 'espalda',
+  'greek' => 'νῶτον',
+  'lemma' => 'νῶτος',
+  'translit' => 'nōton',
+  'strong' => 'G3577',
+  'morph' => 'NASM',
+);
+$index['ro'][11][10][10] = array (
+  'spa' => 'de ellos',
+  'greek' => 'αὐτῶν',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][10][11] = array (
+  'spa' => 'por',
+  'greek' => 'διὰ',
+  'lemma' => 'διά',
+  'translit' => 'dia',
+  'strong' => 'G1223',
+  'morph' => 'P',
+);
+$index['ro'][11][10][12] = array (
+  'spa' => 'todo',
+  'greek' => 'παντὸς',
+  'lemma' => 'πᾶς',
+  'translit' => 'pantos',
+  'strong' => 'G3956',
+  'morph' => 'JGSM',
+);
+$index['ro'][11][10][13] = array (
+  'spa' => 'dobla.',
+  'greek' => 'σύγκαμψον.',
+  'lemma' => 'συγκάμπτω',
+  'translit' => 'sugkampson',
+  'strong' => 'G4781',
+  'morph' => 'VAAM2S',
+);
+$index['ro'][11][11][0] = array (
+  'spa' => 'Digo',
+  'greek' => 'Λέγω',
+  'lemma' => 'λέγω',
+  'translit' => 'legō',
+  'strong' => 'G3004',
+  'morph' => 'VPAI1S',
+);
+$index['ro'][11][11][1] = array (
+  'spa' => 'pues,',
+  'greek' => 'οὖν,',
+  'lemma' => 'οὖν',
+  'translit' => 'oun',
+  'strong' => 'G3767',
+  'morph' => 'CLI',
+);
+$index['ro'][11][11][2] = array (
+  'spa' => 'acaso',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'TN',
+);
+$index['ro'][11][11][3] = array (
+  'spa' => 'tropezaron',
+  'greek' => 'ἔπταισαν',
+  'lemma' => 'πταίω',
+  'translit' => 'eptaisan',
+  'strong' => 'G4417',
+  'morph' => 'VAAI3P',
+);
+$index['ro'][11][11][4] = array (
+  'spa' => 'para',
+  'greek' => 'ἵνα',
+  'lemma' => 'ἵνα',
+  'translit' => 'hina',
+  'strong' => 'G2443',
+  'morph' => 'CAP',
+);
+$index['ro'][11][11][5] = array (
+  'spa' => 'cayeren?',
+  'greek' => 'πέσωσιν;',
+  'lemma' => 'πίπτω',
+  'translit' => 'pesōsin',
+  'strong' => 'G4098',
+  'morph' => 'VAAS3P',
+);
+$index['ro'][11][11][6] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][11][7] = array (
+  'spa' => 'suceda:',
+  'greek' => 'γένοιτο·',
+  'lemma' => 'γίνομαι',
+  'translit' => 'genoito',
+  'strong' => 'G1096',
+  'morph' => 'VAMO3S',
+);
+$index['ro'][11][11][8] = array (
+  'spa' => 'pero',
+  'greek' => 'ἀλλὰ',
+  'lemma' => 'ἀλλά',
+  'translit' => 'alla',
+  'strong' => 'G235',
+  'morph' => 'CLC',
+);
+$index['ro'][11][11][9] = array (
+  'spa' => 'por la',
+  'greek' => 'τῷ',
+  'lemma' => 'ὁ',
+  'translit' => 'tōi',
+  'strong' => 'G3588',
+  'morph' => 'DDSN',
+);
+$index['ro'][11][11][10] = array (
+  'spa' => 'de ellos',
+  'greek' => 'αὐτῶν',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][11][11] = array (
+  'spa' => 'trasgresión',
+  'greek' => 'παραπτώματι',
+  'lemma' => 'παράπτωμα',
+  'translit' => 'paraptōmati',
+  'strong' => 'G3900',
+  'morph' => 'NDSN',
+);
+$index['ro'][11][11][12] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][11][13] = array (
+  'spa' => 'salvación',
+  'greek' => 'σωτηρία',
+  'lemma' => 'σωτηρία',
+  'translit' => 'sōtēria',
+  'strong' => 'G4991',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][11][14] = array (
+  'spa' => 'para las',
+  'greek' => 'τοῖς',
+  'lemma' => 'ὁ',
+  'translit' => 'tois',
+  'strong' => 'G3588',
+  'morph' => 'DDPN',
+);
+$index['ro'][11][11][15] = array (
+  'spa' => 'naciones,',
+  'greek' => 'ἔθνεσιν,',
+  'lemma' => 'ἔθνος',
+  'translit' => 'ethnesin',
+  'strong' => 'G1484',
+  'morph' => 'NDPN',
+);
+$index['ro'][11][11][16] = array (
+  'spa' => 'para',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][11][17] = array (
+  'spa' => 'el',
+  'greek' => 'τὸ',
+  'lemma' => 'ὁ',
+  'translit' => 'to',
+  'strong' => 'G3588',
+  'morph' => 'DASN',
+);
+$index['ro'][11][11][18] = array (
+  'spa' => 'provocar celos',
+  'greek' => 'παραζηλῶσαι',
+  'lemma' => 'παραζηλόω',
+  'translit' => 'parazēlōsai',
+  'strong' => 'G3863',
+  'morph' => 'VAAN',
+);
+$index['ro'][11][11][19] = array (
+  'spa' => 'a ellos.',
+  'greek' => 'αὐτούς.',
+  'lemma' => 'αὐτός',
+  'translit' => 'autous',
+  'strong' => 'G846',
+  'morph' => 'RP3APM',
+);
+$index['ro'][11][12][0] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][12][1] = array (
+  'spa' => '← pero',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLN',
+);
+$index['ro'][11][12][2] = array (
+  'spa' => 'la',
+  'greek' => 'τὸ',
+  'lemma' => 'ὁ',
+  'translit' => 'to',
+  'strong' => 'G3588',
+  'morph' => 'DNSN',
+);
+$index['ro'][11][12][3] = array (
+  'spa' => 'transgresión',
+  'greek' => 'παράπτωμα',
+  'lemma' => 'παράπτωμα',
+  'translit' => 'paraptōma',
+  'strong' => 'G3900',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][12][4] = array (
+  'spa' => 'de ellos',
+  'greek' => 'αὐτῶν',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][12][5] = array (
+  'spa' => 'riqueza',
+  'greek' => 'πλοῦτος',
+  'lemma' => 'πλοῦτος',
+  'translit' => 'ploutos',
+  'strong' => 'G4149',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][12][6] = array (
+  'spa' => 'del mundo',
+  'greek' => 'κόσμου',
+  'lemma' => 'κόσμος',
+  'translit' => 'kosmou',
+  'strong' => 'G2889',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][12][7] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][12][8] = array (
+  'spa' => 'la',
+  'greek' => 'τὸ',
+  'lemma' => 'ὁ',
+  'translit' => 'to',
+  'strong' => 'G3588',
+  'morph' => 'DNSN',
+);
+$index['ro'][11][12][9] = array (
+  'spa' => 'pérdida',
+  'greek' => 'ἥττημα',
+  'lemma' => 'ἥττημα',
+  'translit' => 'hēttēma',
+  'strong' => 'G2275',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][12][10] = array (
+  'spa' => 'de ellos',
+  'greek' => 'αὐτῶν',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][12][11] = array (
+  'spa' => 'riqueza',
+  'greek' => 'πλοῦτος',
+  'lemma' => 'πλοῦτος',
+  'translit' => 'ploutos',
+  'strong' => 'G4149',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][12][12] = array (
+  'spa' => 'de naciones,',
+  'greek' => 'ἐθνῶν,',
+  'lemma' => 'ἔθνος',
+  'translit' => 'ethnōn',
+  'strong' => 'G1484',
+  'morph' => 'NGPN',
+);
+$index['ro'][11][12][13] = array (
+  'spa' => 'cuánto',
+  'greek' => 'πόσῳ',
+  'lemma' => 'πόσος',
+  'translit' => 'posōi',
+  'strong' => 'G4214',
+  'morph' => 'RI-DSN',
+);
+$index['ro'][11][12][14] = array (
+  'spa' => 'más',
+  'greek' => 'μᾶλλον',
+  'lemma' => 'μᾶλλον',
+  'translit' => 'mallon',
+  'strong' => 'G3123',
+  'morph' => 'B',
+);
+$index['ro'][11][12][15] = array (
+  'spa' => 'la',
+  'greek' => 'τὸ',
+  'lemma' => 'ὁ',
+  'translit' => 'to',
+  'strong' => 'G3588',
+  'morph' => 'DNSN',
+);
+$index['ro'][11][12][16] = array (
+  'spa' => 'llenura',
+  'greek' => 'πλήρωμα',
+  'lemma' => 'πλήρωμα',
+  'translit' => 'plērōma',
+  'strong' => 'G4138',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][12][17] = array (
+  'spa' => 'de ellos.',
+  'greek' => 'αὐτῶν.',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][13][0] = array (
+  'spa' => 'A ustedes',
+  'greek' => 'Ὑμῖν',
+  'lemma' => 'ὑμῖν',
+  'translit' => 'humin',
+  'strong' => 'G5213',
+  'morph' => 'RP2DP',
+);
+$index['ro'][11][13][1] = array (
+  'spa' => '⸀← pero',
+  'greek' => '⸀δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLC',
+);
+$index['ro'][11][13][2] = array (
+  'spa' => 'digo',
+  'greek' => 'λέγω',
+  'lemma' => 'λέγω',
+  'translit' => 'legō',
+  'strong' => 'G3004',
+  'morph' => 'VPAI1S',
+);
+$index['ro'][11][13][3] = array (
+  'spa' => 'a las',
+  'greek' => 'τοῖς',
+  'lemma' => 'ὁ',
+  'translit' => 'tois',
+  'strong' => 'G3588',
+  'morph' => 'DDPN',
+);
+$index['ro'][11][13][4] = array (
+  'spa' => 'naciones.',
+  'greek' => 'ἔθνεσιν.',
+  'lemma' => 'ἔθνος',
+  'translit' => 'ethnesin',
+  'strong' => 'G1484',
+  'morph' => 'NDPN',
+);
+$index['ro'][11][13][5] = array (
+  'spa' => 'por',
+  'greek' => 'ἐφ’',
+  'lemma' => 'ἐπί',
+  'translit' => 'eph',
+  'strong' => 'G1909',
+  'morph' => 'P',
+);
+$index['ro'][11][13][6] = array (
+  'spa' => 'cuanto',
+  'greek' => 'ὅσον',
+  'lemma' => 'ὅσος',
+  'translit' => 'hoson',
+  'strong' => 'G3745',
+  'morph' => 'RK-ASN',
+);
+$index['ro'][11][13][7] = array (
+  'spa' => 'ciertamente',
+  'greek' => 'μὲν',
+  'lemma' => 'μέν',
+  'translit' => 'men',
+  'strong' => 'G3303',
+  'morph' => 'TE',
+);
+$index['ro'][11][13][8] = array (
+  'spa' => '⸀pues',
+  'greek' => '⸀οὖν',
+  'lemma' => 'οὖν',
+  'translit' => 'oun',
+  'strong' => 'G3767',
+  'morph' => 'CLI',
+);
+$index['ro'][11][13][9] = array (
+  'spa' => 'soy',
+  'greek' => 'εἰμι',
+  'lemma' => 'εἰμί',
+  'translit' => 'eimi',
+  'strong' => 'G1510',
+  'morph' => 'VPAI1S',
+);
+$index['ro'][11][13][10] = array (
+  'spa' => 'yo',
+  'greek' => 'ἐγὼ',
+  'lemma' => 'ἐγώ',
+  'translit' => 'egō',
+  'strong' => 'G1473',
+  'morph' => 'RP1NS',
+);
+$index['ro'][11][13][11] = array (
+  'spa' => 'de naciones',
+  'greek' => 'ἐθνῶν',
+  'lemma' => 'ἔθνος',
+  'translit' => 'ethnōn',
+  'strong' => 'G1484',
+  'morph' => 'NGPN',
+);
+$index['ro'][11][13][12] = array (
+  'spa' => 'enviado,',
+  'greek' => 'ἀπόστολος,',
+  'lemma' => 'ἀπόστολος',
+  'translit' => 'apostolos',
+  'strong' => 'G652',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][13][13] = array (
+  'spa' => 'el',
+  'greek' => 'τὴν',
+  'lemma' => 'ὁ',
+  'translit' => 'tēn',
+  'strong' => 'G3588',
+  'morph' => 'DASF',
+);
+$index['ro'][11][13][14] = array (
+  'spa' => 'servicio',
+  'greek' => 'διακονίαν',
+  'lemma' => 'διακονία',
+  'translit' => 'diakonian',
+  'strong' => 'G1248',
+  'morph' => 'NASF',
+);
+$index['ro'][11][13][15] = array (
+  'spa' => 'mío',
+  'greek' => 'μου',
+  'lemma' => 'μοῦ',
+  'translit' => 'mou',
+  'strong' => 'G3450',
+  'morph' => 'RP1GS',
+);
+$index['ro'][11][13][16] = array (
+  'spa' => 'glorifico,',
+  'greek' => 'δοξάζω,',
+  'lemma' => 'δοξάζω',
+  'translit' => 'doxazō',
+  'strong' => 'G1392',
+  'morph' => 'VPAI1S',
+);
+$index['ro'][11][14][0] = array (
+  'spa' => 'si',
+  'greek' => 'εἴ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][14][1] = array (
+  'spa' => 'quizas',
+  'greek' => 'πως',
+  'lemma' => 'πῶς',
+  'translit' => 'pōs',
+  'strong' => 'G4459',
+  'morph' => 'TX',
+);
+$index['ro'][11][14][2] = array (
+  'spa' => 'provocare celos',
+  'greek' => 'παραζηλώσω',
+  'lemma' => 'παραζηλόω',
+  'translit' => 'parazēlōsō',
+  'strong' => 'G3863',
+  'morph' => 'VAAS1S',
+);
+$index['ro'][11][14][3] = array (
+  'spa' => 'de mí',
+  'greek' => 'μου',
+  'lemma' => 'μοῦ',
+  'translit' => 'mou',
+  'strong' => 'G3450',
+  'morph' => 'RP1GS',
+);
+$index['ro'][11][14][4] = array (
+  'spa' => 'a la',
+  'greek' => 'τὴν',
+  'lemma' => 'ὁ',
+  'translit' => 'tēn',
+  'strong' => 'G3588',
+  'morph' => 'DASF',
+);
+$index['ro'][11][14][5] = array (
+  'spa' => 'carne',
+  'greek' => 'σάρκα',
+  'lemma' => 'σάρξ',
+  'translit' => 'sarka',
+  'strong' => 'G4561',
+  'morph' => 'NASF',
+);
+$index['ro'][11][14][6] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][14][7] = array (
+  'spa' => 'salvare',
+  'greek' => 'σώσω',
+  'lemma' => 'σῴζω',
+  'translit' => 'sōsō',
+  'strong' => 'G4982',
+  'morph' => 'VAAS1S',
+);
+$index['ro'][11][14][8] = array (
+  'spa' => 'a algunos',
+  'greek' => 'τινὰς',
+  'lemma' => 'τὶς',
+  'translit' => 'tinas',
+  'strong' => 'G5100',
+  'morph' => 'RX-APM',
+);
+$index['ro'][11][14][9] = array (
+  'spa' => 'de',
+  'greek' => 'ἐξ',
+  'lemma' => 'ἐκ',
+  'translit' => 'ex',
+  'strong' => 'G1537',
+  'morph' => 'P',
+);
+$index['ro'][11][14][10] = array (
+  'spa' => 'ellos.',
+  'greek' => 'αὐτῶν.',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][15][0] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][15][1] = array (
+  'spa' => '← porque',
+  'greek' => 'γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][15][2] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][15][3] = array (
+  'spa' => 'expulsión',
+  'greek' => 'ἀποβολὴ',
+  'lemma' => 'ἀποβολή',
+  'translit' => 'apobolē',
+  'strong' => 'G580',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][15][4] = array (
+  'spa' => 'de ellos',
+  'greek' => 'αὐτῶν',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][15][5] = array (
+  'spa' => 'reconciliación',
+  'greek' => 'καταλλαγὴ',
+  'lemma' => 'καταλλαγή',
+  'translit' => 'katallagē',
+  'strong' => 'G2643',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][15][6] = array (
+  'spa' => 'del mundo,',
+  'greek' => 'κόσμου,',
+  'lemma' => 'κόσμος',
+  'translit' => 'kosmou',
+  'strong' => 'G2889',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][15][7] = array (
+  'spa' => '¿Qué',
+  'greek' => 'τίς',
+  'lemma' => 'τίς',
+  'translit' => 'tis',
+  'strong' => 'G5101',
+  'morph' => 'RI-NSF',
+);
+$index['ro'][11][15][8] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][15][9] = array (
+  'spa' => 'admisión',
+  'greek' => 'πρόσλημψις',
+  'lemma' => 'πρόσληψις',
+  'translit' => 'proslēmpsis',
+  'strong' => 'G4356',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][15][10] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][15][11] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][15][12] = array (
+  'spa' => 'vida',
+  'greek' => 'ζωὴ',
+  'lemma' => 'ζωή',
+  'translit' => 'zōē',
+  'strong' => 'G2222',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][15][13] = array (
+  'spa' => 'de',
+  'greek' => 'ἐκ',
+  'lemma' => 'ἐκ',
+  'translit' => 'ek',
+  'strong' => 'G1537',
+  'morph' => 'P',
+);
+$index['ro'][11][15][14] = array (
+  'spa' => 'muertos?',
+  'greek' => 'νεκρῶν;',
+  'lemma' => 'νεκρός',
+  'translit' => 'nekrōn',
+  'strong' => 'G3498',
+  'morph' => 'JGPM',
+);
+$index['ro'][11][16][0] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][16][1] = array (
+  'spa' => '← y',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLN',
+);
+$index['ro'][11][16][2] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][16][3] = array (
+  'spa' => 'primicia',
+  'greek' => 'ἀπαρχὴ',
+  'lemma' => 'ἀπαρχή',
+  'translit' => 'aparchē',
+  'strong' => 'G536',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][16][4] = array (
+  'spa' => 'santa,',
+  'greek' => 'ἁγία,',
+  'lemma' => 'ἅγιος',
+  'translit' => 'hagia',
+  'strong' => 'G40',
+  'morph' => 'JNSF',
+);
+$index['ro'][11][16][5] = array (
+  'spa' => 'también',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'BE',
+);
+$index['ro'][11][16][6] = array (
+  'spa' => 'la',
+  'greek' => 'τὸ',
+  'lemma' => 'ὁ',
+  'translit' => 'to',
+  'strong' => 'G3588',
+  'morph' => 'DNSN',
+);
+$index['ro'][11][16][7] = array (
+  'spa' => 'masa:',
+  'greek' => 'φύραμα·',
+  'lemma' => 'φύραμα',
+  'translit' => 'phurama',
+  'strong' => 'G5445',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][16][8] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][16][9] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][16][10] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][16][11] = array (
+  'spa' => 'raíz',
+  'greek' => 'ῥίζα',
+  'lemma' => 'ῥίζα',
+  'translit' => 'rhiza',
+  'strong' => 'G4491',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][16][12] = array (
+  'spa' => 'santa,',
+  'greek' => 'ἁγία,',
+  'lemma' => 'ἅγιος',
+  'translit' => 'hagia',
+  'strong' => 'G40',
+  'morph' => 'JNSF',
+);
+$index['ro'][11][16][13] = array (
+  'spa' => 'también',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'BE',
+);
+$index['ro'][11][16][14] = array (
+  'spa' => 'las',
+  'greek' => 'οἱ',
+  'lemma' => 'ὁ',
+  'translit' => 'hoi',
+  'strong' => 'G3588',
+  'morph' => 'DNPM',
+);
+$index['ro'][11][16][15] = array (
+  'spa' => 'ramas.',
+  'greek' => 'κλάδοι.',
+  'lemma' => 'κλάδος',
+  'translit' => 'kladoi',
+  'strong' => 'G2798',
+  'morph' => 'NNPM',
+);
+$index['ro'][11][17][0] = array (
+  'spa' => 'Si',
+  'greek' => 'Εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][17][1] = array (
+  'spa' => '← pero',
+  'greek' => 'δέ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLN',
+);
+$index['ro'][11][17][2] = array (
+  'spa' => 'algunas',
+  'greek' => 'τινες',
+  'lemma' => 'τὶς',
+  'translit' => 'tines',
+  'strong' => 'G5100',
+  'morph' => 'RX-NPM',
+);
+$index['ro'][11][17][3] = array (
+  'spa' => 'de las',
+  'greek' => 'τῶν',
+  'lemma' => 'ὁ',
+  'translit' => 'tōn',
+  'strong' => 'G3588',
+  'morph' => 'DGPM',
+);
+$index['ro'][11][17][4] = array (
+  'spa' => 'ramas',
+  'greek' => 'κλάδων',
+  'lemma' => 'κλάδος',
+  'translit' => 'kladōn',
+  'strong' => 'G2798',
+  'morph' => 'NGPM',
+);
+$index['ro'][11][17][5] = array (
+  'spa' => 'fueron quebradas,',
+  'greek' => 'ἐξεκλάσθησαν,',
+  'lemma' => 'ἐκκλάω',
+  'translit' => 'exeklasthēsan',
+  'strong' => 'G1575',
+  'morph' => 'VAPI3P',
+);
+$index['ro'][11][17][6] = array (
+  'spa' => 'tú',
+  'greek' => 'σὺ',
+  'lemma' => 'σύ',
+  'translit' => 'su',
+  'strong' => 'G4771',
+  'morph' => 'RP2NS',
+);
+$index['ro'][11][17][7] = array (
+  'spa' => '← y',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLN',
+);
+$index['ro'][11][17][8] = array (
+  'spa' => 'olivo silvestre',
+  'greek' => 'ἀγριέλαιος',
+  'lemma' => 'ἀγριέλαιος',
+  'translit' => 'agrielaios',
+  'strong' => 'G65',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][17][9] = array (
+  'spa' => 'siendo',
+  'greek' => 'ὢν',
+  'lemma' => 'ὄν',
+  'translit' => 'ōn',
+  'strong' => 'G5607',
+  'morph' => 'VPAP-SNM',
+);
+$index['ro'][11][17][10] = array (
+  'spa' => 'injertado',
+  'greek' => 'ἐνεκεντρίσθης',
+  'lemma' => 'ἐγκεντρίζω',
+  'translit' => 'enekentristhēs',
+  'strong' => 'G1461',
+  'morph' => 'VAPI2S',
+);
+$index['ro'][11][17][11] = array (
+  'spa' => 'entre',
+  'greek' => 'ἐν',
+  'lemma' => 'ἐν',
+  'translit' => 'en',
+  'strong' => 'G1722',
+  'morph' => 'P',
+);
+$index['ro'][11][17][12] = array (
+  'spa' => 'ellas',
+  'greek' => 'αὐτοῖς',
+  'lemma' => 'αὐτός',
+  'translit' => 'autois',
+  'strong' => 'G846',
+  'morph' => 'RP3DPM',
+);
+$index['ro'][11][17][13] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][17][14] = array (
+  'spa' => 'partícipe',
+  'greek' => 'συγκοινωνὸς',
+  'lemma' => 'συγκοινωνός',
+  'translit' => 'sugkoinōnos',
+  'strong' => 'G4791',
+  'morph' => 'JNSM',
+);
+$index['ro'][11][17][15] = array (
+  'spa' => 'de la',
+  'greek' => 'τῆς',
+  'lemma' => 'ὁ',
+  'translit' => 'tēs',
+  'strong' => 'G3588',
+  'morph' => 'DGSF',
+);
+$index['ro'][11][17][16] = array (
+  'spa' => '⸀raíz',
+  'greek' => '⸀ῥίζης',
+  'lemma' => 'ῥίζα',
+  'translit' => 'rhizēs',
+  'strong' => 'G4491',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][17][17] = array (
+  'spa' => 'de la',
+  'greek' => 'τῆς',
+  'lemma' => 'ὁ',
+  'translit' => 'tēs',
+  'strong' => 'G3588',
+  'morph' => 'DGSF',
+);
+$index['ro'][11][17][18] = array (
+  'spa' => 'riquza',
+  'greek' => 'πιότητος',
+  'lemma' => 'πιότης',
+  'translit' => 'piotētos',
+  'strong' => 'G4096',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][17][19] = array (
+  'spa' => 'del',
+  'greek' => 'τῆς',
+  'lemma' => 'ὁ',
+  'translit' => 'tēs',
+  'strong' => 'G3588',
+  'morph' => 'DGSF',
+);
+$index['ro'][11][17][20] = array (
+  'spa' => 'olivo',
+  'greek' => 'ἐλαίας',
+  'lemma' => 'ἐλαία',
+  'translit' => 'elaias',
+  'strong' => 'G1636',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][17][21] = array (
+  'spa' => 'fuiste,',
+  'greek' => 'ἐγένου,',
+  'lemma' => 'γίνομαι',
+  'translit' => 'egenou',
+  'strong' => 'G1096',
+  'morph' => 'VAMI2S',
+);
+$index['ro'][11][18][0] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][18][1] = array (
+  'spa' => 'te jactes contra',
+  'greek' => 'κατακαυχῶ',
+  'lemma' => 'κατακαυχάομαι',
+  'translit' => 'katakauchō',
+  'strong' => 'G2620',
+  'morph' => 'VPUM2S',
+);
+$index['ro'][11][18][2] = array (
+  'spa' => 'las',
+  'greek' => 'τῶν',
+  'lemma' => 'ὁ',
+  'translit' => 'tōn',
+  'strong' => 'G3588',
+  'morph' => 'DGPM',
+);
+$index['ro'][11][18][3] = array (
+  'spa' => 'ramas:',
+  'greek' => 'κλάδων·',
+  'lemma' => 'κλάδος',
+  'translit' => 'kladōn',
+  'strong' => 'G2798',
+  'morph' => 'NGPM',
+);
+$index['ro'][11][18][4] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][18][5] = array (
+  'spa' => '← pero',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLC',
+);
+$index['ro'][11][18][6] = array (
+  'spa' => 'te jactas conra,',
+  'greek' => 'κατακαυχᾶσαι,',
+  'lemma' => 'κατακαυχάομαι',
+  'translit' => 'katakauchasai',
+  'strong' => 'G2620',
+  'morph' => 'VPUI2S',
+);
+$index['ro'][11][18][7] = array (
+  'spa' => 'no',
+  'greek' => 'οὐ',
+  'lemma' => 'οὐ',
+  'translit' => 'ou',
+  'strong' => 'G3756',
+  'morph' => 'CLK',
+);
+$index['ro'][11][18][8] = array (
+  'spa' => 'tú',
+  'greek' => 'σὺ',
+  'lemma' => 'σύ',
+  'translit' => 'su',
+  'strong' => 'G4771',
+  'morph' => 'RP2NS',
+);
+$index['ro'][11][18][9] = array (
+  'spa' => 'a la',
+  'greek' => 'τὴν',
+  'lemma' => 'ὁ',
+  'translit' => 'tēn',
+  'strong' => 'G3588',
+  'morph' => 'DASF',
+);
+$index['ro'][11][18][10] = array (
+  'spa' => 'raíz',
+  'greek' => 'ῥίζαν',
+  'lemma' => 'ῥίζα',
+  'translit' => 'rhizan',
+  'strong' => 'G4491',
+  'morph' => 'NASF',
+);
+$index['ro'][11][18][11] = array (
+  'spa' => 'cargas',
+  'greek' => 'βαστάζεις',
+  'lemma' => 'βαστάζω',
+  'translit' => 'bastazeis',
+  'strong' => 'G941',
+  'morph' => 'VPAI2S',
+);
+$index['ro'][11][18][12] = array (
+  'spa' => 'sinó que',
+  'greek' => 'ἀλλὰ',
+  'lemma' => 'ἀλλά',
+  'translit' => 'alla',
+  'strong' => 'G235',
+  'morph' => 'CLK',
+);
+$index['ro'][11][18][13] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][18][14] = array (
+  'spa' => 'raíz',
+  'greek' => 'ῥίζα',
+  'lemma' => 'ῥίζα',
+  'translit' => 'rhiza',
+  'strong' => 'G4491',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][18][15] = array (
+  'spa' => 'a ti.',
+  'greek' => 'σέ.',
+  'lemma' => 'σέ',
+  'translit' => 'se',
+  'strong' => 'G4571',
+  'morph' => 'RP2AS',
+);
+$index['ro'][11][19][0] = array (
+  'spa' => 'dirás',
+  'greek' => 'ἐρεῖς',
+  'lemma' => 'ἐρέω',
+  'translit' => 'ereis',
+  'strong' => 'G2046',
+  'morph' => 'VFAI2S',
+);
+$index['ro'][11][19][1] = array (
+  'spa' => 'pues:',
+  'greek' => 'οὖν·',
+  'lemma' => 'οὖν',
+  'translit' => 'oun',
+  'strong' => 'G3767',
+  'morph' => 'CLI',
+);
+$index['ro'][11][19][2] = array (
+  'spa' => 'Fueron qubradas',
+  'greek' => 'Ἐξεκλάσθησαν',
+  'lemma' => 'ἐκκλάω',
+  'translit' => 'exeklasthēsan',
+  'strong' => 'G1575',
+  'morph' => 'VAPI3P',
+);
+$index['ro'][11][19][3] = array (
+  'spa' => 'ramas',
+  'greek' => 'κλάδοι',
+  'lemma' => 'κλάδος',
+  'translit' => 'kladoi',
+  'strong' => 'G2798',
+  'morph' => 'NNPM',
+);
+$index['ro'][11][19][4] = array (
+  'spa' => 'para que',
+  'greek' => 'ἵνα',
+  'lemma' => 'ἵνα',
+  'translit' => 'hina',
+  'strong' => 'G2443',
+  'morph' => 'CAP',
+);
+$index['ro'][11][19][5] = array (
+  'spa' => 'yo',
+  'greek' => 'ἐγὼ',
+  'lemma' => 'ἐγώ',
+  'translit' => 'egō',
+  'strong' => 'G1473',
+  'morph' => 'RP1NS',
+);
+$index['ro'][11][19][6] = array (
+  'spa' => 'fuere injertado.',
+  'greek' => 'ἐγκεντρισθῶ.',
+  'lemma' => 'ἐγκεντρίζω',
+  'translit' => 'egkentristhō',
+  'strong' => 'G1461',
+  'morph' => 'VAPS1S',
+);
+$index['ro'][11][20][0] = array (
+  'spa' => 'bien:',
+  'greek' => 'καλῶς·',
+  'lemma' => 'καλῶς',
+  'translit' => 'kalōs',
+  'strong' => 'G2573',
+  'morph' => 'B',
+);
+$index['ro'][11][20][1] = array (
+  'spa' => 'por la',
+  'greek' => 'τῇ',
+  'lemma' => 'ὁ',
+  'translit' => 'tēi',
+  'strong' => 'G3588',
+  'morph' => 'DDSF',
+);
+$index['ro'][11][20][2] = array (
+  'spa' => 'incredulidad',
+  'greek' => 'ἀπιστίᾳ',
+  'lemma' => 'ἀπιστία',
+  'translit' => 'apistiai',
+  'strong' => 'G570',
+  'morph' => 'NDSF',
+);
+$index['ro'][11][20][3] = array (
+  'spa' => 'fueron quebradas,',
+  'greek' => 'ἐξεκλάσθησαν,',
+  'lemma' => 'ἐκκλάω',
+  'translit' => 'exeklasthēsan',
+  'strong' => 'G1575',
+  'morph' => 'VAPI3P',
+);
+$index['ro'][11][20][4] = array (
+  'spa' => 'tú',
+  'greek' => 'σὺ',
+  'lemma' => 'σύ',
+  'translit' => 'su',
+  'strong' => 'G4771',
+  'morph' => 'RP2NS',
+);
+$index['ro'][11][20][5] = array (
+  'spa' => '← y',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLC',
+);
+$index['ro'][11][20][6] = array (
+  'spa' => 'por la',
+  'greek' => 'τῇ',
+  'lemma' => 'ὁ',
+  'translit' => 'tēi',
+  'strong' => 'G3588',
+  'morph' => 'DDSF',
+);
+$index['ro'][11][20][7] = array (
+  'spa' => 'fe',
+  'greek' => 'πίστει',
+  'lemma' => 'πίστις',
+  'translit' => 'pistei',
+  'strong' => 'G4102',
+  'morph' => 'NDSF',
+);
+$index['ro'][11][20][8] = array (
+  'spa' => 'estas parado.',
+  'greek' => 'ἕστηκας.',
+  'lemma' => 'ἵστημι',
+  'translit' => 'hestēkas',
+  'strong' => 'G2476',
+  'morph' => 'VRAI2S',
+);
+$index['ro'][11][20][9] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][20][10] = array (
+  'spa' => '⸂cosas altas',
+  'greek' => '⸂ὑψηλὰ',
+  'lemma' => 'ὑψηλός',
+  'translit' => 'hupsēla',
+  'strong' => 'G5308',
+  'morph' => 'JAPN',
+);
+$index['ro'][11][20][11] = array (
+  'spa' => 'pienses⸃,',
+  'greek' => 'φρόνει⸃,',
+  'lemma' => 'φρονέω',
+  'translit' => 'phronei',
+  'strong' => 'G5426',
+  'morph' => 'VPAM2S',
+);
+$index['ro'][11][20][12] = array (
+  'spa' => 'sinó que',
+  'greek' => 'ἀλλὰ',
+  'lemma' => 'ἀλλά',
+  'translit' => 'alla',
+  'strong' => 'G235',
+  'morph' => 'CLC',
+);
+$index['ro'][11][20][13] = array (
+  'spa' => 'teme:',
+  'greek' => 'φοβοῦ·',
+  'lemma' => 'φοβέω',
+  'translit' => 'phobou',
+  'strong' => 'G5399',
+  'morph' => 'VPUM2S',
+);
+$index['ro'][11][21][0] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][21][1] = array (
+  'spa' => '← porque',
+  'greek' => 'γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][21][2] = array (
+  'spa' => 'el',
+  'greek' => 'ὁ',
+  'lemma' => 'ὁ',
+  'translit' => 'ho',
+  'strong' => 'G3588',
+  'morph' => 'DNSM',
+);
+$index['ro'][11][21][3] = array (
+  'spa' => 'Dios',
+  'greek' => 'θεὸς',
+  'lemma' => 'θεός',
+  'translit' => 'theos',
+  'strong' => 'G2316',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][21][4] = array (
+  'spa' => 'las',
+  'greek' => 'τῶν',
+  'lemma' => 'ὁ',
+  'translit' => 'tōn',
+  'strong' => 'G3588',
+  'morph' => 'DGPM',
+);
+$index['ro'][11][21][5] = array (
+  'spa' => 'según',
+  'greek' => 'κατὰ',
+  'lemma' => 'κατά',
+  'translit' => 'kata',
+  'strong' => 'G2596',
+  'morph' => 'P',
+);
+$index['ro'][11][21][6] = array (
+  'spa' => 'naturaleza',
+  'greek' => 'φύσιν',
+  'lemma' => 'φύσις',
+  'translit' => 'phusin',
+  'strong' => 'G5449',
+  'morph' => 'NASF',
+);
+$index['ro'][11][21][7] = array (
+  'spa' => 'ramas',
+  'greek' => 'κλάδων',
+  'lemma' => 'κλάδος',
+  'translit' => 'kladōn',
+  'strong' => 'G2798',
+  'morph' => 'NGPM',
+);
+$index['ro'][11][21][8] = array (
+  'spa' => 'no',
+  'greek' => 'οὐκ',
+  'lemma' => 'οὐ',
+  'translit' => 'ouk',
+  'strong' => 'G3756',
+  'morph' => 'BN',
+);
+$index['ro'][11][21][9] = array (
+  'spa' => 'escatimó,',
+  'greek' => 'ἐφείσατο,',
+  'lemma' => 'φείδομαι',
+  'translit' => 'epheisato',
+  'strong' => 'G5339',
+  'morph' => 'VAMI3S',
+);
+$index['ro'][11][21][10] = array (
+  'spa' => '⸀tampoco',
+  'greek' => '⸀οὐδὲ',
+  'lemma' => 'οὐδέ',
+  'translit' => 'oude',
+  'strong' => 'G3761',
+  'morph' => 'BN',
+);
+$index['ro'][11][21][11] = array (
+  'spa' => 'a ti',
+  'greek' => 'σοῦ',
+  'lemma' => 'σοῦ',
+  'translit' => 'sou',
+  'strong' => 'G4675',
+  'morph' => 'RP2GS',
+);
+$index['ro'][11][21][12] = array (
+  'spa' => 'escatimará.',
+  'greek' => 'φείσεται.',
+  'lemma' => 'φείδομαι',
+  'translit' => 'pheisetai',
+  'strong' => 'G5339',
+  'morph' => 'VFMI3S',
+);
+$index['ro'][11][22][0] = array (
+  'spa' => 'mira',
+  'greek' => 'ἴδε',
+  'lemma' => 'εἶδον',
+  'translit' => 'ide',
+  'strong' => 'G1492',
+  'morph' => 'VAAM2S',
+);
+$index['ro'][11][22][1] = array (
+  'spa' => 'pues',
+  'greek' => 'οὖν',
+  'lemma' => 'οὖν',
+  'translit' => 'oun',
+  'strong' => 'G3767',
+  'morph' => 'CLI',
+);
+$index['ro'][11][22][2] = array (
+  'spa' => 'bondad',
+  'greek' => 'χρηστότητα',
+  'lemma' => 'χρηστότης',
+  'translit' => 'chrēstotēta',
+  'strong' => 'G5544',
+  'morph' => 'NASF',
+);
+$index['ro'][11][22][3] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][22][4] = array (
+  'spa' => 'severidad',
+  'greek' => 'ἀποτομίαν',
+  'lemma' => 'ἀποτομία',
+  'translit' => 'apotomian',
+  'strong' => 'G663',
+  'morph' => 'NASF',
+);
+$index['ro'][11][22][5] = array (
+  'spa' => 'de Dios:',
+  'greek' => 'θεοῦ·',
+  'lemma' => 'θεός',
+  'translit' => 'theou',
+  'strong' => 'G2316',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][22][6] = array (
+  'spa' => 'para',
+  'greek' => 'ἐπὶ',
+  'lemma' => 'ἐπί',
+  'translit' => 'epi',
+  'strong' => 'G1909',
+  'morph' => 'P',
+);
+$index['ro'][11][22][7] = array (
+  'spa' => 'pues',
+  'greek' => 'μὲν',
+  'lemma' => 'μέν',
+  'translit' => 'men',
+  'strong' => 'G3303',
+  'morph' => 'TK',
+);
+$index['ro'][11][22][8] = array (
+  'spa' => 'los',
+  'greek' => 'τοὺς',
+  'lemma' => 'ὁ',
+  'translit' => 'tous',
+  'strong' => 'G3588',
+  'morph' => 'DAPM',
+);
+$index['ro'][11][22][9] = array (
+  'spa' => 'que cayeron',
+  'greek' => 'πεσόντας',
+  'lemma' => 'πίπτω',
+  'translit' => 'pesontas',
+  'strong' => 'G4098',
+  'morph' => 'VAAP-PAM',
+);
+$index['ro'][11][22][10] = array (
+  'spa' => '⸀severidad,',
+  'greek' => '⸀ἀποτομία,',
+  'lemma' => 'ἀποτομία',
+  'translit' => 'apotomia',
+  'strong' => 'G663',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][22][11] = array (
+  'spa' => 'para',
+  'greek' => 'ἐπὶ',
+  'lemma' => 'ἐπί',
+  'translit' => 'epi',
+  'strong' => 'G1909',
+  'morph' => 'P',
+);
+$index['ro'][11][22][12] = array (
+  'spa' => '← pero',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLK',
+);
+$index['ro'][11][22][13] = array (
+  'spa' => 'ti',
+  'greek' => 'σὲ',
+  'lemma' => 'σέ',
+  'translit' => 'se',
+  'strong' => 'G4571',
+  'morph' => 'RP2AS',
+);
+$index['ro'][11][22][14] = array (
+  'spa' => '⸂bondad',
+  'greek' => '⸂χρηστότης',
+  'lemma' => 'χρηστότης',
+  'translit' => 'chrēstotēs',
+  'strong' => 'G5544',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][22][15] = array (
+  'spa' => 'de Dios⸃,',
+  'greek' => 'θεοῦ⸃,',
+  'lemma' => 'θεός',
+  'translit' => 'theou',
+  'strong' => 'G2316',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][22][16] = array (
+  'spa' => 'si',
+  'greek' => 'ἐὰν',
+  'lemma' => 'ἐάν',
+  'translit' => 'ean',
+  'strong' => 'G1437',
+  'morph' => 'CAC',
+);
+$index['ro'][11][22][17] = array (
+  'spa' => '⸀quedares',
+  'greek' => '⸀ἐπιμένῃς',
+  'lemma' => 'ἐπιμένω',
+  'translit' => 'epimenēis',
+  'strong' => 'G1961',
+  'morph' => 'VPAS2S',
+);
+$index['ro'][11][22][18] = array (
+  'spa' => 'en la',
+  'greek' => 'τῇ',
+  'lemma' => 'ὁ',
+  'translit' => 'tēi',
+  'strong' => 'G3588',
+  'morph' => 'DDSF',
+);
+$index['ro'][11][22][19] = array (
+  'spa' => 'bondad,',
+  'greek' => 'χρηστότητι,',
+  'lemma' => 'χρηστότης',
+  'translit' => 'chrēstotēti',
+  'strong' => 'G5544',
+  'morph' => 'NDSF',
+);
+$index['ro'][11][22][20] = array (
+  'spa' => 'porque',
+  'greek' => 'ἐπεὶ',
+  'lemma' => 'ἐπεί',
+  'translit' => 'epei',
+  'strong' => 'G1893',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][22][21] = array (
+  'spa' => 'también',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'BE',
+);
+$index['ro'][11][22][22] = array (
+  'spa' => 'tú',
+  'greek' => 'σὺ',
+  'lemma' => 'σύ',
+  'translit' => 'su',
+  'strong' => 'G4771',
+  'morph' => 'RP2NS',
+);
+$index['ro'][11][22][23] = array (
+  'spa' => 'serás cortado.',
+  'greek' => 'ἐκκοπήσῃ.',
+  'lemma' => 'ἐκκόπτω',
+  'translit' => 'ekkopēsēi',
+  'strong' => 'G1581',
+  'morph' => 'VFPI2S',
+);
+$index['ro'][11][23][0] = array (
+  'spa' => 'tambien aquellos',
+  'greek' => 'κἀκεῖνοι',
+  'lemma' => 'κἀκεῖνος',
+  'translit' => 'kakeinoi',
+  'strong' => 'G2548',
+  'morph' => 'RD-NPM',
+);
+$index['ro'][11][23][1] = array (
+  'spa' => '← y,',
+  'greek' => 'δέ,',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLN',
+);
+$index['ro'][11][23][2] = array (
+  'spa' => 'si',
+  'greek' => 'ἐὰν',
+  'lemma' => 'ἐάν',
+  'translit' => 'ean',
+  'strong' => 'G1437',
+  'morph' => 'CAC',
+);
+$index['ro'][11][23][3] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][23][4] = array (
+  'spa' => '⸀quedaren',
+  'greek' => '⸀ἐπιμένωσι',
+  'lemma' => 'ἐπιμένω',
+  'translit' => 'epimenōsi',
+  'strong' => 'G1961',
+  'morph' => 'VPAS3P',
+);
+$index['ro'][11][23][5] = array (
+  'spa' => 'en la',
+  'greek' => 'τῇ',
+  'lemma' => 'ὁ',
+  'translit' => 'tēi',
+  'strong' => 'G3588',
+  'morph' => 'DDSF',
+);
+$index['ro'][11][23][6] = array (
+  'spa' => 'incredulidad,',
+  'greek' => 'ἀπιστίᾳ,',
+  'lemma' => 'ἀπιστία',
+  'translit' => 'apistiai',
+  'strong' => 'G570',
+  'morph' => 'NDSF',
+);
+$index['ro'][11][23][7] = array (
+  'spa' => 'serán injertado:',
+  'greek' => 'ἐγκεντρισθήσονται·',
+  'lemma' => 'ἐγκεντρίζω',
+  'translit' => 'egkentristhēsontai',
+  'strong' => 'G1461',
+  'morph' => 'VFPI3P',
+);
+$index['ro'][11][23][8] = array (
+  'spa' => 'poderoso',
+  'greek' => 'δυνατὸς',
+  'lemma' => 'δυνατός',
+  'translit' => 'dunatos',
+  'strong' => 'G1415',
+  'morph' => 'JNSM',
+);
+$index['ro'][11][23][9] = array (
+  'spa' => '← porque',
+  'greek' => 'γάρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][23][10] = array (
+  'spa' => '⸂es',
+  'greek' => '⸂ἐστιν',
+  'lemma' => 'ἐστί',
+  'translit' => 'estin',
+  'strong' => 'G2076',
+  'morph' => 'VPAI3S',
+);
+$index['ro'][11][23][11] = array (
+  'spa' => 'el',
+  'greek' => 'ὁ',
+  'lemma' => 'ὁ',
+  'translit' => 'ho',
+  'strong' => 'G3588',
+  'morph' => 'DNSM',
+);
+$index['ro'][11][23][12] = array (
+  'spa' => 'Dios⸃',
+  'greek' => 'θεὸς⸃',
+  'lemma' => 'θεός',
+  'translit' => 'theos',
+  'strong' => 'G2316',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][23][13] = array (
+  'spa' => 'de nuevo',
+  'greek' => 'πάλιν',
+  'lemma' => 'πάλιν',
+  'translit' => 'palin',
+  'strong' => 'G3825',
+  'morph' => 'B',
+);
+$index['ro'][11][23][14] = array (
+  'spa' => 'injertar',
+  'greek' => 'ἐγκεντρίσαι',
+  'lemma' => 'ἐγκεντρίζω',
+  'translit' => 'egkentrisai',
+  'strong' => 'G1461',
+  'morph' => 'VAAN',
+);
+$index['ro'][11][23][15] = array (
+  'spa' => 'a ellos.',
+  'greek' => 'αὐτούς.',
+  'lemma' => 'αὐτός',
+  'translit' => 'autous',
+  'strong' => 'G846',
+  'morph' => 'RP3APM',
+);
+$index['ro'][11][24][0] = array (
+  'spa' => 'si',
+  'greek' => 'εἰ',
+  'lemma' => 'εἰ',
+  'translit' => 'ei',
+  'strong' => 'G1487',
+  'morph' => 'CAC',
+);
+$index['ro'][11][24][1] = array (
+  'spa' => '← porque',
+  'greek' => 'γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][24][2] = array (
+  'spa' => 'tú',
+  'greek' => 'σὺ',
+  'lemma' => 'σύ',
+  'translit' => 'su',
+  'strong' => 'G4771',
+  'morph' => 'RP2NS',
+);
+$index['ro'][11][24][3] = array (
+  'spa' => 'de',
+  'greek' => 'ἐκ',
+  'lemma' => 'ἐκ',
+  'translit' => 'ek',
+  'strong' => 'G1537',
+  'morph' => 'P',
+);
+$index['ro'][11][24][4] = array (
+  'spa' => 'el',
+  'greek' => 'τῆς',
+  'lemma' => 'ὁ',
+  'translit' => 'tēs',
+  'strong' => 'G3588',
+  'morph' => 'DGSF',
+);
+$index['ro'][11][24][5] = array (
+  'spa' => 'según',
+  'greek' => 'κατὰ',
+  'lemma' => 'κατά',
+  'translit' => 'kata',
+  'strong' => 'G2596',
+  'morph' => 'P',
+);
+$index['ro'][11][24][6] = array (
+  'spa' => 'naturaleza',
+  'greek' => 'φύσιν',
+  'lemma' => 'φύσις',
+  'translit' => 'phusin',
+  'strong' => 'G5449',
+  'morph' => 'NASF',
+);
+$index['ro'][11][24][7] = array (
+  'spa' => 'fuiste cortado',
+  'greek' => 'ἐξεκόπης',
+  'lemma' => 'ἐκκόπτω',
+  'translit' => 'exekopēs',
+  'strong' => 'G1581',
+  'morph' => 'VAPI2S',
+);
+$index['ro'][11][24][8] = array (
+  'spa' => 'olivo silvestre',
+  'greek' => 'ἀγριελαίου',
+  'lemma' => 'ἀγριέλαιος',
+  'translit' => 'agrielaiou',
+  'strong' => 'G65',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][24][9] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][24][10] = array (
+  'spa' => 'contra',
+  'greek' => 'παρὰ',
+  'lemma' => 'παρά',
+  'translit' => 'para',
+  'strong' => 'G3844',
+  'morph' => 'P',
+);
+$index['ro'][11][24][11] = array (
+  'spa' => 'naturaleza',
+  'greek' => 'φύσιν',
+  'lemma' => 'φύσις',
+  'translit' => 'phusin',
+  'strong' => 'G5449',
+  'morph' => 'NASF',
+);
+$index['ro'][11][24][12] = array (
+  'spa' => 'injertado',
+  'greek' => 'ἐνεκεντρίσθης',
+  'lemma' => 'ἐγκεντρίζω',
+  'translit' => 'enekentristhēs',
+  'strong' => 'G1461',
+  'morph' => 'VAPI2S',
+);
+$index['ro'][11][24][13] = array (
+  'spa' => 'en',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][24][14] = array (
+  'spa' => 'buen olivo,',
+  'greek' => 'καλλιέλαιον,',
+  'lemma' => 'καλλιέλαιος',
+  'translit' => 'kallielaion',
+  'strong' => 'G2565',
+  'morph' => 'NASF',
+);
+$index['ro'][11][24][15] = array (
+  'spa' => 'cuánto',
+  'greek' => 'πόσῳ',
+  'lemma' => 'πόσος',
+  'translit' => 'posōi',
+  'strong' => 'G4214',
+  'morph' => 'RI-DSN',
+);
+$index['ro'][11][24][16] = array (
+  'spa' => 'más',
+  'greek' => 'μᾶλλον',
+  'lemma' => 'μᾶλλον',
+  'translit' => 'mallon',
+  'strong' => 'G3123',
+  'morph' => 'B',
+);
+$index['ro'][11][24][17] = array (
+  'spa' => 'estos',
+  'greek' => 'οὗτοι',
+  'lemma' => 'οὗτος',
+  'translit' => 'houtoi',
+  'strong' => 'G3778',
+  'morph' => 'RD-NPM',
+);
+$index['ro'][11][24][18] = array (
+  'spa' => 'los',
+  'greek' => 'οἱ',
+  'lemma' => 'ὁ',
+  'translit' => 'hoi',
+  'strong' => 'G3588',
+  'morph' => 'DNPM',
+);
+$index['ro'][11][24][19] = array (
+  'spa' => 'según',
+  'greek' => 'κατὰ',
+  'lemma' => 'κατά',
+  'translit' => 'kata',
+  'strong' => 'G2596',
+  'morph' => 'P',
+);
+$index['ro'][11][24][20] = array (
+  'spa' => 'naturaleza',
+  'greek' => 'φύσιν',
+  'lemma' => 'φύσις',
+  'translit' => 'phusin',
+  'strong' => 'G5449',
+  'morph' => 'NASF',
+);
+$index['ro'][11][24][21] = array (
+  'spa' => 'serán injertado',
+  'greek' => 'ἐγκεντρισθήσονται',
+  'lemma' => 'ἐγκεντρίζω',
+  'translit' => 'egkentristhēsontai',
+  'strong' => 'G1461',
+  'morph' => 'VFPI3P',
+);
+$index['ro'][11][24][22] = array (
+  'spa' => 'en el',
+  'greek' => 'τῇ',
+  'lemma' => 'ὁ',
+  'translit' => 'tēi',
+  'strong' => 'G3588',
+  'morph' => 'DDSF',
+);
+$index['ro'][11][24][23] = array (
+  'spa' => 'propio',
+  'greek' => 'ἰδίᾳ',
+  'lemma' => 'ἴδιος',
+  'translit' => 'idiai',
+  'strong' => 'G2398',
+  'morph' => 'JDSF',
+);
+$index['ro'][11][24][24] = array (
+  'spa' => 'olivo.',
+  'greek' => 'ἐλαίᾳ.',
+  'lemma' => 'ἐλαία',
+  'translit' => 'elaiai',
+  'strong' => 'G1636',
+  'morph' => 'NDSF',
+);
+$index['ro'][11][25][0] = array (
+  'spa' => 'No',
+  'greek' => 'Οὐ',
+  'lemma' => 'οὐ',
+  'translit' => 'ou',
+  'strong' => 'G3756',
+  'morph' => 'BN',
+);
+$index['ro'][11][25][1] = array (
+  'spa' => '← porque',
+  'greek' => 'γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CLX',
+);
+$index['ro'][11][25][2] = array (
+  'spa' => 'quiero',
+  'greek' => 'θέλω',
+  'lemma' => 'θέλω',
+  'translit' => 'thelō',
+  'strong' => 'G2309',
+  'morph' => 'VPAI1S',
+);
+$index['ro'][11][25][3] = array (
+  'spa' => 'ustedes',
+  'greek' => 'ὑμᾶς',
+  'lemma' => 'ὑμᾶς',
+  'translit' => 'humas',
+  'strong' => 'G5209',
+  'morph' => 'RP2AP',
+);
+$index['ro'][11][25][4] = array (
+  'spa' => 'no conocer,',
+  'greek' => 'ἀγνοεῖν,',
+  'lemma' => 'ἀγνοέω',
+  'translit' => 'agnoein',
+  'strong' => 'G50',
+  'morph' => 'VPAN',
+);
+$index['ro'][11][25][5] = array (
+  'spa' => 'hermanos,',
+  'greek' => 'ἀδελφοί,',
+  'lemma' => 'ἀδελφός',
+  'translit' => 'adelphoi',
+  'strong' => 'G80',
+  'morph' => 'NVPM',
+);
+$index['ro'][11][25][6] = array (
+  'spa' => 'el',
+  'greek' => 'τὸ',
+  'lemma' => 'ὁ',
+  'translit' => 'to',
+  'strong' => 'G3588',
+  'morph' => 'DASN',
+);
+$index['ro'][11][25][7] = array (
+  'spa' => 'misterio',
+  'greek' => 'μυστήριον',
+  'lemma' => 'μυστήριον',
+  'translit' => 'mustērion',
+  'strong' => 'G3466',
+  'morph' => 'NASN',
+);
+$index['ro'][11][25][8] = array (
+  'spa' => 'este,',
+  'greek' => 'τοῦτο,',
+  'lemma' => 'τοῦτο',
+  'translit' => 'touto',
+  'strong' => 'G5124',
+  'morph' => 'RD-ASN',
+);
+$index['ro'][11][25][9] = array (
+  'spa' => 'para que',
+  'greek' => 'ἵνα',
+  'lemma' => 'ἵνα',
+  'translit' => 'hina',
+  'strong' => 'G2443',
+  'morph' => 'CAP',
+);
+$index['ro'][11][25][10] = array (
+  'spa' => 'no',
+  'greek' => 'μὴ',
+  'lemma' => 'μή',
+  'translit' => 'mē',
+  'strong' => 'G3361',
+  'morph' => 'BN',
+);
+$index['ro'][11][25][11] = array (
+  'spa' => '⸀fueran',
+  'greek' => '⸀ἦτε',
+  'lemma' => 'ἦ',
+  'translit' => 'ēte',
+  'strong' => 'G5600',
+  'morph' => 'VPAS2P',
+);
+$index['ro'][11][25][12] = array (
+  'spa' => 'de ustedes mismos',
+  'greek' => 'ἑαυτοῖς',
+  'lemma' => 'ἑαυτοῦ',
+  'translit' => 'heautois',
+  'strong' => 'G1438',
+  'morph' => 'RF2DPM',
+);
+$index['ro'][11][25][13] = array (
+  'spa' => 'astutos,',
+  'greek' => 'φρόνιμοι,',
+  'lemma' => 'φρόνιμος',
+  'translit' => 'phronimoi',
+  'strong' => 'G5429',
+  'morph' => 'JNPM',
+);
+$index['ro'][11][25][14] = array (
+  'spa' => 'que',
+  'greek' => 'ὅτι',
+  'lemma' => 'ὅτι',
+  'translit' => 'hoti',
+  'strong' => 'G3754',
+  'morph' => 'CSC',
+);
+$index['ro'][11][25][15] = array (
+  'spa' => 'dureza',
+  'greek' => 'πώρωσις',
+  'lemma' => 'πώρωσις',
+  'translit' => 'pōrōsis',
+  'strong' => 'G4457',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][25][16] = array (
+  'spa' => 'por',
+  'greek' => 'ἀπὸ',
+  'lemma' => 'ἀπό',
+  'translit' => 'apo',
+  'strong' => 'G575',
+  'morph' => 'P',
+);
+$index['ro'][11][25][17] = array (
+  'spa' => 'parte',
+  'greek' => 'μέρους',
+  'lemma' => 'μέρος',
+  'translit' => 'merous',
+  'strong' => 'G3313',
+  'morph' => 'NGSN',
+);
+$index['ro'][11][25][18] = array (
+  'spa' => 'a',
+  'greek' => 'τῷ',
+  'lemma' => 'ὁ',
+  'translit' => 'tōi',
+  'strong' => 'G3588',
+  'morph' => 'DDSM',
+);
+$index['ro'][11][25][19] = array (
+  'spa' => 'Israel',
+  'greek' => 'Ἰσραὴλ',
+  'lemma' => 'Ἰσραήλ',
+  'translit' => 'israēl',
+  'strong' => 'G2474',
+  'morph' => 'NDSM',
+);
+$index['ro'][11][25][20] = array (
+  'spa' => 'ha sucedido',
+  'greek' => 'γέγονεν',
+  'lemma' => 'γίνομαι',
+  'translit' => 'gegonen',
+  'strong' => 'G1096',
+  'morph' => 'VRAI3S',
+);
+$index['ro'][11][25][21] = array (
+  'spa' => 'hasta',
+  'greek' => 'ἄχρι',
+  'lemma' => 'ἄχρι',
+  'translit' => 'achri',
+  'strong' => 'G891',
+  'morph' => 'P',
+);
+$index['ro'][11][25][22] = array (
+  'spa' => 'que',
+  'greek' => 'οὗ',
+  'lemma' => 'ὅ',
+  'translit' => 'hou',
+  'strong' => 'G3739',
+  'morph' => 'RR-GSM',
+);
+$index['ro'][11][25][23] = array (
+  'spa' => 'la',
+  'greek' => 'τὸ',
+  'lemma' => 'ὁ',
+  'translit' => 'to',
+  'strong' => 'G3588',
+  'morph' => 'DNSN',
+);
+$index['ro'][11][25][24] = array (
+  'spa' => 'llenura',
+  'greek' => 'πλήρωμα',
+  'lemma' => 'πλήρωμα',
+  'translit' => 'plērōma',
+  'strong' => 'G4138',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][25][25] = array (
+  'spa' => 'de las',
+  'greek' => 'τῶν',
+  'lemma' => 'ὁ',
+  'translit' => 'tōn',
+  'strong' => 'G3588',
+  'morph' => 'DGPN',
+);
+$index['ro'][11][25][26] = array (
+  'spa' => 'naciones',
+  'greek' => 'ἐθνῶν',
+  'lemma' => 'ἔθνος',
+  'translit' => 'ethnōn',
+  'strong' => 'G1484',
+  'morph' => 'NGPN',
+);
+$index['ro'][11][25][27] = array (
+  'spa' => 'entrare,',
+  'greek' => 'εἰσέλθῃ,',
+  'lemma' => 'εἰσέρχομαι',
+  'translit' => 'eiselthēi',
+  'strong' => 'G1525',
+  'morph' => 'VAAS3S',
+);
+$index['ro'][11][26][0] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][26][1] = array (
+  'spa' => 'así',
+  'greek' => 'οὕτως',
+  'lemma' => 'οὕτως',
+  'translit' => 'houtōs',
+  'strong' => 'G3779',
+  'morph' => 'B',
+);
+$index['ro'][11][26][2] = array (
+  'spa' => 'todo',
+  'greek' => 'πᾶς',
+  'lemma' => 'πᾶς',
+  'translit' => 'pas',
+  'strong' => 'G3956',
+  'morph' => 'JNSM',
+);
+$index['ro'][11][26][3] = array (
+  'spa' => 'Israel',
+  'greek' => 'Ἰσραὴλ',
+  'lemma' => 'Ἰσραήλ',
+  'translit' => 'israēl',
+  'strong' => 'G2474',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][26][4] = array (
+  'spa' => 'será salvado:',
+  'greek' => 'σωθήσεται·',
+  'lemma' => 'σῴζω',
+  'translit' => 'sōthēsetai',
+  'strong' => 'G4982',
+  'morph' => 'VFPI3S',
+);
+$index['ro'][11][26][5] = array (
+  'spa' => 'como',
+  'greek' => 'καθὼς',
+  'lemma' => 'καθώς',
+  'translit' => 'kathōs',
+  'strong' => 'G2531',
+  'morph' => 'CAM',
+);
+$index['ro'][11][26][6] = array (
+  'spa' => 'está escrito:',
+  'greek' => 'γέγραπται·',
+  'lemma' => 'γράφω',
+  'translit' => 'gegraptai',
+  'strong' => 'G1125',
+  'morph' => 'VRPI3S',
+);
+$index['ro'][11][26][7] = array (
+  'spa' => 'Vendrá',
+  'greek' => 'Ἥξει',
+  'lemma' => 'ἥκω',
+  'translit' => 'hēxei',
+  'strong' => 'G2240',
+  'morph' => 'VFAI3S',
+);
+$index['ro'][11][26][8] = array (
+  'spa' => 'de',
+  'greek' => 'ἐκ',
+  'lemma' => 'ἐκ',
+  'translit' => 'ek',
+  'strong' => 'G1537',
+  'morph' => 'P',
+);
+$index['ro'][11][26][9] = array (
+  'spa' => 'Sión',
+  'greek' => 'Σιὼν',
+  'lemma' => 'Σιών',
+  'translit' => 'siōn',
+  'strong' => 'G4622',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][26][10] = array (
+  'spa' => 'el',
+  'greek' => 'ὁ',
+  'lemma' => 'ὁ',
+  'translit' => 'ho',
+  'strong' => 'G3588',
+  'morph' => 'DNSM',
+);
+$index['ro'][11][26][11] = array (
+  'spa' => '⸀que libra,',
+  'greek' => '⸀ῥυόμενος,',
+  'lemma' => 'ῥύομαι',
+  'translit' => 'rhuomenos',
+  'strong' => 'G4506',
+  'morph' => 'VPUP-SNM',
+);
+$index['ro'][11][26][12] = array (
+  'spa' => 'apartará',
+  'greek' => 'ἀποστρέψει',
+  'lemma' => 'ἀποστρέφω',
+  'translit' => 'apostrepsei',
+  'strong' => 'G654',
+  'morph' => 'VFAI3S',
+);
+$index['ro'][11][26][13] = array (
+  'spa' => 'impiedad',
+  'greek' => 'ἀσεβείας',
+  'lemma' => 'ἀσέβεια',
+  'translit' => 'asebeias',
+  'strong' => 'G763',
+  'morph' => 'NAPF',
+);
+$index['ro'][11][26][14] = array (
+  'spa' => 'de',
+  'greek' => 'ἀπὸ',
+  'lemma' => 'ἀπό',
+  'translit' => 'apo',
+  'strong' => 'G575',
+  'morph' => 'P',
+);
+$index['ro'][11][26][15] = array (
+  'spa' => 'Jacob.',
+  'greek' => 'Ἰακώβ.',
+  'lemma' => 'Ἰακώβ',
+  'translit' => 'iakōb',
+  'strong' => 'G2384',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][27][0] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][27][1] = array (
+  'spa' => 'éste',
+  'greek' => 'αὕτη',
+  'lemma' => 'οὗτος',
+  'translit' => 'hautē',
+  'strong' => 'G3778',
+  'morph' => 'RD-NSF',
+);
+$index['ro'][11][27][2] = array (
+  'spa' => 'para ellos',
+  'greek' => 'αὐτοῖς',
+  'lemma' => 'αὐτός',
+  'translit' => 'autois',
+  'strong' => 'G846',
+  'morph' => 'RP3DPM',
+);
+$index['ro'][11][27][3] = array (
+  'spa' => 'el',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][27][4] = array (
+  'spa' => 'desde',
+  'greek' => 'παρ’',
+  'lemma' => 'παρά',
+  'translit' => 'par',
+  'strong' => 'G3844',
+  'morph' => 'P',
+);
+$index['ro'][11][27][5] = array (
+  'spa' => 'mí',
+  'greek' => 'ἐμοῦ',
+  'lemma' => 'ἐμοῦ',
+  'translit' => 'emou',
+  'strong' => 'G1700',
+  'morph' => 'RP1GS',
+);
+$index['ro'][11][27][6] = array (
+  'spa' => 'pacto,',
+  'greek' => 'διαθήκη,',
+  'lemma' => 'διαθήκη',
+  'translit' => 'diathēkē',
+  'strong' => 'G1242',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][27][7] = array (
+  'spa' => 'cuando',
+  'greek' => 'ὅταν',
+  'lemma' => 'ὅταν',
+  'translit' => 'hotan',
+  'strong' => 'G3752',
+  'morph' => 'CAT',
+);
+$index['ro'][11][27][8] = array (
+  'spa' => 'quitaré',
+  'greek' => 'ἀφέλωμαι',
+  'lemma' => 'ἀφαιρέω',
+  'translit' => 'aphelōmai',
+  'strong' => 'G851',
+  'morph' => 'VAMS1S',
+);
+$index['ro'][11][27][9] = array (
+  'spa' => 'los',
+  'greek' => 'τὰς',
+  'lemma' => 'ὁ',
+  'translit' => 'tas',
+  'strong' => 'G3588',
+  'morph' => 'DAPF',
+);
+$index['ro'][11][27][10] = array (
+  'spa' => 'pecados',
+  'greek' => 'ἁμαρτίας',
+  'lemma' => 'ἁμαρτία',
+  'translit' => 'hamartias',
+  'strong' => 'G266',
+  'morph' => 'NAPF',
+);
+$index['ro'][11][27][11] = array (
+  'spa' => 'de ellos.',
+  'greek' => 'αὐτῶν.',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōn',
+  'strong' => 'G846',
+  'morph' => 'RP3GPM',
+);
+$index['ro'][11][28][0] = array (
+  'spa' => 'según',
+  'greek' => 'κατὰ',
+  'lemma' => 'κατά',
+  'translit' => 'kata',
+  'strong' => 'G2596',
+  'morph' => 'P',
+);
+$index['ro'][11][28][1] = array (
+  'spa' => 'pues',
+  'greek' => 'μὲν',
+  'lemma' => 'μέν',
+  'translit' => 'men',
+  'strong' => 'G3303',
+  'morph' => 'TK',
+);
+$index['ro'][11][28][2] = array (
+  'spa' => 'la',
+  'greek' => 'τὸ',
+  'lemma' => 'ὁ',
+  'translit' => 'to',
+  'strong' => 'G3588',
+  'morph' => 'DASN',
+);
+$index['ro'][11][28][3] = array (
+  'spa' => 'buena noticia',
+  'greek' => 'εὐαγγέλιον',
+  'lemma' => 'εὐαγγέλιον',
+  'translit' => 'euaggelion',
+  'strong' => 'G2098',
+  'morph' => 'NASN',
+);
+$index['ro'][11][28][4] = array (
+  'spa' => 'enemigos',
+  'greek' => 'ἐχθροὶ',
+  'lemma' => 'ἐχθρός',
+  'translit' => 'echthroi',
+  'strong' => 'G2190',
+  'morph' => 'JNPM',
+);
+$index['ro'][11][28][5] = array (
+  'spa' => 'por',
+  'greek' => 'δι’',
+  'lemma' => 'διά',
+  'translit' => 'di',
+  'strong' => 'G1223',
+  'morph' => 'P',
+);
+$index['ro'][11][28][6] = array (
+  'spa' => 'ustedes,',
+  'greek' => 'ὑμᾶς,',
+  'lemma' => 'ὑμᾶς',
+  'translit' => 'humas',
+  'strong' => 'G5209',
+  'morph' => 'RP2AP',
+);
+$index['ro'][11][28][7] = array (
+  'spa' => 'según',
+  'greek' => 'κατὰ',
+  'lemma' => 'κατά',
+  'translit' => 'kata',
+  'strong' => 'G2596',
+  'morph' => 'P',
+);
+$index['ro'][11][28][8] = array (
+  'spa' => '← pero',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLK',
+);
+$index['ro'][11][28][9] = array (
+  'spa' => 'la',
+  'greek' => 'τὴν',
+  'lemma' => 'ὁ',
+  'translit' => 'tēn',
+  'strong' => 'G3588',
+  'morph' => 'DASF',
+);
+$index['ro'][11][28][10] = array (
+  'spa' => 'elección',
+  'greek' => 'ἐκλογὴν',
+  'lemma' => 'ἐκλογή',
+  'translit' => 'eklogēn',
+  'strong' => 'G1589',
+  'morph' => 'NASF',
+);
+$index['ro'][11][28][11] = array (
+  'spa' => 'amados',
+  'greek' => 'ἀγαπητοὶ',
+  'lemma' => 'ἀγαπητός',
+  'translit' => 'agapētoi',
+  'strong' => 'G27',
+  'morph' => 'JNPM',
+);
+$index['ro'][11][28][12] = array (
+  'spa' => 'por',
+  'greek' => 'διὰ',
+  'lemma' => 'διά',
+  'translit' => 'dia',
+  'strong' => 'G1223',
+  'morph' => 'P',
+);
+$index['ro'][11][28][13] = array (
+  'spa' => 'los',
+  'greek' => 'τοὺς',
+  'lemma' => 'ὁ',
+  'translit' => 'tous',
+  'strong' => 'G3588',
+  'morph' => 'DAPM',
+);
+$index['ro'][11][28][14] = array (
+  'spa' => 'padres:',
+  'greek' => 'πατέρας·',
+  'lemma' => 'πατήρ',
+  'translit' => 'pateras',
+  'strong' => 'G3962',
+  'morph' => 'NAPM',
+);
+$index['ro'][11][29][0] = array (
+  'spa' => 'sín arrepentimiento',
+  'greek' => 'ἀμεταμέλητα',
+  'lemma' => 'ἀμεταμέλητος',
+  'translit' => 'ametamelēta',
+  'strong' => 'G278',
+  'morph' => 'JNPN',
+);
+$index['ro'][11][29][1] = array (
+  'spa' => '← porque',
+  'greek' => 'γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][29][2] = array (
+  'spa' => 'los',
+  'greek' => 'τὰ',
+  'lemma' => 'ὁ',
+  'translit' => 'ta',
+  'strong' => 'G3588',
+  'morph' => 'DNPN',
+);
+$index['ro'][11][29][3] = array (
+  'spa' => 'dones',
+  'greek' => 'χαρίσματα',
+  'lemma' => 'χάρισμα',
+  'translit' => 'charismata',
+  'strong' => 'G5486',
+  'morph' => 'NNPN',
+);
+$index['ro'][11][29][4] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][29][5] = array (
+  'spa' => 'el',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][29][6] = array (
+  'spa' => 'llamado',
+  'greek' => 'κλῆσις',
+  'lemma' => 'κλῆσις',
+  'translit' => 'klēsis',
+  'strong' => 'G2821',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][29][7] = array (
+  'spa' => 'de',
+  'greek' => 'τοῦ',
+  'lemma' => 'ὁ',
+  'translit' => 'tou',
+  'strong' => 'G3588',
+  'morph' => 'DGSM',
+);
+$index['ro'][11][29][8] = array (
+  'spa' => 'Dios.',
+  'greek' => 'θεοῦ.',
+  'lemma' => 'θεός',
+  'translit' => 'theou',
+  'strong' => 'G2316',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][30][0] = array (
+  'spa' => 'como',
+  'greek' => 'ὥσπερ',
+  'lemma' => 'ὥσπερ',
+  'translit' => 'hōsper',
+  'strong' => 'G5618',
+  'morph' => 'CAM',
+);
+$index['ro'][11][30][1] = array (
+  'spa' => '⸀← porque',
+  'greek' => '⸀γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CLX',
+);
+$index['ro'][11][30][2] = array (
+  'spa' => 'ustedes',
+  'greek' => 'ὑμεῖς',
+  'lemma' => 'ὑμεῖς',
+  'translit' => 'humeis',
+  'strong' => 'G5210',
+  'morph' => 'RP2NP',
+);
+$index['ro'][11][30][3] = array (
+  'spa' => 'una vez',
+  'greek' => 'ποτε',
+  'lemma' => 'ποτέ',
+  'translit' => 'pote',
+  'strong' => 'G4218',
+  'morph' => 'BX',
+);
+$index['ro'][11][30][4] = array (
+  'spa' => 'desobedecieron',
+  'greek' => 'ἠπειθήσατε',
+  'lemma' => 'ἀπειθέω',
+  'translit' => 'ēpeithēsate',
+  'strong' => 'G544',
+  'morph' => 'VAAI2P',
+);
+$index['ro'][11][30][5] = array (
+  'spa' => 'a',
+  'greek' => 'τῷ',
+  'lemma' => 'ὁ',
+  'translit' => 'tōi',
+  'strong' => 'G3588',
+  'morph' => 'DDSM',
+);
+$index['ro'][11][30][6] = array (
+  'spa' => 'Dios,',
+  'greek' => 'θεῷ,',
+  'lemma' => 'θεός',
+  'translit' => 'theōi',
+  'strong' => 'G2316',
+  'morph' => 'NDSM',
+);
+$index['ro'][11][30][7] = array (
+  'spa' => 'ahora',
+  'greek' => 'νῦν',
+  'lemma' => 'νῦν',
+  'translit' => 'nun',
+  'strong' => 'G3568',
+  'morph' => 'B',
+);
+$index['ro'][11][30][8] = array (
+  'spa' => '← pero',
+  'greek' => 'δὲ',
+  'lemma' => 'δέ',
+  'translit' => 'de',
+  'strong' => 'G1161',
+  'morph' => 'CLC',
+);
+$index['ro'][11][30][9] = array (
+  'spa' => 'obtuvieron misericordia',
+  'greek' => 'ἠλεήθητε',
+  'lemma' => 'ἐλεέω',
+  'translit' => 'ēleēthēte',
+  'strong' => 'G1653',
+  'morph' => 'VAPI2P',
+);
+$index['ro'][11][30][10] = array (
+  'spa' => 'por la',
+  'greek' => 'τῇ',
+  'lemma' => 'ὁ',
+  'translit' => 'tēi',
+  'strong' => 'G3588',
+  'morph' => 'DDSF',
+);
+$index['ro'][11][30][11] = array (
+  'spa' => 'de estos',
+  'greek' => 'τούτων',
+  'lemma' => 'τούτων',
+  'translit' => 'toutōn',
+  'strong' => 'G5130',
+  'morph' => 'RD-GPM',
+);
+$index['ro'][11][30][12] = array (
+  'spa' => 'desobediencia,',
+  'greek' => 'ἀπειθείᾳ,',
+  'lemma' => 'ἀπείθεια',
+  'translit' => 'apeitheiai',
+  'strong' => 'G543',
+  'morph' => 'NDSF',
+);
+$index['ro'][11][31][0] = array (
+  'spa' => 'así',
+  'greek' => 'οὕτως',
+  'lemma' => 'οὕτως',
+  'translit' => 'houtōs',
+  'strong' => 'G3779',
+  'morph' => 'B',
+);
+$index['ro'][11][31][1] = array (
+  'spa' => 'también',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'BE',
+);
+$index['ro'][11][31][2] = array (
+  'spa' => 'estos',
+  'greek' => 'οὗτοι',
+  'lemma' => 'οὗτος',
+  'translit' => 'houtoi',
+  'strong' => 'G3778',
+  'morph' => 'RD-NPM',
+);
+$index['ro'][11][31][3] = array (
+  'spa' => 'ahora',
+  'greek' => 'νῦν',
+  'lemma' => 'νῦν',
+  'translit' => 'nun',
+  'strong' => 'G3568',
+  'morph' => 'B',
+);
+$index['ro'][11][31][4] = array (
+  'spa' => 'desobedecieron',
+  'greek' => 'ἠπείθησαν',
+  'lemma' => 'ἀπειθέω',
+  'translit' => 'ēpeithēsan',
+  'strong' => 'G544',
+  'morph' => 'VAAI3P',
+);
+$index['ro'][11][31][5] = array (
+  'spa' => 'por la',
+  'greek' => 'τῷ',
+  'lemma' => 'ὁ',
+  'translit' => 'tōi',
+  'strong' => 'G3588',
+  'morph' => 'DDSN',
+);
+$index['ro'][11][31][6] = array (
+  'spa' => 'de ustedes',
+  'greek' => 'ὑμετέρῳ',
+  'lemma' => 'ὑμέτερος',
+  'translit' => 'humeterōi',
+  'strong' => 'G5212',
+  'morph' => 'JDSN',
+);
+$index['ro'][11][31][7] = array (
+  'spa' => 'misericordia',
+  'greek' => 'ἐλέει',
+  'lemma' => 'ἔλεος',
+  'translit' => 'eleei',
+  'strong' => 'G1656',
+  'morph' => 'NDSN',
+);
+$index['ro'][11][31][8] = array (
+  'spa' => 'para que',
+  'greek' => 'ἵνα',
+  'lemma' => 'ἵνα',
+  'translit' => 'hina',
+  'strong' => 'G2443',
+  'morph' => 'CAP',
+);
+$index['ro'][11][31][9] = array (
+  'spa' => 'también',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'BE',
+);
+$index['ro'][11][31][10] = array (
+  'spa' => 'ellos',
+  'greek' => 'αὐτοὶ',
+  'lemma' => 'αὐτός',
+  'translit' => 'autoi',
+  'strong' => 'G846',
+  'morph' => 'RP3NPM',
+);
+$index['ro'][11][31][11] = array (
+  'spa' => '⸀ahora',
+  'greek' => '⸀νῦν',
+  'lemma' => 'νῦν',
+  'translit' => 'nun',
+  'strong' => 'G3568',
+  'morph' => 'B',
+);
+$index['ro'][11][31][12] = array (
+  'spa' => 'obtuvieren misericordia:',
+  'greek' => 'ἐλεηθῶσιν·',
+  'lemma' => 'ἐλεέω',
+  'translit' => 'eleēthōsin',
+  'strong' => 'G1653',
+  'morph' => 'VAPS3P',
+);
+$index['ro'][11][32][0] = array (
+  'spa' => 'encerró',
+  'greek' => 'συνέκλεισεν',
+  'lemma' => 'συγκλείω',
+  'translit' => 'sunekleisen',
+  'strong' => 'G4788',
+  'morph' => 'VAAI3S',
+);
+$index['ro'][11][32][1] = array (
+  'spa' => '← porque',
+  'greek' => 'γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CLX',
+);
+$index['ro'][11][32][2] = array (
+  'spa' => 'el',
+  'greek' => 'ὁ',
+  'lemma' => 'ὁ',
+  'translit' => 'ho',
+  'strong' => 'G3588',
+  'morph' => 'DNSM',
+);
+$index['ro'][11][32][3] = array (
+  'spa' => 'Dios',
+  'greek' => 'θεὸς',
+  'lemma' => 'θεός',
+  'translit' => 'theos',
+  'strong' => 'G2316',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][32][4] = array (
+  'spa' => 'a',
+  'greek' => 'τοὺς',
+  'lemma' => 'ὁ',
+  'translit' => 'tous',
+  'strong' => 'G3588',
+  'morph' => 'DAPM',
+);
+$index['ro'][11][32][5] = array (
+  'spa' => 'todos',
+  'greek' => 'πάντας',
+  'lemma' => 'πᾶς',
+  'translit' => 'pantas',
+  'strong' => 'G3956',
+  'morph' => 'JAPM',
+);
+$index['ro'][11][32][6] = array (
+  'spa' => 'en',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][32][7] = array (
+  'spa' => 'desobediencia',
+  'greek' => 'ἀπείθειαν',
+  'lemma' => 'ἀπείθεια',
+  'translit' => 'apeitheian',
+  'strong' => 'G543',
+  'morph' => 'NASF',
+);
+$index['ro'][11][32][8] = array (
+  'spa' => 'para',
+  'greek' => 'ἵνα',
+  'lemma' => 'ἵνα',
+  'translit' => 'hina',
+  'strong' => 'G2443',
+  'morph' => 'CAP',
+);
+$index['ro'][11][32][9] = array (
+  'spa' => 'a',
+  'greek' => 'τοὺς',
+  'lemma' => 'ὁ',
+  'translit' => 'tous',
+  'strong' => 'G3588',
+  'morph' => 'DAPM',
+);
+$index['ro'][11][32][10] = array (
+  'spa' => 'todos',
+  'greek' => 'πάντας',
+  'lemma' => 'πᾶς',
+  'translit' => 'pantas',
+  'strong' => 'G3956',
+  'morph' => 'JAPM',
+);
+$index['ro'][11][32][11] = array (
+  'spa' => 'tuviere misericordia.',
+  'greek' => 'ἐλεήσῃ.',
+  'lemma' => 'ἐλεέω',
+  'translit' => 'eleēsēi',
+  'strong' => 'G1653',
+  'morph' => 'VAAS3S',
+);
+$index['ro'][11][33][0] = array (
+  'spa' => 'Oh',
+  'greek' => 'Ὦ',
+  'lemma' => 'ὦ',
+  'translit' => 'ō',
+  'strong' => 'G5599',
+  'morph' => 'I',
+);
+$index['ro'][11][33][1] = array (
+  'spa' => 'profundidad',
+  'greek' => 'βάθος',
+  'lemma' => 'βάθος',
+  'translit' => 'bathos',
+  'strong' => 'G899',
+  'morph' => 'NNSN',
+);
+$index['ro'][11][33][2] = array (
+  'spa' => 'de riqueza',
+  'greek' => 'πλούτου',
+  'lemma' => 'πλοῦτος',
+  'translit' => 'ploutou',
+  'strong' => 'G4149',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][33][3] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][33][4] = array (
+  'spa' => 'de sabiduría',
+  'greek' => 'σοφίας',
+  'lemma' => 'σοφία',
+  'translit' => 'sophias',
+  'strong' => 'G4678',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][33][5] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][33][6] = array (
+  'spa' => 'de conociemiento',
+  'greek' => 'γνώσεως',
+  'lemma' => 'γνῶσις',
+  'translit' => 'gnōseōs',
+  'strong' => 'G1108',
+  'morph' => 'NGSF',
+);
+$index['ro'][11][33][7] = array (
+  'spa' => 'de Dios:',
+  'greek' => 'θεοῦ·',
+  'lemma' => 'θεός',
+  'translit' => 'theou',
+  'strong' => 'G2316',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][33][8] = array (
+  'spa' => 'Cuan',
+  'greek' => 'ὡς',
+  'lemma' => 'ὡς',
+  'translit' => 'hōs',
+  'strong' => 'G5613',
+  'morph' => 'CAM',
+);
+$index['ro'][11][33][9] = array (
+  'spa' => 'insondables',
+  'greek' => 'ἀνεξεραύνητα',
+  'lemma' => 'ἀνεξεραύνητος',
+  'translit' => 'anexeraunēta',
+  'strong' => 'G419',
+  'morph' => 'JNPN',
+);
+$index['ro'][11][33][10] = array (
+  'spa' => 'los',
+  'greek' => 'τὰ',
+  'lemma' => 'ὁ',
+  'translit' => 'ta',
+  'strong' => 'G3588',
+  'morph' => 'DNPN',
+);
+$index['ro'][11][33][11] = array (
+  'spa' => 'juicios',
+  'greek' => 'κρίματα',
+  'lemma' => 'κρίμα',
+  'translit' => 'krimata',
+  'strong' => 'G2917',
+  'morph' => 'NNPN',
+);
+$index['ro'][11][33][12] = array (
+  'spa' => 'de él',
+  'greek' => 'αὐτοῦ',
+  'lemma' => 'αὐτός',
+  'translit' => 'autou',
+  'strong' => 'G846',
+  'morph' => 'RP3GSM',
+);
+$index['ro'][11][33][13] = array (
+  'spa' => 'e',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][33][14] = array (
+  'spa' => 'insondables',
+  'greek' => 'ἀνεξιχνίαστοι',
+  'lemma' => 'ἀνεξιχνίαστος',
+  'translit' => 'anexichniastoi',
+  'strong' => 'G421',
+  'morph' => 'JNPF',
+);
+$index['ro'][11][33][15] = array (
+  'spa' => 'los',
+  'greek' => 'αἱ',
+  'lemma' => 'ὁ',
+  'translit' => 'hai',
+  'strong' => 'G3588',
+  'morph' => 'DNPF',
+);
+$index['ro'][11][33][16] = array (
+  'spa' => 'caminos',
+  'greek' => 'ὁδοὶ',
+  'lemma' => 'ὁδός',
+  'translit' => 'hodoi',
+  'strong' => 'G3598',
+  'morph' => 'NNPF',
+);
+$index['ro'][11][33][17] = array (
+  'spa' => 'de él.',
+  'greek' => 'αὐτοῦ.',
+  'lemma' => 'αὐτός',
+  'translit' => 'autou',
+  'strong' => 'G846',
+  'morph' => 'RP3GSM',
+);
+$index['ro'][11][34][0] = array (
+  'spa' => '¿Quién',
+  'greek' => 'Τίς',
+  'lemma' => 'τίς',
+  'translit' => 'tis',
+  'strong' => 'G5101',
+  'morph' => 'RX-NSM',
+);
+$index['ro'][11][34][1] = array (
+  'spa' => '← porque',
+  'greek' => 'γὰρ',
+  'lemma' => 'γάρ',
+  'translit' => 'gar',
+  'strong' => 'G1063',
+  'morph' => 'CLX',
+);
+$index['ro'][11][34][2] = array (
+  'spa' => 'conoció',
+  'greek' => 'ἔγνω',
+  'lemma' => 'γινώσκω',
+  'translit' => 'egnō',
+  'strong' => 'G1097',
+  'morph' => 'VAAI3S',
+);
+$index['ro'][11][34][3] = array (
+  'spa' => 'mente',
+  'greek' => 'νοῦν',
+  'lemma' => 'νοῦς',
+  'translit' => 'noun',
+  'strong' => 'G3563',
+  'morph' => 'NASM',
+);
+$index['ro'][11][34][4] = array (
+  'spa' => 'del Señor?',
+  'greek' => 'κυρίου;',
+  'lemma' => 'κύριος',
+  'translit' => 'kuriou',
+  'strong' => 'G2962',
+  'morph' => 'NGSM',
+);
+$index['ro'][11][34][5] = array (
+  'spa' => 'o',
+  'greek' => 'ἢ',
+  'lemma' => 'ἤ',
+  'translit' => 'ē',
+  'strong' => 'G2228',
+  'morph' => 'CLD',
+);
+$index['ro'][11][34][6] = array (
+  'spa' => 'quién',
+  'greek' => 'τίς',
+  'lemma' => 'τίς',
+  'translit' => 'tis',
+  'strong' => 'G5101',
+  'morph' => 'RX-NSM',
+);
+$index['ro'][11][34][7] = array (
+  'spa' => 'consejero',
+  'greek' => 'σύμβουλος',
+  'lemma' => 'σύμβουλος',
+  'translit' => 'sumboulos',
+  'strong' => 'G4825',
+  'morph' => 'NNSM',
+);
+$index['ro'][11][34][8] = array (
+  'spa' => 'de él',
+  'greek' => 'αὐτοῦ',
+  'lemma' => 'αὐτός',
+  'translit' => 'autou',
+  'strong' => 'G846',
+  'morph' => 'RP3GSM',
+);
+$index['ro'][11][34][9] = array (
+  'spa' => 'se hizo?',
+  'greek' => 'ἐγένετο;',
+  'lemma' => 'γίνομαι',
+  'translit' => 'egeneto',
+  'strong' => 'G1096',
+  'morph' => 'VAMI3S',
+);
+$index['ro'][11][35][0] = array (
+  'spa' => 'o',
+  'greek' => 'ἢ',
+  'lemma' => 'ἤ',
+  'translit' => 'ē',
+  'strong' => 'G2228',
+  'morph' => 'CLD',
+);
+$index['ro'][11][35][1] = array (
+  'spa' => '¿Quién',
+  'greek' => 'τίς',
+  'lemma' => 'τίς',
+  'translit' => 'tis',
+  'strong' => 'G5101',
+  'morph' => 'RX-NSM',
+);
+$index['ro'][11][35][2] = array (
+  'spa' => 'previamente dio',
+  'greek' => 'προέδωκεν',
+  'lemma' => 'προδίδωμι',
+  'translit' => 'proedōken',
+  'strong' => 'G4272',
+  'morph' => 'VAAI3S',
+);
+$index['ro'][11][35][3] = array (
+  'spa' => 'a él,',
+  'greek' => 'αὐτῷ,',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōi',
+  'strong' => 'G846',
+  'morph' => 'RP3DSM',
+);
+$index['ro'][11][35][4] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][35][5] = array (
+  'spa' => 'será recompensado',
+  'greek' => 'ἀνταποδοθήσεται',
+  'lemma' => 'ἀνταποδίδωμι',
+  'translit' => 'antapodothēsetai',
+  'strong' => 'G467',
+  'morph' => 'VFPI3S',
+);
+$index['ro'][11][35][6] = array (
+  'spa' => 'a él?',
+  'greek' => 'αὐτῷ;',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōi',
+  'strong' => 'G846',
+  'morph' => 'RP3DSM',
+);
+$index['ro'][11][36][0] = array (
+  'spa' => 'porque',
+  'greek' => 'ὅτι',
+  'lemma' => 'ὅτι',
+  'translit' => 'hoti',
+  'strong' => 'G3754',
+  'morph' => 'CAZ',
+);
+$index['ro'][11][36][1] = array (
+  'spa' => 'de',
+  'greek' => 'ἐξ',
+  'lemma' => 'ἐκ',
+  'translit' => 'ex',
+  'strong' => 'G1537',
+  'morph' => 'P',
+);
+$index['ro'][11][36][2] = array (
+  'spa' => 'él',
+  'greek' => 'αὐτοῦ',
+  'lemma' => 'αὐτός',
+  'translit' => 'autou',
+  'strong' => 'G846',
+  'morph' => 'RP3GSM',
+);
+$index['ro'][11][36][3] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][36][4] = array (
+  'spa' => 'a través',
+  'greek' => 'δι’',
+  'lemma' => 'διά',
+  'translit' => 'di',
+  'strong' => 'G1223',
+  'morph' => 'P',
+);
+$index['ro'][11][36][5] = array (
+  'spa' => 'de él',
+  'greek' => 'αὐτοῦ',
+  'lemma' => 'αὐτός',
+  'translit' => 'autou',
+  'strong' => 'G846',
+  'morph' => 'RP3GSM',
+);
+$index['ro'][11][36][6] = array (
+  'spa' => 'y',
+  'greek' => 'καὶ',
+  'lemma' => 'καί',
+  'translit' => 'kai',
+  'strong' => 'G2532',
+  'morph' => 'CLN',
+);
+$index['ro'][11][36][7] = array (
+  'spa' => 'para',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][36][8] = array (
+  'spa' => 'él',
+  'greek' => 'αὐτὸν',
+  'lemma' => 'αὐτός',
+  'translit' => 'auton',
+  'strong' => 'G846',
+  'morph' => 'RP3ASM',
+);
+$index['ro'][11][36][9] = array (
+  'spa' => 'las cosas',
+  'greek' => 'τὰ',
+  'lemma' => 'ὁ',
+  'translit' => 'ta',
+  'strong' => 'G3588',
+  'morph' => 'DNPN',
+);
+$index['ro'][11][36][10] = array (
+  'spa' => 'todas:',
+  'greek' => 'πάντα·',
+  'lemma' => 'πᾶς',
+  'translit' => 'panta',
+  'strong' => 'G3956',
+  'morph' => 'JNPN',
+);
+$index['ro'][11][36][11] = array (
+  'spa' => 'a él',
+  'greek' => 'αὐτῷ',
+  'lemma' => 'αὐτός',
+  'translit' => 'autōi',
+  'strong' => 'G846',
+  'morph' => 'RP3DSM',
+);
+$index['ro'][11][36][12] = array (
+  'spa' => 'la',
+  'greek' => 'ἡ',
+  'lemma' => 'ὁ',
+  'translit' => 'hē',
+  'strong' => 'G3588',
+  'morph' => 'DNSF',
+);
+$index['ro'][11][36][13] = array (
+  'spa' => 'gloria',
+  'greek' => 'δόξα',
+  'lemma' => 'δόξα',
+  'translit' => 'doxa',
+  'strong' => 'G1391',
+  'morph' => 'NNSF',
+);
+$index['ro'][11][36][14] = array (
+  'spa' => 'por',
+  'greek' => 'εἰς',
+  'lemma' => 'εἰς',
+  'translit' => 'eis',
+  'strong' => 'G1519',
+  'morph' => 'P',
+);
+$index['ro'][11][36][15] = array (
+  'spa' => 'los',
+  'greek' => 'τοὺς',
+  'lemma' => 'ὁ',
+  'translit' => 'tous',
+  'strong' => 'G3588',
+  'morph' => 'DAPM',
+);
+$index['ro'][11][36][16] = array (
+  'spa' => 'eras,',
+  'greek' => 'αἰῶνας,',
+  'lemma' => 'αἰών',
+  'translit' => 'aiōnas',
+  'strong' => 'G165',
+  'morph' => 'NAPM',
+);
+$index['ro'][11][36][17] = array (
+  'spa' => 'amen.',
+  'greek' => 'ἀμήν.',
+  'lemma' => 'ἀμήν',
+  'translit' => 'amēn',
+  'strong' => 'G281',
+  'morph' => 'I',
+);
+$index['ro'][12][1][0] = array (
+  'spa' => '-',
+  'greek' => 'Παρακαλῶ',
+  'lemma' => 'παρακαλέω',
+  'translit' => 'parakalō',
+  'strong' => 'G3870',
   'morph' => 'VPAI1S',
 );
