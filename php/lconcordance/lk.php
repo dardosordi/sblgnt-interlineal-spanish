@@ -4304,7 +4304,7 @@ $concordance['444']['NGSM'][] = array (
 );
 $concordance['444']['NGSM'][] = array (
   'word' => 'Ἀνθρώπου',
-  'spa' => 'De hombre',
+  'spa' => 'de hombre',
   'morph' => 'NGSM',
   'ref' => 'lk 12:16',
 );
@@ -31178,7 +31178,7 @@ $concordance['1542']['JASM'][] = array (
 );
 $concordance['1543']['NGSM'][] = array (
   'word' => 'Ἑκατοντάρχου',
-  'spa' => 'De Centurión',
+  'spa' => 'de Centurión',
   'morph' => 'NGSM',
   'ref' => 'lk 7:2',
 );
@@ -111566,7 +111566,7 @@ $concordance['5207']['NVSM'][] = array (
 );
 $concordance['5207']['NVSM'][] = array (
   'word' => 'Υἱὲ',
-  'spa' => 'Hijo',
+  'spa' => 'hijo',
   'morph' => 'NVSM',
   'ref' => 'lk 18:39',
 );

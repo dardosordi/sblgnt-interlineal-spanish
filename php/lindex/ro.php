@@ -32345,7 +32345,7 @@ $index['ro'][9][20][15] = array (
   'morph' => 'VAAP-SDM',
 );
 $index['ro'][9][20][16] = array (
-  'spa' => 'Por qué',
+  'spa' => '¿Por qué',
   'greek' => 'Τί',
   'lemma' => 'τίς',
   'translit' => 'ti',

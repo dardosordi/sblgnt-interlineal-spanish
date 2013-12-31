@@ -16148,7 +16148,7 @@ $concordance['1097']['VAAP-SNM'][] = array (
 );
 $concordance['1098']['NGSN'][] = array (
   'word' => 'Γλεύκους',
-  'spa' => 'De vino dulce',
+  'spa' => 'de vino dulce',
   'morph' => 'NGSN',
   'ref' => 'ac 2:13',
 );
@@ -40850,7 +40850,7 @@ $concordance['2316']['NGSM'][] = array (
 );
 $concordance['2316']['NGSM'][] = array (
   'word' => 'Θεοῦ',
-  'spa' => 'De Dios',
+  'spa' => 'de Dios',
   'morph' => 'NGSM',
   'ref' => 'ac 12:22',
 );

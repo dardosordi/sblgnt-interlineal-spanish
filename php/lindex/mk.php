@@ -2065,7 +2065,7 @@ $index['mk'][1][16][12] = array (
   'morph' => 'NASM',
 );
 $index['mk'][1][16][13] = array (
-  'spa' => 'De Símon',
+  'spa' => 'de Símon',
   'greek' => 'Σίμωνος',
   'lemma' => 'Σίμων',
   'translit' => 'simōnos',
@@ -3681,7 +3681,7 @@ $index['mk'][1][29][9] = array (
   'morph' => 'NASF',
 );
 $index['mk'][1][29][10] = array (
-  'spa' => 'De Símon',
+  'spa' => 'de Símon',
   'greek' => 'Σίμωνος',
   'lemma' => 'Σίμων',
   'translit' => 'simōnos',
@@ -3761,7 +3761,7 @@ $index['mk'][1][30][2] = array (
   'morph' => 'NNSF',
 );
 $index['mk'][1][30][3] = array (
-  'spa' => 'De Símon',
+  'spa' => 'de Símon',
   'greek' => 'Σίμωνος',
   'lemma' => 'Σίμων',
   'translit' => 'simōnos',
@@ -27697,7 +27697,7 @@ $index['mk'][6][17][16] = array (
   'morph' => 'NASF',
 );
 $index['mk'][6][17][17] = array (
-  'spa' => 'De Felipe',
+  'spa' => 'de Felipe',
   'greek' => 'Φιλίππου',
   'lemma' => 'Φίλιππος',
   'translit' => 'philippou',
@@ -36081,7 +36081,7 @@ $index['mk'][7][24][6] = array (
   'morph' => 'NAPN',
 );
 $index['mk'][7][24][7] = array (
-  'spa' => '⸀De Tiro.',
+  'spa' => '⸀de Tiro.',
   'greek' => '⸀Τύρου.',
   'lemma' => 'Τύρος',
   'translit' => 'turou',
@@ -37105,7 +37105,7 @@ $index['mk'][7][31][5] = array (
   'morph' => 'NGPN',
 );
 $index['mk'][7][31][6] = array (
-  'spa' => 'De Tiro',
+  'spa' => 'de Tiro',
   'greek' => 'Τύρου',
   'lemma' => 'Τύρος',
   'translit' => 'turou',
@@ -37129,7 +37129,7 @@ $index['mk'][7][31][8] = array (
   'morph' => 'P',
 );
 $index['mk'][7][31][9] = array (
-  'spa' => 'De Sidón',
+  'spa' => 'de Sidón',
   'greek' => 'Σιδῶνος',
   'lemma' => 'Σιδών',
   'translit' => 'sidōnos',
@@ -39121,7 +39121,7 @@ $index['mk'][8][10][13] = array (
   'morph' => 'NAPN',
 );
 $index['mk'][8][10][14] = array (
-  'spa' => 'De Dalmanuta.',
+  'spa' => 'de Dalmanuta.',
   'greek' => 'Δαλμανουθά.',
   'lemma' => 'Δαλμανουθά',
   'translit' => 'dalmanoutha',
@@ -41089,7 +41089,7 @@ $index['mk'][8][27][10] = array (
   'morph' => 'NAPF',
 );
 $index['mk'][8][27][11] = array (
-  'spa' => 'De Cesarea',
+  'spa' => 'de Cesarea',
   'greek' => 'Καισαρείας',
   'lemma' => 'Καισάρεια',
   'translit' => 'kaisareias',
@@ -54505,7 +54505,7 @@ $index['mk'][10][35][7] = array (
   'morph' => 'NNPM',
 );
 $index['mk'][10][35][8] = array (
-  'spa' => 'De Zebedeo',
+  'spa' => 'de Zebedeo',
   'greek' => 'Ζεβεδαίου',
   'lemma' => 'Ζεβεδαῖος',
   'translit' => 'zebedaiou',
@@ -56249,7 +56249,7 @@ $index['mk'][10][47][10] = array (
   'morph' => 'VPAN',
 );
 $index['mk'][10][47][11] = array (
-  'spa' => '⸀Hijo',
+  'spa' => '⸀hijo',
   'greek' => '⸀Υἱὲ',
   'lemma' => 'υἱός',
   'translit' => 'huie',
@@ -56257,7 +56257,7 @@ $index['mk'][10][47][11] = array (
   'morph' => 'NVSM',
 );
 $index['mk'][10][47][12] = array (
-  'spa' => 'De David',
+  'spa' => 'de David',
   'greek' => 'Δαυὶδ',
   'lemma' => 'Δαβίδ',
   'translit' => 'dauid',
@@ -56377,7 +56377,7 @@ $index['mk'][10][48][10] = array (
   'morph' => 'VIAI3S',
 );
 $index['mk'][10][48][11] = array (
-  'spa' => 'Hijo',
+  'spa' => 'hijo',
   'greek' => 'Υἱὲ',
   'lemma' => 'υἱός',
   'translit' => 'huie',
@@ -56385,7 +56385,7 @@ $index['mk'][10][48][11] = array (
   'morph' => 'NVSM',
 );
 $index['mk'][10][48][12] = array (
-  'spa' => 'De David,',
+  'spa' => 'de David,',
   'greek' => 'Δαυίδ,',
   'lemma' => 'Δαβίδ',
   'translit' => 'dauid',
@@ -63281,7 +63281,7 @@ $index['mk'][12][14][31] = array (
   'morph' => 'NASM',
 );
 $index['mk'][12][14][32] = array (
-  'spa' => 'A César⸃',
+  'spa' => 'a César⸃',
   'greek' => 'Καίσαρι⸃',
   'lemma' => 'Καῖσαρ',
   'translit' => 'kaisari',
@@ -63601,7 +63601,7 @@ $index['mk'][12][16][16] = array (
   'morph' => 'RP3DSM',
 );
 $index['mk'][12][16][17] = array (
-  'spa' => 'De César.',
+  'spa' => 'de César.',
   'greek' => 'Καίσαρος.',
   'lemma' => 'Καῖσαρ',
   'translit' => 'kaisaros',
@@ -66489,7 +66489,7 @@ $index['mk'][12][35][16] = array (
   'morph' => 'NNSM',
 );
 $index['mk'][12][35][17] = array (
-  'spa' => '⸂De David',
+  'spa' => '⸂de David',
   'greek' => '⸂Δαυίδ',
   'lemma' => 'Δαβίδ',
   'translit' => 'dauid',

@@ -2169,7 +2169,7 @@ $index['mt'][1][17][24] = array (
   'morph' => 'CONJ',
 );
 $index['mt'][1][17][25] = array (
-  'spa' => 'de',
+  'spa' => 'el',
   'greek' => 'τοῦ',
   'lemma' => 'ὁ',
   'translit' => 'tou',
@@ -2177,7 +2177,7 @@ $index['mt'][1][17][25] = array (
   'morph' => 'T-GSM',
 );
 $index['mt'][1][17][26] = array (
-  'spa' => 'el ungido',
+  'spa' => 'ungido',
   'greek' => 'χριστοῦ',
   'lemma' => 'Χριστός',
   'translit' => 'christou',
@@ -51409,7 +51409,7 @@ $index['mt'][12][23][11] = array (
   'morph' => 'N-NSM',
 );
 $index['mt'][12][23][12] = array (
-  'spa' => 'De David?',
+  'spa' => 'de David?',
   'greek' => 'Δαυίδ;',
   'lemma' => 'Δαβίδ',
   'translit' => 'dauid',
@@ -71401,7 +71401,7 @@ $index['mt'][15][22][13] = array (
   'morph' => 'N-VSM',
 );
 $index['mt'][15][22][14] = array (
-  'spa' => '⸀Hijo',
+  'spa' => '⸀hijo',
   'greek' => '⸀υἱὸς',
   'lemma' => 'υἱός',
   'translit' => 'huios',
@@ -73833,7 +73833,7 @@ $index['mt'][15][39][12] = array (
   'morph' => 'N-APN',
 );
 $index['mt'][15][39][13] = array (
-  'spa' => '⸀De Magdán.',
+  'spa' => '⸀de Magdán.',
   'greek' => '⸀Μαγαδάν.',
   'lemma' => 'Μαγδαλά',
   'translit' => 'magadan',
@@ -95545,7 +95545,7 @@ $index['mt'][20][30][16] = array (
   'morph' => 'P-1AP',
 );
 $index['mt'][20][30][17] = array (
-  'spa' => '⸀Hijo',
+  'spa' => '⸀hijo',
   'greek' => '⸀υἱὸς',
   'lemma' => 'υἱός',
   'translit' => 'huios',
@@ -95681,7 +95681,7 @@ $index['mt'][20][31][14] = array (
   'morph' => 'P-1AP',
 );
 $index['mt'][20][31][15] = array (
-  'spa' => '⸀Hijo',
+  'spa' => '⸀hijo',
   'greek' => '⸀υἱὸς',
   'lemma' => 'υἱός',
   'translit' => 'huios',
@@ -98137,7 +98137,7 @@ $index['mt'][21][15][23] = array (
   'morph' => 'N-DSM',
 );
 $index['mt'][21][15][24] = array (
-  'spa' => 'De David',
+  'spa' => 'de David',
   'greek' => 'Δαυίδ',
   'lemma' => 'Δαβίδ',
   'translit' => 'dauid',
@@ -107721,7 +107721,7 @@ $index['mt'][22][42][12] = array (
   'morph' => 'T-GSM',
 );
 $index['mt'][22][42][13] = array (
-  'spa' => 'De David.',
+  'spa' => 'David.',
   'greek' => 'Δαυίδ.',
   'lemma' => 'Δαβίδ',
   'translit' => 'dauid',
@@ -112801,7 +112801,7 @@ $index['mt'][23][35][19] = array (
   'morph' => 'N-GSN',
 );
 $index['mt'][23][35][20] = array (
-  'spa' => 'De Zacarías',
+  'spa' => 'de Zacarías',
   'greek' => 'Ζαχαρίου',
   'lemma' => 'Ζαχαρίας',
   'translit' => 'zachariou',
@@ -130617,7 +130617,7 @@ $index['mt'][26][37][7] = array (
   'morph' => 'N-APM',
 );
 $index['mt'][26][37][8] = array (
-  'spa' => 'De Zebedeo',
+  'spa' => 'de Zebedeo',
   'greek' => 'Ζεβεδαίου',
   'lemma' => 'Ζεβεδαῖος',
   'translit' => 'zebedaiou',
@@ -141033,7 +141033,7 @@ $index['mt'][27][43][11] = array (
   'morph' => 'CONJ',
 );
 $index['mt'][27][43][12] = array (
-  'spa' => 'De Dios',
+  'spa' => 'de Dios',
   'greek' => 'Θεοῦ',
   'lemma' => 'θεός',
   'translit' => 'theou',
@@ -142873,7 +142873,7 @@ $index['mt'][27][58][2] = array (
   'morph' => 'T-DSM',
 );
 $index['mt'][27][58][3] = array (
-  'spa' => 'A Pilato',
+  'spa' => 'Pilato',
   'greek' => 'Πιλάτῳ',
   'lemma' => 'Πιλᾶτος',
   'translit' => 'pilatōi',

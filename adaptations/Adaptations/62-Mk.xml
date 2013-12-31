@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="11256" sizex="1290" sizey="54282" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="7912" sizex="1290" sizey="54430" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="11:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \h \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -871,7 +871,7 @@
   f="0000000000000000000001" sn="259" w="1" ty="1"
   pp="⸀">
   </S>
-  <S s="Σίμωνος" k="Σίμωνος" t="De Símon" a="De Símon"
+  <S s="Σίμωνος" k="Σίμωνος" t="de Símon" a="de Símon"
   f="0000000000000000000001" sn="260" w="1" ty="1">
   </S>
   <S s="⸀ἀμφιβάλλοντας" k="ἀμφιβάλλοντας" t="⸀arrojando las redes" a="arrojando las redes"
@@ -1551,7 +1551,7 @@
   <S s="οἰκίαν" k="οἰκίαν" t="casa" a="casa"
   f="0000000000000000000001" sn="461" w="1" ty="1">
   </S>
-  <S s="Σίμωνος" k="Σίμωνος" t="De Símon" a="De Símon"
+  <S s="Σίμωνος" k="Σίμωνος" t="de Símon" a="de Símon"
   f="0000000000000000000001" sn="462" w="1" ty="1">
   </S>
   <S s="καὶ" k="καὶ" t="y" a="y"
@@ -1584,7 +1584,7 @@
   <S s="πενθερὰ" k="πενθερὰ" t="suegra" a="suegra"
   f="0000000000000000000001" sn="471" w="1" ty="1">
   </S>
-  <S s="Σίμωνος" k="Σίμωνος" t="De Símon" a="De Símon"
+  <S s="Σίμωνος" k="Σίμωνος" t="de Símon" a="de Símon"
   f="0000000000000000000001" sn="472" w="1" ty="1">
   </S>
   <S s="κατέκειτο" k="κατέκειτο" t="reposaba" a="reposaba"
@@ -11631,7 +11631,7 @@
   <S s="γυναῖκα" k="γυναῖκα" t="mujer" a="mujer"
   f="0000000000000000000001" sn="3463" w="1" ty="1">
   </S>
-  <S s="Φιλίππου" k="Φιλίππου" t="De Felipe" a="De Felipe"
+  <S s="Φιλίππου" k="Φιλίππου" t="de Felipe" a="de Felipe"
   f="0000000000000000000001" sn="3464" w="1" ty="1">
   </S>
   <S s="τοῦ" k="τοῦ" t="el" a="el"
@@ -15137,7 +15137,7 @@
   f="0000000000000000000001" sn="4511" w="1" ty="1"
   pp="⸀">
   </S>
-  <S s="⸀Τύρου." k="Τύρου" t="⸀De Tiro." a="De Tiro"
+  <S s="⸀Τύρου." k="Τύρου" t="⸀de Tiro." a="de Tiro"
   f="0000000000000000100001" sn="4512" w="1" ty="1"
   pp="⸀" fp=".">
   </S>
@@ -15564,7 +15564,7 @@
   <S s="ὁρίων" k="ὁρίων" t="límites" a="límites"
   f="0000000000000000000001" sn="4639" w="1" ty="1">
   </S>
-  <S s="Τύρου" k="Τύρου" t="De Tiro" a="De Tiro"
+  <S s="Τύρου" k="Τύρου" t="de Tiro" a="de Tiro"
   f="0000000000000000000001" sn="4640" w="1" ty="1">
   </S>
   <S s="⸂ἦλθεν" k="ἦλθεν" t="⸂vino" a="vino"
@@ -15574,7 +15574,7 @@
   <S s="διὰ" k="διὰ" t="a través" a="a través"
   f="0000000000000000000001" sn="4642" w="1" ty="1">
   </S>
-  <S s="Σιδῶνος" k="Σιδῶνος" t="De Sidón" a="De Sidón"
+  <S s="Σιδῶνος" k="Σιδῶνος" t="de Sidón" a="de Sidón"
   f="0000000000000000000001" sn="4643" w="1" ty="1">
   </S>
   <S s="εἰς⸃" k="εἰς" t="hacia⸃" a="hacia"
@@ -16413,7 +16413,7 @@
   <S s="μέρη" k="μέρη" t="regiones" a="regiones"
   f="0000000000000000000001" sn="4891" w="1" ty="1">
   </S>
-  <S s="Δαλμανουθά." k="Δαλμανουθά" t="De Dalmanuta." a="De Dalmanuta"
+  <S s="Δαλμανουθά." k="Δαλμανουθά" t="de Dalmanuta." a="de Dalmanuta"
   f="0000000000000000100001" sn="4892" w="1" ty="1"
   fp=".">
   </S>
@@ -17247,7 +17247,7 @@
   <S s="κώμας" k="κώμας" t="aldeas" a="aldeas"
   f="0000000000000000000001" sn="5137" w="1" ty="1">
   </S>
-  <S s="Καισαρείας" k="Καισαρείας" t="De Cesarea" a="De Cesarea"
+  <S s="Καισαρείας" k="Καισαρείας" t="de Cesarea" a="de Cesarea"
   f="0000000000000000000001" sn="5138" w="1" ty="1">
   </S>
   <S s="τῆς" k="τῆς" t="de" a="de"
@@ -22847,7 +22847,7 @@
   <S s="υἱοὶ" k="υἱοὶ" t="hijos" a="hijos"
   f="0000000000000000000001" sn="6814" w="1" ty="1">
   </S>
-  <S s="Ζεβεδαίου" k="Ζεβεδαίου" t="De Zebedeo" a="De Zebedeo"
+  <S s="Ζεβεδαίου" k="Ζεβεδαίου" t="de Zebedeo" a="de Zebedeo"
   f="0000000000000000000001" sn="6815" w="1" ty="1">
   </S>
   <S s="λέγοντες" k="λέγοντες" t="diciendo" a="diciendo"
@@ -23576,11 +23576,11 @@
   f="0000000000000000100001" sn="7032" w="1" ty="1"
   fp="·">
   </S>
-  <S s="⸀Υἱὲ" k="Υἱὲ" t="⸀Hijo" a="Hijo"
+  <S s="⸀Υἱὲ" k="Υἱὲ" t="⸀hijo" a="hijo"
   f="0000000000000000000001" sn="7033" w="1" ty="1"
   pp="⸀">
   </S>
-  <S s="Δαυὶδ" k="Δαυὶδ" t="De David" a="De David"
+  <S s="Δαυὶδ" k="Δαυὶδ" t="de David" a="de David"
   f="0000000000000000000001" sn="7034" w="1" ty="1">
   </S>
   <S s="Ἰησοῦ," k="Ἰησοῦ" t="Jesús," a="Jesús"
@@ -23631,10 +23631,10 @@
   f="0000000000000000100001" sn="7048" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Υἱὲ" k="Υἱὲ" t="Hijo" a="Hijo"
+  <S s="Υἱὲ" k="Υἱὲ" t="hijo" a="hijo"
   f="0000000000000000000001" sn="7049" w="1" ty="1">
   </S>
-  <S s="Δαυίδ," k="Δαυίδ" t="De David," a="De David"
+  <S s="Δαυίδ," k="Δαυίδ" t="de David," a="de David"
   f="0000000000000000000001" sn="7050" w="1" ty="1"
   fp=",">
   </S>
@@ -26548,7 +26548,7 @@
   <S s="κῆνσον" k="κῆνσον" t="tributo" a="tributo"
   f="0000000000000000000001" sn="7911" w="1" ty="1">
   </S>
-  <S s="Καίσαρι⸃" k="Καίσαρι" t="A César⸃" a="A César"
+  <S s="Καίσαρι⸃" k="Καίσαρι" t="a César⸃" a="a César"
   f="0000000000000000100001" sn="7912" w="1" ty="1"
   fp="⸃">
   </S>
@@ -26682,7 +26682,7 @@
   f="0000000000000000100001" sn="7951" w="1" ty="1"
   fp="·">
   </S>
-  <S s="Καίσαρος." k="Καίσαρος" t="De César." a="De César"
+  <S s="Καίσαρος." k="Καίσαρος" t="de César." a="de César"
   f="0000000000000000100001" sn="7952" w="1" ty="1"
   fp=".">
   </S>
@@ -27886,7 +27886,7 @@
   <S s="υἱὸς" k="υἱὸς" t="hijo" a="hijo"
   f="0000000000000000000001" sn="8312" w="1" ty="1">
   </S>
-  <S s="⸂Δαυίδ" k="Δαυίδ" t="⸂De David" a="De David"
+  <S s="⸂Δαυίδ" k="Δαυίδ" t="⸂de David" a="de David"
   f="0000000000000000000001" sn="8313" w="1" ty="1"
   pp="⸂">
   </S>

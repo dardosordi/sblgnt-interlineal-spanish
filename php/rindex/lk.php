@@ -40617,7 +40617,7 @@ $index['lk'][7][1][13] = array (
   'morph' => 'N-PRI',
 );
 $index['lk'][7][2][0] = array (
-  'spa' => 'De Centurión',
+  'spa' => 'de Centurión',
   'greek' => 'Ἑκατοντάρχου',
   'lemma' => 'ἑκατόνταρχος',
   'translit' => 'hekatontarchou',
@@ -81937,7 +81937,7 @@ $index['lk'][12][16][5] = array (
   'morph' => 'V-PAP-NSM',
 );
 $index['lk'][12][16][6] = array (
-  'spa' => 'De hombre',
+  'spa' => 'de hombre',
   'greek' => 'Ἀνθρώπου',
   'lemma' => 'ἄνθρωπος',
   'translit' => 'anthrōpou',
@@ -116905,7 +116905,7 @@ $index['lk'][18][39][11] = array (
   'morph' => 'V-IAI-3S',
 );
 $index['lk'][18][39][12] = array (
-  'spa' => 'Hijo',
+  'spa' => 'hijo',
   'greek' => 'Υἱὲ',
   'lemma' => 'υἱός',
   'translit' => 'huie',

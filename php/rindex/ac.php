@@ -5577,7 +5577,7 @@ $index['ac'][2][13][4] = array (
   'morph' => 'CONJ',
 );
 $index['ac'][2][13][5] = array (
-  'spa' => 'De vino dulce',
+  'spa' => 'de vino dulce',
   'greek' => 'Γλεύκους',
   'lemma' => 'γλεῦκος',
   'translit' => 'gleukous',
@@ -63817,7 +63817,7 @@ $index['ac'][12][22][3] = array (
   'morph' => 'V-IAI-3S',
 );
 $index['ac'][12][22][4] = array (
-  'spa' => '⸂De Dios',
+  'spa' => '⸂de Dios',
   'greek' => '⸂Θεοῦ',
   'lemma' => 'θεός',
   'translit' => 'theou',

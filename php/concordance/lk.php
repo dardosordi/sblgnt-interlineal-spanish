@@ -4304,7 +4304,7 @@ $concordance['444']['N-GSM'][] = array (
 );
 $concordance['444']['N-GSM'][] = array (
   'word' => 'ἀνθρώπου',
-  'spa' => 'De hombre',
+  'spa' => 'de hombre',
   'morph' => 'N-GSM',
   'ref' => 'lk 12:16',
 );
@@ -31178,7 +31178,7 @@ $concordance['1542']['A-ASM'][] = array (
 );
 $concordance['1543']['N-GSM'][] = array (
   'word' => 'Ἑκατοντάρχου',
-  'spa' => 'De Centurión',
+  'spa' => 'de Centurión',
   'morph' => 'N-GSM',
   'ref' => 'lk 7:2',
 );
@@ -111566,7 +111566,7 @@ $concordance['5207']['N-VSM'][] = array (
 );
 $concordance['5207']['N-VSM'][] = array (
   'word' => 'υἱὲ',
-  'spa' => 'Hijo',
+  'spa' => 'hijo',
   'morph' => 'N-VSM',
   'ref' => 'lk 18:39',
 );

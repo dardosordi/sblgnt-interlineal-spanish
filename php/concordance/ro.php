@@ -28964,7 +28964,7 @@ $concordance['5101']['I-ASN'][] = array (
 );
 $concordance['5101']['I-ASN'][] = array (
   'word' => 'τί',
-  'spa' => 'Por qué',
+  'spa' => '¿Por qué',
   'morph' => 'I-ASN',
   'ref' => 'ro 9:20',
 );
