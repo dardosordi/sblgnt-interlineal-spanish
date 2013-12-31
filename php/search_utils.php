@@ -54,7 +54,11 @@ function match_verse(&$verse_data, $parsed_query, $offset = 0, $match_offset = 0
 					$word['match'] = true;
 					return $match_count;
 				}
-				return false;
+
+				if (!$continue) {
+					return false;
+				}
+				continue;
 			}
 
 
