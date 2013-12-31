@@ -31454,13 +31454,13 @@ $concordance['2193']['CAT'][] = array (
 );
 $concordance['2198']['VPAP-SAN'][] = array (
   'word' => 'ζῶν',
-  'spa' => 'que vive',
+  'spa' => 'viviente',
   'morph' => 'VPAP-SAN',
   'ref' => 'jn 4:10',
 );
 $concordance['2198']['VPAP-SAN'][] = array (
   'word' => 'ζῶν',
-  'spa' => 'que vive',
+  'spa' => 'viviente',
   'morph' => 'VPAP-SAN',
   'ref' => 'jn 4:11',
 );

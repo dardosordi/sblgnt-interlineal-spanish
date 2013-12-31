@@ -16593,7 +16593,7 @@ $index['jn'][4][10][28] = array (
   'morph' => 'N-ASN',
 );
 $index['jn'][4][10][29] = array (
-  'spa' => 'que vive.',
+  'spa' => 'viviente.',
   'greek' => 'ζῶν.',
   'lemma' => 'ζάω',
   'translit' => 'zōn',
@@ -16753,7 +16753,7 @@ $index['jn'][4][11][18] = array (
   'morph' => 'T-ASN',
 );
 $index['jn'][4][11][19] = array (
-  'spa' => 'que vive?',
+  'spa' => 'viviente?',
   'greek' => 'ζῶν;',
   'lemma' => 'ζάω',
   'translit' => 'zōn',

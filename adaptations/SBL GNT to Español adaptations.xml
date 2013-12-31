@@ -6716,7 +6716,7 @@
       cDT="2013-12-14T19:46:11Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="γνωστὸν">
-      <RS n="10" a="conocido" df="0"
+      <RS n="9" a="conocido" df="0"
       cDT="2013-12-14T19:46:07Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="γνωστὸς">
@@ -11741,10 +11741,12 @@
     <TU f="0" k="ζῶν">
       <RS n="2" a="viviendo" df="0"
       cDT="2013-12-14T19:46:15Z" wC="dardo:sophie"/>
-      <RS n="4" a="que vive" df="0"
+      <RS n="2" a="que vive" df="0"
       cDT="2013-12-14T19:46:16Z" wC="dardo:sophie"/>
       <RS n="1" a="Viviente" df="0"
       cDT="2013-12-31T23:03:39Z" wC="dardo:sophie"/>
+      <RS n="2" a="viviente" df="0"
+      cDT="2013-12-31T23:09:06Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ζῶντα">
       <RS n="2" a="viviendo" df="0"
@@ -11757,7 +11759,7 @@
       <RS n="1" a="que vive" df="0"
       cDT="2013-12-14T19:46:22Z" wC="dardo:sophie"/>
       <RS n="1" a="Viviente" df="0"
-      cDT="2013-12-31T23:05:37Z" wC="dardo:sophie"/>
+      cDT="2013-12-31T23:08:38Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ζῶντας">
       <RS n="2" a="viviendo" df="0"
@@ -11770,9 +11772,8 @@
     <TU f="0" k="ζῶντος">
       <RS n="1" a="viviendo" df="0"
       cDT="2013-12-14T19:46:08Z" wC="dardo:sophie"/>
-      <RS n="1" a="viviente" df="1"
-      cDT="2013-12-31T23:04:43Z" wC="dardo:sophie"
-      dDT="2013-12-31T23:04:44Z"/>
+      <RS n="1" a="viviente" df="0"
+      cDT="2013-12-31T23:08:53Z" wC="dardo:sophie"/>
       <RS n="2" a="Viviente" df="0"
       cDT="2013-12-31T22:20:25Z" wC="dardo:sophie"/>
       <RS n="1" a="que vive" df="1"
