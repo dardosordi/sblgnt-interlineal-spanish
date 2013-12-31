@@ -121,12 +121,16 @@ function match_key($word, $key, $value) {
 		case 'spa':
 		case 'translation':
 		case 'a':
+			if ($value[0] == '/') {
+				return preg_match($value, $word['spa']);
+			}
+			if ($value[0] == '@') {
+				return strpos($word['spa'], substr($value, 1)) !== false;
+			}
+			if ($value[0] == '=') {
+				return $word['spa'] == substr($value, 1);
+			}
 			return stripos($word['spa'], $value) !== false;
-
-		case 'SPA':
-		case 'Translation':
-		case 'A':
-			return strpos($word['spa'], $value) !== false;
 		case 'grc':
 		case 'grk':
 		case 'greek':
