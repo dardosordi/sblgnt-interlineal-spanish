@@ -8817,7 +8817,7 @@ $index['lk'][1][74][4] = array (
   'morph' => 'VAPP-PAM',
 );
 $index['lk'][1][74][5] = array (
-  'spa' => 'servir',
+  'spa' => 'rendir culto',
   'greek' => 'λατρεύειν',
   'lemma' => 'λατρεύω',
   'translit' => 'latreuein',
@@ -14297,7 +14297,7 @@ $index['lk'][2][37][14] = array (
   'morph' => 'NDPF',
 );
 $index['lk'][2][37][15] = array (
-  'spa' => 'sirviendo',
+  'spa' => 'rindiendo culto',
   'greek' => 'λατρεύουσα',
   'lemma' => 'λατρεύω',
   'translit' => 'latreuousa',
@@ -22001,7 +22001,7 @@ $index['lk'][4][8][14] = array (
   'morph' => 'JDSM',
 );
 $index['lk'][4][8][15] = array (
-  'spa' => 'servirás.',
+  'spa' => 'rendirás culto.',
   'greek' => 'λατρεύσεις.',
   'lemma' => 'λατρεύω',
   'translit' => 'latreuseis',

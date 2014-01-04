@@ -57170,7 +57170,7 @@ $concordance['2998']['VAAI3S'][] = array (
 );
 $concordance['3000']['VFAI2S'][] = array (
   'word' => 'λατρεύσεις',
-  'spa' => 'servirás',
+  'spa' => 'rendirás culto',
   'morph' => 'VFAI2S',
   'ref' => 'mt 4:10',
 );

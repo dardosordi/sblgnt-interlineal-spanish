@@ -63434,19 +63434,19 @@ $concordance['2992']['NGPM'][] = array (
 );
 $concordance['3000']['VPAN'][] = array (
   'word' => 'λατρεύειν',
-  'spa' => 'servir',
+  'spa' => 'rendir culto',
   'morph' => 'VPAN',
   'ref' => 'lk 1:74',
 );
 $concordance['3000']['VPAP-SNF'][] = array (
   'word' => 'λατρεύουσα',
-  'spa' => 'sirviendo',
+  'spa' => 'rindiendo culto',
   'morph' => 'VPAP-SNF',
   'ref' => 'lk 2:37',
 );
 $concordance['3000']['VFAI2S'][] = array (
   'word' => 'λατρεύσεις',
-  'spa' => 'servirás',
+  'spa' => 'rendirás culto',
   'morph' => 'VFAI2S',
   'ref' => 'lk 4:8',
 );

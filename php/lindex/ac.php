@@ -29761,7 +29761,7 @@ $index['ac'][7][7][15] = array (
   'morph' => 'CLN',
 );
 $index['ac'][7][7][16] = array (
-  'spa' => 'servirán',
+  'spa' => 'rendirán culto',
   'greek' => 'λατρεύσουσίν',
   'lemma' => 'λατρεύω',
   'translit' => 'latreusousin',
@@ -34921,7 +34921,7 @@ $index['ac'][7][42][6] = array (
   'morph' => 'RP3APM',
 );
 $index['ac'][7][42][7] = array (
-  'spa' => 'servir',
+  'spa' => 'rendir culto',
   'greek' => 'λατρεύειν',
   'lemma' => 'λατρεύω',
   'translit' => 'latreuein',
@@ -91985,7 +91985,7 @@ $index['ac'][17][34][2] = array (
   'morph' => 'NNPM',
 );
 $index['ac'][17][34][3] = array (
-  'spa' => 'habiendo sido adheridos',
+  'spa' => 'adheridos',
   'greek' => 'κολληθέντες',
   'lemma' => 'κολλάω',
   'translit' => 'kollēthentes',
@@ -125505,7 +125505,7 @@ $index['ac'][24][14][11] = array (
   'morph' => 'B',
 );
 $index['ac'][24][14][12] = array (
-  'spa' => 'sirvo',
+  'spa' => 'rindo culto',
   'greek' => 'λατρεύω',
   'lemma' => 'λατρεύω',
   'translit' => 'latreuō',
@@ -132681,7 +132681,7 @@ $index['ac'][26][7][9] = array (
   'morph' => 'NASF',
 );
 $index['ac'][26][7][10] = array (
-  'spa' => 'sirviendo',
+  'spa' => 'rindiendo culto',
   'greek' => 'λατρεῦον',
   'lemma' => 'λατρεύω',
   'translit' => 'latreuon',
@@ -138521,7 +138521,7 @@ $index['ac'][27][14][11] = array (
   'morph' => 'NNSM',
 );
 $index['ac'][27][15][0] = array (
-  'spa' => 'siendo apoderada',
+  'spa' => 'habiendo sido apoderada',
   'greek' => 'συναρπασθέντος',
   'lemma' => 'συναρπάζω',
   'translit' => 'sunarpasthentos',
@@ -139641,7 +139641,7 @@ $index['ac'][27][23][11] = array (
   'morph' => 'CLN',
 );
 $index['ac'][27][23][12] = array (
-  'spa' => 'sirvo,',
+  'spa' => 'rindo culto,',
   'greek' => 'λατρεύω,',
   'lemma' => 'λατρεύω',
   'translit' => 'latreuō',

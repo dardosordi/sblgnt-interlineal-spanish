@@ -46466,7 +46466,7 @@ $concordance['2992']['NGSM'][] = array (
 );
 $concordance['2999']['NASF'][] = array (
   'word' => 'λατρείαν',
-  'spa' => 'servicio',
+  'spa' => 'culto',
   'morph' => 'NASF',
   'ref' => 'jn 16:2',
 );

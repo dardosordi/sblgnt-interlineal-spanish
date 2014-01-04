@@ -11161,7 +11161,7 @@ $index['mt'][4][10][16] = array (
   'morph' => 'A-DSM',
 );
 $index['mt'][4][10][17] = array (
-  'spa' => 'servirás.',
+  'spa' => 'rendirás culto.',
   'greek' => 'λατρεύσεις.',
   'lemma' => 'λατρεύω',
   'translit' => 'latreuseis',

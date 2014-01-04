@@ -92857,7 +92857,7 @@ $index['jn'][16][2][11] = array (
   'morph' => 'VAAS3S',
 );
 $index['jn'][16][2][12] = array (
-  'spa' => 'servicio',
+  'spa' => 'culto',
   'greek' => 'λατρείαν',
   'lemma' => 'λατρεία',
   'translit' => 'latreian',

@@ -54776,7 +54776,7 @@ $concordance['2853']['V-APM-2S'][] = array (
 );
 $concordance['2853']['V-APP-NPM'][] = array (
   'word' => 'κολληθέντες',
-  'spa' => 'habiendo sido adheridos',
+  'spa' => 'adheridos',
   'morph' => 'V-APP-NPM',
   'ref' => 'ac 17:34',
 );
@@ -56978,31 +56978,31 @@ $concordance['2997']['V-AAI-3S'][] = array (
 );
 $concordance['3000']['V-FAI-3P'][] = array (
   'word' => 'λατρεύσουσιν',
-  'spa' => 'servirán',
+  'spa' => 'rendirán culto',
   'morph' => 'V-FAI-3P',
   'ref' => 'ac 7:7',
 );
 $concordance['3000']['V-PAN'][] = array (
   'word' => 'λατρεύειν',
-  'spa' => 'servir',
+  'spa' => 'rendir culto',
   'morph' => 'V-PAN',
   'ref' => 'ac 7:42',
 );
 $concordance['3000']['V-PAI-1S'][] = array (
   'word' => 'λατρεύω',
-  'spa' => 'sirvo',
+  'spa' => 'rindo culto',
   'morph' => 'V-PAI-1S',
   'ref' => 'ac 24:14',
 );
 $concordance['3000']['V-PAI-1S'][] = array (
   'word' => 'λατρεύω',
-  'spa' => 'sirvo',
+  'spa' => 'rindo culto',
   'morph' => 'V-PAI-1S',
   'ref' => 'ac 27:23',
 );
 $concordance['3000']['V-PAP-NSN'][] = array (
   'word' => 'λατρεῦον',
-  'spa' => 'sirviendo',
+  'spa' => 'rindiendo culto',
   'morph' => 'V-PAP-NSN',
   'ref' => 'ac 26:7',
 );
@@ -100310,7 +100310,7 @@ $concordance['4884']['V-AAP-NPM'][] = array (
 );
 $concordance['4884']['V-APP-GSN'][] = array (
   'word' => 'συναρπασθέντος',
-  'spa' => 'siendo apoderada',
+  'spa' => 'habiendo sido apoderada',
   'morph' => 'V-APP-GSN',
   'ref' => 'ac 27:15',
 );
