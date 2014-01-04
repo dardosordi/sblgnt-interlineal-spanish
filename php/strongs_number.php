@@ -1,5 +1,7 @@
 <?php
 
+header("Content-Type: text/html; charset=utf8;");
+
 error_reporting(E_ALL);
 ini_set('memory_limit', '256M');
 

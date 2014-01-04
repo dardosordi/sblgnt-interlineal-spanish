@@ -1,5 +1,7 @@
 <?php
 
+header("Content-Type: text/html; charset=utf8;");
+
 error_reporting(E_ALL);
 
 include 'rmac.php';
