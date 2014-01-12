@@ -357,7 +357,7 @@ $strongs['greek']['342'] = array ('derivation' => 'from G341 (ἀνακαινό
 $strongs['greek']['343'] = array ('derivation' => 'from G303 (ἀνά) (in the sense of reversal) and G2572 (καλύπτω);','lemma' => 'ἀνακαλύπτω','kjv_def' => 'open, (un-)taken away','strongs_def' => 'to unveil',);
 $strongs['greek']['344'] = array ('derivation' => 'from G303 (ἀνά) and G2578 (κάμπτω);','lemma' => 'ἀνακάμπτω','kjv_def' => '(re-)turn','strongs_def' => 'to turn back',);
 $strongs['greek']['345'] = array ('derivation' => 'from G303 (ἀνά) and G2749 (κεῖμαι);','lemma' => 'ἀνακεῖμαι','kjv_def' => 'guest, lean, lie, sit (down, at meat), at the table','strongs_def' => 'to recline (as a corpse or at a meal)',);
-$strongs['greek']['346'] = array ('derivation' => 'from G303 (ἀνά) and G2775 (κεφαλαιόω) (in its original sense);','lemma' => 'ἀνακεφαλαίομαι','kjv_def' => 'briefly comprehend, gather together in one','strongs_def' => 'to sum up',);
+$strongs['greek']['346'] = array ('derivation' => 'from G303 (ἀνά) and G2775 (κεφαλαιόω) (in its original sense);','lemma' => 'ἀνακεφαλαιόω','kjv_def' => 'briefly comprehend, gather together in one','strongs_def' => 'to sum up',);
 $strongs['greek']['347'] = array ('derivation' => 'from G303 (ἀνά) and G2827 (κλίνω);','lemma' => 'ἀνακλίνω','kjv_def' => 'lay, (make) sit down','strongs_def' => 'to lean back',);
 $strongs['greek']['348'] = array ('derivation' => 'from G303 (ἀνά) and G2875 (κόπτω);','lemma' => 'ἀνακόπτω','kjv_def' => 'hinder','strongs_def' => 'to beat back, i.e. check',);
 $strongs['greek']['349'] = array ('derivation' => 'from G303 (ἀνά) and G2896 (κράζω);','lemma' => 'ἀνακράζω','kjv_def' => 'cry out','strongs_def' => 'to scream up (aloud)',);
@@ -1511,7 +1511,7 @@ $strongs['greek']['1496'] = array ('derivation' => 'from G1497 (εἴδωλον)
 $strongs['greek']['1497'] = array ('derivation' => 'from G1491 (εἶδος);','lemma' => 'εἴδωλον','kjv_def' => 'idol','strongs_def' => 'an image (i.e. for worship); by implication, a heathen god, or (plural) the worship of such',);
 $strongs['greek']['1498'] = array ('derivation' => 'optative (i.e. English subjunctive) present of G1510 (εἰμί) (including the other person);','lemma' => 'εἴην','kjv_def' => 'mean, + perish, should be, was, were','strongs_def' => 'might (could, would, or should) be',);
 $strongs['greek']['1499'] = array ('derivation' => 'from G1487 (εἰ) and G2532 (καί);','lemma' => 'εἰ καί','kjv_def' => 'if (that), though','strongs_def' => 'if also (or even)',);
-$strongs['greek']['1500'] = array ('derivation' => 'probably from G1502 (εἴκω) (through the idea of failure);','lemma' => 'εἰκῆ','kjv_def' => 'without a cause, (in) vain(-ly)','strongs_def' => 'idly, i.e. without reason (or effect)',);
+$strongs['greek']['1500'] = array ('derivation' => 'probably from G1502 (εἴκω) (through the idea of failure);','lemma' => 'εὒκῇ','kjv_def' => 'without a cause, (in) vain(-ly)','strongs_def' => 'idly, i.e. without reason (or effect)',);
 $strongs['greek']['1501'] = array ('derivation' => 'of uncertain affinity;','lemma' => 'εἴκοσι','kjv_def' => 'twenty','strongs_def' => 'a score',);
 $strongs['greek']['1502'] = array ('derivation' => 'apparently a primary verb;','lemma' => 'εἴκω','kjv_def' => 'give place','strongs_def' => 'properly, to be weak, i.e. yield',);
 $strongs['greek']['1503'] = array ('derivation' => 'apparently a primary verb (perhaps akin to G1502 (εἴκω) through the idea of faintness as a copy);','lemma' => 'εἴκω','kjv_def' => 'be like','strongs_def' => 'to resemble',);
