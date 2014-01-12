@@ -3057,7 +3057,7 @@ $index['lk'][1][23][6] = array (
   'morph' => 'T-GSF',
 );
 $index['lk'][1][23][7] = array (
-  'spa' => 'servicio',
+  'spa' => 'ministerio',
   'greek' => 'λειτουργίας',
   'lemma' => 'λειτουργία',
   'translit' => 'leitourgias',

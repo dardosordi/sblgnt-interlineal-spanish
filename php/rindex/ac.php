@@ -64433,7 +64433,7 @@ $index['ac'][13][1][30] = array (
   'morph' => 'N-NSM',
 );
 $index['ac'][13][2][0] = array (
-  'spa' => 'dando culto público',
+  'spa' => 'ministrando',
   'greek' => 'λειτουργούντων',
   'lemma' => 'λειτουργέω',
   'translit' => 'leitourgountōn',

@@ -101858,7 +101858,7 @@ $concordance['5023']['RD-NPN'][] = array (
 );
 $concordance['5027']['NASF'][] = array (
   'word' => 'ταφὴν',
-  'spa' => 'enterrio',
+  'spa' => 'entierro',
   'morph' => 'NASF',
   'ref' => 'mt 27:7',
 );

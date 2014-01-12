@@ -136737,7 +136737,7 @@ $index['mt'][27][7][10] = array (
   'morph' => 'P',
 );
 $index['mt'][27][7][11] = array (
-  'spa' => 'enterrio',
+  'spa' => 'entierro',
   'greek' => 'ταφὴν',
   'lemma' => 'ταφή',
   'translit' => 'taphēn',

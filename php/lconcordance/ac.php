@@ -57782,7 +57782,7 @@ $concordance['3004']['VAAM2S'][] = array (
 );
 $concordance['3008']['VPAP-PGM'][] = array (
   'word' => 'λειτουργούντων',
-  'spa' => 'dando culto público',
+  'spa' => 'ministrando',
   'morph' => 'VPAP-PGM',
   'ref' => 'ac 13:2',
 );

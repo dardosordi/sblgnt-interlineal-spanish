@@ -101858,7 +101858,7 @@ $concordance['5023']['D-NPN'][] = array (
 );
 $concordance['5027']['N-ASF'][] = array (
   'word' => 'ταφὴν',
-  'spa' => 'enterrio',
+  'spa' => 'entierro',
   'morph' => 'N-ASF',
   'ref' => 'mt 27:7',
 );

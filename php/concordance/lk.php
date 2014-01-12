@@ -64964,7 +64964,7 @@ $concordance['3007']['V-PAI-3S'][] = array (
 );
 $concordance['3009']['N-GSF'][] = array (
   'word' => 'λειτουργίας',
-  'spa' => 'servicio',
+  'spa' => 'ministerio',
   'morph' => 'N-GSF',
   'ref' => 'lk 1:23',
 );
