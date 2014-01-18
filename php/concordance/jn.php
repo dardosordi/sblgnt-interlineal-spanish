@@ -11798,7 +11798,7 @@ $concordance['1027']['N-ASF'][] = array (
 );
 $concordance['1033']['N-NSN'][] = array (
   'word' => 'βρῶμά',
-  'spa' => 'comida',
+  'spa' => 'alimento',
   'morph' => 'N-NSN',
   'ref' => 'jn 4:34',
 );

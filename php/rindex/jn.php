@@ -19689,7 +19689,7 @@ $index['jn'][4][34][4] = array (
   'morph' => 'S-1NSN',
 );
 $index['jn'][4][34][5] = array (
-  'spa' => 'comida',
+  'spa' => 'alimento',
   'greek' => 'βρῶμά',
   'lemma' => 'βρῶμα',
   'translit' => 'brōma',

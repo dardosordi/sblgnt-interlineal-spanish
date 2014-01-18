@@ -87409,7 +87409,7 @@ $index['ac'][17][5][4] = array (
   'morph' => 'CLN',
 );
 $index['ac'][17][5][5] = array (
-  'spa' => 'habiendo apartado⸃',
+  'spa' => 'habiendo tomado⸃',
   'greek' => 'προσλαβόμενοι⸃',
   'lemma' => 'προσλαμβάνω',
   'translit' => 'proslabomenoi',

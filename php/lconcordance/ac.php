@@ -95918,7 +95918,7 @@ $concordance['4354']['VAAN'][] = array (
 );
 $concordance['4355']['VAMP-PNM'][] = array (
   'word' => 'προσλαβόμενοι',
-  'spa' => 'habiendo apartado',
+  'spa' => 'habiendo tomado',
   'morph' => 'VAMP-PNM',
   'ref' => 'ac 17:5',
 );
