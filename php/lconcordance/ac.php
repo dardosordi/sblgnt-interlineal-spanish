@@ -2648,7 +2648,7 @@ $concordance['234']['NGPN'][] = array (
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CLC',
   'ref' => 'ac 1:4',
 );
@@ -2660,7 +2660,7 @@ $concordance['235']['CLC'][] = array (
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 2:16',
 );
@@ -2672,13 +2672,13 @@ $concordance['235']['CLC'][] = array (
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 4:32',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CLC',
   'ref' => 'ac 5:4',
 );
@@ -2690,7 +2690,7 @@ $concordance['235']['CLC'][] = array (
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 7:39',
 );
@@ -2702,49 +2702,49 @@ $concordance['235']['CLC'][] = array (
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 10:35',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CLC',
   'ref' => 'ac 10:41',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 13:25',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 15:11',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 15:20',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 16:37',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 18:9',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 18:21',
 );
@@ -2756,13 +2756,13 @@ $concordance['235']['CLC'][] = array (
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CLC',
   'ref' => 'ac 19:26',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 19:27',
 );
@@ -2774,31 +2774,31 @@ $concordance['235']['CLC'][] = array (
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 21:13',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 21:24',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 26:20',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 26:25',
 );
 $concordance['235']['CLC'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLC',
   'ref' => 'ac 26:29',
 );
@@ -2822,7 +2822,7 @@ $concordance['235']['TE'][] = array (
 );
 $concordance['235']['CLK'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'morph' => 'CLK',
   'ref' => 'ac 27:10',
 );

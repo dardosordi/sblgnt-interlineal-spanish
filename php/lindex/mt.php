@@ -10217,7 +10217,7 @@ $index['mt'][4][4][11] = array (
   'morph' => 'NNSM',
 );
 $index['mt'][4][4][12] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -14649,7 +14649,7 @@ $index['mt'][5][15][8] = array (
   'morph' => 'NASM',
 );
 $index['mt'][5][15][9] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -15025,7 +15025,7 @@ $index['mt'][5][17][12] = array (
   'morph' => 'VAAN',
 );
 $index['mt'][5][17][13] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -18625,7 +18625,7 @@ $index['mt'][5][39][7] = array (
   'morph' => 'JDSM',
 );
 $index['mt'][5][39][8] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -21745,7 +21745,7 @@ $index['mt'][6][13][5] = array (
   'morph' => 'NASM',
 );
 $index['mt'][6][13][6] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -22385,7 +22385,7 @@ $index['mt'][6][18][5] = array (
   'morph' => 'VPAP-SNM',
 );
 $index['mt'][6][18][6] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -27673,7 +27673,7 @@ $index['mt'][7][21][12] = array (
   'morph' => 'NGPM',
 );
 $index['mt'][7][21][13] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -29465,7 +29465,7 @@ $index['mt'][8][4][7] = array (
   'morph' => 'VAAS2S',
 );
 $index['mt'][8][4][8] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -29953,7 +29953,7 @@ $index['mt'][8][8][14] = array (
   'morph' => 'VAAS2S',
 );
 $index['mt'][8][8][15] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -35345,7 +35345,7 @@ $index['mt'][9][12][9] = array (
   'morph' => 'NGSM',
 );
 $index['mt'][9][12][10] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -35497,7 +35497,7 @@ $index['mt'][9][13][14] = array (
   'morph' => 'JAPM',
 );
 $index['mt'][9][13][15] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -36273,7 +36273,7 @@ $index['mt'][9][17][21] = array (
   'morph' => 'VPPI3P',
 );
 $index['mt'][9][17][22] = array (
-  'spa' => 'sinó que',
+  'spa' => 'sino que',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -37225,7 +37225,7 @@ $index['mt'][9][24][6] = array (
   'morph' => 'NNSN',
 );
 $index['mt'][9][24][7] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -41513,7 +41513,7 @@ $index['mt'][10][20][5] = array (
   'morph' => 'VPAP-PNM',
 );
 $index['mt'][10][20][6] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -43585,7 +43585,7 @@ $index['mt'][10][34][12] = array (
   'morph' => 'NASF',
 );
 $index['mt'][10][34][13] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -45537,7 +45537,7 @@ $index['mt'][11][7][20] = array (
   'morph' => 'VPPP-SAM',
 );
 $index['mt'][11][8][0] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -58641,7 +58641,7 @@ $index['mt'][13][21][5] = array (
   'morph' => 'RF3DSM',
 );
 $index['mt'][13][21][6] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -70137,7 +70137,7 @@ $index['mt'][15][11][8] = array (
   'morph' => 'NASM',
 );
 $index['mt'][15][11][9] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -75217,7 +75217,7 @@ $index['mt'][16][12][10] = array (
   'morph' => 'NGPM',
 );
 $index['mt'][16][12][11] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -75937,7 +75937,7 @@ $index['mt'][16][17][16] = array (
   'morph' => 'RP2DS',
 );
 $index['mt'][16][17][17] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -77081,7 +77081,7 @@ $index['mt'][16][23][18] = array (
   'morph' => 'NGSM',
 );
 $index['mt'][16][23][19] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -79689,7 +79689,7 @@ $index['mt'][17][12][10] = array (
   'morph' => 'RP3ASM',
 );
 $index['mt'][17][12][11] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -85625,7 +85625,7 @@ $index['mt'][18][22][8] = array (
   'morph' => 'B',
 );
 $index['mt'][18][22][9] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -86609,7 +86609,7 @@ $index['mt'][18][30][3] = array (
   'morph' => 'VIAI3S',
 );
 $index['mt'][18][30][4] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -88113,7 +88113,7 @@ $index['mt'][19][6][3] = array (
   'morph' => 'XN',
 );
 $index['mt'][19][6][4] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -88849,7 +88849,7 @@ $index['mt'][19][11][9] = array (
   'morph' => 'RD-ASM',
 );
 $index['mt'][19][11][10] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -94697,7 +94697,7 @@ $index['mt'][20][23][19] = array (
   'morph' => 'VAAN',
 );
 $index['mt'][20][23][20] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -95017,7 +95017,7 @@ $index['mt'][20][26][4] = array (
   'morph' => 'RP2DP',
 );
 $index['mt'][20][26][5] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -95257,7 +95257,7 @@ $index['mt'][20][28][7] = array (
   'morph' => 'VAPN',
 );
 $index['mt'][20][28][8] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -99025,7 +99025,7 @@ $index['mt'][21][21][20] = array (
   'morph' => 'VFAI2P',
 );
 $index['mt'][21][21][21] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -106481,7 +106481,7 @@ $index['mt'][22][30][7] = array (
   'morph' => 'VPPI3P',
 );
 $index['mt'][22][30][8] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -106809,7 +106809,7 @@ $index['mt'][22][32][17] = array (
   'morph' => 'JGPM',
 );
 $index['mt'][22][32][18] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -130993,7 +130993,7 @@ $index['mt'][26][39][25] = array (
   'morph' => 'VPAI1S',
 );
 $index['mt'][26][39][26] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -138745,7 +138745,7 @@ $index['mt'][27][24][6] = array (
   'morph' => 'VPAI3S',
 );
 $index['mt'][27][24][7] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',

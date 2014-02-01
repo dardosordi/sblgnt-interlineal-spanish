@@ -5233,7 +5233,7 @@ $index['mk'][1][44][6] = array (
   'morph' => 'V-2AAS-2S',
 );
 $index['mk'][1][44][7] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -5521,7 +5521,7 @@ $index['mk'][1][45][17] = array (
   'morph' => 'V-2AAN',
 );
 $index['mk'][1][45][18] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -7969,7 +7969,7 @@ $index['mk'][2][17][12] = array (
   'morph' => 'N-GSM',
 );
 $index['mk'][2][17][13] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -8033,7 +8033,7 @@ $index['mk'][2][17][20] = array (
   'morph' => 'A-APM',
 );
 $index['mk'][2][17][21] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -9033,7 +9033,7 @@ $index['mk'][2][22][22] = array (
   'morph' => 'N-NPM',
 );
 $index['mk'][2][22][23] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -13009,7 +13009,7 @@ $index['mk'][3][26][11] = array (
   'morph' => 'V-2AAN',
 );
 $index['mk'][3][26][12] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -13497,7 +13497,7 @@ $index['mk'][3][29][14] = array (
   'morph' => 'N-ASM',
 );
 $index['mk'][3][29][15] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -16409,7 +16409,7 @@ $index['mk'][4][17][5] = array (
   'morph' => 'F-3DPM',
 );
 $index['mk'][4][17][6] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -17281,7 +17281,7 @@ $index['mk'][4][22][10] = array (
   'morph' => 'A-NSN',
 );
 $index['mk'][4][22][11] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -21985,7 +21985,7 @@ $index['mk'][5][19][3] = array (
   'morph' => 'P-ASM',
 );
 $index['mk'][5][19][4] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -23025,7 +23025,7 @@ $index['mk'][5][26][14] = array (
   'morph' => 'V-APP-NSF',
 );
 $index['mk'][5][26][15] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -24681,7 +24681,7 @@ $index['mk'][5][39][11] = array (
   'morph' => 'V-2AAI-3S',
 );
 $index['mk'][5][39][12] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -26641,7 +26641,7 @@ $index['mk'][6][8][20] = array (
   'morph' => 'N-ASM',
 );
 $index['mk'][6][9][0] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -32513,7 +32513,7 @@ $index['mk'][6][52][5] = array (
   'morph' => 'N-DPM',
 );
 $index['mk'][6][52][6] = array (
-  'spa' => '⸂sinó',
+  'spa' => '⸂sino',
   'greek' => '⸂ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -33865,7 +33865,7 @@ $index['mk'][7][5][19] = array (
   'morph' => 'A-GPM',
 );
 $index['mk'][7][5][20] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -35105,7 +35105,7 @@ $index['mk'][7][15][11] = array (
   'morph' => 'P-ASM',
 );
 $index['mk'][7][15][12] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -35545,7 +35545,7 @@ $index['mk'][7][19][6] = array (
   'morph' => 'N-ASF',
 );
 $index['mk'][7][19][7] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -36177,7 +36177,7 @@ $index['mk'][7][24][18] = array (
   'morph' => 'V-2AAN',
 );
 $index['mk'][7][25][0] = array (
-  'spa' => '⸂sinó',
+  'spa' => '⸂sino',
   'greek' => '⸂ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -42121,7 +42121,7 @@ $index['mk'][8][33][21] = array (
   'morph' => 'N-GSM',
 );
 $index['mk'][8][33][22] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -44145,7 +44145,7 @@ $index['mk'][9][8][5] = array (
   'morph' => 'V-2AAI-3P',
 );
 $index['mk'][9][8][6] = array (
-  'spa' => '⸂sinó',
+  'spa' => '⸂sino',
   'greek' => '⸂ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -48081,7 +48081,7 @@ $index['mk'][9][37][20] = array (
   'morph' => 'V-PMI-3S',
 );
 $index['mk'][9][37][21] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -50721,7 +50721,7 @@ $index['mk'][10][8][10] = array (
   'morph' => 'A-NPM',
 );
 $index['mk'][10][8][11] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -55297,7 +55297,7 @@ $index['mk'][10][40][12] = array (
   'morph' => 'V-2AAN',
 );
 $index['mk'][10][40][13] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -55625,7 +55625,7 @@ $index['mk'][10][43][5] = array (
   'morph' => 'P-2DP',
 );
 $index['mk'][10][43][6] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -55873,7 +55873,7 @@ $index['mk'][10][45][8] = array (
   'morph' => 'V-APN',
 );
 $index['mk'][10][45][9] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -59723,7 +59723,7 @@ $index['mk'][11][21][0] = array (
 $index['mk'][11][21][1] = array (
   'spa' => 'habiendo recordado',
   'greek' => 'ἀναμνησθεὶς',
-  'lemma' => 'ἀναμιμνήσκω',
+  'lemma' => 'ἀναμιμνῄσκω',
   'translit' => 'anamnēstheis',
   'strong' => 'G363',
   'morph' => 'V-APP-NSM',
@@ -60073,7 +60073,7 @@ $index['mk'][11][23][22] = array (
   'morph' => 'P-GSM',
 );
 $index['mk'][11][23][23] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -63193,7 +63193,7 @@ $index['mk'][12][14][20] = array (
   'morph' => 'N-GPM',
 );
 $index['mk'][12][14][21] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -64745,7 +64745,7 @@ $index['mk'][12][25][8] = array (
   'morph' => 'V-PPI-3P',
 );
 $index['mk'][12][25][9] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -65097,7 +65097,7 @@ $index['mk'][12][27][3] = array (
   'morph' => 'A-GPM',
 );
 $index['mk'][12][27][4] = array (
-  'spa' => '⸀sinó',
+  'spa' => '⸀sino',
   'greek' => '⸀ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -69209,7 +69209,7 @@ $index['mk'][13][11][8] = array (
   'morph' => 'V-AAS-2P',
 );
 $index['mk'][13][11][9] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλ’',
   'lemma' => 'ἀλλά',
   'translit' => 'all',
@@ -69345,7 +69345,7 @@ $index['mk'][13][11][25] = array (
   'morph' => 'V-PAP-NPM',
 );
 $index['mk'][13][11][26] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -77513,7 +77513,7 @@ $index['mk'][14][36][18] = array (
   'morph' => 'V-PAI-1S',
 );
 $index['mk'][14][36][19] = array (
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'greek' => 'ἀλλὰ',
   'lemma' => 'ἀλλά',
   'translit' => 'alla',
@@ -82075,7 +82075,7 @@ $index['mk'][14][72][6] = array (
 $index['mk'][14][72][7] = array (
   'spa' => 'recordó',
   'greek' => 'ἀνεμνήσθη',
-  'lemma' => 'ἀναμιμνήσκω',
+  'lemma' => 'ἀναμιμνῄσκω',
   'translit' => 'anemnēsthē',
   'strong' => 'G363',
   'morph' => 'V-API-3S',

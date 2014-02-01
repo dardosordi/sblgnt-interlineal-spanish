@@ -1442,37 +1442,37 @@ $concordance['233']['V-FPI-3S'][] = array (
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 1:44',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 1:45',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 2:17',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 2:17',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 2:22',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 3:26',
 );
@@ -1484,85 +1484,85 @@ $concordance['235']['CONJ'][] = array (
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 3:29',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 4:17',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 4:22',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 5:19',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 5:26',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 5:39',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 6:9',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 6:52',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 7:5',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 7:15',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 7:19',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 7:25',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 8:33',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 9:8',
 );
@@ -1580,13 +1580,13 @@ $concordance['235']['CONJ'][] = array (
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 9:37',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 10:8',
 );
@@ -1598,25 +1598,25 @@ $concordance['235']['CONJ'][] = array (
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 10:40',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 10:43',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 10:45',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 11:23',
 );
@@ -1628,19 +1628,19 @@ $concordance['235']['CONJ'][] = array (
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 12:14',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 12:25',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 12:27',
 );
@@ -1652,13 +1652,13 @@ $concordance['235']['CONJ'][] = array (
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλ\'',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 13:11',
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 13:11',
 );
@@ -1694,7 +1694,7 @@ $concordance['235']['CONJ'][] = array (
 );
 $concordance['235']['CONJ'][] = array (
   'word' => 'ἀλλὰ',
-  'spa' => 'sinó',
+  'spa' => 'sino',
   'morph' => 'CONJ',
   'ref' => 'mk 14:36',
 );
