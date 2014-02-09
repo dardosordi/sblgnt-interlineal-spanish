@@ -8,6 +8,10 @@
       <RS n="1" a="41" df="0"
       cDT="2013-12-14T19:46:12Z" wC="dardo:sophie"/>
     </TU>
+    <TU f="0" k="Α">
+      <RS n="1" a="1" df="0"
+      cDT="2014-02-09T20:00:43Z" wC="dardo:sophie"/>
+    </TU>
     <TU f="0" k="ΑΠΟΣΤΟΛΩΝ">
       <RS n="1" a="de los Apóstoles" df="0"
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
@@ -1159,6 +1163,10 @@
     <TU f="0" k="ΚΑΤΑ">
       <RS n="4" a="Según" df="0"
       cDT="2013-12-14T19:46:15Z" wC="dardo:sophie"/>
+    </TU>
+    <TU f="0" k="ΚΟΡΙΝΘΙΟΥΣ">
+      <RS n="1" a="Corintos" df="0"
+      cDT="2014-02-09T20:00:37Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Κάθου">
       <RS n="4" a="Sientate" df="0"
@@ -2464,7 +2472,7 @@
       cDT="2013-12-14T19:46:10Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="ΠΡΟΣ">
-      <RS n="1" a="Hacia" df="0"
+      <RS n="2" a="Hacia" df="0"
       cDT="2013-12-14T19:46:07Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="Πάγον">

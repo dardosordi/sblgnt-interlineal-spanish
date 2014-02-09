@@ -1651,7 +1651,7 @@ $morphdb['1co'][5][11][6] = array('word' => 'ἐάν', 'translit' => 'ean', 'mor
 $morphdb['1co'][5][11][7] = array('word' => 'τις', 'translit' => 'tis', 'morph' => 'RX-NSM', 'strongs' => '5100',);
 $morphdb['1co'][5][11][8] = array('word' => 'ἀδελφὸς', 'translit' => 'adelphos', 'morph' => 'NNSM', 'strongs' => '80',);
 $morphdb['1co'][5][11][9] = array('word' => 'ὀνομαζόμενος', 'translit' => 'onomazomenos', 'morph' => 'VPPP-SNM', 'strongs' => '3687',);
-$morphdb['1co'][5][11][10] = array('word' => 'ᾖ', 'translit' => 'ē', 'morph' => 'VPAS3S', 'strongs' => '2228',);
+$morphdb['1co'][5][11][10] = array('word' => 'ᾖ', 'translit' => 'ē', 'morph' => 'VPAS3S', 'strongs' => '1510',);
 $morphdb['1co'][5][11][11] = array('word' => 'πόρνος', 'translit' => 'pornos', 'morph' => 'NNSM', 'strongs' => '4205',);
 $morphdb['1co'][5][11][12] = array('word' => 'ἢ', 'translit' => 'ē', 'morph' => 'CLD', 'strongs' => '2228',);
 $morphdb['1co'][5][11][13] = array('word' => 'πλεονέκτης', 'translit' => 'pleonektēs', 'morph' => 'NNSM', 'strongs' => '4123',);
