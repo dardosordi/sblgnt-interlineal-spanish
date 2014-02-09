@@ -26,11 +26,11 @@ foreach($lmorphdb as $b => $book) {
 		foreach($chapter as $v => $verse) {
 			foreach($verse as $w => $word) {
 				if (!isset($morphdb[$b][$c][$v][$w])) {
-					echo "$b $c:$v.$w {$lmorphdb[$b][$c][$v][$w]['word']} MISSING\n";
+					echo "['$b'][$c][$v][$w] {$lmorphdb[$b][$c][$v][$w]['word']} MISSING\n";
 					continue;
 				}
 				if ($lmorphdb[$b][$c][$v][$w]['strongs'] != $morphdb[$b][$c][$v][$w]['strongs']) {
-					echo "$b $c:$v.$w {$lmorphdb[$b][$c][$v][$w]['strongs']} {$lmorphdb[$b][$c][$v][$w]['word']} => {$morphdb[$b][$c][$v][$w]['strongs']} {$morphdb[$b][$c][$v][$w]['word']}\n";
+					echo "['$b'][$c][$v][$w] {$lmorphdb[$b][$c][$v][$w]['strongs']} {$lmorphdb[$b][$c][$v][$w]['word']} => {$morphdb[$b][$c][$v][$w]['strongs']} {$morphdb[$b][$c][$v][$w]['word']}\n";
 				}
 
 			}
