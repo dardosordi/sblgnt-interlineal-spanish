@@ -32993,7 +32993,7 @@ $index['mk'][6][56][16] = array (
   'morph' => 'T-APM',
 );
 $index['mk'][6][56][17] = array (
-  'spa' => 'que están debilitados,',
+  'spa' => 'que están enfermos,',
   'greek' => 'ἀσθενοῦντας,',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenountas',
@@ -77793,7 +77793,7 @@ $index['mk'][14][38][14] = array (
   'morph' => 'N-NSF',
 );
 $index['mk'][14][38][15] = array (
-  'spa' => 'enferma.',
+  'spa' => 'débil.',
   'greek' => 'ἀσθενής.',
   'lemma' => 'ἀσθενής',
   'translit' => 'asthenēs',

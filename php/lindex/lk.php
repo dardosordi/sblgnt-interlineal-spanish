@@ -26329,7 +26329,7 @@ $index['lk'][4][40][6] = array (
   'morph' => 'VIAI3P',
 );
 $index['lk'][4][40][7] = array (
-  'spa' => 'estando debilitados',
+  'spa' => 'estando enfermos',
   'greek' => 'ἀσθενοῦντας',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenountas',
@@ -26337,7 +26337,7 @@ $index['lk'][4][40][7] = array (
   'morph' => 'VPAP-PAM',
 );
 $index['lk'][4][40][8] = array (
-  'spa' => 'por enfermedades',
+  'spa' => 'con enfermedades',
   'greek' => 'νόσοις',
   'lemma' => 'νόσος',
   'translit' => 'nosois',
@@ -118761,7 +118761,7 @@ $index['lk'][19][12][3] = array (
   'morph' => 'RX-NSM',
 );
 $index['lk'][19][12][4] = array (
-  'spa' => 'bien nacido',
+  'spa' => 'noble',
   'greek' => 'εὐγενὴς',
   'lemma' => 'εὐγενής',
   'translit' => 'eugenēs',

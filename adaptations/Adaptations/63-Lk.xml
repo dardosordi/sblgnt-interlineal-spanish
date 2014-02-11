@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="384" sizex="1290" sizey="93132" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="3294" sizex="1290" sizey="92984" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="19:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \h1 \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \h3 \_unknown_char_style \fig \vp \_hidden_note \h2 \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -10868,10 +10868,10 @@
   <S s="εἶχον" k="εἶχον" t="tenían" a="tenían"
   f="0000000000000000000001" sn="3292" w="1" ty="1">
   </S>
-  <S s="ἀσθενοῦντας" k="ἀσθενοῦντας" t="estando debilitados" a="estando debilitados"
+  <S s="ἀσθενοῦντας" k="ἀσθενοῦντας" t="estando enfermos" a="estando enfermos"
   f="0000000000000000000001" sn="3293" w="1" ty="1">
   </S>
-  <S s="νόσοις" k="νόσοις" t="por enfermedades" a="por enfermedades"
+  <S s="νόσοις" k="νόσοις" t="con enfermedades" a="con enfermedades"
   f="0000000000000000000001" sn="3294" w="1" ty="1">
   </S>
   <S s="ποικίλαις" k="ποικίλαις" t="varias" a="varias"
@@ -49276,7 +49276,7 @@
   <S s="τις" k="τις" t="alguien" a="alguien"
   f="0000000000000000000001" sn="14846" w="1" ty="1">
   </S>
-  <S s="εὐγενὴς" k="εὐγενὴς" t="bien nacido" a="bien nacido"
+  <S s="εὐγενὴς" k="εὐγενὴς" t="noble" a="noble"
   f="0000000000000000000001" sn="14847" w="1" ty="1">
   </S>
   <S s="ἐπορεύθη" k="ἐπορεύθη" t="fue" a="fue"

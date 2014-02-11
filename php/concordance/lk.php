@@ -8144,7 +8144,7 @@ $concordance['769']['N-GSF'][] = array (
 );
 $concordance['770']['V-PAP-APM'][] = array (
   'word' => 'ἀσθενοῦντας',
-  'spa' => 'estando debilitados',
+  'spa' => 'estando enfermos',
   'morph' => 'V-PAP-APM',
   'ref' => 'lk 4:40',
 );
@@ -42002,7 +42002,7 @@ $concordance['2097']['V-PMP-GSM'][] = array (
 );
 $concordance['2104']['A-NSM'][] = array (
   'word' => 'εὐγενὴς',
-  'spa' => 'bien nacido',
+  'spa' => 'noble',
   'morph' => 'A-NSM',
   'ref' => 'lk 19:12',
 );
@@ -70628,7 +70628,7 @@ $concordance['3551']['N-NSM'][] = array (
 );
 $concordance['3554']['N-DPF'][] = array (
   'word' => 'νόσοις',
-  'spa' => 'por enfermedades',
+  'spa' => 'con enfermedades',
   'morph' => 'N-DPF',
   'ref' => 'lk 4:40',
 );

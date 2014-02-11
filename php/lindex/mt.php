@@ -39841,7 +39841,7 @@ $index['mt'][10][7][9] = array (
   'morph' => 'NGPM',
 );
 $index['mt'][10][8][0] = array (
-  'spa' => 'a los que están debilitados',
+  'spa' => 'a los que están enfermos',
   'greek' => 'ἀσθενοῦντας',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenountas',
@@ -124577,7 +124577,7 @@ $index['mt'][25][36][3] = array (
   'morph' => 'RP1AS',
 );
 $index['mt'][25][36][4] = array (
-  'spa' => 'estuve debilitado',
+  'spa' => 'estuve enfermo',
   'greek' => 'ἠσθένησα',
   'lemma' => 'ἀσθενέω',
   'translit' => 'ēsthenēsa',
@@ -124921,7 +124921,7 @@ $index['mt'][25][39][3] = array (
   'morph' => 'VAAI1P',
 );
 $index['mt'][25][39][4] = array (
-  'spa' => '⸀estando debilitado',
+  'spa' => '⸀estando enfermo',
   'greek' => '⸀ἀσθενοῦντα',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenounta',
@@ -131305,7 +131305,7 @@ $index['mt'][26][41][14] = array (
   'morph' => 'NNSF',
 );
 $index['mt'][26][41][15] = array (
-  'spa' => 'enferma.',
+  'spa' => 'débil.',
   'greek' => 'ἀσθενής.',
   'lemma' => 'ἀσθενής',
   'translit' => 'asthenēs',

@@ -5018,13 +5018,13 @@ $concordance['766']['NNSF'][] = array (
 );
 $concordance['770']['VPAP-PAM'][] = array (
   'word' => 'ἀσθενοῦντας',
-  'spa' => 'que están debilitados',
+  'spa' => 'que están enfermos',
   'morph' => 'VPAP-PAM',
   'ref' => 'mk 6:56',
 );
 $concordance['772']['JNSF'][] = array (
   'word' => 'ἀσθενής',
-  'spa' => 'enferma',
+  'spa' => 'débil',
   'morph' => 'JNSF',
   'ref' => 'mk 14:38',
 );

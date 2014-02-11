@@ -6482,25 +6482,25 @@ $concordance['769']['N-NSF'][] = array (
 );
 $concordance['770']['V-IAI-3S'][] = array (
   'word' => 'ἠσθένει',
-  'spa' => 'estaba debilitado',
+  'spa' => 'estaba enfermo',
   'morph' => 'V-IAI-3S',
   'ref' => 'jn 4:46',
 );
 $concordance['770']['V-IAI-3S'][] = array (
   'word' => 'ἠσθένει',
-  'spa' => 'estaba debilitado',
+  'spa' => 'estaba enfermo',
   'morph' => 'V-IAI-3S',
   'ref' => 'jn 11:2',
 );
 $concordance['770']['V-PAP-GPM'][] = array (
   'word' => 'ἀσθενούντων',
-  'spa' => 'que están debilitados',
+  'spa' => 'que están enfermos',
   'morph' => 'V-PAP-GPM',
   'ref' => 'jn 5:3',
 );
 $concordance['770']['V-PAP-GPM'][] = array (
   'word' => 'ἀσθενούντων',
-  'spa' => 'que están debilitados',
+  'spa' => 'que están enfermos',
   'morph' => 'V-PAP-GPM',
   'ref' => 'jn 6:2',
 );
@@ -6512,19 +6512,19 @@ $concordance['770']['V-PAP-NSM'][] = array (
 );
 $concordance['770']['V-PAP-NSM'][] = array (
   'word' => 'ἀσθενῶν',
-  'spa' => 'estando debilitado',
+  'spa' => 'estando enfermo',
   'morph' => 'V-PAP-NSM',
   'ref' => 'jn 11:1',
 );
 $concordance['770']['V-PAI-3S'][] = array (
   'word' => 'ἀσθενεῖ',
-  'spa' => 'está debilitado',
+  'spa' => 'está enfermo',
   'morph' => 'V-PAI-3S',
   'ref' => 'jn 11:3',
 );
 $concordance['770']['V-PAI-3S'][] = array (
   'word' => 'ἀσθενεῖ',
-  'spa' => 'está debilitado',
+  'spa' => 'está enfermo',
   'morph' => 'V-PAI-3S',
   'ref' => 'jn 11:6',
 );

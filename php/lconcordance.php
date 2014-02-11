@@ -8,3 +8,4 @@ include $concordance_path . 'lk.php';
 include $concordance_path . 'jn.php';
 include $concordance_path . 'ac.php';
 include $concordance_path . 'ro.php';
+include $concordance_path . '1co.php';

@@ -21561,7 +21561,7 @@ $index['jn'][4][46][19] = array (
   'morph' => 'NNSM',
 );
 $index['jn'][4][46][20] = array (
-  'spa' => 'estaba debilitado',
+  'spa' => 'estaba enfermo',
   'greek' => 'ἠσθένει',
   'lemma' => 'ἀσθενέω',
   'translit' => 'ēsthenei',
@@ -23049,7 +23049,7 @@ $index['jn'][5][3][4] = array (
   'morph' => 'DGPM',
 );
 $index['jn'][5][3][5] = array (
-  'spa' => 'que están debilitados,',
+  'spa' => 'que están enfermos,',
   'greek' => 'ἀσθενούντων,',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenountōn',
@@ -29313,7 +29313,7 @@ $index['jn'][6][2][12] = array (
   'morph' => 'DGPM',
 );
 $index['jn'][6][2][13] = array (
-  'spa' => 'que están debilitados.',
+  'spa' => 'que están enfermos.',
   'greek' => 'ἀσθενούντων.',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenountōn',
@@ -64169,7 +64169,7 @@ $index['jn'][11][1][2] = array (
   'morph' => 'RX-NSM',
 );
 $index['jn'][11][1][3] = array (
-  'spa' => 'estando debilitado,',
+  'spa' => 'estando enfermo,',
   'greek' => 'ἀσθενῶν,',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenōn',
@@ -64433,7 +64433,7 @@ $index['jn'][11][2][19] = array (
   'morph' => 'NNSM',
 );
 $index['jn'][11][2][20] = array (
-  'spa' => 'estaba debilitado.',
+  'spa' => 'estaba enfermo.',
   'greek' => 'ἠσθένει.',
   'lemma' => 'ἀσθενέω',
   'translit' => 'ēsthenei',
@@ -64529,7 +64529,7 @@ $index['jn'][11][3][10] = array (
   'morph' => 'VPAI2S',
 );
 $index['jn'][11][3][11] = array (
-  'spa' => 'está debilitado.',
+  'spa' => 'está enfermo.',
   'greek' => 'ἀσθενεῖ.',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenei',
@@ -64881,7 +64881,7 @@ $index['jn'][11][6][3] = array (
   'morph' => 'CSC',
 );
 $index['jn'][11][6][4] = array (
-  'spa' => 'está debilitado,',
+  'spa' => 'está enfermo,',
   'greek' => 'ἀσθενεῖ,',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenei',

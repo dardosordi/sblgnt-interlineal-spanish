@@ -15249,7 +15249,7 @@ $index['ro'][5][6][4] = array (
   'morph' => 'P-1GP',
 );
 $index['ro'][5][6][5] = array (
-  'spa' => 'enfermos',
+  'spa' => 'débiles',
   'greek' => 'ἀσθενῶν',
   'lemma' => 'ἀσθενής',
   'translit' => 'asthenōn',

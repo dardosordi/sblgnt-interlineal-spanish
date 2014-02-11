@@ -48273,7 +48273,7 @@ $index['ac'][9][37][5] = array (
   'morph' => 'RD-DPF',
 );
 $index['ac'][9][37][6] = array (
-  'spa' => 'habiendose debilitado',
+  'spa' => 'habiendose enfermado',
   'greek' => 'ἀσθενήσασαν',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenēsasan',
@@ -88265,7 +88265,7 @@ $index['ac'][17][11][2] = array (
   'morph' => 'VIAI3P',
 );
 $index['ac'][17][11][3] = array (
-  'spa' => 'más bien nacidos',
+  'spa' => 'más nobles',
   'greek' => 'εὐγενέστεροι',
   'lemma' => 'εὐγενής',
   'translit' => 'eugenesteroi',
@@ -97713,7 +97713,7 @@ $index['ac'][19][12][3] = array (
   'morph' => 'DAPM',
 );
 $index['ac'][19][12][4] = array (
-  'spa' => 'que están debilitados',
+  'spa' => 'que están enfermos',
   'greek' => 'ἀσθενοῦντας',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenountas',
@@ -107137,7 +107137,7 @@ $index['ac'][20][35][8] = array (
   'morph' => 'DGPM',
 );
 $index['ac'][20][35][9] = array (
-  'spa' => 'que están debilitados,',
+  'spa' => 'que están enfermos,',
   'greek' => 'ἀσθενούντων,',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenountōn',

@@ -7826,19 +7826,19 @@ $concordance['769']['NAPF'][] = array (
 );
 $concordance['770']['VPAP-PAM'][] = array (
   'word' => 'ἀσθενοῦντας',
-  'spa' => 'a los que están debilitados',
+  'spa' => 'a los que están enfermos',
   'morph' => 'VPAP-PAM',
   'ref' => 'mt 10:8',
 );
 $concordance['770']['VAAI1S'][] = array (
   'word' => 'ἠσθένησα',
-  'spa' => 'estuve debilitado',
+  'spa' => 'estuve enfermo',
   'morph' => 'VAAI1S',
   'ref' => 'mt 25:36',
 );
 $concordance['770']['VPAP-SAM'][] = array (
   'word' => 'ἀσθενοῦντα',
-  'spa' => 'estando debilitado',
+  'spa' => 'estando enfermo',
   'morph' => 'VPAP-SAM',
   'ref' => 'mt 25:39',
 );
@@ -7856,7 +7856,7 @@ $concordance['772']['JASM'][] = array (
 );
 $concordance['772']['JNSF'][] = array (
   'word' => 'ἀσθενής',
-  'spa' => 'enferma',
+  'spa' => 'débil',
   'morph' => 'JNSF',
   'ref' => 'mt 26:41',
 );

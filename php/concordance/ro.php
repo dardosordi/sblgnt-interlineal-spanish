@@ -3380,7 +3380,7 @@ $concordance['771']['N-APN'][] = array (
 );
 $concordance['772']['A-GPM'][] = array (
   'word' => 'ἀσθενῶν',
-  'spa' => 'enfermos',
+  'spa' => 'débiles',
   'morph' => 'A-GPM',
   'ref' => 'ro 5:6',
 );

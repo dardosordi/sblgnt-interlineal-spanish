@@ -8,3 +8,4 @@ include $index_path . 'lk.php';
 include $index_path . 'jn.php';
 include $index_path . 'ac.php';
 include $index_path . 'ro.php';
+include $index_path . '1co.php';
