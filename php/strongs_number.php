@@ -135,7 +135,7 @@ if (isset($strongs[$lang][$number])) {
 				$verse_ref = ($book == $current_book ? '' : $book . ' ') . ($book == $current_book && $chapter == $current_chapter ? '' : $chapter.':') . $verse;
 
 				$url = url_for($books[$book]['dir'], $chapter) . '#v' . $verse;
-				$link = sprintf('<a href="%s" data-count="%d" target="_blank">%s%s</a>', $url, $count, ucwords($verse_ref), $count > 1 ? "<sup class=\"count\"> x$count</sup>" : '');
+				$link = sprintf('<a href="%s" data-count="%d" target="_blank">%s%s</a>', $url, $count, ucwords(preg_replace('#^([1-3])([a-z])#i', '\1 \2', $verse_ref)), $count > 1 ? "<sup class=\"count\"> x$count</sup>" : '');
 
 				$separator = $chapter == $current_chapter ? ', ' : '; ';
 				$separator = $book == $current_book ? $separator : "</li><li class=\"book $book\">";
