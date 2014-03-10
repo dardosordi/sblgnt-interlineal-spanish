@@ -64169,7 +64169,7 @@ $index['jn'][11][1][2] = array (
   'morph' => 'X-NSM',
 );
 $index['jn'][11][1][3] = array (
-  'spa' => 'estando debilitado,',
+  'spa' => 'estando enfermo,',
   'greek' => 'ἀσθενῶν,',
   'lemma' => 'ἀσθενέω',
   'translit' => 'asthenōn',
