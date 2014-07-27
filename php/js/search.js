@@ -19,7 +19,13 @@ $(function() {
 	$(".result").after('<div id="chart"></div>');
 
 	var categories = [];
-	var series = [{name: 'Encontrados', data: []}];
+	var series = [{
+        name: 'Encontrados',
+        data: [],
+        dataLabels: {
+            enabled: true
+        }
+    }];
 	for (var x in books_enabled) {
 		categories.push(books[x]);
 		var count = 0;

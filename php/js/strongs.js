@@ -8,7 +8,13 @@ $(function() {
 	var word = $('.strongs-entry .greek:eq(0)').text();
 
 	var categories = [];
-	var series = [{name: word, data: []}];
+	var series = [{
+        name: word,
+        data: [],
+        dataLabels: {
+            enabled: true
+        }
+    }];
 	for (var x in books) {
 		categories.push(books[x]);
 
