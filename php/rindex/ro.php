@@ -1321,7 +1321,7 @@ $index['ro'][1][11][8] = array (
   'morph' => 'P-2DP',
 );
 $index['ro'][1][11][9] = array (
-  'spa' => 'espirutual',
+  'spa' => 'espiritual',
   'greek' => 'πνευματικὸν',
   'lemma' => 'πνευματικός',
   'translit' => 'pneumatikon',
@@ -23129,7 +23129,7 @@ $index['ro'][7][14][4] = array (
   'morph' => 'N-NSM',
 );
 $index['ro'][7][14][5] = array (
-  'spa' => 'espirutual',
+  'spa' => 'espiritual',
   'greek' => 'πνευματικός',
   'lemma' => 'πνευματικός',
   'translit' => 'pneumatikos',
@@ -52561,7 +52561,7 @@ $index['ro'][15][27][8] = array (
   'morph' => 'T-DPN',
 );
 $index['ro'][15][27][9] = array (
-  'spa' => 'espirutuales',
+  'spa' => 'espirituales',
   'greek' => 'πνευματικοῖς',
   'lemma' => 'πνευματικός',
   'translit' => 'pneumatikois',

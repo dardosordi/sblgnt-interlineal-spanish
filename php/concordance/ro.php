@@ -36158,19 +36158,19 @@ $concordance['4151']['N-NSN'][] = array (
 );
 $concordance['4152']['A-ASN'][] = array (
   'word' => 'πνευματικὸν',
-  'spa' => 'espirutual',
+  'spa' => 'espiritual',
   'morph' => 'A-ASN',
   'ref' => 'ro 1:11',
 );
 $concordance['4152']['A-NSM'][] = array (
   'word' => 'πνευματικός',
-  'spa' => 'espirutual',
+  'spa' => 'espiritual',
   'morph' => 'A-NSM',
   'ref' => 'ro 7:14',
 );
 $concordance['4152']['A-DPN'][] = array (
   'word' => 'πνευματικοῖς',
-  'spa' => 'espirutuales',
+  'spa' => 'espirituales',
   'morph' => 'A-DPN',
   'ref' => 'ro 15:27',
 );

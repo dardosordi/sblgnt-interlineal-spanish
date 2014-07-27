@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="786" sizex="1290" sizey="28456" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="801" sizex="1290" sizey="30136" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="16:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \_unknown_char_style \fig \vp \_hidden_note \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΠΡΟΣ" k="ΠΡΟΣ" t="Hacia" a="Hacia"
@@ -2442,7 +2442,7 @@
   f="0000000000000000000001" sn="738" w="1" ty="1"
   pp="⸀" fp=",">
   </S>
-  <S s="πνευματικοῖς" k="πνευματικοῖς" t="con espirutuales" a="con espirutuales"
+  <S s="πνευματικοῖς" k="πνευματικοῖς" t="con espirituales" a="con espirituales"
   f="0000000000000000000001" sn="739" w="1" ty="1">
   </S>
   <S s="πνευματικὰ" k="πνευματικὰ" t="lo espiritual" a="lo espiritual"
@@ -2604,57 +2604,57 @@
   f="0000000000000000100001" sn="786" w="1" ty="1"
   fp=".">
   </S>
-  <S s="Κἀγώ," k="Κἀγώ"
-  f="0000011000000000010000" sn="787" w="1" ty="1"
+  <S s="Κἀγώ," k="Κἀγώ" t="Y yo," a="Y yo"
+  f="0000011000000000010001" sn="787" w="1" ty="1"
   fp="," c="3:1"
   m="\c 3 \v 1 ">
   </S>
-  <S s="ἀδελφοί," k="ἀδελφοί"
-  f="0000000000000000000000" sn="788" w="1" ty="1"
+  <S s="ἀδελφοί," k="ἀδελφοί" t="hermanos," a="hermanos"
+  f="0000000000000000000001" sn="788" w="1" ty="1"
   fp=",">
   </S>
-  <S s="οὐκ" k="οὐκ"
-  f="0000000000000000000000" sn="789" w="1" ty="1">
+  <S s="οὐκ" k="οὐκ" t="no" a="no"
+  f="0000000000000000000001" sn="789" w="1" ty="1">
   </S>
-  <S s="ἠδυνήθην" k="ἠδυνήθην"
-  f="0000000000000000000000" sn="790" w="1" ty="1">
+  <S s="ἠδυνήθην" k="ἠδυνήθην" t="he podido" a="he podido"
+  f="0000000000000000000001" sn="790" w="1" ty="1">
   </S>
-  <S s="⸂λαλῆσαι" k="λαλῆσαι"
-  f="0000000000000000000000" sn="791" w="1" ty="1"
+  <S s="⸂λαλῆσαι" k="λαλῆσαι" t="⸂hablar" a="hablar"
+  f="0000000000000000000001" sn="791" w="1" ty="1"
   pp="⸂">
   </S>
-  <S s="ὑμῖν⸃" k="ὑμῖν"
-  f="0000000000000000100000" sn="792" w="1" ty="1"
+  <S s="ὑμῖν⸃" k="ὑμῖν" t="a ustedes⸃" a="a ustedes"
+  f="0000000000000000100001" sn="792" w="1" ty="1"
   fp="⸃">
   </S>
-  <S s="ὡς" k="ὡς"
-  f="0000000000000000000000" sn="793" w="1" ty="1">
+  <S s="ὡς" k="ὡς" t="como" a="como"
+  f="0000000000000000000001" sn="793" w="1" ty="1">
   </S>
-  <S s="πνευματικοῖς" k="πνευματικοῖς"
-  f="0000000000000000000000" sn="794" w="1" ty="1">
+  <S s="πνευματικοῖς" k="πνευματικοῖς" t="a espirituales" a="a espirituales"
+  f="0000000000000000000001" sn="794" w="1" ty="1">
   </S>
-  <S s="ἀλλ’" k="ἀλλ"
-  f="0000000000000000100000" sn="795" w="1" ty="1"
+  <S s="ἀλλ’" k="ἀλλ" t="sino que" a="sino que"
+  f="0000000000000000100001" sn="795" w="1" ty="1"
   fp="’">
   </S>
-  <S s="ὡς" k="ὡς"
-  f="0000000000000000000000" sn="796" w="1" ty="1">
+  <S s="ὡς" k="ὡς" t="como" a="como"
+  f="0000000000000000000001" sn="796" w="1" ty="1">
   </S>
-  <S s="⸀σαρκίνοις," k="σαρκίνοις"
-  f="0000000000000000000000" sn="797" w="1" ty="1"
+  <S s="⸀σαρκίνοις," k="σαρκίνοις" t="⸀a carnales," a="a carnales"
+  f="0000000000000000000001" sn="797" w="1" ty="1"
   pp="⸀" fp=",">
   </S>
-  <S s="ὡς" k="ὡς"
-  f="0000000000000000000000" sn="798" w="1" ty="1">
+  <S s="ὡς" k="ὡς" t="como" a="como"
+  f="0000000000000000000001" sn="798" w="1" ty="1">
   </S>
-  <S s="νηπίοις" k="νηπίοις"
-  f="0000000000000000000000" sn="799" w="1" ty="1">
+  <S s="νηπίοις" k="νηπίοις" t="a niños pequeños" a="a niños pequeños"
+  f="0000000000000000000001" sn="799" w="1" ty="1">
   </S>
-  <S s="ἐν" k="ἐν"
-  f="0000000000000000000000" sn="800" w="1" ty="1">
+  <S s="ἐν" k="ἐν" t="en" a="en"
+  f="0000000000000000000001" sn="800" w="1" ty="1">
   </S>
-  <S s="Χριστῷ." k="Χριστῷ"
-  f="0000000000000000100000" sn="801" w="1" ty="1"
+  <S s="Χριστῷ." k="Χριστῷ" t="Ungido." a="Ungido"
+  f="0000000000000000100001" sn="801" w="1" ty="1"
   fp=".">
   </S>
   <S s="γάλα" k="γάλα"

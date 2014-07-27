@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="1908" sizex="1290" sizey="34894" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="6572" sizex="1290" sizey="36596" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="16:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \_unknown_char_style \fig \vp \_hidden_note \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΠΡΟΣ" k="ΠΡΟΣ" t="Hacia" a="Hacia"
@@ -551,7 +551,7 @@
   <S s="ὑμῖν" k="ὑμῖν" t="a ustedes" a="a ustedes"
   f="0000000000000000000001" sn="166" w="1" ty="1">
   </S>
-  <S s="πνευματικὸν" k="πνευματικὸν" t="espirutual" a="espirutual"
+  <S s="πνευματικὸν" k="πνευματικὸν" t="espiritual" a="espiritual"
   f="0000000000000000000001" sn="167" w="1" ty="1">
   </S>
   <S s="εἰς" k="εἰς" t="para" a="para"
@@ -9501,7 +9501,7 @@
   <S s="νόμος" k="νόμος" t="ley" a="ley"
   f="0000000000000000000001" sn="2892" w="1" ty="1">
   </S>
-  <S s="πνευματικός" k="πνευματικός" t="espirutual" a="espirutual"
+  <S s="πνευματικός" k="πνευματικός" t="espiritual" a="espiritual"
   f="0000000000000000000001" sn="2893" w="1" ty="1">
   </S>
   <S s="ἐστιν·" k="ἐστιν" t="es:" a="es"
@@ -21737,7 +21737,7 @@
   <S s="τοῖς" k="τοῖς" t="en las" a="en las"
   f="0000000000000000000001" sn="6571" w="1" ty="1">
   </S>
-  <S s="πνευματικοῖς" k="πνευματικοῖς" t="espirutuales" a="espirutuales"
+  <S s="πνευματικοῖς" k="πνευματικοῖς" t="espirituales" a="espirituales"
   f="0000000000000000000001" sn="6572" w="1" ty="1">
   </S>
   <S s="αὐτῶν" k="αὐτῶν" t="de ellos" a="de ellos"
