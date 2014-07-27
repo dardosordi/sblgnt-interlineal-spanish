@@ -14090,7 +14090,7 @@ $concordance['2054']['N-GSF'][] = array (
 );
 $concordance['2054']['N-DSF'][] = array (
   'word' => 'ἔριδι',
-  'spa' => 'en contiendas',
+  'spa' => 'en contienda',
   'morph' => 'N-DSF',
   'ref' => 'ro 13:13',
 );
@@ -15242,7 +15242,7 @@ $concordance['2205']['N-ASM'][] = array (
 );
 $concordance['2205']['N-DSM'][] = array (
   'word' => 'ζήλῳ',
-  'spa' => 'en celos',
+  'spa' => 'en celo',
   'morph' => 'N-DSM',
   'ref' => 'ro 13:13',
 );

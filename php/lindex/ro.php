@@ -45881,7 +45881,7 @@ $index['ro'][13][13][13] = array (
   'morph' => 'BN',
 );
 $index['ro'][13][13][14] = array (
-  'spa' => 'en contiendas',
+  'spa' => 'en contienda',
   'greek' => 'ἔριδι',
   'lemma' => 'ἔρις',
   'translit' => 'eridi',
@@ -45897,7 +45897,7 @@ $index['ro'][13][13][15] = array (
   'morph' => 'CLN',
 );
 $index['ro'][13][13][16] = array (
-  'spa' => 'en celos,',
+  'spa' => 'en celo,',
   'greek' => 'ζήλῳ,',
   'lemma' => 'ζῆλος',
   'translit' => 'zēlōi',
