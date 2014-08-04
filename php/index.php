@@ -20,7 +20,8 @@ $concordance_path = dirname(__FILE__) . '/concordance/';
 <div id="content">
 
 <h1>SBL GNT Interlineal Español</h1>
-<div class="interlineal">
+
+<a href="search.php">Buscar</a>
 
 <ul class="books">
     <? foreach($books as $book => $book_data):
@@ -38,7 +39,7 @@ $concordance_path = dirname(__FILE__) . '/concordance/';
     <? endforeach; ?>
 </ul>
 
-</div>
+
 </div>
 </body>
 </html>
