@@ -1,5 +1,5 @@
 $(function() {
-	var books = {'mt': 'Mt', 'mk': 'Mk', 'lk': 'Lk', 'jn': 'Jn', 'ac': 'Ac', 'ro': 'Ro'};
+	var books = {'mt': 'Mt', 'mk': 'Mk', 'lk': 'Lk', 'jn': 'Jn', 'ac': 'Ac', 'ro': 'Ro', '1co': '1 Co'};
 
 	if (!$(".result").length) {
 		return;
