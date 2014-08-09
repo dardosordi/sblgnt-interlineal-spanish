@@ -52352,7 +52352,7 @@ $concordance['2548']['D-APM-C'][] = array (
 );
 $concordance['2549']['N-GSF'][] = array (
   'word' => 'κακίας',
-  'spa' => 'maldad',
+  'spa' => 'mal',
   'morph' => 'N-GSF',
   'ref' => 'ac 8:22',
 );
@@ -69044,7 +69044,7 @@ $concordance['3588']['T-GSF'][] = array (
 );
 $concordance['3588']['T-GSF'][] = array (
   'word' => 'τῆς',
-  'spa' => 'la',
+  'spa' => 'el',
   'morph' => 'T-GSF',
   'ref' => 'ac 8:22',
 );
@@ -85670,7 +85670,7 @@ $concordance['3778']['D-GSF'][] = array (
 );
 $concordance['3778']['D-GSF'][] = array (
   'word' => 'ταύτης',
-  'spa' => 'esta',
+  'spa' => 'este',
   'morph' => 'D-GSF',
   'ref' => 'ac 8:22',
 );
@@ -98636,7 +98636,7 @@ $concordance['4675']['P-2GS'][] = array (
 );
 $concordance['4675']['P-2GS'][] = array (
   'word' => 'σου',
-  'spa' => 'tuya',
+  'spa' => 'tuyo',
   'morph' => 'P-2GS',
   'ref' => 'ac 8:22',
 );

@@ -3993,7 +3993,7 @@ $index['ro'][1][29][4] = array (
   'morph' => 'N-DSF',
 );
 $index['ro'][1][29][5] = array (
-  'spa' => 'maldad,',
+  'spa' => 'mal,',
   'greek' => 'κακίᾳ,',
   'lemma' => 'κακία',
   'translit' => 'kakiai',

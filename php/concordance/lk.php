@@ -7610,7 +7610,7 @@ $concordance['724']['N-GSF'][] = array (
 );
 $concordance['727']['A-NPM'][] = array (
   'word' => 'ἅρπαγες',
-  'spa' => 'rapaces',
+  'spa' => 'estafadores',
   'morph' => 'A-NPM',
   'ref' => 'lk 18:11',
 );
@@ -95048,13 +95048,13 @@ $concordance['3860']['V-FPI-3S'][] = array (
 );
 $concordance['3860']['V-2AAN'][] = array (
   'word' => 'παραδοῦναι',
-  'spa' => 'entrear',
+  'spa' => 'entregar',
   'morph' => 'V-2AAN',
   'ref' => 'lk 20:20',
 );
 $concordance['3860']['V-2AAN'][] = array (
   'word' => 'παραδοῦναι',
-  'spa' => 'entrear',
+  'spa' => 'entregar',
   'morph' => 'V-2AAN',
   'ref' => 'lk 22:6',
 );

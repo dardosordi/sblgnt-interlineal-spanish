@@ -113433,7 +113433,7 @@ $index['lk'][18][11][18] = array (
   'morph' => 'NGPM',
 );
 $index['lk'][18][11][19] = array (
-  'spa' => 'rapaces,',
+  'spa' => 'estafadores,',
   'greek' => 'ἅρπαγες,',
   'lemma' => 'ἅρπαξ',
   'translit' => 'harpages',
@@ -126017,7 +126017,7 @@ $index['lk'][20][20][12] = array (
   'morph' => 'CAP',
 );
 $index['lk'][20][20][13] = array (
-  'spa' => 'entrear',
+  'spa' => 'entregar',
   'greek' => 'παραδοῦναι',
   'lemma' => 'παραδίδωμι',
   'translit' => 'paradounai',
@@ -134169,7 +134169,7 @@ $index['lk'][22][6][5] = array (
   'morph' => 'DGSN',
 );
 $index['lk'][22][6][6] = array (
-  'spa' => 'entrear',
+  'spa' => 'entregar',
   'greek' => 'παραδοῦναι',
   'lemma' => 'παραδίδωμι',
   'translit' => 'paradounai',

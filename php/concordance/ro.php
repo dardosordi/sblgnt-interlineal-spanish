@@ -19946,7 +19946,7 @@ $concordance['2548']['D-NPM-C'][] = array (
 );
 $concordance['2549']['N-DSF'][] = array (
   'word' => 'κακίᾳ',
-  'spa' => 'maldad',
+  'spa' => 'mal',
   'morph' => 'N-DSF',
   'ref' => 'ro 1:29',
 );
