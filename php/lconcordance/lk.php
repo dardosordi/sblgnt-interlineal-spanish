@@ -61424,13 +61424,13 @@ $concordance['2813']['VAAS2S'][] = array (
 );
 $concordance['2816']['VFAI1S'][] = array (
   'word' => 'κληρονομήσω',
-  'spa' => 'heredare',
+  'spa' => 'heredaré',
   'morph' => 'VFAI1S',
   'ref' => 'lk 10:25',
 );
 $concordance['2816']['VFAI1S'][] = array (
   'word' => 'κληρονομήσω',
-  'spa' => 'heredare',
+  'spa' => 'heredaré',
   'morph' => 'VFAI1S',
   'ref' => 'lk 18:18',
 );

@@ -10514,7 +10514,7 @@
       <RS n="1" a="ya" df="1"
       cDT="2013-12-14T19:46:12Z" wC="dardo:sophie"
       dDT="2014-08-15T04:19:48Z"/>
-      <RS n="2" a="entoncés" df="0"
+      <RS n="1" a="entoncés" df="0"
       cDT="2013-12-14T19:46:20Z" wC="dardo:sophie"/>
       <RS n="1" a="realmente" df="0"
       cDT="2013-12-14T19:46:30Z" wC="dardo:sophie"/>
@@ -16423,8 +16423,10 @@
       cDT="2014-08-15T03:49:32Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κληρονομήσω">
-      <RS n="3" a="heredare" df="0"
+      <RS n="1" a="heredare" df="0"
       cDT="2013-12-14T19:46:21Z" wC="dardo:sophie"/>
+      <RS n="2" a="heredaré" df="0"
+      cDT="2014-08-15T04:28:48Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="κληρονομία">
       <RS n="2" a="herencia" df="0"
@@ -20747,9 +20749,8 @@
       <RS n="1" a="adulteros" df="1"
       cDT="2014-08-15T03:51:49Z" wC="dardo:sophie"
       dDT="2014-08-15T03:51:50Z"/>
-      <RS n="1" a="adúlteros" df="1"
-      cDT="2014-08-15T03:51:55Z" wC="dardo:sophie"
-      dDT="2014-08-15T03:51:56Z"/>
+      <RS n="1" a="adúlteros" df="0"
+      cDT="2014-08-15T04:28:32Z" wC="dardo:sophie"/>
     </TU>
     <TU f="0" k="μοιχοὶ">
       <RS n="1" a="adúlteros" df="0"

@@ -69345,7 +69345,7 @@ $index['lk'][10][25][12] = array (
   'morph' => 'A-ASF',
 );
 $index['lk'][10][25][13] = array (
-  'spa' => 'heredare?',
+  'spa' => 'heredaré?',
   'greek' => 'κληρονομήσω;',
   'lemma' => 'κληρονομέω',
   'translit' => 'klēronomēsō',
@@ -114505,7 +114505,7 @@ $index['lk'][18][18][11] = array (
   'morph' => 'A-ASF',
 );
 $index['lk'][18][18][12] = array (
-  'spa' => 'heredare?',
+  'spa' => 'heredaré?',
   'greek' => 'κληρονομήσω;',
   'lemma' => 'κληρονομέω',
   'translit' => 'klēronomēsō',
