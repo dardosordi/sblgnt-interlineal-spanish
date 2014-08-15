@@ -13593,7 +13593,7 @@ $index['mt'][5][5][4] = array (
   'morph' => 'RP3NPM',
 );
 $index['mt'][5][5][5] = array (
-  'spa' => 'heredaran',
+  'spa' => 'heredarán',
   'greek' => 'κληρονομήσουσι',
   'lemma' => 'κληρονομέω',
   'translit' => 'klēronomēsousi',

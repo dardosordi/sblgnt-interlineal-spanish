@@ -113449,7 +113449,7 @@ $index['lk'][18][11][20] = array (
   'morph' => 'A-NPM',
 );
 $index['lk'][18][11][21] = array (
-  'spa' => 'adulteros,',
+  'spa' => 'adúlteros,',
   'greek' => 'μοιχοί,',
   'lemma' => 'μοιχός',
   'translit' => 'moichoi',

@@ -20690,13 +20690,13 @@ $concordance['1210']['VRPP-SAM'][] = array (
 );
 $concordance['1211']['TE'][] = array (
   'word' => 'δή',
-  'spa' => 'ya',
+  'spa' => 'entoncés',
   'morph' => 'TE',
   'ref' => 'ac 13:2',
 );
 $concordance['1211']['TE'][] = array (
   'word' => 'δὴ',
-  'spa' => 'ya',
+  'spa' => 'entoncés',
   'morph' => 'TE',
   'ref' => 'ac 15:36',
 );

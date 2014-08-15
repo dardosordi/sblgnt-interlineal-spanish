@@ -55082,7 +55082,7 @@ $concordance['2813']['VAAI3P'][] = array (
 );
 $concordance['2816']['VFAI3P'][] = array (
   'word' => 'κληρονομήσουσι',
-  'spa' => 'heredaran',
+  'spa' => 'heredarán',
   'morph' => 'VFAI3P',
   'ref' => 'mt 5:5',
 );

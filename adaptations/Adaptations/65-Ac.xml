@@ -3,7 +3,7 @@
 	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
 	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="5044" sizex="1290" sizey="96104" ftsbp="1" specialcolor="255"
+	<Settings docVersion="8" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="10038" sizex="1290" sizey="96180" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="13:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \_unknown_char_style \fig \vp \_hidden_note \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
   <S s="ΠΡΑΞΕΙΣ" k="ΠΡΑΞΕΙΣ" t="Hechos" a="Hechos"
@@ -26548,7 +26548,7 @@
   <S s="Ἀφορίσατε" k="Ἀφορίσατε" t="Separen" a="Separen"
   f="0000000000000000000001" sn="8068" w="1" ty="1">
   </S>
-  <S s="δή" k="δή" t="ya" a="ya"
+  <S s="δή" k="δή" t="entoncés" a="entoncés"
   f="0000000000000000000001" sn="8069" w="1" ty="1">
   </S>
   <S s="μοι" k="μοι" t="a mí" a="a mí"
@@ -33020,7 +33020,7 @@
   <S s="Ἐπιστρέψαντες" k="Ἐπιστρέψαντες" t="Habiendo vuelto" a="Habiendo vuelto"
   f="0000000000000000000001" sn="10037" w="1" ty="1">
   </S>
-  <S s="δὴ" k="δὴ" t="ya" a="ya"
+  <S s="δὴ" k="δὴ" t="entoncés" a="entoncés"
   f="0000000000000000000001" sn="10038" w="1" ty="1">
   </S>
   <S s="ἐπισκεψώμεθα" k="ἐπισκεψώμεθα" t="visitaremos" a="visitaremos"

@@ -69398,7 +69398,7 @@ $concordance['3431']['V-AAS-2S'][] = array (
 );
 $concordance['3432']['N-NPM'][] = array (
   'word' => 'μοιχοί',
-  'spa' => 'adulteros',
+  'spa' => 'adúlteros',
   'morph' => 'N-NPM',
   'ref' => 'lk 18:11',
 );

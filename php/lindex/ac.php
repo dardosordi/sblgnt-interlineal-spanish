@@ -64537,7 +64537,7 @@ $index['ac'][13][2][12] = array (
   'morph' => 'VAAM2P',
 );
 $index['ac'][13][2][13] = array (
-  'spa' => 'ya',
+  'spa' => 'entoncés',
   'greek' => 'δή',
   'lemma' => 'δή',
   'translit' => 'dē',
@@ -80289,7 +80289,7 @@ $index['ac'][15][36][8] = array (
   'morph' => 'VAAP-PNM',
 );
 $index['ac'][15][36][9] = array (
-  'spa' => 'ya',
+  'spa' => 'entoncés',
   'greek' => 'δὴ',
   'lemma' => 'δή',
   'translit' => 'dē',

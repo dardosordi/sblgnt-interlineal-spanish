@@ -20690,13 +20690,13 @@ $concordance['1210']['V-RPP-ASM'][] = array (
 );
 $concordance['1211']['PRT'][] = array (
   'word' => 'δή',
-  'spa' => 'ya',
+  'spa' => 'entoncés',
   'morph' => 'PRT',
   'ref' => 'ac 13:2',
 );
 $concordance['1211']['PRT'][] = array (
   'word' => 'δὴ',
-  'spa' => 'ya',
+  'spa' => 'entoncés',
   'morph' => 'PRT',
   'ref' => 'ac 15:36',
 );
