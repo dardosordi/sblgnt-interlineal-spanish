@@ -4616,7 +4616,7 @@ $concordance['565']['VAAS1S'][] = array (
 );
 $concordance['571']['JNSM'][] = array (
   'word' => 'ἄπιστος',
-  'spa' => 'infiel',
+  'spa' => 'incrédulo',
   'morph' => 'JNSM',
   'ref' => 'jn 20:27',
 );
@@ -49202,13 +49202,13 @@ $concordance['3105']['VPUI3S'][] = array (
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'μακάριοί',
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'morph' => 'JNPM',
   'ref' => 'jn 13:17',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'μακάριοι',
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'morph' => 'JNPM',
   'ref' => 'jn 20:29',
 );
@@ -50528,7 +50528,7 @@ $concordance['3199']['VIAI3S'][] = array (
 );
 $concordance['3303']['TK'][] = array (
   'word' => 'μὲν',
-  'spa' => 'pues',
+  'spa' => 'unos',
   'morph' => 'TK',
   'ref' => 'jn 7:12',
 );
@@ -50552,7 +50552,7 @@ $concordance['3303']['TK'][] = array (
 );
 $concordance['3303']['TK'][] = array (
   'word' => 'μὲν',
-  'spa' => 'pues',
+  'spa' => 'uno',
   'morph' => 'TK',
   'ref' => 'jn 19:32',
 );
@@ -79442,7 +79442,7 @@ $concordance['4101']['JGSF'][] = array (
 );
 $concordance['4103']['JNSM'][] = array (
   'word' => 'πιστός',
-  'spa' => 'fiel',
+  'spa' => 'creyente',
   'morph' => 'JNSM',
   'ref' => 'jn 20:27',
 );
@@ -84968,7 +84968,7 @@ $concordance['4972']['VAAI3S'][] = array (
 );
 $concordance['4977']['VAAS1P'][] = array (
   'word' => 'σχίσωμεν',
-  'spa' => 'razgaremos',
+  'spa' => 'rasgaremos',
   'morph' => 'VAAS1P',
   'ref' => 'jn 19:24',
 );

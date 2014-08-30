@@ -5348,13 +5348,13 @@ $concordance['569']['VPAP-PGM'][] = array (
 );
 $concordance['571']['JNSF'][] = array (
   'word' => 'ἄπιστος',
-  'spa' => 'infiel',
+  'spa' => 'incrédula',
   'morph' => 'JNSF',
   'ref' => 'lk 9:41',
 );
 $concordance['571']['JGPM'][] = array (
   'word' => 'ἀπίστων',
-  'spa' => 'infieles',
+  'spa' => 'incrédulos',
   'morph' => 'JGPM',
   'ref' => 'lk 12:46',
 );
@@ -22760,7 +22760,7 @@ $concordance['1161']['CLK'][] = array (
 );
 $concordance['1161']['CLK'][] = array (
   'word' => 'δὲ',
-  'spa' => '← y',
+  'spa' => '← pero',
   'morph' => 'CLK',
   'ref' => 'lk 10:2',
 );
@@ -65888,91 +65888,91 @@ $concordance['3106']['VFAI3P'][] = array (
 );
 $concordance['3107']['JNSF'][] = array (
   'word' => 'μακαρία',
-  'spa' => 'bendíta',
+  'spa' => 'felíz',
   'morph' => 'JNSF',
   'ref' => 'lk 1:45',
 );
 $concordance['3107']['JNSF'][] = array (
   'word' => 'Μακαρία',
-  'spa' => 'Bendíto',
+  'spa' => 'Felíz',
   'morph' => 'JNSF',
   'ref' => 'lk 11:27',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'Μακάριοι',
-  'spa' => 'Benditos',
+  'spa' => 'Felices',
   'morph' => 'JNPM',
   'ref' => 'lk 6:20',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'μακάριοι',
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'morph' => 'JNPM',
   'ref' => 'lk 6:21',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'μακάριοι',
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'morph' => 'JNPM',
   'ref' => 'lk 6:21',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'Μακάριοί',
-  'spa' => 'Benditos',
+  'spa' => 'Felices',
   'morph' => 'JNPM',
   'ref' => 'lk 6:22',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'Μακάριοι',
-  'spa' => 'Benditos',
+  'spa' => 'Felices',
   'morph' => 'JNPM',
   'ref' => 'lk 10:23',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'μακάριοι',
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'morph' => 'JNPM',
   'ref' => 'lk 11:28',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'μακάριοι',
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'morph' => 'JNPM',
   'ref' => 'lk 12:37',
 );
 $concordance['3107']['JNPM'][] = array (
   'word' => 'μακάριοί',
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'morph' => 'JNPM',
   'ref' => 'lk 12:38',
 );
 $concordance['3107']['JNSM'][] = array (
   'word' => 'μακάριός',
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'morph' => 'JNSM',
   'ref' => 'lk 7:23',
 );
 $concordance['3107']['JNSM'][] = array (
   'word' => 'μακάριος',
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'morph' => 'JNSM',
   'ref' => 'lk 12:43',
 );
 $concordance['3107']['JNSM'][] = array (
   'word' => 'μακάριος',
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'morph' => 'JNSM',
   'ref' => 'lk 14:14',
 );
 $concordance['3107']['JNSM'][] = array (
   'word' => 'Μακάριος',
-  'spa' => 'Bendito',
+  'spa' => 'Felíz',
   'morph' => 'JNSM',
   'ref' => 'lk 14:15',
 );
 $concordance['3107']['JNPF'][] = array (
   'word' => 'Μακάριαι',
-  'spa' => 'Benditas',
+  'spa' => 'Felices',
   'morph' => 'JNPF',
   'ref' => 'lk 23:29',
 );
@@ -108866,7 +108866,7 @@ $concordance['5100']['RX-NSM'][] = array (
 );
 $concordance['5100']['RX-NSM'][] = array (
   'word' => 'τις',
-  'spa' => 'alguien',
+  'spa' => 'alguno',
   'morph' => 'RX-NSM',
   'ref' => 'lk 14:16',
 );

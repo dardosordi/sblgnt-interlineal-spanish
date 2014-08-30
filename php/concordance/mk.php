@@ -3386,7 +3386,7 @@ $concordance['570']['N-DSF'][] = array (
 );
 $concordance['571']['A-VSF'][] = array (
   'word' => 'ἄπιστος',
-  'spa' => 'infiel',
+  'spa' => 'incrédula',
   'morph' => 'A-VSF',
   'ref' => 'mk 9:19',
 );
@@ -40616,7 +40616,7 @@ $concordance['3303']['PRT'][] = array (
 );
 $concordance['3303']['PRT'][] = array (
   'word' => 'μὲν',
-  'spa' => 'pues',
+  'spa' => 'ciertamente',
   'morph' => 'PRT',
   'ref' => 'mk 16:19',
 );
@@ -55268,7 +55268,7 @@ $concordance['3767']['CONJ'][] = array (
 );
 $concordance['3767']['CONJ'][] = array (
   'word' => 'οὖν',
-  'spa' => 'por lo tanto',
+  'spa' => 'pues',
   'morph' => 'CONJ',
   'ref' => 'mk 16:19',
 );
@@ -64490,7 +64490,7 @@ $concordance['5101']['I-GSM'][] = array (
 );
 $concordance['5108']['D-DPF'][] = array (
   'word' => 'τοιαύταις',
-  'spa' => 'como estás',
+  'spa' => 'como estas',
   'morph' => 'D-DPF',
   'ref' => 'mk 4:33',
 );

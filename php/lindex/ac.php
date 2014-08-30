@@ -9,7 +9,7 @@ $index['ac'][1][1][0] = array (
   'morph' => 'DASM',
 );
 $index['ac'][1][1][1] = array (
-  'spa' => 'pues',
+  'spa' => 'una',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -55537,7 +55537,7 @@ $index['ac'][10][45][4] = array (
   'morph' => 'NGSF',
 );
 $index['ac'][10][45][5] = array (
-  'spa' => 'fieles',
+  'spa' => 'creyentes',
   'greek' => 'πιστοὶ',
   'lemma' => 'πιστός',
   'translit' => 'pistoi',
@@ -69177,7 +69177,7 @@ $index['ac'][13][34][15] = array (
   'morph' => 'RP2DP',
 );
 $index['ac'][13][34][16] = array (
-  'spa' => 'los',
+  'spa' => 'las',
   'greek' => 'τὰ',
   'lemma' => 'ὁ',
   'translit' => 'ta',
@@ -72201,7 +72201,7 @@ $index['ac'][14][4][6] = array (
   'morph' => 'CLN',
 );
 $index['ac'][14][4][7] = array (
-  'spa' => 'unos',
+  'spa' => 'los',
   'greek' => 'οἱ',
   'lemma' => 'ὁ',
   'translit' => 'hoi',
@@ -72209,7 +72209,7 @@ $index['ac'][14][4][7] = array (
   'morph' => 'DNPM',
 );
 $index['ac'][14][4][8] = array (
-  'spa' => 'pues',
+  'spa' => 'unos',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -72249,7 +72249,7 @@ $index['ac'][14][4][12] = array (
   'morph' => 'JDPM',
 );
 $index['ac'][14][4][13] = array (
-  'spa' => 'unos',
+  'spa' => 'otros',
   'greek' => 'οἱ',
   'lemma' => 'ὁ',
   'translit' => 'hoi',
@@ -72257,7 +72257,7 @@ $index['ac'][14][4][13] = array (
   'morph' => 'DNPM',
 );
 $index['ac'][14][4][14] = array (
-  'spa' => '← y',
+  'spa' => '← pero',
   'greek' => 'δὲ',
   'lemma' => 'δέ',
   'translit' => 'de',
@@ -81121,7 +81121,7 @@ $index['ac'][16][1][18] = array (
   'morph' => 'JGSF',
 );
 $index['ac'][16][1][19] = array (
-  'spa' => 'fiel,',
+  'spa' => 'creyente,',
   'greek' => 'πιστῆς,',
   'lemma' => 'πιστός',
   'translit' => 'pistēs',
@@ -83105,7 +83105,7 @@ $index['ac'][16][15][12] = array (
   'morph' => 'JASF',
 );
 $index['ac'][16][15][13] = array (
-  'spa' => 'con',
+  'spa' => 'en',
   'greek' => 'τῷ',
   'lemma' => 'ὁ',
   'translit' => 'tōi',
@@ -91809,7 +91809,7 @@ $index['ac'][17][32][3] = array (
   'morph' => 'JGPM',
 );
 $index['ac'][17][32][4] = array (
-  'spa' => 'unos',
+  'spa' => 'los',
   'greek' => 'οἱ',
   'lemma' => 'ὁ',
   'translit' => 'hoi',
@@ -91817,7 +91817,7 @@ $index['ac'][17][32][4] = array (
   'morph' => 'DNPM',
 );
 $index['ac'][17][32][5] = array (
-  'spa' => 'pues',
+  'spa' => 'unos',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -91833,7 +91833,7 @@ $index['ac'][17][32][6] = array (
   'morph' => 'VIAI3P',
 );
 $index['ac'][17][32][7] = array (
-  'spa' => 'ellos',
+  'spa' => 'otros',
   'greek' => 'οἱ',
   'lemma' => 'ὁ',
   'translit' => 'hoi',
@@ -91841,7 +91841,7 @@ $index['ac'][17][32][7] = array (
   'morph' => 'DNPM',
 );
 $index['ac'][17][32][8] = array (
-  'spa' => '← y',
+  'spa' => '← pero',
   'greek' => 'δὲ',
   'lemma' => 'δέ',
   'translit' => 'de',
@@ -107225,7 +107225,7 @@ $index['ac'][20][35][19] = array (
   'morph' => 'VAAI3S',
 );
 $index['ac'][20][35][20] = array (
-  'spa' => 'Bendito',
+  'spa' => 'Felíz',
   'greek' => 'Μακάριόν',
   'lemma' => 'μακάριος',
   'translit' => 'makarion',
@@ -131985,7 +131985,7 @@ $index['ac'][26][2][9] = array (
   'morph' => 'RF1ASM',
 );
 $index['ac'][26][2][10] = array (
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'greek' => 'μακάριον',
   'lemma' => 'μακάριος',
   'translit' => 'makarion',
@@ -132769,7 +132769,7 @@ $index['ac'][26][8][0] = array (
   'morph' => 'RI-ASN',
 );
 $index['ac'][26][8][1] = array (
-  'spa' => 'infiel',
+  'spa' => 'incrédulo',
   'greek' => 'ἄπιστον',
   'lemma' => 'ἄπιστος',
   'translit' => 'apiston',
@@ -141961,7 +141961,7 @@ $index['ac'][27][41][9] = array (
   'morph' => 'DNSF',
 );
 $index['ac'][27][41][10] = array (
-  'spa' => 'pues',
+  'spa' => 'ciertamente',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -146209,7 +146209,7 @@ $index['ac'][28][24][0] = array (
   'morph' => 'CLN',
 );
 $index['ac'][28][24][1] = array (
-  'spa' => 'unos',
+  'spa' => 'los',
   'greek' => 'οἱ',
   'lemma' => 'ὁ',
   'translit' => 'hoi',
@@ -146217,7 +146217,7 @@ $index['ac'][28][24][1] = array (
   'morph' => 'DNPM',
 );
 $index['ac'][28][24][2] = array (
-  'spa' => 'pues',
+  'spa' => 'unos',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -146249,7 +146249,7 @@ $index['ac'][28][24][5] = array (
   'morph' => 'VPPP-PDN',
 );
 $index['ac'][28][24][6] = array (
-  'spa' => 'unos',
+  'spa' => 'otros',
   'greek' => 'οἱ',
   'lemma' => 'ὁ',
   'translit' => 'hoi',

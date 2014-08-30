@@ -5841,7 +5841,7 @@ $index['lk'][1][45][0] = array (
   'morph' => 'CONJ',
 );
 $index['lk'][1][45][1] = array (
-  'spa' => 'bendíta',
+  'spa' => 'felíz',
   'greek' => 'μακαρία',
   'lemma' => 'μακάριος',
   'translit' => 'makaria',
@@ -35961,7 +35961,7 @@ $index['lk'][6][20][10] = array (
   'morph' => 'V-IAI-3S',
 );
 $index['lk'][6][20][11] = array (
-  'spa' => 'Benditos',
+  'spa' => 'Felices',
   'greek' => 'Μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -36041,7 +36041,7 @@ $index['lk'][6][20][20] = array (
   'morph' => 'N-GSM',
 );
 $index['lk'][6][21][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -36089,7 +36089,7 @@ $index['lk'][6][21][5] = array (
   'morph' => 'V-FPI-2P',
 );
 $index['lk'][6][21][6] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -36137,7 +36137,7 @@ $index['lk'][6][21][11] = array (
   'morph' => 'V-FAI-2P',
 );
 $index['lk'][6][22][0] = array (
-  'spa' => 'Benditos',
+  'spa' => 'Felices',
   'greek' => 'Μακάριοί',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -43753,7 +43753,7 @@ $index['lk'][7][23][0] = array (
   'morph' => 'CONJ',
 );
 $index['lk'][7][23][1] = array (
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'greek' => 'μακάριός',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',
@@ -62361,7 +62361,7 @@ $index['lk'][9][41][6] = array (
   'morph' => 'N-VSF',
 );
 $index['lk'][9][41][7] = array (
-  'spa' => 'infiel',
+  'spa' => 'incrédula',
   'greek' => 'ἄπιστος',
   'lemma' => 'ἄπιστος',
   'translit' => 'apistos',
@@ -65801,7 +65801,7 @@ $index['lk'][10][2][8] = array (
   'morph' => 'T-NPM',
 );
 $index['lk'][10][2][9] = array (
-  'spa' => '← y',
+  'spa' => '← pero',
   'greek' => 'δὲ',
   'lemma' => 'δέ',
   'translit' => 'de',
@@ -69001,7 +69001,7 @@ $index['lk'][10][23][7] = array (
   'morph' => 'V-2AAI-3S',
 );
 $index['lk'][10][23][8] = array (
-  'spa' => 'Benditos',
+  'spa' => 'Felices',
   'greek' => 'Μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -75561,7 +75561,7 @@ $index['lk'][11][27][15] = array (
   'morph' => 'P-DSM',
 );
 $index['lk'][11][27][16] = array (
-  'spa' => 'Bendíto',
+  'spa' => 'Felíz',
   'greek' => 'Μακαρία',
   'lemma' => 'μακάριος',
   'translit' => 'makaria',
@@ -75673,7 +75673,7 @@ $index['lk'][11][28][3] = array (
   'morph' => 'PRT',
 );
 $index['lk'][11][28][4] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -84561,7 +84561,7 @@ $index['lk'][12][36][19] = array (
   'morph' => 'P-DSM',
 );
 $index['lk'][12][37][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -84841,7 +84841,7 @@ $index['lk'][12][38][12] = array (
   'morph' => 'ADV',
 );
 $index['lk'][12][38][13] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοί',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -85465,7 +85465,7 @@ $index['lk'][12][42][25] = array (
   'morph' => 'N-ASN',
 );
 $index['lk'][12][43][0] = array (
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'greek' => 'μακάριος',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',
@@ -86089,7 +86089,7 @@ $index['lk'][12][46][25] = array (
   'morph' => 'T-GPM',
 );
 $index['lk'][12][46][26] = array (
-  'spa' => 'infieles',
+  'spa' => 'incrédulos',
   'greek' => 'ἀπίστων',
   'lemma' => 'ἄπιστος',
   'translit' => 'apistōn',
@@ -95009,7 +95009,7 @@ $index['lk'][14][14][0] = array (
   'morph' => 'CONJ',
 );
 $index['lk'][14][14][1] = array (
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'greek' => 'μακάριος',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',
@@ -95193,7 +95193,7 @@ $index['lk'][14][15][7] = array (
   'morph' => 'P-DSM',
 );
 $index['lk'][14][15][8] = array (
-  'spa' => 'Bendito',
+  'spa' => 'Felíz',
   'greek' => 'Μακάριος',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',
@@ -95305,7 +95305,7 @@ $index['lk'][14][16][4] = array (
   'morph' => 'N-NSM',
 );
 $index['lk'][14][16][5] = array (
-  'spa' => 'alguien',
+  'spa' => 'alguno',
   'greek' => 'τις',
   'lemma' => 'τὶς',
   'translit' => 'tis',
@@ -145793,7 +145793,7 @@ $index['lk'][23][29][6] = array (
   'morph' => 'V-FAI-3P',
 );
 $index['lk'][23][29][7] = array (
-  'spa' => 'Benditas',
+  'spa' => 'Felices',
   'greek' => 'Μακάριαι',
   'lemma' => 'μακάριος',
   'translit' => 'makariai',

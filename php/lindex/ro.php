@@ -5201,7 +5201,7 @@ $index['ro'][2][6][6] = array (
   'morph' => 'RP3GSM',
 );
 $index['ro'][2][7][0] = array (
-  'spa' => 'a los',
+  'spa' => 'los',
   'greek' => 'τοῖς',
   'lemma' => 'ὁ',
   'translit' => 'tois',
@@ -5209,7 +5209,7 @@ $index['ro'][2][7][0] = array (
   'morph' => 'DDPM',
 );
 $index['ro'][2][7][1] = array (
-  'spa' => 'pues',
+  'spa' => 'unos',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -5313,7 +5313,7 @@ $index['ro'][2][7][13] = array (
   'morph' => 'JASF',
 );
 $index['ro'][2][8][0] = array (
-  'spa' => 'a los',
+  'spa' => 'otros',
   'greek' => 'τοῖς',
   'lemma' => 'ὁ',
   'translit' => 'tois',
@@ -12009,7 +12009,7 @@ $index['ro'][4][6][14] = array (
   'morph' => 'NGPN',
 );
 $index['ro'][4][7][0] = array (
-  'spa' => 'Benditos',
+  'spa' => 'Felices',
   'greek' => 'Μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -12089,7 +12089,7 @@ $index['ro'][4][7][9] = array (
   'morph' => 'NNPF',
 );
 $index['ro'][4][8][0] = array (
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'greek' => 'μακάριος',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',
@@ -22761,7 +22761,7 @@ $index['ro'][7][12][1] = array (
   'morph' => 'DNSM',
 );
 $index['ro'][7][12][2] = array (
-  'spa' => 'pues',
+  'spa' => 'ciertamente',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -24601,7 +24601,7 @@ $index['ro'][7][25][13] = array (
   'morph' => 'DDSM',
 );
 $index['ro'][7][25][14] = array (
-  'spa' => 'pues',
+  'spa' => 'ciertamente',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -34113,7 +34113,7 @@ $index['ro'][10][1][1] = array (
   'morph' => 'DNSF',
 );
 $index['ro'][10][1][2] = array (
-  'spa' => 'pues',
+  'spa' => 'ciertamente',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -48841,7 +48841,7 @@ $index['ro'][14][22][9] = array (
   'morph' => 'NGSM',
 );
 $index['ro'][14][22][10] = array (
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'greek' => 'μακάριος',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',

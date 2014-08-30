@@ -18553,7 +18553,7 @@ $index['mk'][4][33][0] = array (
   'morph' => 'CONJ',
 );
 $index['mk'][4][33][1] = array (
-  'spa' => 'como estás',
+  'spa' => 'como estas',
   'greek' => 'τοιαύταις',
   'lemma' => 'τοιοῦτος',
   'translit' => 'toiautais',
@@ -45569,7 +45569,7 @@ $index['mk'][9][19][6] = array (
   'morph' => 'N-VSF',
 );
 $index['mk'][9][19][7] = array (
-  'spa' => 'infiel,',
+  'spa' => 'incrédula,',
   'greek' => 'ἄπιστος,',
   'lemma' => 'ἄπιστος',
   'translit' => 'apistos',
@@ -90017,7 +90017,7 @@ $index['mk'][16][19][0] = array (
   'morph' => 'T-NSM',
 );
 $index['mk'][16][19][1] = array (
-  'spa' => 'pues',
+  'spa' => 'ciertamente',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -90025,7 +90025,7 @@ $index['mk'][16][19][1] = array (
   'morph' => 'PRT',
 );
 $index['mk'][16][19][2] = array (
-  'spa' => 'por lo tanto',
+  'spa' => 'pues',
   'greek' => 'οὖν',
   'lemma' => 'οὖν',
   'translit' => 'oun',

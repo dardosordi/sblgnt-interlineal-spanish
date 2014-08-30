@@ -13409,7 +13409,7 @@ $index['mt'][5][2][7] = array (
   'morph' => 'VPAP-SNM',
 );
 $index['mt'][5][3][0] = array (
-  'spa' => 'Benditos',
+  'spa' => 'Felices',
   'greek' => 'Μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -13505,7 +13505,7 @@ $index['mt'][5][3][11] = array (
   'morph' => 'NGPM',
 );
 $index['mt'][5][4][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -13553,7 +13553,7 @@ $index['mt'][5][4][5] = array (
   'morph' => 'VFPI3P',
 );
 $index['mt'][5][5][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -13617,7 +13617,7 @@ $index['mt'][5][5][7] = array (
   'morph' => 'NASF',
 );
 $index['mt'][5][6][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -13697,7 +13697,7 @@ $index['mt'][5][6][9] = array (
   'morph' => 'VFPI3P',
 );
 $index['mt'][5][7][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -13745,7 +13745,7 @@ $index['mt'][5][7][5] = array (
   'morph' => 'VFPI3P',
 );
 $index['mt'][5][8][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -13825,7 +13825,7 @@ $index['mt'][5][8][9] = array (
   'morph' => 'VFMI3P',
 );
 $index['mt'][5][9][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -13889,7 +13889,7 @@ $index['mt'][5][9][7] = array (
   'morph' => 'VFPI3P',
 );
 $index['mt'][5][10][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -13985,7 +13985,7 @@ $index['mt'][5][10][11] = array (
   'morph' => 'NGPM',
 );
 $index['mt'][5][11][0] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -45305,7 +45305,7 @@ $index['mt'][11][6][0] = array (
   'morph' => 'CLN',
 );
 $index['mt'][11][6][1] = array (
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'greek' => 'μακάριός',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',
@@ -57905,7 +57905,7 @@ $index['mt'][13][16][1] = array (
   'morph' => 'CLC',
 );
 $index['mt'][13][16][2] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -75497,7 +75497,7 @@ $index['mt'][16][14][2] = array (
   'morph' => 'VAAI3P',
 );
 $index['mt'][16][14][3] = array (
-  'spa' => 'Unos',
+  'spa' => 'Los',
   'greek' => 'Οἱ',
   'lemma' => 'ὁ',
   'translit' => 'hoi',
@@ -75505,7 +75505,7 @@ $index['mt'][16][14][3] = array (
   'morph' => 'DNPM',
 );
 $index['mt'][16][14][4] = array (
-  'spa' => 'pues',
+  'spa' => 'unos',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -75849,7 +75849,7 @@ $index['mt'][16][17][5] = array (
   'morph' => 'RP3DSM',
 );
 $index['mt'][16][17][6] = array (
-  'spa' => 'Bendito',
+  'spa' => 'Felíz',
   'greek' => 'Μακάριος',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',
@@ -80313,7 +80313,7 @@ $index['mt'][17][17][6] = array (
   'morph' => 'NVSF',
 );
 $index['mt'][17][17][7] = array (
-  'spa' => 'infiel',
+  'spa' => 'incrédula',
   'greek' => 'ἄπιστος',
   'lemma' => 'ἄπιστος',
   'translit' => 'apistos',
@@ -119305,7 +119305,7 @@ $index['mt'][24][45][22] = array (
   'morph' => 'NDSM',
 );
 $index['mt'][24][46][0] = array (
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'greek' => 'μακάριος',
   'lemma' => 'μακάριος',
   'translit' => 'makarios',
@@ -131249,7 +131249,7 @@ $index['mt'][26][41][7] = array (
   'morph' => 'NASM',
 );
 $index['mt'][26][41][8] = array (
-  'spa' => 'lo',
+  'spa' => 'el',
   'greek' => 'τὸ',
   'lemma' => 'ὁ',
   'translit' => 'to',

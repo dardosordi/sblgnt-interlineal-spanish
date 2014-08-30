@@ -6026,7 +6026,7 @@ $concordance['569']['V-IAI-3P'][] = array (
 );
 $concordance['571']['A-ASM'][] = array (
   'word' => 'ἄπιστον',
-  'spa' => 'infiel',
+  'spa' => 'incrédulo',
   'morph' => 'A-ASM',
   'ref' => 'ac 26:8',
 );
@@ -18362,7 +18362,7 @@ $concordance['1161']['CONJ'][] = array (
 );
 $concordance['1161']['CONJ'][] = array (
   'word' => 'δὲ',
-  'spa' => '← y',
+  'spa' => '← pero',
   'morph' => 'CONJ',
   'ref' => 'ac 14:4',
 );
@@ -18770,7 +18770,7 @@ $concordance['1161']['CONJ'][] = array (
 );
 $concordance['1161']['CONJ'][] = array (
   'word' => 'δὲ',
-  'spa' => '← y',
+  'spa' => '← pero',
   'morph' => 'CONJ',
   'ref' => 'ac 17:32',
 );
@@ -58736,13 +58736,13 @@ $concordance['3105']['V-PMI-1S'][] = array (
 );
 $concordance['3107']['A-NSN'][] = array (
   'word' => 'μακάριον',
-  'spa' => 'Bendito',
+  'spa' => 'Felíz',
   'morph' => 'A-NSN',
   'ref' => 'ac 20:35',
 );
 $concordance['3107']['A-ASM'][] = array (
   'word' => 'μακάριον',
-  'spa' => 'bendito',
+  'spa' => 'felíz',
   'morph' => 'A-ASM',
   'ref' => 'ac 26:2',
 );
@@ -59876,7 +59876,7 @@ $concordance['3199']['V-IAI-3S'][] = array (
 );
 $concordance['3303']['PRT'][] = array (
   'word' => 'μὲν',
-  'spa' => 'pues',
+  'spa' => 'una',
   'morph' => 'PRT',
   'ref' => 'ac 1:1',
 );
@@ -59996,7 +59996,7 @@ $concordance['3303']['PRT'][] = array (
 );
 $concordance['3303']['PRT'][] = array (
   'word' => 'μὲν',
-  'spa' => 'pues',
+  'spa' => 'unos',
   'morph' => 'PRT',
   'ref' => 'ac 14:4',
 );
@@ -60038,7 +60038,7 @@ $concordance['3303']['PRT'][] = array (
 );
 $concordance['3303']['PRT'][] = array (
   'word' => 'μὲν',
-  'spa' => 'pues',
+  'spa' => 'unos',
   'morph' => 'PRT',
   'ref' => 'ac 17:32',
 );
@@ -60128,7 +60128,7 @@ $concordance['3303']['PRT'][] = array (
 );
 $concordance['3303']['PRT'][] = array (
   'word' => 'μὲν',
-  'spa' => 'pues',
+  'spa' => 'ciertamente',
   'morph' => 'PRT',
   'ref' => 'ac 27:41',
 );
@@ -60152,7 +60152,7 @@ $concordance['3303']['PRT'][] = array (
 );
 $concordance['3303']['PRT'][] = array (
   'word' => 'μὲν',
-  'spa' => 'pues',
+  'spa' => 'unos',
   'morph' => 'PRT',
   'ref' => 'ac 28:24',
 );
@@ -68456,7 +68456,7 @@ $concordance['3588']['T-APN'][] = array (
 );
 $concordance['3588']['T-APN'][] = array (
   'word' => 'τὰ',
-  'spa' => 'los',
+  'spa' => 'las',
   'morph' => 'T-APN',
   'ref' => 'ac 13:34',
 );
@@ -73256,13 +73256,13 @@ $concordance['3588']['T-NPM'][] = array (
 );
 $concordance['3588']['T-NPM'][] = array (
   'word' => 'οἱ',
-  'spa' => 'unos',
+  'spa' => 'los',
   'morph' => 'T-NPM',
   'ref' => 'ac 14:4',
 );
 $concordance['3588']['T-NPM'][] = array (
   'word' => 'οἱ',
-  'spa' => 'unos',
+  'spa' => 'otros',
   'morph' => 'T-NPM',
   'ref' => 'ac 14:4',
 );
@@ -73448,13 +73448,13 @@ $concordance['3588']['T-NPM'][] = array (
 );
 $concordance['3588']['T-NPM'][] = array (
   'word' => 'οἱ',
-  'spa' => 'unos',
+  'spa' => 'los',
   'morph' => 'T-NPM',
   'ref' => 'ac 17:32',
 );
 $concordance['3588']['T-NPM'][] = array (
   'word' => 'οἱ',
-  'spa' => 'ellos',
+  'spa' => 'otros',
   'morph' => 'T-NPM',
   'ref' => 'ac 17:32',
 );
@@ -73730,13 +73730,13 @@ $concordance['3588']['T-NPM'][] = array (
 );
 $concordance['3588']['T-NPM'][] = array (
   'word' => 'οἱ',
-  'spa' => 'unos',
+  'spa' => 'los',
   'morph' => 'T-NPM',
   'ref' => 'ac 28:24',
 );
 $concordance['3588']['T-NPM'][] = array (
   'word' => 'οἱ',
-  'spa' => 'unos',
+  'spa' => 'otros',
   'morph' => 'T-NPM',
   'ref' => 'ac 28:24',
 );
@@ -74168,7 +74168,7 @@ $concordance['3588']['T-DSM'][] = array (
 );
 $concordance['3588']['T-DSM'][] = array (
   'word' => 'τῷ',
-  'spa' => 'con',
+  'spa' => 'en',
   'morph' => 'T-DSM',
   'ref' => 'ac 16:15',
 );
@@ -91538,7 +91538,7 @@ $concordance['4102']['N-ASF'][] = array (
 );
 $concordance['4103']['A-NPF'][] = array (
   'word' => 'πιστοὶ',
-  'spa' => 'fieles',
+  'spa' => 'creyentes',
   'morph' => 'A-NPF',
   'ref' => 'ac 10:45',
 );
@@ -91550,7 +91550,7 @@ $concordance['4103']['A-APN'][] = array (
 );
 $concordance['4103']['A-GSF'][] = array (
   'word' => 'πιστῆς',
-  'spa' => 'fiel',
+  'spa' => 'creyente',
   'morph' => 'A-GSF',
   'ref' => 'ac 16:1',
 );

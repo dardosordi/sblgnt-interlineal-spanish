@@ -40537,7 +40537,7 @@ $index['jn'][7][12][9] = array (
   'morph' => 'DNPM',
 );
 $index['jn'][7][12][10] = array (
-  'spa' => 'pues',
+  'spa' => 'unos',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -81177,7 +81177,7 @@ $index['jn'][13][17][2] = array (
   'morph' => 'VRAI2P',
 );
 $index['jn'][13][17][3] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοί',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
@@ -111217,7 +111217,7 @@ $index['jn'][19][24][4] = array (
   'morph' => 'BN',
 );
 $index['jn'][19][24][5] = array (
-  'spa' => 'razgaremos',
+  'spa' => 'rasgaremos',
   'greek' => 'σχίσωμεν',
   'lemma' => 'σχίζω',
   'translit' => 'schisōmen',
@@ -112673,7 +112673,7 @@ $index['jn'][19][32][5] = array (
   'morph' => 'DGSM',
 );
 $index['jn'][19][32][6] = array (
-  'spa' => 'pues',
+  'spa' => 'uno',
   'greek' => 'μὲν',
   'lemma' => 'μέν',
   'translit' => 'men',
@@ -118537,7 +118537,7 @@ $index['jn'][20][27][27] = array (
   'morph' => 'VPUM2S',
 );
 $index['jn'][20][27][28] = array (
-  'spa' => 'infiel',
+  'spa' => 'incrédulo',
   'greek' => 'ἄπιστος',
   'lemma' => 'ἄπιστος',
   'translit' => 'apistos',
@@ -118553,7 +118553,7 @@ $index['jn'][20][27][29] = array (
   'morph' => 'CLC',
 );
 $index['jn'][20][27][30] = array (
-  'spa' => 'fiel.',
+  'spa' => 'creyente.',
   'greek' => 'πιστός.',
   'lemma' => 'πιστός',
   'translit' => 'pistos',
@@ -118721,7 +118721,7 @@ $index['jn'][20][29][7] = array (
   'morph' => 'VRAI2S',
 );
 $index['jn'][20][29][8] = array (
-  'spa' => 'benditos',
+  'spa' => 'felices',
   'greek' => 'μακάριοι',
   'lemma' => 'μακάριος',
   'translit' => 'makarioi',
