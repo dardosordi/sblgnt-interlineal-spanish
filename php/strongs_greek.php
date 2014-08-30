@@ -2918,7 +2918,7 @@ $strongs['greek']['2904'] = array ('derivation' => 'perhaps a primary word;','le
 $strongs['greek']['2905'] = array ('derivation' => 'from G2906 (κραυγή);','lemma' => 'κραυγάζω','kjv_def' => 'cry out','strongs_def' => 'to clamor',);
 $strongs['greek']['2906'] = array ('derivation' => 'from G2896 (κράζω);','lemma' => 'κραυγή','kjv_def' => 'clamour, cry(-ing)','strongs_def' => 'an outcry (in notification, tumult or grief)',);
 $strongs['greek']['2907'] = array ('derivation' => 'perhaps a primary word;','lemma' => 'κρέας','kjv_def' => 'flesh','strongs_def' => '(butcher\'s) meat',);
-$strongs['greek']['2908'] = array ('derivation' => 'neuter of an alternate form of G2909 (κρείττων);','lemma' => 'κρεῖσσον','kjv_def' => 'better','strongs_def' => '(as noun) better, i.e. greater advantage',);
+$strongs['greek']['2908'] = array ('derivation' => 'neuter of an alternate form of G2909 (κρείττων);','lemma' => 'κρείσσων','kjv_def' => 'better','strongs_def' => '(as noun) better, i.e. greater advantage',);
 $strongs['greek']['2909'] = array ('derivation' => 'comparative of a derivative of G2904 (κράτος);','lemma' => 'κρείττων','kjv_def' => 'best, better','strongs_def' => 'stronger, i.e. (figuratively) better, i.e. nobler',);
 $strongs['greek']['2910'] = array ('derivation' => 'a prolonged form of a primary verb;','lemma' => 'κρεμάννυμι','kjv_def' => 'hang','strongs_def' => 'to hang',);
 $strongs['greek']['2911'] = array ('derivation' => 'from G2910 (κρεμάννυμι);','lemma' => 'κρημνός','kjv_def' => 'steep place','strongs_def' => 'overhanging, i.e. a precipice',);
