@@ -78281,7 +78281,7 @@ $index['ac'][15][20][7] = array (
   'morph' => 'DGPN',
 );
 $index['ac'][15][20][8] = array (
-  'spa' => 'imagenes',
+  'spa' => 'imágenes',
   'greek' => 'εἰδώλων',
   'lemma' => 'εἴδωλον',
   'translit' => 'eidōlōn',
@@ -79569,7 +79569,7 @@ $index['ac'][15][29][0] = array (
   'morph' => 'VPMN',
 );
 $index['ac'][15][29][1] = array (
-  'spa' => 'de lo sacrificado a las imagenes',
+  'spa' => 'de lo sacrificado a las imágenes',
   'greek' => 'εἰδωλοθύτων',
   'lemma' => 'εἰδωλόθυτος',
   'translit' => 'eidōlothutōn',
@@ -89273,7 +89273,7 @@ $index['ac'][17][16][14] = array (
   'morph' => 'VPAP-SGM',
 );
 $index['ac'][17][16][15] = array (
-  'spa' => 'llena de imagenes',
+  'spa' => 'llena de imágenes',
   'greek' => 'κατείδωλον',
   'lemma' => 'κατείδωλος',
   'translit' => 'kateidōlon',

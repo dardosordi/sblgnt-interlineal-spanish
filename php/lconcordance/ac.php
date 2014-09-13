@@ -24956,7 +24956,7 @@ $concordance['1492']['VAAS3P'][] = array (
 );
 $concordance['1494']['JGPN'][] = array (
   'word' => 'εἰδωλοθύτων',
-  'spa' => 'de lo sacrificado a las imagenes',
+  'spa' => 'de lo sacrificado a las imágenes',
   'morph' => 'JGPN',
   'ref' => 'ac 15:29',
 );
@@ -24974,7 +24974,7 @@ $concordance['1497']['NDSN'][] = array (
 );
 $concordance['1497']['NGPN'][] = array (
   'word' => 'εἰδώλων',
-  'spa' => 'imagenes',
+  'spa' => 'imágenes',
   'morph' => 'NGPN',
   'ref' => 'ac 15:20',
 );
@@ -53888,7 +53888,7 @@ $concordance['2707']['NVPM'][] = array (
 );
 $concordance['2712']['JASF'][] = array (
   'word' => 'κατείδωλον',
-  'spa' => 'llena de imagenes',
+  'spa' => 'llena de imágenes',
   'morph' => 'JASF',
   'ref' => 'ac 17:16',
 );
