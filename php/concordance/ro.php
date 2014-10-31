@@ -11684,7 +11684,7 @@ $concordance['1632']['V-RPI-3S'][] = array (
 );
 $concordance['1635']['A-NSF'][] = array (
   'word' => 'ἐκοῦσα',
-  'spa' => 'voluntariamente',
+  'spa' => 'de buena gana',
   'morph' => 'A-NSF',
   'ref' => 'ro 8:20',
 );

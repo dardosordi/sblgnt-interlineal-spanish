@@ -11684,7 +11684,7 @@ $concordance['1632']['VRPI3S'][] = array (
 );
 $concordance['1635']['JNSF'][] = array (
   'word' => 'ἑκοῦσα',
-  'spa' => 'voluntariamente',
+  'spa' => 'de buena gana',
   'morph' => 'JNSF',
   'ref' => 'ro 8:20',
 );

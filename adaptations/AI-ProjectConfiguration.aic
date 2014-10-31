@@ -13,7 +13,7 @@ OutPrecision	1
 ClipPrecision	2
 Quality	2
 PitchAndFamily	0
-FaceName	Cardo
+FaceName	Gentium Plus
 Color	16711680
 
 TargetFont
@@ -61,7 +61,7 @@ SourceLanguageCode	grc
 TargetLanguageCode	es
 GlossesLanguageCode	es
 FreeTranslationLanguageCode	es
-LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/65-Ac.xml
+LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/67-1Co.xml
 LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
 LastInterlinearRTFOutputPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/_INTERLINEAR_RTF_OUTPUTS
 LastSourceTextExportPath	
@@ -78,6 +78,7 @@ LastKBExportPath
 LastKBLIFTExportPath	
 FoldersProtectedFromNavigation	
 KeepPhraseBoxMidscreen	1
+Enable_ZWSP_Insertion	0
 PunctuationPairsSourceSet(stores space for an empty cell)	‘;.,·:"!()<>⟦⟧[]“”—’⸀⸁⸂⸄⸃⸅
 PunctuationPairsTargetSet(stores space for an empty cell)	‘?.,::"!()<>⟦⟧[]“”— ⸀⸁⸂⸄⸃⸅
 PunctuationTwoCharacterPairsSourceSet(ditto)	
@@ -130,3 +131,5 @@ SilConverterDirectionForward	1
 SilConverterNormalizeOutput	0
 LegacyCopyForPhraseBox	1
 DoAdaptingBeforeGlossing_InVerticalEdit	1
+UseSourceWordBreakFlag	1
+FreeTranslationUsesZWSPFlag	0

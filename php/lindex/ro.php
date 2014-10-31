@@ -27273,7 +27273,7 @@ $index['ro'][8][20][6] = array (
   'morph' => 'CLK',
 );
 $index['ro'][8][20][7] = array (
-  'spa' => 'voluntariamente',
+  'spa' => 'de buena gana',
   'greek' => 'ἑκοῦσα',
   'lemma' => 'ἑκών',
   'translit' => 'hekousa',
