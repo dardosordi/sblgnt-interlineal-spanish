@@ -7634,7 +7634,7 @@ $concordance['675']['N-GSM'][] = array (
 );
 $concordance['677']['A-ASF'][] = array (
   'word' => 'ἀπρόσκοπον',
-  'spa' => 'sin ofenza',
+  'spa' => 'sin ofensa',
   'morph' => 'A-ASF',
   'ref' => 'ac 24:16',
 );

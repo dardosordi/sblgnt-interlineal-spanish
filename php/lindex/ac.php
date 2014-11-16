@@ -125809,7 +125809,7 @@ $index['ac'][24][16][4] = array (
   'morph' => 'VPAI1S',
 );
 $index['ac'][24][16][5] = array (
-  'spa' => 'sin ofenza',
+  'spa' => 'sin ofensa',
   'greek' => 'ἀπρόσκοπον',
   'lemma' => 'ἀπρόσκοπος',
   'translit' => 'aproskopon',

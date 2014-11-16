@@ -40340,7 +40340,7 @@ $concordance['2066']['NDSF'][] = array (
 );
 $concordance['2068']['VPAI2P'][] = array (
   'word' => 'ἐσθίετε',
-  'spa' => 'come',
+  'spa' => 'comen',
   'morph' => 'VPAI2P',
   'ref' => 'lk 5:30',
 );
@@ -40394,7 +40394,7 @@ $concordance['2068']['VPAP-PNM'][] = array (
 );
 $concordance['2068']['VPAM2P'][] = array (
   'word' => 'ἐσθίετε',
-  'spa' => 'come',
+  'spa' => 'coman',
   'morph' => 'VPAM2P',
   'ref' => 'lk 10:8',
 );
@@ -98072,7 +98072,7 @@ $concordance['4095']['VAAS3S'][] = array (
 );
 $concordance['4095']['VPAI2P'][] = array (
   'word' => 'πίνετε',
-  'spa' => 'bebe',
+  'spa' => 'beben',
   'morph' => 'VPAI2P',
   'ref' => 'lk 5:30',
 );

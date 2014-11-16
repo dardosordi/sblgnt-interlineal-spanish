@@ -7634,7 +7634,7 @@ $concordance['675']['NGSM'][] = array (
 );
 $concordance['677']['JASF'][] = array (
   'word' => 'ἀπρόσκοπον',
-  'spa' => 'sin ofenza',
+  'spa' => 'sin ofensa',
   'morph' => 'JASF',
   'ref' => 'ac 24:16',
 );

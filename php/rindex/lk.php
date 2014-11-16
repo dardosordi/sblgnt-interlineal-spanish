@@ -31785,7 +31785,7 @@ $index['lk'][5][30][19] = array (
   'morph' => 'A-GPM',
 );
 $index['lk'][5][30][20] = array (
-  'spa' => 'come',
+  'spa' => 'comen',
   'greek' => 'ἐσθίετε',
   'lemma' => 'ἐσθίω',
   'translit' => 'esthiete',
@@ -31801,7 +31801,7 @@ $index['lk'][5][30][21] = array (
   'morph' => 'CONJ',
 );
 $index['lk'][5][30][22] = array (
-  'spa' => 'bebe?',
+  'spa' => 'beben?',
   'greek' => 'πίνετε;',
   'lemma' => 'πίνω',
   'translit' => 'pinete',
@@ -66617,7 +66617,7 @@ $index['lk'][10][8][8] = array (
   'morph' => 'P-2AP',
 );
 $index['lk'][10][8][9] = array (
-  'spa' => 'come',
+  'spa' => 'coman',
   'greek' => 'ἐσθίετε',
   'lemma' => 'ἐσθίω',
   'translit' => 'esthiete',
@@ -150595,7 +150595,7 @@ $index['lk'][24][13][13] = array (
 $index['lk'][24][13][14] = array (
   'spa' => 'estadios',
   'greek' => 'σταδίους',
-  'lemma' => 'στάδιος',
+  'lemma' => 'στάδιον',
   'translit' => 'stadious',
   'strong' => 'G4712',
   'morph' => 'N-APN',
