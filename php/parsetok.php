@@ -14,7 +14,7 @@ function getTokens(
         $offset = 0, 
         $stringDelimiters = '\'"',
         $keywordDelimiter = ':',
-	$groupDelimiters = '()'
+        $groupDelimiters = '()'
 	) 
 {
 
@@ -144,6 +144,21 @@ function generateTree($tokens) {
 				end($tree);
 				$i = key($tree);
 				$tree[$i]['operator'] = isset($tree[$i]['operator']) ? $tree[$i]['operator'] . $value : $value;
+				continue;
+			}
+
+			$matches = array();
+			if (!$is_group && preg_match('/G?([0-9]+)/i', $value, $matches)) {
+				$group['strong'] = 'G'.$matches[1];
+				$tree[] = $group;
+				$group = array();
+				continue;
+			}
+
+			if (!$is_group && strlen($value) > 1) {
+				$group['spa'] = $value;
+				$tree[] = $group;
+				$group = array();
 				continue;
 			}
 
