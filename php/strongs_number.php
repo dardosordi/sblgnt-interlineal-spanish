@@ -156,14 +156,11 @@ if (isset($strongs[$lang][$number])) {
 				$count = 1;
 			}
 			$word_refs .= '</li>';
-
-			$content .= sprintf("\n\t<tr><td>%s</td><td><a title=\"%s\" href=\"/strongs/%s-%s.html\">%s</a></td><td>%s</td><td>%s</td></tr>", 
+			$label_morph = $use_logos ? label_lmac($word['morph'], $rmac) : label_rmac($word['morph'], $rmac);
+			$content .= sprintf("\n\t<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>",
 				sprintf('<a href="http://www.perseus.tufts.edu/hopper/morph?l=%s" target="_blank">%s</a>', $word['word'], $word['word']),
-				$use_logos ? label_lmac($word['morph'], $rmac) : label_rmac($word['morph'], $rmac),
-				$langKey . $number,
-				$word['morph'],
-				$word['morph'],
-				$word['spa'],
+				sprintf('<a title="%s" href="/strongs/%s-%s.html">%s</a>', $label_morph, $langKey . $number, $word['morph'], $word['morph']),
+				sprintf('<a href="/search.php?q=%s" target="_blank">%s</a>', urlencode('='.$word['spa']), $word['spa']),
 				'<ul class="refs">'.$word_refs.'</ul>'
 			);
 		}
