@@ -50,6 +50,10 @@ if ($is_cli) {
 }
 
 $parsed_query = parse_query($query);
+if (empty($parsed_query)) {
+    die("Invalid query");
+}
+
 $found = array();
 $available_books = array();
 
