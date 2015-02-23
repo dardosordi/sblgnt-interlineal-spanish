@@ -84,20 +84,22 @@ a:hover {
 	margin-right: 1em;
 }
 
-.strongs {
-	color: #0092F2;
-	color: #00c;
-	font-size: 12px;
-	text-decoration: none;
-}
-
 a:visited {
 	color: #00c;
 }
 
-.morph {
-	color: #0092F2;
-	font-size: .8em;
+.strongs,
+.strongs a {
+	color: #0092F2 !important;
+	color: #00c;
+	font-size: .85em;
+	text-decoration: none;
+}
+
+.morph,
+.morph a {
+	color: #0092F2 !important;
+	font-size: .85em;
 	text-decoration: none;
 }
 
@@ -186,6 +188,7 @@ a:visited {
 }
 
 .concordance th {
+    text-align: left;
 	border-bottom: 1px solid #000;
 }
 
