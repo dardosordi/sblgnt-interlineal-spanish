@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--
-	 AVISO: No se recomienda el uso de WORD 2003 de Microsoft para editar este archivo XML.
-	 En su lugar, utilice un editor de texto como NotePad o WordPad. -->
+	 Note: Using Microsoft WORD 2003 or later is not a good way to edit this xml file.
+	 Instead, use NotePad or WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="9" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="4436" sizex="1290" sizey="98316" ftsbp="1" specialcolor="255"
+	<Settings docVersion="9" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="9211" sizex="1630" sizey="70824" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="13:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
-	others="@#@#:F:-1:0:\pro \ca \_footnote_caller \_notes_base \efm \xot \_unknown_para_style \_annotation_text \__normal \_nav_lang_interlinear \rem \_table_grid \_hdr_ftr_interlinear \_horiz_rule \xt \_dft_para_font \xnt \_peripherals_base \xq \note \cp \mr \ef \_body_text \ib \_header \ide \_double_boxed_para \_unknown_char_style \fig \vp \_hidden_note \_tgt_lang_interlinear \restore \_src_lang_interlinear \_list_base \cl \_annotation_ref \_gls_lang_interlinear \ie \free \va \xk \x \r \_intro_base \_small_para_break \_footer \xo \_heading_base \_single_boxed_para \lit \sts \rq \bt \_vernacular_base \xdc \_normal_table ::"/>
+	others="@#@#:F:-1:0:\lit \_table_grid \_header \_intro_base \x \r \cp \_horiz_rule \ie \rem \_unknown_para_style \_normal_table \note \_heading_base \_hidden_note \_footnote_caller \_dft_para_font \va \_small_para_break \_footer \_vernacular_base \pro \xt \_notes_base \__normal \xdc \ide \mr \xq \_annotation_ref \_annotation_text \_peripherals_base \_gls_lang_interlinear \free \rq \_nav_lang_interlinear \_body_text \cl \xot \efm \bt \_unknown_char_style \_double_boxed_para \_hdr_ftr_interlinear \xk \_list_base \ib \xnt \fig \restore \_src_lang_interlinear \vp \_tgt_lang_interlinear \ef \ca \xo \_single_boxed_para \sts ::"/>
   <S s="ΠΡΑΞΕΙΣ" k="ΠΡΑΞΕΙΣ" t="Hechos" a="Hechos"
   f="0000000000000000011001" sn="0" w="1" ty="10"
   i="hdr"
