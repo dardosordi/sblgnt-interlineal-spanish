@@ -222,7 +222,7 @@ foreach($interlineal as $S) {
 				$content .= '<span class="strongs">&nbsp;</span>';
 			}
 			if ($show_morph) {
-				$content .= '<span class="morph">&nbsp;</span>';
+				$content .= '<span class="">&nbsp;</span>';
 			}
 			if ($show_greek) {
 				$content .= sprintf('<span id="v%d" class="verse">%s</span>', $current_verse, $current_verse);
@@ -300,6 +300,8 @@ foreach($interlineal as $S) {
 		);
 	}
 
+	$morph_label = $use_logos ? label_lmac($morph, $rmac) : label_rmac($morph, $rmac);
+
 	$extra_class = $strongs_number ? ' G'.$strongs_number . ' ' . $morph : '';
 
 	$content .= sprintf('<span class="block word%s">', $extra_class);
@@ -307,7 +309,7 @@ foreach($interlineal as $S) {
 		$content .= sprintf('<span class="strongs">%s</span>', $strongs_def);
 	}
 	if ($show_morph) {
-		$content .= sprintf('<span class="morph" title="%s">%s</span>', $use_logos ? label_lmac($morph, $rmac) : label_rmac($morph, $rmac), $morph);
+		$content .= sprintf('<span class="morph" title="%s"><a href="/strongs/G%d-%s.html">%s</a></span>', $morph_label, $strongs_number, $morph, $morph);
 	}
 	if ($show_greek) {
 		$content .= sprintf('<span class="greek">%s</span>', $greek);

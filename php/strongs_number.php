@@ -28,12 +28,17 @@ if ($use_logos) {
 
 
 $id = isset($_GET['id']) ? $_GET['id'] : null;
+$morph = isset($_GET['morph']) ? $_GET['morph'] : null;
 
 $langKey = $id[0];
 $lang = $langKey == 'G' ? 'greek' : 'hebbrew';
 $number = substr($id, 1);
 
 $title = sprintf('Strongs %s%d', $langKey, $number);
+if ($morph) {
+    $title .= " [$morph]";
+}
+
 $page_title = $title;
 $content = '';
 
@@ -92,7 +97,7 @@ if (isset($strongs[$lang][$number])) {
 <thead>
 <tr>
 	<th>Palabra</th>
-	<th>Morfología</th>
+	<th width="100">Morfología</th>
 	<th width="200">Traducción</th>
 	<th>Referencias</th>
 </tr>
@@ -117,6 +122,10 @@ if (isset($strongs[$lang][$number])) {
 
 		ksort($lines);
 		foreach ($lines as $key => $word) {
+
+			if ($morph && $morph != $word['morph']) {
+				continue;
+			}
 
 			$word_refs = '';
 			$current_book = '';
@@ -148,9 +157,11 @@ if (isset($strongs[$lang][$number])) {
 			}
 			$word_refs .= '</li>';
 
-			$content .= sprintf("\n\t<tr><td>%s</td><td><span title=\"%s\">%s</span></td><td>%s</td><td>%s</td></tr>", 
+			$content .= sprintf("\n\t<tr><td>%s</td><td><a title=\"%s\" href=\"/strongs/%s-%s.html\">%s</a></td><td>%s</td><td>%s</td></tr>", 
 				sprintf('<a href="http://www.perseus.tufts.edu/hopper/morph?l=%s" target="_blank">%s</a>', $word['word'], $word['word']),
 				$use_logos ? label_lmac($word['morph'], $rmac) : label_rmac($word['morph'], $rmac),
+				$langKey . $number,
+				$word['morph'],
 				$word['morph'],
 				$word['spa'],
 				'<ul class="refs">'.$word_refs.'</ul>'

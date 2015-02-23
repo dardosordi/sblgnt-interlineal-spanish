@@ -58,6 +58,12 @@ $(function() {
 		}
 	});
 
+    $('.strongs a, .morph a').click(function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        window.open(this.href);
+    });
+
 	$('.word').click(function (e) {
 		if (!e.ctrlKey) {
 			window.open($('.strongs a', this).attr('href'));
