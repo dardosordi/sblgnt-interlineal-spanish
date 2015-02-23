@@ -107,6 +107,8 @@ if (!empty($query)) {
 	$content .= sprintf('<div class="result">Se encontraron <b>%d</b> ocurrencias en <b>%d</b> versículos.</div>', $total_found, $total_verses);
 }
 
+$matching_strongs = array();
+
 $content .= '<div class="interlineal">';
 foreach($found as $ref => $item) {
 	list($count, $verse_data) = $item;
@@ -149,6 +151,7 @@ foreach($found as $ref => $item) {
 		$extra_class = $strongs_number ? ' G'.$strongs_number . ' ' . $morph : '';
 		if (!empty($word['match'])) {
 			$extra_class .= ' highlight';
+			$matching_strongs['G'.$strongs_number] = $strongs_number;
 		}
 		$content .= sprintf('<span class="block word%s">', $extra_class);
 		if ($show_strongs) {
@@ -173,6 +176,13 @@ foreach($found as $ref => $item) {
 }
 
 $content .= '</div>';
+
+foreach ($matching_strongs as $key => $value) {
+	$matching_strongs[$key] = $strongs['greek'][$value]['lemma'];
+}
+
+$content .= sprintf('<script type="text/javascript">var matching_strongs = %s;</script>', json_encode($matching_strongs));
+
 ?>
 <html>
 <head>

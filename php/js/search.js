@@ -102,18 +102,25 @@ $(function() {
         }
     }];
 
+    var matched_strongs = []
     $('.highlight').each(function(i, e) {
         var strongs = 'G' + $('.strongs', e).text();
-        if (categories2.indexOf(strongs) == -1) {
-            categories2.push(strongs);
+        if (matched_strongs.indexOf(strongs) == -1) {
+            matched_strongs.push(strongs);
         }
     });
 
-    categories2.sort(function(a, b) {
+    matched_strongs.sort(function(a, b) {
         return parseInt(a.substring(1)) > parseInt(b.substring(1));
     });
 
-    $(categories2).each(function(i, e) {
+    $(matched_strongs).each(function(i, e) {
+        var key = e;
+        if (typeof(matching_strongs[key]) != 'undefined') {
+            key = key + '<br>(<b>'+matching_strongs[key]+'</b>)';
+        }
+
+        categories2.push(key);
         series2[0].data.push($('.highlight.'+e).length);
     });
 
