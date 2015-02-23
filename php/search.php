@@ -155,7 +155,8 @@ foreach($found as $ref => $item) {
 			$content .= sprintf('<span class="strongs">%s</span>', $strongs_def);
 		}
 		if ($show_morph) {
-			$content .= sprintf('<span class="morph" title="%s">%s</span>', $use_logos ? label_lmac($morph, $rmac) : label_rmac($morph, $rmac), $morph);
+			$morph_label = $use_logos ? label_lmac($morph, $rmac) : label_rmac($morph, $rmac);
+			$content .= sprintf('<span class="morph" title="%s"><a href="/strongs/G%d-%s.html">%s</a></span>', $morph_label, $strongs_number, $morph, $morph);
 		}
 		if ($show_greek) {
 			$content .= sprintf('<span class="greek">%s</span>', $greek);
