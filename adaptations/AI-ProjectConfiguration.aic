@@ -1,5 +1,5 @@
 SourceFont
-Height	-18
+Height	-22
 Width	0
 Escapement	0
 Orientation	0
@@ -17,7 +17,7 @@ FaceName	Gentium Plus
 Color	16711680
 
 TargetFont
-Height	-16
+Height	-20
 Width	0
 Escapement	0
 Orientation	0
@@ -25,17 +25,17 @@ Weight	700
 Italic	0
 Underline	0
 StrikeOut	0
-FontEncoding	0
-CharSet	0
+FontEncoding	49
+CharSet	77
 OutPrecision	1
 ClipPrecision	2
 Quality	2
 PitchAndFamily	32
-FaceName	Sans
+FaceName	Lucida Grande
 Color	0
 
 NavTextFont
-Height	-14
+Height	-18
 Width	0
 Escapement	0
 Orientation	0
@@ -43,13 +43,13 @@ Weight	700
 Italic	0
 Underline	0
 StrikeOut	0
-FontEncoding	0
-CharSet	0
+FontEncoding	49
+CharSet	77
 OutPrecision	1
 ClipPrecision	2
 Quality	2
 PitchAndFamily	32
-FaceName	Sans
+FaceName	Lucida Grande
 Color	65280
 
 ProjectSettings
@@ -61,7 +61,7 @@ SourceLanguageCode	grc
 TargetLanguageCode	es
 GlossesLanguageCode	es
 FreeTranslationLanguageCode	es
-LastDocumentPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/67-1Co.xml
+LastDocumentPath	/Users/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/67-1Co.xml
 LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
 LastInterlinearRTFOutputPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/_INTERLINEAR_RTF_OUTPUTS
 LastSourceTextExportPath	
@@ -78,6 +78,7 @@ LastKBExportPath
 LastKBLIFTExportPath	
 FoldersProtectedFromNavigation	
 KeepPhraseBoxMidscreen	1
+ExtraPixelsForDiacritics	0
 Enable_ZWSP_Insertion	0
 PunctuationPairsSourceSet(stores space for an empty cell)	‘;.,·:"!()<>⟦⟧[]“”—’⸀⸁⸂⸄⸃⸅
 PunctuationPairsTargetSet(stores space for an empty cell)	‘?.,::"!()<>⟦⟧[]“”— ⸀⸁⸂⸄⸃⸅
@@ -107,6 +108,8 @@ CollabChapterSelected
 UseAdaptationsGuesser	1
 GuessingLevel	50
 AllowGuesseronUnchangedCCOutput	0
+GuesserMaxPrefixes(99 is 'no limit')	1
+GuesserMaxSuffixes(99 is 'no limit')	1
 RTL_Layout	0
 SFMafterNewlines	0
 SourceIsRTL	0
@@ -132,4 +135,4 @@ SilConverterNormalizeOutput	0
 LegacyCopyForPhraseBox	1
 DoAdaptingBeforeGlossing_InVerticalEdit	1
 UseSourceWordBreakFlag	1
-FreeTranslationUsesZWSPFlag	0
+ForceVerseSectioning	0
