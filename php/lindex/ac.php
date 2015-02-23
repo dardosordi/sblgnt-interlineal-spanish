@@ -35457,7 +35457,7 @@ $index['ac'][7][44][19] = array (
   'morph' => 'P',
 );
 $index['ac'][7][44][20] = array (
-  'spa' => 'el',
+  'spa' => 'la',
   'greek' => 'τὸν',
   'lemma' => 'ὁ',
   'translit' => 'ton',
@@ -35465,7 +35465,7 @@ $index['ac'][7][44][20] = array (
   'morph' => 'DASM',
 );
 $index['ac'][7][44][21] = array (
-  'spa' => 'modelo',
+  'spa' => 'figura',
   'greek' => 'τύπον',
   'lemma' => 'τύπος',
   'translit' => 'tupon',
@@ -35473,7 +35473,7 @@ $index['ac'][7][44][21] = array (
   'morph' => 'NASM',
 );
 $index['ac'][7][44][22] = array (
-  'spa' => 'el que',
+  'spa' => 'la que',
   'greek' => 'ὃν',
   'lemma' => 'ὅ',
   'translit' => 'hon',

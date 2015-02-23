@@ -63842,7 +63842,7 @@ $concordance['3588']['T-ASM'][] = array (
 );
 $concordance['3588']['T-ASM'][] = array (
   'word' => 'τὸν',
-  'spa' => 'el',
+  'spa' => 'la',
   'morph' => 'T-ASM',
   'ref' => 'ac 7:44',
 );
@@ -81728,7 +81728,7 @@ $concordance['3739']['R-ASM'][] = array (
 );
 $concordance['3739']['R-ASM'][] = array (
   'word' => 'ὃν',
-  'spa' => 'el que',
+  'spa' => 'la que',
   'morph' => 'R-ASM',
   'ref' => 'ac 7:44',
 );
@@ -105158,7 +105158,7 @@ $concordance['5179']['N-APM'][] = array (
 );
 $concordance['5179']['N-ASM'][] = array (
   'word' => 'τύπον',
-  'spa' => 'modelo',
+  'spa' => 'figura',
   'morph' => 'N-ASM',
   'ref' => 'ac 7:44',
 );
