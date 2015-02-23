@@ -50,9 +50,6 @@ if ($is_cli) {
 }
 
 $parsed_query = parse_query($query);
-if (empty($parsed_query)) {
-    die("Invalid query");
-}
 
 $found = array();
 $available_books = array();
@@ -70,7 +67,7 @@ foreach($books as $book => $book_data) {
 	}
 
 	$available_books[] = $book;
-	if (empty($query)) {
+	if (empty($parsed_query)) {
 		continue;
 	}
 
@@ -103,7 +100,11 @@ $title = $page_title = 'Buscar';
 
 $content = '';
 
-if (!empty($query)) {
+if (!empty($query) && empty($parsed_query)) {
+	$content .= sprintf('<div class="error">Invalid query: <b>%s<b></div>', htmlentities($query));
+}
+
+if (!empty($parsed_query)) {
 	$content .= sprintf('<div class="result">Se encontraron <b>%d</b> ocurrencias en <b>%d</b> versículos.</div>', $total_found, $total_verses);
 }
 
