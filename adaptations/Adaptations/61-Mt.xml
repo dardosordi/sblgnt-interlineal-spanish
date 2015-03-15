@@ -3,7 +3,7 @@
 	 Note: Using Microsoft WORD 2003 or later is not a good way to edit this xml file.
 	 Instead, use NotePad or WordPad. -->
 <AdaptItDoc>
-	<Settings docVersion="9" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="5259" sizex="1630" sizey="67348" ftsbp="1" specialcolor="255"
+	<Settings docVersion="9" bookName="" owner="****" commitcnt="****" revdate="" actseqnum="10011" sizex="1630" sizey="67348" ftsbp="1" specialcolor="255"
 	retranscolor="20640" navcolor="65280" curchap="23:" srcname="SBL GNT" tgtname="Español" srccode="grc" tgtcode="es"
 	others="@#@#:F:-1:0:\lit \_table_grid \_header \_intro_base \x \r \cp \_horiz_rule \ie \rem \_unknown_para_style \_normal_table \note \h1 \_heading_base \_hidden_note \_footnote_caller \_dft_para_font \va \_small_para_break \h3 \_footer \_vernacular_base \pro \xt \_notes_base \__normal \xdc \ide \mr \xq \_annotation_ref \_annotation_text \h2 \_peripherals_base \_gls_lang_interlinear \free \rq \_nav_lang_interlinear \_body_text \cl \xot \efm \bt \_unknown_char_style \_double_boxed_para \_hdr_ftr_interlinear \xk \_list_base \ib \xnt \fig \restore \_src_lang_interlinear \vp \_tgt_lang_interlinear \ef \ca \xo \_single_boxed_para \sts ::"/>
   <S s="ΚΑΤΑ" k="ΚΑΤΑ" t="Según" a="Según"
@@ -43010,7 +43010,7 @@
   f="0000000000000000000001" sn="10010" w="1" ty="1"
   swbk=" ">
   </S>
-  <S s="⸀πάσχει," k="πάσχει" t="⸀sufrir," a="sufrir"
+  <S s="⸀πάσχει," k="πάσχει" t="⸀sufre," a="sufre"
   f="0000000000000000000001" sn="10011" w="1" ty="1"
   pp="⸀" fp=","
   swbk=" ">
