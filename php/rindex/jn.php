@@ -59937,7 +59937,7 @@ $index['jn'][10][10][17] = array (
   'morph' => 'CONJ',
 );
 $index['jn'][10][10][18] = array (
-  'spa' => 'excedente',
+  'spa' => 'excedentemente',
   'greek' => 'περισσὸν',
   'lemma' => 'περισσός',
   'translit' => 'perisson',

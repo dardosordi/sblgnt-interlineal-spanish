@@ -78284,7 +78284,7 @@ $concordance['4052']['VAAI3P'][] = array (
 );
 $concordance['4053']['B'][] = array (
   'word' => 'περισσὸν',
-  'spa' => 'excedente',
+  'spa' => 'excedentemente',
   'morph' => 'B',
   'ref' => 'jn 10:10',
 );

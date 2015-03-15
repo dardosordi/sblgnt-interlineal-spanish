@@ -23756,7 +23756,7 @@ $concordance['1242']['NNSF'][] = array (
 );
 $concordance['1244']['VAAI3S'][] = array (
   'word' => 'διεῖλεν',
-  'spa' => 'dividió',
+  'spa' => 'repartió',
   'morph' => 'VAAI3S',
   'ref' => 'lk 15:12',
 );

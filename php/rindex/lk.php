@@ -99649,7 +99649,7 @@ $index['lk'][15][12][16] = array (
   'morph' => 'CONJ',
 );
 $index['lk'][15][12][17] = array (
-  'spa' => 'dividió',
+  'spa' => 'repartió',
   'greek' => 'διεῖλεν',
   'lemma' => 'διαιρέω',
   'translit' => 'dieilen',

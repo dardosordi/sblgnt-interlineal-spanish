@@ -91370,7 +91370,7 @@ $concordance['3958']['V-PAN'][] = array (
 );
 $concordance['3958']['V-PAN'][] = array (
   'word' => 'πάσχει',
-  'spa' => 'sufrir',
+  'spa' => 'sufre',
   'morph' => 'V-PAN',
   'ref' => 'mt 17:15',
 );

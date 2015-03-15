@@ -256,9 +256,9 @@ foreach($interlineal as $S) {
 
 		if (isset($apparatus[$book][$current_chapter][$current_verse])) {
 			$markers = array();
-			if (preg_match('#[⸀⸁⸂⸄⸃⸅]#u', $greek, $markers)) {
+			if (preg_match('#[⸀⸁⸂⸄⸃⸅][0-9]*#u', $greek, $markers)) {
 				$marker = $markers[0];
-				$open_note = preg_match('#[⸀⸁⸂⸄]#u', $greek);
+				$open_note = preg_match('#[⸀⸁⸂⸄][0-9]*#u', $greek);
 				if ($open_note) {
 					if (!isset($apparatus[$book][$current_chapter][$current_verse][$current_note])) {
 						echo ("<pre>[$book][$current_chapter][$current_verse][$current_note]</pre>");
@@ -278,7 +278,7 @@ foreach($interlineal as $S) {
 					$note = $verse_markers[$open_marker][2];
 				}
 
-				$greek = preg_replace('#([⸀⸁⸂⸄⸃⸅])#u', '<sup id="ref'.$use_note_id.'"><a href="#note'.$use_note_id.'" title="'.h($note).'">\1</a></sup>', $greek);
+				$greek = preg_replace('#([⸀⸁⸂⸄⸃⸅][0-9]*)#u', '<sup id="ref'.$use_note_id.'"><a href="#note'.$use_note_id.'" title="'.h($note).'">\1</a></sup>', $greek);
 			}
 		}
 

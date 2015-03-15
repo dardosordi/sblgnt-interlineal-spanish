@@ -22220,7 +22220,7 @@ $concordance['1325']['VPAI3S'][] = array (
 );
 $concordance['1325']['VPPI3S'][] = array (
   'word' => 'δίδοται',
-  'spa' => 'era dado',
+  'spa' => 'es dado',
   'morph' => 'VPPI3S',
   'ref' => 'ac 8:18',
 );

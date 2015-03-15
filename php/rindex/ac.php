@@ -39785,7 +39785,7 @@ $index['ac'][8][18][11] = array (
   'morph' => 'N-GPM',
 );
 $index['ac'][8][18][12] = array (
-  'spa' => 'era dado',
+  'spa' => 'es dado',
   'greek' => 'δίδοται',
   'lemma' => 'δίδωμι',
   'translit' => 'didotai',

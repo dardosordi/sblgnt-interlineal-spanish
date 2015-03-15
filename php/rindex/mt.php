@@ -80073,7 +80073,7 @@ $index['mt'][17][15][10] = array (
   'morph' => 'ADV',
 );
 $index['mt'][17][15][11] = array (
-  'spa' => '⸀sufrir,',
+  'spa' => '⸀sufre,',
   'greek' => '⸀πάσχει,',
   'lemma' => 'πάσχω',
   'translit' => 'paschei',
