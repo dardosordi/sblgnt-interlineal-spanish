@@ -30,7 +30,7 @@ CharSet	77
 OutPrecision	1
 ClipPrecision	2
 Quality	2
-PitchAndFamily	32
+PitchAndFamily	0
 FaceName	Lucida Grande
 Color	0
 
@@ -48,7 +48,7 @@ CharSet	77
 OutPrecision	1
 ClipPrecision	2
 Quality	2
-PitchAndFamily	32
+PitchAndFamily	0
 FaceName	Lucida Grande
 Color	65280
 
@@ -61,7 +61,7 @@ SourceLanguageCode	grc
 TargetLanguageCode	es
 GlossesLanguageCode	es
 FreeTranslationLanguageCode	es
-LastDocumentPath	/Users/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/67-1Co.xml
+LastDocumentPath	/Users/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/Adaptations/61-Mt.xml
 LastNewDocumentFolder	/home/dardo/php/interlineal/sblgnt-interlineal-spanish/books
 LastInterlinearRTFOutputPath	/home/dardo/Adapt It Unicode Work/SBL GNT to Español adaptations/_INTERLINEAR_RTF_OUTPUTS
 LastSourceTextExportPath	
@@ -80,10 +80,10 @@ FoldersProtectedFromNavigation
 KeepPhraseBoxMidscreen	1
 ExtraPixelsForDiacritics	0
 Enable_ZWSP_Insertion	0
-PunctuationPairsSourceSet(stores space for an empty cell)	‘;.,·:"!()<>⟦⟧[]“”—’⸀⸁⸂⸄⸃⸅
-PunctuationPairsTargetSet(stores space for an empty cell)	‘?.,::"!()<>⟦⟧[]“”— ⸀⸁⸂⸄⸃⸅
-PunctuationTwoCharacterPairsSourceSet(ditto)	
-PunctuationTwoCharacterPairsTargetSet(ditto)	
+PunctuationPairsSourceSet(stores space for an empty cell)	‘;.,·:"!1234⟦⟧[]“”—’⸀⸁⸂⸄⸃⸅
+PunctuationPairsTargetSet(stores space for an empty cell)	‘?.,::"!1234⟦⟧[]“”— ⸀⸁⸂⸄⸃⸅
+PunctuationTwoCharacterPairsSourceSet(ditto)	()<>
+PunctuationTwoCharacterPairsTargetSet(ditto)	()<>
 SpecialTextColor	255
 RetranslationTextColor	20640
 TargetDifferencesTextColor	2647107
