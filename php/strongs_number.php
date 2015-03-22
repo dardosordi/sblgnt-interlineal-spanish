@@ -63,7 +63,7 @@ if (isset($strongs[$lang][$number])) {
 	$lexicon['katabiblon'] = sprintf('http://lexicon.katabiblon.com/index.php?lemma=%s', urlencode($data['lemma']));
 	$lexicon['greek-dictionary'] = sprintf('http://www.teknia.com/greek-dictionary/%s', urlencode($translit));
 	$lexicon['studylight'] = sprintf('http://new.studylight.org/lex/grk/gwview.cgi?n=%s', $number);
-	$lexicon['biblestudytools'] = sprintf('http://www.biblestudytools.net/Lexicons/Greek/grk.cgi?search=%s&version=nas', $number);
+	$lexicon['biblestudytools'] = sprintf('http://www.biblestudytools.net/lexicons/greek/nas/%s.html', $translit);
 	$lexicon['logeion'] = sprintf('http://logeion.uchicago.edu/index.html#%s', urlencode($data['lemma']));
 	$lexicon['lmpg'] = sprintf('http://dge.cchs.csic.es/lmpg/%s', urlencode($data['lemma']));
 	$lexicon['greeklexicon'] = sprintf('http://greeklexicon.org/lexicon/strongs/%s/', urlencode($number));
