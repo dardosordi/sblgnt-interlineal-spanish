@@ -40628,7 +40628,7 @@ $concordance['5293']['VAPI3P'][] = array (
 );
 $concordance['5293']['VPPM3S'][] = array (
   'word' => 'ὑποτασσέσθω',
-  'spa' => 'sea sometida',
+  'spa' => 'sométase',
   'morph' => 'VPPM3S',
   'ref' => 'ro 13:1',
 );

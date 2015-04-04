@@ -43889,7 +43889,7 @@ $index['ro'][13][1][3] = array (
   'morph' => 'VPAP-PDF',
 );
 $index['ro'][13][1][4] = array (
-  'spa' => 'sea sometida,',
+  'spa' => 'sométase,',
   'greek' => 'ὑποτασσέσθω,',
   'lemma' => 'ὑποτάσσω',
   'translit' => 'hupotassesthō',
