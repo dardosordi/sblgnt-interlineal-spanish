@@ -19049,7 +19049,7 @@ $index['ro'][6][10][5] = array (
   'morph' => 'V-2AAI-3S',
 );
 $index['ro'][6][10][6] = array (
-  'spa' => 'una vez para siempre:',
+  'spa' => 'una sóla vez:',
   'greek' => 'ἐφάπαξ·',
   'lemma' => 'ἐφάπαξ',
   'translit' => 'ephapax',
@@ -44481,7 +44481,7 @@ $index['ro'][13][4][15] = array (
   'morph' => 'CONJ',
 );
 $index['ro'][13][4][16] = array (
-  'spa' => 'sín causa',
+  'spa' => 'en vano',
   'greek' => 'εἰκῇ',
   'lemma' => 'εὒκῇ',
   'translit' => 'eikēi',

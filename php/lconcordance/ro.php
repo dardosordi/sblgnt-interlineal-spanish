@@ -9944,7 +9944,7 @@ $concordance['1497']['NAPN'][] = array (
 );
 $concordance['1500']['B'][] = array (
   'word' => 'εἰκῇ',
-  'spa' => 'sín causa',
+  'spa' => 'en vano',
   'morph' => 'B',
   'ref' => 'ro 13:4',
 );
@@ -14894,7 +14894,7 @@ $concordance['2172']['VIUI1S'][] = array (
 );
 $concordance['2178']['B'][] = array (
   'word' => 'ἐφάπαξ',
-  'spa' => 'una vez para siempre',
+  'spa' => 'una sóla vez',
   'morph' => 'B',
   'ref' => 'ro 6:10',
 );

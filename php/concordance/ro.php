@@ -9944,7 +9944,7 @@ $concordance['1497']['N-APN'][] = array (
 );
 $concordance['1500']['ADV'][] = array (
   'word' => 'εἰκῇ',
-  'spa' => 'sín causa',
+  'spa' => 'en vano',
   'morph' => 'ADV',
   'ref' => 'ro 13:4',
 );
@@ -14894,7 +14894,7 @@ $concordance['2172']['V-IMI-1S'][] = array (
 );
 $concordance['2178']['ADV'][] = array (
   'word' => 'ἐφάπαξ',
-  'spa' => 'una vez para siempre',
+  'spa' => 'una sóla vez',
   'morph' => 'ADV',
   'ref' => 'ro 6:10',
 );
