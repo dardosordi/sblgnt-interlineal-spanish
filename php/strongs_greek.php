@@ -4331,7 +4331,7 @@ $strongs['greek']['4417'] = array ('derivation' => 'a form of G4098 (πίπτω
 $strongs['greek']['4418'] = array ('derivation' => 'of uncertain derivation;','lemma' => 'πτέρνα','kjv_def' => 'heel','strongs_def' => 'the heel (figuratively)',);
 $strongs['greek']['4419'] = array ('derivation' => 'neuter of a presumed derivative of G4420 (πτέρυξ);','lemma' => 'πτερύγιον','kjv_def' => 'pinnacle','strongs_def' => 'a winglet, i.e. (figuratively) extremity (top corner)',);
 $strongs['greek']['4420'] = array ('derivation' => 'from a derivative of G4072 (πέτομαι) (meaning a feather);','lemma' => 'πτέρυξ','kjv_def' => 'wing','strongs_def' => 'a wing',);
-$strongs['greek']['4421'] = array ('derivation' => 'contraction for G4071 (πετεινόν);','lemma' => 'πτηνόν','kjv_def' => 'bird','strongs_def' => 'a bird',);
+$strongs['greek']['4421'] = array ('derivation' => 'contraction for G4071 (πετεινόν);','lemma' => 'πτηνός','kjv_def' => 'bird','strongs_def' => 'a bird',);
 $strongs['greek']['4422'] = array ('derivation' => 'probably akin to the alternate of G4098 (πίπτω) (through the idea of causing to fall) or to G4072 (πέτομαι) (through that of causing to fly away);','lemma' => 'πτοέω','kjv_def' => 'frighten','strongs_def' => 'to scare',);
 $strongs['greek']['4423'] = array ('derivation' => 'from G4422 (πτοέω);','lemma' => 'πτόησις','kjv_def' => 'amazement','strongs_def' => 'alarm',);
 $strongs['greek']['4424'] = array ('derivation' => 'from (Ptolemy, after whom it was named);','lemma' => 'Πτολεμαΐς','kjv_def' => 'Ptolemais','strongs_def' => 'Ptolemais, a place in Palestine',);
